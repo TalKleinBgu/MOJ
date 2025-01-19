@@ -4,7 +4,7 @@ import joblib
 import os
 from matplotlib import pyplot as plt
 from sklearn.metrics import roc_auc_score, roc_curve
-
+import json
 
 def save_model(model, model_type, result_path, logger):
     model_file = f"{model_type}_model.pkl"
@@ -32,9 +32,40 @@ def plot_roc_curve(y_test, y_probs, output_path, extraction_type):
         plt.show()
 
 
+# def save_report(output_path, model_type, extraction_type, evaluation_metrics, confusion_matrix, auc_score):
+#     """
+#     Save evaluation report to a text file.
+#     :param output_path: Path where the report will be saved.
+#     :param model_type: Type of the model used.
+#     :param extraction_type: Type of feature extraction used.
+#     :param evaluation_metrics: Dictionary containing evaluation metrics.
+#     :param confusion_matrix: Confusion matrix.
+#     :param auc_score: AUC score.
+#     """
+#     # Create a report string
+#     report = f"Model Evaluation Report\n\n"
+#     report += f"Model Type: {model_type}\n"
+#     report += f"Extraction Type: {extraction_type}\n"
+#     report += f"=========================\n"
+#     for metric, value in evaluation_metrics.items():
+#         report += f"{metric}: {value}\n"
+#     report += f"=========================\n"
+#     report += f"Confusion Matrix:\n{confusion_matrix}\n"
+#     report += f"AUC Score: {auc_score}\n"
+
+#     # Save report to file
+#     save_path = os.path.join(output_path, model_type)
+#     os.makedirs(save_path, exist_ok=True)
+
+#     report_file_path = os.path.join(save_path, 'evaluation_report.txt')
+#     with open(report_file_path, 'w') as report_file:
+#         report_file.write(report)
+
+#     print("Evaluation report saved to:", report_file_path)
+
 def save_report(output_path, model_type, extraction_type, evaluation_metrics, confusion_matrix, auc_score):
     """
-    Save evaluation report to a text file.
+    Save evaluation report to a JSON file.
     :param output_path: Path where the report will be saved.
     :param model_type: Type of the model used.
     :param extraction_type: Type of feature extraction used.
@@ -42,26 +73,25 @@ def save_report(output_path, model_type, extraction_type, evaluation_metrics, co
     :param confusion_matrix: Confusion matrix.
     :param auc_score: AUC score.
     """
-    # Create a report string
-    report = f"Model Evaluation Report\n\n"
-    report += f"Model Type: {model_type}\n"
-    report += f"Extraction Type: {extraction_type}\n"
-    report += f"=========================\n"
-    for metric, value in evaluation_metrics.items():
-        report += f"{metric}: {value}\n"
-    report += f"=========================\n"
-    report += f"Confusion Matrix:\n{confusion_matrix}\n"
-    report += f"AUC Score: {auc_score}\n"
+    # Create a dictionary for the report
+    report = {
+        "Model Type": model_type,
+        "Extraction Type": extraction_type,
+        "Evaluation Metrics": evaluation_metrics,
+        "Confusion Matrix": confusion_matrix.tolist(),  # Convert NumPy array to list
+        "AUC Score": auc_score
+    }
 
-    # Save report to file
-    save_path = os.path.join(output_path, model_type)
+    # Save the report to a JSON file
+    save_path = output_path
     os.makedirs(save_path, exist_ok=True)
 
-    report_file_path = os.path.join(save_path, 'evaluation_report.txt')
+    report_file_path = os.path.join(save_path, 'evaluation_report.json')
     with open(report_file_path, 'w') as report_file:
-        report_file.write(report)
+        json.dump(report, report_file)
 
     print("Evaluation report saved to:", report_file_path)
+
     
     
 # Example function to read the prompt and substitute the placeholders
