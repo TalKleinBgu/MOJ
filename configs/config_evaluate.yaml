@@ -1,0 +1,25 @@
+# Method of evaluation.
+# - 'all': Evaluate using all available labels.
+# - 'custom': Evaluate using a custom set of labels (see 'sub_labels' below).
+evaluate_method: all
+
+# Method of evaluation models.
+# - 'best': Evaluate best models from fine tuning models.
+# - 'dates': Evaluate models from train models
+evaluate_models: dates
+
+# Specifies which labels and their model versions to use if 'evaluate_method' is set to 'custom'.
+sub_labels :
+  - reject: 2
+  - CONFESSION: 0
+
+# List of models to evaluate.
+# Set the respective model name to 'true' to include it in evaluation, 'false' to exclude.
+models_to_evaluate:
+  - t-few: false
+  - roberta: false
+  - setfit: true
+
+# The date of the model to be evaluated. It should be in 'YYYY-MM-DD' format.
+# If not set, the script will use the latest available model (all labels option) or the current date for versioning(costume labels option).
+models_date_evaluate: None

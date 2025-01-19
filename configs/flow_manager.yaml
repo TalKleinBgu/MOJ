@@ -1,0 +1,9 @@
+offline: 
+  initial_results_folder: False
+  preprocessing: False
+  train_sentence_cls: False
+  predict_sentence_cls: True
+  feature_extraction: True
+  feature_embedding: False
+  training_similarity_case: False
+  

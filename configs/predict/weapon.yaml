@@ -1,0 +1,28 @@
+experiment_name: '12_25_first_try'
+
+classifiers_path: /sise/home/tak/moj_models/{domain}/{experiment_name}
+eval_path : /home/tak/pred-sentencing/results/evaluations/{domain}/sentence_classification/{experiment_name}
+db_path: /home/tak/pred-sentencing/results/db/{domain}
+result_path: 'results'
+
+first_level_labels:
+  - PUNISHMENT
+  - GENERAL_CIRCUM
+  - reject
+  - CONFESSION
+  - REGRET
+
+  
+second_level_labels:
+  - CIR_TYPE
+  - CIR_AMOUNT
+  - CIR_ROLE
+  # - CIR_PREVENT
+  - CIR_PLANNING
+  # - CIR_HOLD_TIME
+  - CIR_HELD_WAY
+  - CIR_VALUE
+  # - CIR_BUYER
+  - RESPO
+  - CIR_PURPOSE
+  # - CIR_EQ

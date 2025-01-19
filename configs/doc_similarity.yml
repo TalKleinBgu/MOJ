@@ -1,0 +1,4 @@
+df_path: 'https://docs.google.com/spreadsheets/d/1MbNEfM2CCj8PFMiYVKm05WbfD3WeYOEftW4BunX0CG8/export?format=csv&gid=0'
+model_type: RF
+extraction_type: features_embd_manual
+output_dir_name: 'output_experience' 

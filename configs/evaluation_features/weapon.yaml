@@ -1,0 +1,6 @@
+ignore_columns : ['Unnamed: 0', 'מספר תיק.1', 'בריחה', 'הערות ומחשבות', 'מספר תיק', 'חותמת זמן', 'מתייג ', 'עבירות נוספות', 'עבר פלילי','OFFENCE_NUMBER', 'סוג עבירה', 'מספר תיק']
+db_path : /home/tak/pred-sentencing/results/db/weapon
+path_tagging_df : '/home/tak/pred-sentencing/resources/data/tagging/weapon/feature_extraction/manual_feature_extraction_2017_gt.csv'
+save_path : /home/tak/pred-sentencing/results/evaluations/weapon/features_extraction/
+result_path: 'results'
+is_organizing : True

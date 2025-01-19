@@ -1,0 +1,19 @@
+file_paths: results/sentence_generation/combained
+model_name: amberoad/bert-multilingual-passage-reranking-msmarco
+experimant_name: binary_label_conv_layer
+
+#amberoad/bert-multilingual-passage-reranking-msmarco
+#dicta-il/dictabert, 
+#HeRo, alephbert-base, dictalm-7b
+
+model_save_path: results/models/sentence_classification/trials/regular_nn
+
+classification_type: "binary"   # או "binary" "multi-label"
+perform_dropout: True
+use_conv_layers: True
+
+num_labels: 1
+num_epochs: 20
+batch_size: 16
+patience: 7
+learning_rate: 5e-5

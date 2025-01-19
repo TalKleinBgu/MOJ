@@ -1,0 +1,21 @@
+db_path: "/home/tak/pred-sentencing/results/db/{domain}"
+result_path: 'results'
+output_dir_name: 'ml_models'
+
+features_type: qa
+label_type: Tagged Label
+tagged_pairs_path: /home/tak/pred-sentencing/resources/data/tagging/{domain}/gt/similarity_paris.csv
+embeddding_features_path: results/embedding/fearture_regex_emb.xlsx
+create_more_data: False
+feature_from_tagged: False
+tagged_feature_extraction : /home/tak/pred-sentencing/resources/data/tagging/{domain}/gt/feature_extraction.xlsx
+predict_path: #/home/ezradin/pred-sentencing/predicts_similarity_cases_on_tagged.pkl
+type_task : train_case_sim
+
+models_type: LLM #['random_forest'] # on or more from this types - ['random_forest', 'logistic_regression', 'decision_tree', 'svm']
+loocv: False # Whether to use Leave-One-Out Cross-Validation (default: False)
+seed: 42
+prompt_path: resources/prompts/case_simlarity.txt
+
+api_key: ""   
+ignore_column : ['OFFENCE_NUMBER', 'מספר תיק', 'Unnamed: 0', 'מספר תיק.1', 'בריחה', 'הערות ומחשבות', 'מספר תיק', 'חותמת זמן', 'מתייג ', 'עבירות נוספות', 'עבר פלילי','CONFESSION', 'הודאה']

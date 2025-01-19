@@ -1,0 +1,4 @@
+result_path: results
+prediction_dfs: /home/tak/pred-sentencing/results/db/drugs
+output_path: /home/tak/pred-sentencing/results/evaluations/drugs/features_extraction
+metadata_path: /home/tak/pred-sentencing/resources/data/tagging/drugs/gt/one_defendant.csv

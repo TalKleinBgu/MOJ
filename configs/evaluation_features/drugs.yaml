@@ -1,0 +1,6 @@
+ignore_columns : ['חותמת זמן', 'שם המתייג','מספר תיק','שם קובץ התיק','ענש נלווה','עבירת סמים שלא הייתה ברשימה','עבירות נלוות כן/לא','מכירה לסוכן','הערות מחשבות', 'מתחם ענישה מאשימה (פרקליט)', 'מתחם ענישה בא כוח (סנגור)', 'מתחם ענישה שופט']
+db_path : /home/tak/pred-sentencing/results/db/drugs
+path_tagging_df : '/home/tak/pred-sentencing/resources/data/tagging/drugs/feature_extraction/manual_feature_extraction_gt.csv'
+save_path : /home/tak/pred-sentencing/results/evaluations/drugs/features_extraction
+result_path: 'results'
+is_organizing : True

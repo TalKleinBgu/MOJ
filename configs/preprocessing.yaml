@@ -1,0 +1,26 @@
+source_path_docx: 'resources/data/source'
+result_path: 'results'
+domain: 'drugs'
+prepare_to_tagging: False #Should I also produce a json file, in preparation for tagging later?
+
+# for json to csv
+source_path : '/home/tak/pred-sentencing/resources/data/tagging/{domain}/gt/gt_json'
+output_path: '/home/tak/pred-sentencing/resources/data/tagging/{domain}/gt/sentence_tagging.csv'
+labels:
+  - reject
+  - PUNISHMENT
+  - GENERAL_CIRCUM
+  - CONFESSION
+  - REGRET
+  - CIR_TYPE
+  - CIR_AMOUNT
+  - CIR_ROLE
+  - CIR_PREVENT
+  - CIR_PLANNING
+  - CIR_HOLD_TIME
+  - CIR_HELD_WAY
+  - CIR_VALUE
+  - CIR_BUYER
+  - RESPO
+  - CIR_PURPOSE
+  - CIR_EQ

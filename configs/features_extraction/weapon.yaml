@@ -1,0 +1,11 @@
+experimant_name: 'pipline_experiment'
+domain: 'weapon'
+result_path: 'results'
+
+model_name:  dicta-il/dictalm2.0-instruct  # model name for Q&A model - ['tdklab/hebert-finetuned-hebrew-squad', 'claude', 'dicta-il/dictabert-heq', 'dicta-il/dictalm2.0-instruct', 'CohereForAI/c4ai-command-r-v01-4bit']
+qa_extraction_flag: True             # True if you want to extract by QA method
+regex_extraction_flag: false
+api_key: ""        # True if you want to extract by regex method
+db_flow: True
+db_path : /home/tak/pred-sentencing/results/db/{domain}
+save_path: /home/tak/pred-sentencing/results/evaluations/feature_extraction
