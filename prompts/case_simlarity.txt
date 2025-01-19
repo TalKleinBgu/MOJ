@@ -1,0 +1,29 @@
+To determine their similarity, you are tasked with comparing two law cases based on their property vectors. Your goal is to analyze the characteristics of each case, identify similarities and differences, and provide a reasoned assessment of how similar the cases are in general.
+The purpose of similarity is to help the lawyer determine whether the cases are similar and whether punishment can be based on them.
+Here are the property vectors for the two cases:
+
+Case 1 Properties:
+<case1_properties>
+{{CASE1_PROPERTIES}}
+</case1_properties>
+
+Case 2 Properties:
+<case2_properties>
+{{CASE2_PROPERTIES}}
+</case2_properties>
+
+
+Based on your analysis, determine if the cases are similar or not.
+
+Present your response in the following format:
+<analysis>
+[Your detailed analysis of similarities and differences]
+</analysis>
+
+<similarity_score>
+[Your similarity score is 0 or 1]
+</similarity_score>
+
+<justification>
+[A brief justification for your similarity score]
+</justification>
