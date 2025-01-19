@@ -1,0 +1,2 @@
+2024-12-25 13:03:27 - INFO - The feature extraction started with the # Q&A #
+2024-12-25 13:04:19 - INFO - preprocessing.csv des'nt exist in drugs folder case

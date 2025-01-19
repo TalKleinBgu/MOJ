@@ -1,0 +1,21 @@
+2025-01-01 13:17:04 - INFO - The feature extraction started with the # Q&A #
+2025-01-01 13:17:04 - INFO - preprocessing.csv des'nt exist in drugs folder case
+2025-01-01 13:18:03 - INFO - The feature extraction started with the # Q&A #
+2025-01-01 13:18:03 - INFO - preprocessing.csv des'nt exist in drugs folder case
+2025-01-01 13:19:16 - INFO - The feature extraction started with the # Q&A #
+2025-01-01 13:19:16 - INFO - preprocessing.csv des'nt exist in drugs folder case
+2025-01-01 13:21:07 - INFO - The feature extraction started with the # Q&A #
+2025-01-01 13:21:07 - INFO - preprocessing.csv des'nt exist in drugs folder case
+2025-01-01 13:21:17 - INFO - Finish to feature extraction ME-22-12-47987-640 case!!
+2025-01-01 13:21:27 - INFO - Finish to feature extraction ME-23-01-53640-602 case!!
+2025-01-01 13:21:35 - INFO - Finish to feature extraction ME-23-05-49875-541 case!!
+2025-01-01 13:21:46 - INFO - Finish to feature extraction ME-23-05-52567-993 case!!
+2025-01-01 13:21:50 - INFO - Finish to feature extraction ME-23-06-15727-546 case!!
+2025-01-01 13:21:54 - INFO - Finish to feature extraction SH-17-10-12320-80 case!!
+2025-01-01 13:21:57 - INFO - Finish to feature extraction SH-19-02-58269-573 case!!
+2025-01-01 13:22:09 - INFO - Finish to feature extraction SH-19-03-50607-561 case!!
+2025-01-01 13:22:18 - INFO - Finish to feature extraction SH-19-05-41247-961 case!!
+2025-01-01 13:28:42 - INFO - The feature extraction started with the # Q&A #
+2025-01-01 13:28:42 - INFO - preprocessing.csv des'nt exist in drugs folder case
+2025-01-01 13:29:00 - INFO - Finish to feature extraction ME-22-12-47987-640 case!!
+2025-01-01 13:29:17 - INFO - Finish to feature extraction ME-23-01-53640-602 case!!

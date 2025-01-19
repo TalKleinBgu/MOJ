@@ -1,0 +1,112 @@
+2024-09-16 11:11:37 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-09-16 11:11:37 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-09-16_qa_ml_models/train_case_sim.csv
+2024-09-16 11:11:48 - INFO - Start to train logistic_regression case similarity model!
+2024-09-16 11:11:48 - INFO - Save logistic_regression model in results/evaluations/case_similarity/2024-09-16_ml_models/logistic_regression_model.pkl!
+2024-09-16 11:12:05 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-09-16 11:12:05 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-09-16_qa_ml_models/train_case_sim.csv
+2024-09-16 11:12:11 - INFO - Start to train logistic_regression case similarity model!
+2024-09-16 11:12:11 - INFO - Save logistic_regression model in results/evaluations/case_similarity/2024-09-16_ml_models/logistic_regression_model.pkl!
+2024-09-16 11:15:14 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-09-16 11:15:14 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-09-16_qa_ml_models/train_case_sim.csv
+2024-09-16 11:15:14 - INFO - Start to train logistic_regression case similarity model!
+2024-09-16 11:15:14 - INFO - Save logistic_regression model in results/evaluations/case_similarity/2024-09-16_ml_models/logistic_regression_model.pkl!
+2024-09-16 11:15:57 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-09-16 11:15:57 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-09-16_qa_ml_models/train_case_sim.csv
+2024-09-16 11:15:57 - INFO - Start to train logistic_regression case similarity model!
+2024-09-16 11:15:57 - INFO - Save logistic_regression model in results/evaluations/case_similarity/2024-09-16_ml_models/logistic_regression_model.pkl!
+2024-09-16 11:17:41 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-09-16 11:17:41 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-09-16_qa_ml_models/train_case_sim.csv
+2024-09-16 11:17:41 - INFO - Start to train logistic_regression case similarity model!
+2024-09-16 11:17:41 - INFO - Save logistic_regression model in results/evaluations/case_similarity/2024-09-16_ml_models/logistic_regression_model.pkl!
+2024-09-16 11:18:09 - INFO - Accuracy: 0.757
+2024-09-16 11:18:11 - INFO - Precision: 0.758
+2024-09-16 11:18:12 - INFO - Recall: 0.757
+2024-09-16 11:18:13 - INFO - F1: 0.752
+2024-09-16 11:18:20 - INFO - PR AUC: 0.735
+2024-09-16 11:18:20 - INFO - Confusion Matrix:
+[[18  3]
+ [ 6 10]]
+2024-09-16 11:18:20 - INFO - Start to train decision_tree case similarity model!
+2024-09-16 11:18:20 - INFO - Save decision_tree model in results/evaluations/case_similarity/2024-09-16_ml_models/decision_tree_model.pkl!
+2024-09-16 11:19:00 - INFO - Accuracy: 0.73
+2024-09-16 11:19:00 - INFO - Precision: 0.73
+2024-09-16 11:19:00 - INFO - Recall: 0.73
+2024-09-16 11:19:00 - INFO - F1: 0.73
+2024-09-16 11:19:00 - INFO - PR AUC: 0.755
+2024-09-16 11:19:00 - INFO - Confusion Matrix:
+[[16  5]
+ [ 5 11]]
+2024-09-16 11:19:00 - INFO - Start to train svm case similarity model!
+2024-09-16 11:19:00 - INFO - Save svm model in results/evaluations/case_similarity/2024-09-16_ml_models/svm_model.pkl!
+2024-09-16 11:19:00 - INFO - Accuracy: 0.541
+2024-09-16 11:19:00 - INFO - Precision: 0.315
+2024-09-16 11:19:00 - INFO - Recall: 0.541
+2024-09-16 11:19:00 - INFO - F1: 0.398
+2024-09-16 11:19:00 - INFO - PR AUC: 0.66
+2024-09-16 11:19:00 - INFO - Confusion Matrix:
+[[20  1]
+ [16  0]]
+2024-09-16 11:51:20 - ERROR - 0520-07-17 isn't exist in DB!
+2024-09-16 11:51:20 - ERROR - 0398-09-16 isn't exist in DB!
+2024-09-16 11:51:20 - ERROR - 0633-05-17 isn't exist in DB!
+2024-09-16 11:51:20 - ERROR - 0336-05-16 isn't exist in DB!
+2024-09-16 11:51:20 - ERROR - 0398-09-16 isn't exist in DB!
+2024-09-16 11:51:21 - ERROR - 0613-04-17 isn't exist in DB!
+2024-09-16 11:51:21 - ERROR - 0613-04-17 isn't exist in DB!
+2024-09-16 11:51:21 - ERROR - m01008097-376 isn't exist in DB!
+2024-09-16 11:51:21 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-09-16 11:51:21 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-09-16_qa_ml_models/train_case_sim.csv
+2024-09-16 11:51:31 - INFO - Start to train logistic_regression case similarity model!
+2024-09-16 11:51:33 - INFO - Save logistic_regression model in results/evaluations/case_similarity/2024-09-16_ml_models/logistic_regression_model.pkl!
+2024-09-16 11:51:34 - INFO - Accuracy: 0.541
+2024-09-16 11:51:34 - INFO - Precision: 0.634
+2024-09-16 11:51:34 - INFO - Recall: 0.541
+2024-09-16 11:51:34 - INFO - F1: 0.504
+2024-09-16 11:51:34 - INFO - PR AUC: 0.591
+2024-09-16 11:51:34 - INFO - Confusion Matrix:
+[[ 6 15]
+ [ 2 14]]
+2024-09-16 11:51:46 - INFO - Start to train decision_tree case similarity model!
+2024-09-16 11:51:46 - INFO - Save decision_tree model in results/evaluations/case_similarity/2024-09-16_ml_models/decision_tree_model.pkl!
+2024-09-16 11:51:46 - INFO - Accuracy: 0.432
+2024-09-16 11:51:47 - INFO - Precision: 0.187
+2024-09-16 11:51:47 - INFO - Recall: 0.432
+2024-09-16 11:51:47 - INFO - F1: 0.261
+2024-09-16 11:51:47 - INFO - PR AUC: 0.58
+2024-09-16 11:51:47 - INFO - Confusion Matrix:
+[[ 0 21]
+ [ 0 16]]
+2024-09-16 11:51:47 - INFO - Start to train svm case similarity model!
+2024-09-16 11:51:47 - INFO - Save svm model in results/evaluations/case_similarity/2024-09-16_ml_models/svm_model.pkl!
+2024-09-16 11:51:47 - INFO - Accuracy: 0.405
+2024-09-16 11:51:47 - INFO - Precision: 0.275
+2024-09-16 11:51:47 - INFO - Recall: 0.405
+2024-09-16 11:51:47 - INFO - F1: 0.327
+2024-09-16 11:51:47 - INFO - PR AUC: 0.368
+2024-09-16 11:51:47 - INFO - Confusion Matrix:
+[[15  6]
+ [16  0]]
+2024-09-16 15:11:13 - ERROR - 0520-07-17 isn't exist in DB!
+2024-09-16 15:11:14 - ERROR - 0398-09-16 isn't exist in DB!
+2024-09-16 15:11:14 - ERROR - 0633-05-17 isn't exist in DB!
+2024-09-16 15:11:14 - ERROR - 0336-05-16 isn't exist in DB!
+2024-09-16 15:11:14 - ERROR - 0398-09-16 isn't exist in DB!
+2024-09-16 15:11:14 - ERROR - 0613-04-17 isn't exist in DB!
+2024-09-16 15:11:14 - ERROR - 0613-04-17 isn't exist in DB!
+2024-09-16 15:11:14 - ERROR - m01008097-376 isn't exist in DB!
+2024-09-16 15:11:14 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-09-16 15:11:14 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-09-16_qa_ml_models/train_case_sim.csv
+2024-09-16 15:11:42 - ERROR - 0520-07-17 isn't exist in DB!
+2024-09-16 15:11:42 - ERROR - 0398-09-16 isn't exist in DB!
+2024-09-16 15:11:42 - ERROR - 0633-05-17 isn't exist in DB!
+2024-09-16 15:11:42 - ERROR - 0336-05-16 isn't exist in DB!
+2024-09-16 15:11:42 - ERROR - 0398-09-16 isn't exist in DB!
+2024-09-16 15:11:42 - ERROR - 0613-04-17 isn't exist in DB!
+2024-09-16 15:11:42 - ERROR - 0613-04-17 isn't exist in DB!
+2024-09-16 15:11:42 - ERROR - m01008097-376 isn't exist in DB!
+2024-09-16 15:11:42 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-09-16 15:11:42 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-09-16_qa_ml_models/train_case_sim.csv
+2024-09-16 15:13:35 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-09-16 15:13:35 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-09-16_qa_ml_models/train_case_sim.csv
+2024-09-16 15:14:36 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-09-16 15:14:36 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-09-16_qa_ml_models/train_case_sim.csv

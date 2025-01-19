@@ -1,0 +1,31 @@
+Mean agreement for הודאה: 0.98
+Mean agreement for מספר עבירה: 0.985
+Mean agreement for סוג העבירה: 0.989
+Mean agreement for סוג הנשק [תת מקלע]: 0.9
+Mean agreement for עבר פלילי: 0.98
+Mean agreement for אופן קבלת הנשק: 0.833
+Mean agreement for סטטוס הנשק: 0.936
+Mean agreement for חרטה: 0.98
+Mean agreement for מכירה לסוכן: 1.0
+Mean agreement for כמות תחמושת: 0.824
+Mean agreement for אופן החזקת הנשק: 0.946
+Mean agreement for תכנון: 0.95
+Mean agreement for שימוש: 0.98
+Mean agreement for נזק: 0.934
+Mean agreement for בריחה
+מרדף: 0.95
+Mean agreement for עונש: 0.929
+Mean agreement for סוג הנשק [אקדח]: 1.0
+Mean agreement for מתחם ענישה - מאשימה : 0.957
+Mean agreement for מתחם ענישה - שופט : 0.955
+Mean agreement for סוג הנשק [רובה סער ]: 0.9
+Mean agreement for סוג הנשק [תת מקלע מאולתר]: 0.926
+Mean agreement for עבירות נוספות: 0.574
+Mean agreement for מטרה-סיבת העבירה: 0.909
+Mean agreement for כסף ששולם: 0.9
+Mean agreement for סוג הנשק [רימון הלם/גז]: 0.833
+Mean agreement for סוג הנשק - אם לא נמצא בטבלה: 0.8
+Mean agreement for סוג הנשק [רובה צייד]: 0.667
+Mean agreement for סוג הנשק [טיל מטאדור]: 1.0
+Mean agreement for סוג הנשק [רימון רסס]: 1.0
+Mean agreement for סוג הנשק [רובה סער מאולתר]: 1.0

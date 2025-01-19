@@ -1,0 +1,7 @@
+{"REJECT": {"Precision": 0.925, "Recall": 0.9, "F1 Score": 0.91, "AUC-PR": 0.949, "Cases Count": 62, "Amount True Labels": 4602, "Sentence Count": 4472}}
+{"PUNISHMENT": {"Precision": 0.359, "Recall": 0.397, "F1 Score": 0.364, "AUC-PR": 0.671, "Cases Count": 62, "Amount True Labels": 113, "Sentence Count": 265}}
+{"GENERAL_CIRCUM": {"Precision": 0.747, "Recall": 0.887, "F1 Score": 0.798, "AUC-PR": 0.846, "Cases Count": 62, "Amount True Labels": 1144, "Sentence Count": 1374}}
+{"CIR_TYPE": {"Precision": 0.798, "Recall": 0.92, "F1 Score": 0.833, "AUC-PR": 0.89, "Cases Count": 62, "Amount True Labels": 435, "Sentence Count": 506}}
+{"CIR_AMOUNT": {"Precision": 0.839, "Recall": 0.934, "F1 Score": 0.877, "AUC-PR": 0.945, "Cases Count": 62, "Amount True Labels": 358, "Sentence Count": 403}}
+{"CIR_ROLE": {"Precision": 0.187, "Recall": 0.225, "F1 Score": 0.189, "AUC-PR": 0.493, "Cases Count": 62, "Amount True Labels": 62, "Sentence Count": 126}}
+{"CIR_EQ": {"Precision": 0.038, "Recall": 0.041, "F1 Score": 0.037, "AUC-PR": 0.49, "Cases Count": 62, "Amount True Labels": 23, "Sentence Count": 32}}

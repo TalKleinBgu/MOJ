@@ -1,0 +1,39 @@
+2024-07-18 14:18:46 - INFO - 
+Train start, data is taken from resources/data/tagging/sentence_classfication/test/GT.xlsx
+2024-07-18 14:19:08 - INFO - Starting setfit training for labels: ['CIR_MONEY_PAID_WEP']
+2024-07-18 14:20:05 - INFO - ֿ
+Start to train CIR_MONEY_PAID_WEP classifier
+
+2024-07-18 14:46:07 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/results/sentence_generation/combained/dfs
+2024-07-18 14:46:07 - INFO - Starting setfit training for labels: ['CIR_MONEY_PAID_WEP']
+2024-07-18 14:47:43 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/results/sentence_generation/combained/dfs
+2024-07-18 14:48:18 - INFO - Starting setfit training for labels: ['CIR_MONEY_PAID_WEP']
+2024-07-18 14:53:09 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/results/sentence_generation/combained/dfs
+2024-07-18 14:53:09 - INFO - Starting setfit training for labels: ['CIR_MONEY_PAID_WEP']
+2024-07-18 14:55:47 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/results/sentence_generation/combained/dfs
+2024-07-18 14:55:47 - INFO - Starting setfit training for labels: ['CIR_MONEY_PAID_WEP']
+2024-07-18 14:57:36 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/results/sentence_generation/combained/dfs
+2024-07-18 14:57:36 - INFO - Starting setfit training for labels: ['CIR_MONEY_PAID_WEP']
+2024-07-18 14:59:45 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/results/sentence_generation/combained/dfs
+2024-07-18 14:59:45 - INFO - Starting setfit training for labels: ['CIR_MONEY_PAID_WEP']
+2024-07-18 15:00:14 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/results/sentence_generation/combained/dfs
+2024-07-18 15:00:14 - INFO - Starting setfit training for labels: ['CIR_MONEY_PAID_WEP']
+2024-07-18 15:10:49 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/results/sentence_generation/combained/dfs
+2024-07-18 15:10:49 - INFO - Starting setfit training for labels: ['CIR_MONEY_PAID_WEP']
+2024-07-18 15:16:07 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/results/sentence_generation/combained/dfs
+2024-07-18 15:16:07 - INFO - Starting setfit training for labels: ['CIR_MONEY_PAID_WEP']
+2024-07-18 15:24:08 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/results/sentence_generation/combained/dfs
+2024-07-18 15:24:08 - INFO - Starting setfit training for labels: ['CIR_MONEY_PAID_WEP']
+2024-07-18 16:18:13 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/results/sentence_generation/combained/dfs
+2024-07-18 16:18:13 - INFO - Starting setfit training for labels: ['CIR_MONEY_PAID_WEP']

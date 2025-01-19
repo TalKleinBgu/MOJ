@@ -1,0 +1,72 @@
+2024-12-25 12:37:36 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/drugs/12cases_in_train
+2024-12-25 12:37:36 - INFO - Starting training for label: PUNISHMENT
+2024-12-25 12:37:36 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-25 12:38:24 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/drugs/12cases_in_train
+2024-12-25 12:38:24 - INFO - Starting training for label: PUNISHMENT
+2024-12-25 12:38:24 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-25 12:43:11 - INFO - Metrics for PUNISHMENT with model dicta-il/dictabert: {'accuracy': 0.9909851899549259, 'precision': 0.8979591836734694, 'recall': 0.8301886792452831, 'f1': 0.8627450980392157, 'PRAUC': 0.8557103050171928, 'best_threshold': 0.9969289898872375}
+2024-12-25 12:43:14 - INFO - Starting training for label: GENERAL_CIRCUM
+2024-12-25 12:43:14 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-25 12:46:52 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/drugs/12cases_in_train
+2024-12-25 12:46:52 - INFO - Starting training for label: PUNISHMENT
+2024-12-25 12:46:52 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-25 12:52:01 - INFO - Metrics for PUNISHMENT with model dicta-il/dictabert: {'accuracy': 0.9896973599484868, 'precision': 0.8490566037735849, 'recall': 0.8490566037735849, 'f1': 0.8490566037735849, 'PRAUC': 0.884829577955543, 'best_threshold': 0.9978049397468567}
+2024-12-25 12:52:05 - INFO - Starting training for label: GENERAL_CIRCUM
+2024-12-25 12:52:05 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-25 12:59:03 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/drugs/12cases_in_train
+2024-12-25 12:59:03 - INFO - Starting training for label: PUNISHMENT
+2024-12-25 12:59:03 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-25 13:04:08 - INFO - Metrics for PUNISHMENT with model dicta-il/dictabert: {'accuracy': 0.9896973599484868, 'precision': 0.8775510204081632, 'recall': 0.8113207547169812, 'f1': 0.8431372549019608, 'PRAUC': 0.8827639948124358, 'best_threshold': 0.9976446032524109}
+2024-12-25 13:04:10 - INFO - Starting training for label: GENERAL_CIRCUM
+2024-12-25 13:04:11 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-25 13:45:15 - INFO - Metrics for GENERAL_CIRCUM with model dicta-il/dictabert: {'accuracy': 0.8776561493882807, 'precision': 0.5989583333333334, 'recall': 0.8646616541353384, 'f1': 0.7076923076923077, 'PRAUC': 0.7303494606601281, 'best_threshold': 0.9999676942825317}
+2024-12-25 13:45:18 - INFO - Starting training for label: reject
+2024-12-25 13:45:18 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-25 16:26:58 - INFO - Metrics for reject with model dicta-il/dictabert: {'accuracy': 0.8428847392144238, 'precision': 0.8877654196157735, 'recall': 0.8684470820969338, 'f1': 0.878, 'PRAUC': 0.9039888040544655, 'best_threshold': 4.3281215766910464e-05}
+2024-12-25 16:27:01 - INFO - Starting training for label: CONFESSION
+2024-12-25 16:27:01 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-25 16:32:16 - INFO - Metrics for CONFESSION with model dicta-il/dictabert: {'accuracy': 0.9871216999356085, 'precision': 0.7758620689655172, 'recall': 0.8653846153846154, 'f1': 0.8181818181818182, 'PRAUC': 0.864357660586914, 'best_threshold': 0.9891726970672607}
+2024-12-25 16:32:19 - INFO - Starting training for label: REGRET
+2024-12-25 16:32:19 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-25 16:35:53 - INFO - Metrics for REGRET with model dicta-il/dictabert: {'accuracy': 0.9890534449452673, 'precision': 0.5625, 'recall': 0.47368421052631576, 'f1': 0.5142857142857142, 'PRAUC': 0.3820815863188694, 'best_threshold': 0.9643617868423462}
+2024-12-25 16:35:56 - INFO - Starting training for label: CIR_TYPE
+2024-12-25 16:35:56 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-25 16:43:48 - INFO - Metrics for CIR_TYPE with model dicta-il/dictabert: {'accuracy': 0.9871216999356085, 'precision': 0.8791208791208791, 'recall': 0.898876404494382, 'f1': 0.8888888888888888, 'PRAUC': 0.8630478187105187, 'best_threshold': 0.9998617172241211}
+2024-12-25 16:43:51 - INFO - Starting training for label: CIR_AMOUNT
+2024-12-25 16:43:51 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-25 16:50:24 - INFO - Metrics for CIR_AMOUNT with model dicta-il/dictabert: {'accuracy': 0.9896973599484868, 'precision': 0.8292682926829268, 'recall': 0.9714285714285714, 'f1': 0.8947368421052632, 'PRAUC': 0.8996279972675747, 'best_threshold': 0.9984754920005798}
+2024-12-25 16:50:27 - INFO - Starting training for label: CIR_ROLE
+2024-12-25 16:50:27 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-25 16:54:23 - INFO - Metrics for CIR_ROLE with model dicta-il/dictabert: {'accuracy': 0.9935608499678042, 'precision': 0.4, 'recall': 0.2222222222222222, 'f1': 0.2857142857142857, 'PRAUC': 0.19132354286646805, 'best_threshold': 0.9697167277336121}
+2024-12-25 16:54:26 - INFO - Starting training for label: CIR_PREVENT
+2024-12-25 16:54:26 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-25 16:54:27 - ERROR - Error in label CIR_PREVENT: list index out of range
+2024-12-25 16:54:27 - INFO - Starting training for label: CIR_PLANNING
+2024-12-25 16:54:27 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-25 16:57:59 - INFO - Metrics for CIR_PLANNING with model dicta-il/dictabert: {'accuracy': 0.9806825499034127, 'precision': 0.4594594594594595, 'recall': 0.6296296296296297, 'f1': 0.53125, 'PRAUC': 0.3524175991672414, 'best_threshold': 0.691326916217804}
+2024-12-25 16:58:02 - INFO - Starting training for label: CIR_HOLD_TIME
+2024-12-25 16:58:02 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-25 16:58:03 - ERROR - Error in label CIR_HOLD_TIME: list index out of range
+2024-12-25 16:58:03 - INFO - Starting training for label: CIR_HELD_WAY
+2024-12-25 16:58:03 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-25 17:02:04 - INFO - Metrics for CIR_HELD_WAY with model dicta-il/dictabert: {'accuracy': 0.9826142949130715, 'precision': 0.3870967741935484, 'recall': 0.6, 'f1': 0.47058823529411764, 'PRAUC': 0.33287106047588294, 'best_threshold': 0.9740161299705505}
+2024-12-25 17:02:07 - INFO - Starting training for label: CIR_VALUE
+2024-12-25 17:02:07 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-25 17:06:17 - INFO - Metrics for CIR_VALUE with model dicta-il/dictabert: {'accuracy': 0.9929169349645847, 'precision': 0.9074074074074074, 'recall': 0.8909090909090909, 'f1': 0.8990825688073395, 'PRAUC': 0.926198330868838, 'best_threshold': 0.9653475880622864}
+2024-12-25 17:06:19 - INFO - Starting training for label: CIR_BUYER
+2024-12-25 17:06:19 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-25 17:06:33 - ERROR - Error in label CIR_BUYER: list index out of range
+2024-12-25 17:06:33 - INFO - Starting training for label: RESPO
+2024-12-25 17:06:33 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-25 17:10:46 - INFO - Metrics for RESPO with model dicta-il/dictabert: {'accuracy': 0.9890534449452673, 'precision': 0.6551724137931034, 'recall': 0.7307692307692307, 'f1': 0.6909090909090909, 'PRAUC': 0.7945929081442596, 'best_threshold': 0.9961966276168823}
+2024-12-25 17:10:51 - INFO - Starting training for label: CIR_PURPOSE
+2024-12-25 17:10:51 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-25 17:15:37 - INFO - Metrics for CIR_PURPOSE with model dicta-il/dictabert: {'accuracy': 0.9781068898905344, 'precision': 0.5869565217391305, 'recall': 0.6428571428571429, 'f1': 0.6136363636363636, 'PRAUC': 0.6259257651535943, 'best_threshold': 0.9971221089363098}
+2024-12-25 17:15:40 - INFO - Starting training for label: CIR_EQ
+2024-12-25 17:15:40 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-25 17:15:42 - ERROR - Error in label CIR_EQ: list index out of range
+2024-12-25 17:15:42 - INFO - setfit training finished.

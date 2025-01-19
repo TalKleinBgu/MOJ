@@ -1,0 +1,103 @@
+2024-09-15 14:48:03 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-09-15 14:48:03 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-09-15_qa_manual_tagging_claude/train_case_sim.csv
+2024-09-15 14:48:05 - INFO - Accuracy: 0.696
+2024-09-15 14:48:05 - INFO - Precision: 0.783
+2024-09-15 14:48:05 - INFO - Recall: 0.696
+2024-09-15 14:48:05 - INFO - F1: 0.65
+2024-09-15 14:48:05 - INFO - Confusion Matrix:
+[[83  1]
+ [44 20]]
+2024-09-15 16:06:36 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-09-15 16:06:36 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-09-15_qa_manual_tagging_claude/train_case_sim.csv
+2024-09-15 16:10:01 - INFO - Start to train logistic_regression case similarity model using LOOCV!
+2024-09-15 16:10:36 - INFO - Accuracy: 0.804
+2024-09-15 16:10:36 - INFO - Precision: 0.805
+2024-09-15 16:10:36 - INFO - Recall: 0.804
+2024-09-15 16:10:36 - INFO - F1: 0.802
+2024-09-15 16:10:36 - INFO - PR AUC: 0.811
+2024-09-15 16:10:36 - INFO - Confusion Matrix:
+[[74 10]
+ [19 45]]
+2024-09-15 16:12:16 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-09-15 16:12:16 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-09-15_qa_ml_models/train_case_sim.csv
+2024-09-15 16:13:02 - INFO - Start to train logistic_regression case similarity model using LOOCV!
+2024-09-15 16:13:03 - INFO - Accuracy: 0.804
+2024-09-15 16:13:03 - INFO - Precision: 0.805
+2024-09-15 16:13:03 - INFO - Recall: 0.804
+2024-09-15 16:13:03 - INFO - F1: 0.802
+2024-09-15 16:13:03 - INFO - PR AUC: 0.811
+2024-09-15 16:13:03 - INFO - Confusion Matrix:
+[[74 10]
+ [19 45]]
+2024-09-15 16:16:58 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-09-15 16:16:58 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-09-15_qa_ml_models/train_case_sim.csv
+2024-09-15 16:16:58 - INFO - Start to train logistic_regression case similarity model using LOOCV!
+2024-09-15 16:16:59 - INFO - Accuracy: 0.804
+2024-09-15 16:16:59 - INFO - Precision: 0.805
+2024-09-15 16:16:59 - INFO - Recall: 0.804
+2024-09-15 16:16:59 - INFO - F1: 0.802
+2024-09-15 16:16:59 - INFO - PR AUC: 0.811
+2024-09-15 16:16:59 - INFO - Confusion Matrix:
+[[74 10]
+ [19 45]]
+2024-09-15 16:19:12 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-09-15 16:19:12 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-09-15_qa_ml_models/train_case_sim.csv
+2024-09-15 16:19:12 - INFO - Start to train logistic_regression case similarity model using LOOCV!
+2024-09-15 16:19:12 - INFO - Accuracy: 0.804
+2024-09-15 16:19:12 - INFO - Precision: 0.805
+2024-09-15 16:19:12 - INFO - Recall: 0.804
+2024-09-15 16:19:12 - INFO - F1: 0.802
+2024-09-15 16:19:12 - INFO - PR AUC: 0.811
+2024-09-15 16:19:12 - INFO - Confusion Matrix:
+[[74 10]
+ [19 45]]
+2024-09-15 16:20:05 - INFO - Start to train decision_tree case similarity model using LOOCV!
+2024-09-15 16:20:06 - INFO - Accuracy: 0.767
+2024-09-15 16:20:06 - INFO - Precision: 0.766
+2024-09-15 16:20:06 - INFO - Recall: 0.767
+2024-09-15 16:20:06 - INFO - F1: 0.766
+2024-09-15 16:20:06 - INFO - PR AUC: 0.741
+2024-09-15 16:20:06 - INFO - Confusion Matrix:
+[[136  32]
+ [ 37  91]]
+2024-09-15 16:20:27 - INFO - Start to train svm case similarity model using LOOCV!
+2024-09-15 16:20:28 - INFO - Accuracy: 0.752
+2024-09-15 16:20:28 - INFO - Precision: 0.757
+2024-09-15 16:20:28 - INFO - Recall: 0.752
+2024-09-15 16:20:28 - INFO - F1: 0.753
+2024-09-15 16:20:28 - INFO - PR AUC: 0.747
+2024-09-15 16:20:28 - INFO - Confusion Matrix:
+[[187  65]
+ [ 45 147]]
+2024-09-15 16:22:16 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-09-15 16:22:16 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-09-15_qa_ml_models/train_case_sim.csv
+2024-09-15 16:22:16 - INFO - Start to train logistic_regression case similarity model!
+2024-09-15 16:22:16 - INFO - Save logistic_regression model in results/evaluations/case_similarity/2024-09-15_ml_models/logistic_regression_model.pkl!
+2024-09-15 16:23:19 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-09-15 16:23:19 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-09-15_qa_ml_models/train_case_sim.csv
+2024-09-15 16:23:19 - INFO - Start to train logistic_regression case similarity model!
+2024-09-15 16:23:19 - INFO - Save logistic_regression model in results/evaluations/case_similarity/2024-09-15_ml_models/logistic_regression_model.pkl!
+2024-09-15 16:23:39 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-09-15 16:23:39 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-09-15_qa_ml_models/train_case_sim.csv
+2024-09-15 16:23:39 - INFO - Start to train logistic_regression case similarity model!
+2024-09-15 16:23:40 - INFO - Save logistic_regression model in results/evaluations/case_similarity/2024-09-15_ml_models/logistic_regression_model.pkl!
+2024-09-15 16:25:06 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-09-15 16:25:06 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-09-15_qa_ml_models/train_case_sim.csv
+2024-09-15 16:25:06 - INFO - Start to train logistic_regression case similarity model!
+2024-09-15 16:25:07 - INFO - Save logistic_regression model in results/evaluations/case_similarity/2024-09-15_ml_models/logistic_regression_model.pkl!
+2024-09-15 16:25:38 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-09-15 16:25:38 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-09-15_qa_ml_models/train_case_sim.csv
+2024-09-15 16:25:39 - INFO - Start to train logistic_regression case similarity model!
+2024-09-15 16:25:39 - INFO - Save logistic_regression model in results/evaluations/case_similarity/2024-09-15_ml_models/logistic_regression_model.pkl!
+2024-09-15 16:25:58 - INFO - Accuracy: 0.73
+2024-09-15 16:25:59 - INFO - Precision: 0.728
+2024-09-15 16:26:00 - INFO - Recall: 0.73
+2024-09-15 16:26:02 - INFO - F1: 0.727
+2024-09-15 16:28:49 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-09-15 16:28:49 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-09-15_qa_ml_models/train_case_sim.csv
+2024-09-15 16:28:49 - INFO - Start to train logistic_regression case similarity model!
+2024-09-15 16:28:49 - INFO - Save logistic_regression model in results/evaluations/case_similarity/2024-09-15_ml_models/logistic_regression_model.pkl!
+2024-09-15 16:29:25 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-09-15 16:29:25 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-09-15_qa_ml_models/train_case_sim.csv
+2024-09-15 16:29:25 - INFO - Start to train logistic_regression case similarity model!
+2024-09-15 16:29:25 - INFO - Save logistic_regression model in results/evaluations/case_similarity/2024-09-15_ml_models/logistic_regression_model.pkl!

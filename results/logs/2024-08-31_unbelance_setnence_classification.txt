@@ -1,0 +1,102 @@
+2024-08-31 05:01:09 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-08-31 05:04:03 - INFO - Starting training for labels: reject
+2024-08-31 12:49:32 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-08-31 12:49:32 - INFO - Starting training for labels: reject
+2024-08-31 13:33:36 - INFO - Metrics to reject is: {'accuracy': 0.8958458759783263, 'precision': 0.9245647969052224, 'recall': 0.9096098953377736, 'f1': 0.9170263788968825, 'PRAUC': 0.9346577962686718, 'eval_set': 89, 'test_set': 1661, 'best_threshold': 9.907343155646231e-06}
+2024-08-31 13:33:39 - INFO - Starting training for labels: CONFESSION
+2024-08-31 13:35:02 - INFO - Metrics to CONFESSION is: {'accuracy': 0.9927754364840458, 'precision': 0.8795180722891566, 'recall': 0.9733333333333334, 'f1': 0.9240506329113924, 'PRAUC': 0.8970364350419572, 'eval_set': 89, 'test_set': 1661, 'best_threshold': 0.9996371269226074}
+2024-08-31 13:35:05 - INFO - Starting training for labels: GENERAL_CIRCUM
+2024-08-31 13:42:26 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.9596628537025887, 'precision': 0.8294573643410853, 'recall': 0.9029535864978903, 'f1': 0.8646464646464647, 'PRAUC': 0.8556126810012074, 'eval_set': 89, 'test_set': 1661, 'best_threshold': 0.9999973773956299}
+2024-08-31 13:42:29 - INFO - Starting training for labels: PUNISHMENT
+2024-08-31 13:43:13 - INFO - Metrics to PUNISHMENT is: {'accuracy': 0.9867549668874173, 'precision': 0.7741935483870968, 'recall': 0.8571428571428571, 'f1': 0.8135593220338984, 'PRAUC': 0.8403925737884755, 'eval_set': 89, 'test_set': 1661, 'best_threshold': 0.9952837824821472}
+2024-08-31 13:43:16 - INFO - Starting training for labels: CIRCUM_OFFENSE
+2024-08-31 13:50:12 - INFO - Metrics to CIRCUM_OFFENSE is: {'accuracy': 0.9241420830824805, 'precision': 0.6933333333333334, 'recall': 0.859504132231405, 'f1': 0.7675276752767528, 'PRAUC': 0.8083904687692506, 'eval_set': 89, 'test_set': 1661, 'best_threshold': 0.9999622106552124}
+2024-08-31 13:50:15 - INFO - setfit training finished.
+2024-08-31 14:59:41 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-08-31 14:59:41 - INFO - setfit training finished.
+2024-08-31 15:26:18 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-08-31 15:26:18 - INFO - setfit training finished.
+2024-08-31 15:27:04 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-08-31 15:28:57 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-08-31 15:29:10 - INFO - Starting training for labels: CIR_TYPE_WEP
+2024-08-31 15:30:13 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-08-31 15:30:13 - INFO - Starting training for labels: CIR_TYPE_WEP
+2024-08-31 15:32:51 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.979530403371463, 'precision': 0.8523489932885906, 'recall': 0.9136690647482014, 'f1': 0.8819444444444444, 'PRAUC': 0.8836620704102152, 'eval_set': 89, 'test_set': 1661, 'best_threshold': 0.9997485280036926}
+2024-08-31 15:32:51 - INFO - Starting training for labels: CIR_HELD_WAY_WEP
+2024-08-31 15:33:34 - INFO - Metrics to CIR_HELD_WAY_WEP is: {'accuracy': 0.9668874172185431, 'precision': 0.5612244897959183, 'recall': 0.8208955223880597, 'f1': 0.6666666666666666, 'PRAUC': 0.6796598585670262, 'eval_set': 89, 'test_set': 1661, 'best_threshold': 0.9940953254699707}
+2024-08-31 15:33:34 - INFO - Starting training for labels: CIR_AMMU_AMOUNT_WEP
+2024-08-31 15:33:59 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9650812763395545, 'precision': 0.4714285714285714, 'recall': 0.6111111111111112, 'f1': 0.532258064516129, 'PRAUC': 0.47894499665591017, 'eval_set': 89, 'test_set': 1661, 'best_threshold': 0.9725661873817444}
+2024-08-31 15:33:59 - INFO - Starting training for labels: CIR_PURPOSE
+2024-08-31 15:34:33 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.9831426851294401, 'precision': 0.41379310344827586, 'recall': 0.5217391304347826, 'f1': 0.46153846153846156, 'PRAUC': 0.397524575606847, 'eval_set': 89, 'test_set': 1661, 'best_threshold': 0.9965864419937134}
+2024-08-31 15:34:33 - INFO - Starting training for labels: CIR_STATUS_WEP
+2024-08-31 15:35:05 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.9644792293798916, 'precision': 0.5280898876404494, 'recall': 0.734375, 'f1': 0.6143790849673203, 'PRAUC': 0.6659611850661271, 'eval_set': 89, 'test_set': 1661, 'best_threshold': 0.9850344061851501}
+2024-08-31 15:35:05 - INFO - Starting training for labels: REGRET
+2024-08-31 15:35:27 - INFO - Metrics to REGRET is: {'accuracy': 0.99157134256472, 'precision': 0.6470588235294118, 'recall': 0.5789473684210527, 'f1': 0.6111111111111112, 'PRAUC': 0.5626421350012866, 'eval_set': 89, 'test_set': 1661, 'best_threshold': 0.9675361514091492}
+2024-08-31 15:35:28 - INFO - Starting training for labels: CIR_PLANNING
+2024-08-31 15:35:33 - ERROR - Error in label CIR_PLANNING: list index out of range
+2024-08-31 15:35:33 - INFO - Starting training for labels: RESPO
+2024-08-31 15:36:01 - INFO - Metrics to RESPO is: {'accuracy': 0.983744732089103, 'precision': 0.6037735849056604, 'recall': 0.8421052631578947, 'f1': 0.7032967032967034, 'PRAUC': 0.783038792907924, 'eval_set': 89, 'test_set': 1661, 'best_threshold': 0.9851799011230469}
+2024-08-31 15:36:02 - INFO - Starting training for labels: CIR_OBTAIN_WAY_WEP
+2024-08-31 15:36:25 - INFO - Metrics to CIR_OBTAIN_WAY_WEP is: {'accuracy': 0.9337748344370861, 'precision': 0.07079646017699115, 'recall': 0.6153846153846154, 'f1': 0.12698412698412698, 'PRAUC': 0.05411696957682764, 'eval_set': 89, 'test_set': 1661, 'best_threshold': 0.974030077457428}
+2024-08-31 15:36:25 - INFO - Starting training for labels: CIR_USE
+2024-08-31 15:36:58 - INFO - Metrics to CIR_USE is: {'accuracy': 0.9629629629629629, 'precision': 0.5277777777777778, 'recall': 0.6909090909090909, 'f1': 0.5984251968503937, 'PRAUC': 0.597694320660406, 'eval_set': 89, 'test_set': 1377, 'best_threshold': 0.9982609152793884}
+2024-08-31 15:36:58 - INFO - Starting training for labels: CIR_MONEY_PAID_WEP
+2024-08-31 15:37:00 - ERROR - Error in label CIR_MONEY_PAID_WEP: list index out of range
+2024-08-31 15:37:00 - INFO - setfit training finished.
+2024-08-31 16:48:34 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-08-31 16:48:34 - INFO - Starting training for labels: CIR_TYPE_WEP
+2024-08-31 16:51:02 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.9789283564118001, 'precision': 0.8611111111111112, 'recall': 0.8920863309352518, 'f1': 0.8763250883392226, 'PRAUC': 0.8696823768976518, 'eval_set': 89, 'test_set': 1661, 'best_threshold': 0.9996080994606018}
+2024-08-31 16:51:06 - INFO - Starting training for labels: CIR_HELD_WAY_WEP
+2024-08-31 16:51:49 - INFO - Metrics to CIR_HELD_WAY_WEP is: {'accuracy': 0.9668874172185431, 'precision': 0.5612244897959183, 'recall': 0.8208955223880597, 'f1': 0.6666666666666666, 'PRAUC': 0.6796598585670262, 'eval_set': 89, 'test_set': 1661, 'best_threshold': 0.9940953254699707}
+2024-08-31 16:51:53 - INFO - Starting training for labels: CIR_AMMU_AMOUNT_WEP
+2024-08-31 16:52:18 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9650812763395545, 'precision': 0.4714285714285714, 'recall': 0.6111111111111112, 'f1': 0.532258064516129, 'PRAUC': 0.47894499665591017, 'eval_set': 89, 'test_set': 1661, 'best_threshold': 0.9725661873817444}
+2024-08-31 16:52:21 - INFO - Starting training for labels: CIR_PURPOSE
+2024-08-31 16:52:56 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.9831426851294401, 'precision': 0.41379310344827586, 'recall': 0.5217391304347826, 'f1': 0.46153846153846156, 'PRAUC': 0.397524575606847, 'eval_set': 89, 'test_set': 1661, 'best_threshold': 0.9965864419937134}
+2024-08-31 16:52:59 - INFO - Starting training for labels: CIR_STATUS_WEP
+2024-08-31 16:53:31 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.9644792293798916, 'precision': 0.5280898876404494, 'recall': 0.734375, 'f1': 0.6143790849673203, 'PRAUC': 0.6659611850661271, 'eval_set': 89, 'test_set': 1661, 'best_threshold': 0.9850344061851501}
+2024-08-31 16:53:34 - INFO - Starting training for labels: REGRET
+2024-08-31 16:53:57 - INFO - Metrics to REGRET is: {'accuracy': 0.99157134256472, 'precision': 0.6470588235294118, 'recall': 0.5789473684210527, 'f1': 0.6111111111111112, 'PRAUC': 0.5626421350012866, 'eval_set': 89, 'test_set': 1661, 'best_threshold': 0.9675361514091492}
+2024-08-31 16:54:01 - INFO - Starting training for labels: CIR_PLANNING
+2024-08-31 16:54:06 - ERROR - Error in label CIR_PLANNING: list index out of range
+2024-08-31 16:54:06 - INFO - Starting training for labels: RESPO
+2024-08-31 16:54:35 - INFO - Metrics to RESPO is: {'accuracy': 0.983744732089103, 'precision': 0.6037735849056604, 'recall': 0.8421052631578947, 'f1': 0.7032967032967034, 'PRAUC': 0.783038792907924, 'eval_set': 89, 'test_set': 1661, 'best_threshold': 0.9851799011230469}
+2024-08-31 16:54:38 - INFO - Starting training for labels: CIR_OBTAIN_WAY_WEP
+2024-08-31 16:55:03 - INFO - Metrics to CIR_OBTAIN_WAY_WEP is: {'accuracy': 0.9337748344370861, 'precision': 0.07079646017699115, 'recall': 0.6153846153846154, 'f1': 0.12698412698412698, 'PRAUC': 0.05411696957682764, 'eval_set': 89, 'test_set': 1661, 'best_threshold': 0.974030077457428}
+2024-08-31 16:55:07 - INFO - Starting training for labels: CIR_USE
+2024-08-31 16:55:40 - INFO - Metrics to CIR_USE is: {'accuracy': 0.9629629629629629, 'precision': 0.5277777777777778, 'recall': 0.6909090909090909, 'f1': 0.5984251968503937, 'PRAUC': 0.597694320660406, 'eval_set': 89, 'test_set': 1377, 'best_threshold': 0.9982609152793884}
+2024-08-31 16:55:43 - INFO - Starting training for labels: CIR_MONEY_PAID_WEP
+2024-08-31 16:55:45 - ERROR - Error in label CIR_MONEY_PAID_WEP: list index out of range
+2024-08-31 16:55:45 - INFO - setfit training finished.
+2024-08-31 17:01:14 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-08-31 17:01:14 - INFO - Starting training for labels: CIR_TYPE_WEP
+2024-08-31 17:10:45 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.9765201685731487, 'precision': 0.8246753246753247, 'recall': 0.9136690647482014, 'f1': 0.8668941979522184, 'PRAUC': 0.8738543933960637, 'eval_set': 89, 'test_set': 1661, 'best_threshold': 0.9999814033508301}
+2024-08-31 17:10:48 - INFO - Starting training for labels: CIR_HELD_WAY_WEP
+2024-08-31 17:13:38 - INFO - Metrics to CIR_HELD_WAY_WEP is: {'accuracy': 0.9723058398555088, 'precision': 0.6438356164383562, 'recall': 0.7014925373134329, 'f1': 0.6714285714285714, 'PRAUC': 0.673864302073982, 'eval_set': 89, 'test_set': 1661, 'best_threshold': 0.999994158744812}
+2024-08-31 17:13:41 - INFO - Starting training for labels: CIR_AMMU_AMOUNT_WEP
+2024-08-31 17:15:19 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9717037928958459, 'precision': 0.5614035087719298, 'recall': 0.5925925925925926, 'f1': 0.5765765765765766, 'PRAUC': 0.6089592119209916, 'eval_set': 89, 'test_set': 1661, 'best_threshold': 0.9998846054077148}
+2024-08-31 17:15:22 - INFO - Starting training for labels: CIR_PURPOSE
+2024-08-31 17:17:40 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.983744732089103, 'precision': 0.43333333333333335, 'recall': 0.5652173913043478, 'f1': 0.49056603773584906, 'PRAUC': 0.32480574931716644, 'eval_set': 89, 'test_set': 1661, 'best_threshold': 0.9998499155044556}
+2024-08-31 17:17:44 - INFO - Starting training for labels: CIR_STATUS_WEP
+2024-08-31 17:19:48 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.963275135460566, 'precision': 0.5185185185185185, 'recall': 0.65625, 'f1': 0.5793103448275863, 'PRAUC': 0.5322771499035361, 'eval_set': 89, 'test_set': 1661, 'best_threshold': 0.9999653100967407}
+2024-08-31 17:19:52 - INFO - Starting training for labels: REGRET
+2024-08-31 17:21:44 - INFO - Metrics to REGRET is: {'accuracy': 0.9927754364840458, 'precision': 0.6666666666666666, 'recall': 0.7368421052631579, 'f1': 0.7, 'PRAUC': 0.6294421658759141, 'eval_set': 89, 'test_set': 1661, 'best_threshold': 0.9999221563339233}
+2024-08-31 17:21:48 - INFO - Starting training for labels: CIR_PLANNING
+2024-08-31 17:21:53 - ERROR - Error in label CIR_PLANNING: list index out of range
+2024-08-31 17:21:53 - INFO - Starting training for labels: RESPO
+2024-08-31 17:23:45 - INFO - Metrics to RESPO is: {'accuracy': 0.9843467790487658, 'precision': 0.6304347826086957, 'recall': 0.7631578947368421, 'f1': 0.6904761904761905, 'PRAUC': 0.7672918345845549, 'eval_set': 89, 'test_set': 1661, 'best_threshold': 0.9999825954437256}
+2024-08-31 17:23:49 - INFO - Starting training for labels: CIR_OBTAIN_WAY_WEP
+2024-08-31 17:25:44 - INFO - Metrics to CIR_OBTAIN_WAY_WEP is: {'accuracy': 0.9723058398555088, 'precision': 0.11627906976744186, 'recall': 0.38461538461538464, 'f1': 0.17857142857142858, 'PRAUC': 0.07318257074297116, 'eval_set': 89, 'test_set': 1661, 'best_threshold': 0.9998754262924194}
+2024-08-31 17:25:48 - INFO - Starting training for labels: CIR_USE
+2024-08-31 17:28:30 - INFO - Metrics to CIR_USE is: {'accuracy': 0.9622367465504721, 'precision': 0.5211267605633803, 'recall': 0.6727272727272727, 'f1': 0.5873015873015873, 'PRAUC': 0.5091004210808556, 'eval_set': 89, 'test_set': 1377, 'best_threshold': 0.9999858140945435}
+2024-08-31 17:28:33 - INFO - Starting training for labels: CIR_MONEY_PAID_WEP
+2024-08-31 17:28:34 - ERROR - Error in label CIR_MONEY_PAID_WEP: list index out of range
+2024-08-31 17:28:34 - INFO - setfit training finished.

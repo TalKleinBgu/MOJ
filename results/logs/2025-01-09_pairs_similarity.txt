@@ -1,0 +1,37 @@
+2025-01-09 10:37:02 - ERROR - 0520-07-17 isn't exist in DB!
+2025-01-09 10:37:02 - ERROR - 0398-09-16 isn't exist in DB!
+2025-01-09 10:37:02 - ERROR - 0633-05-17 isn't exist in DB!
+2025-01-09 10:37:02 - ERROR - 0336-05-16 isn't exist in DB!
+2025-01-09 10:37:02 - ERROR - 0398-09-16 isn't exist in DB!
+2025-01-09 10:37:02 - ERROR - 0613-04-17 isn't exist in DB!
+2025-01-09 10:37:02 - ERROR - 0613-04-17 isn't exist in DB!
+2025-01-09 10:37:02 - ERROR - m01008097-376 isn't exist in DB!
+2025-01-09 10:37:22 - INFO - Start to create DF with qa, for train pairs similarity!
+2025-01-09 10:40:07 - INFO - Save train_case_sim.csv in results/pairs_similarity/2025-01-09_qa_ml_models/train_case_sim.csv
+2025-01-09 10:45:18 - ERROR - 0520-07-17 isn't exist in DB!
+2025-01-09 10:45:18 - ERROR - 0398-09-16 isn't exist in DB!
+2025-01-09 10:45:18 - ERROR - 0633-05-17 isn't exist in DB!
+2025-01-09 10:45:18 - ERROR - 0336-05-16 isn't exist in DB!
+2025-01-09 10:45:18 - ERROR - 0398-09-16 isn't exist in DB!
+2025-01-09 10:45:18 - ERROR - 0613-04-17 isn't exist in DB!
+2025-01-09 10:45:18 - ERROR - 0613-04-17 isn't exist in DB!
+2025-01-09 10:45:18 - ERROR - m01008097-376 isn't exist in DB!
+2025-01-09 10:45:25 - INFO - Start to create DF with qa, for train pairs similarity!
+2025-01-09 10:49:41 - ERROR - 0520-07-17 isn't exist in DB!
+2025-01-09 10:49:41 - ERROR - 0398-09-16 isn't exist in DB!
+2025-01-09 10:49:41 - ERROR - 0633-05-17 isn't exist in DB!
+2025-01-09 10:49:41 - ERROR - 0336-05-16 isn't exist in DB!
+2025-01-09 10:49:42 - ERROR - 0398-09-16 isn't exist in DB!
+2025-01-09 10:49:42 - ERROR - 0613-04-17 isn't exist in DB!
+2025-01-09 10:49:42 - ERROR - 0613-04-17 isn't exist in DB!
+2025-01-09 10:49:42 - ERROR - m01008097-376 isn't exist in DB!
+2025-01-09 10:49:42 - INFO - Start to create DF with qa, for train pairs similarity!
+2025-01-09 10:50:15 - ERROR - 0520-07-17 isn't exist in DB!
+2025-01-09 10:50:15 - ERROR - 0398-09-16 isn't exist in DB!
+2025-01-09 10:50:15 - ERROR - 0633-05-17 isn't exist in DB!
+2025-01-09 10:50:15 - ERROR - 0336-05-16 isn't exist in DB!
+2025-01-09 10:50:15 - ERROR - 0398-09-16 isn't exist in DB!
+2025-01-09 10:50:15 - ERROR - 0613-04-17 isn't exist in DB!
+2025-01-09 10:50:15 - ERROR - 0613-04-17 isn't exist in DB!
+2025-01-09 10:50:15 - ERROR - m01008097-376 isn't exist in DB!
+2025-01-09 10:50:15 - INFO - Start to create DF with qa, for train pairs similarity!

@@ -1,0 +1,12 @@
+2025-01-04 22:27:46 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/drugs/12cases_in_train
+2025-01-04 22:27:46 - INFO - Starting training for label: PUNISHMENT
+2025-01-04 22:27:47 - INFO - Starting training for model: dictabert
+2025-01-04 22:33:06 - INFO - Metrics for PUNISHMENT with model dictabert: {'accuracy': 0.9890534449452673, 'precision': 0.8214285714285714, 'recall': 0.8679245283018868, 'f1': 0.8440366972477065, 'PRAUC': 0.8050016796959112, 'best_threshold': 0.9958563446998596}
+2025-01-04 22:33:09 - INFO - setfit training finished.
+2025-01-04 22:37:11 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/drugs/35cases_in_train
+2025-01-04 22:37:12 - INFO - Starting training for label: PUNISHMENT
+2025-01-04 22:37:12 - INFO - Starting training for model: dictabert
+2025-01-04 22:43:28 - INFO - Metrics for PUNISHMENT with model dictabert: {'accuracy': 0.9775280898876404, 'precision': 0.4270833333333333, 'recall': 0.6833333333333333, 'f1': 0.5256410256410257, 'PRAUC': 0.5071208711785585, 'best_threshold': 0.9994657635688782}
+2025-01-04 22:43:32 - INFO - setfit training finished.

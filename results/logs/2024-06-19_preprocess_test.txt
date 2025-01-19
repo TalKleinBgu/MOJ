@@ -1,0 +1,10 @@
+2024-06-19 11:10:07 - INFO - Train start, data is taken from data/sentence_classfication/senetnce_tag.csv
+2024-06-19 11:11:15 - INFO - 
+Train start, data is taken from data/sentence_classfication/senetnce_tag.csv
+2024-06-19 11:15:36 - INFO - 
+Train start, data is taken from data/sentence_classfication/senetnce_tag.csv
+2024-06-19 11:16:55 - INFO - 
+Train start, data is taken from data/sentence_classfication/senetnce_tag.csv
+2024-06-19 11:17:22 - INFO - 
+Train start, data is taken from data/sentence_classfication/senetnce_tag.csv
+2024-06-19 11:17:22 - INFO - Starting setfit training for labels: ['CIR_AMMU_AMOUNT_WEP', 'CIR_BUYER_ID_WEP', 'CIR_HELD_WAY_WEP', 'CIR_MONEY_PAID_WEP', "CIR_OBTAIN_WAY_WEP'", 'CIR_PLANNING', 'CIR_PURPOSE', 'CIR_STATUS_WEP', 'CIR_TYPE_WEP', 'CIR_USE', 'CONFESSION', 'POSSESSION_WEP']

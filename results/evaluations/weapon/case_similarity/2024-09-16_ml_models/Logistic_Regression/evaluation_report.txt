@@ -1,0 +1,15 @@
+Model Evaluation Report
+
+Model Type: logistic_regression
+Extraction Type: qa
+=========================
+Accuracy: 0.541
+Precision: 0.634
+Recall: 0.541
+F1: 0.504
+PR AUC: 0.591
+=========================
+Confusion Matrix:
+[[ 6 15]
+ [ 2 14]]
+AUC Score: <function auc at 0x7f5bb441a320>

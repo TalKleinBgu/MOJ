@@ -1,0 +1,84 @@
+2025-01-02 02:39:00 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/drugs/35cases_in_train
+2025-01-02 02:39:00 - INFO - Starting training for label: PUNISHMENT
+2025-01-02 02:39:00 - INFO - Starting training for model: dictabert
+2025-01-02 02:39:13 - ERROR - Error in label PUNISHMENT: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-01-02 02:39:13 - INFO - Starting training for label: GENERAL_CIRCUM
+2025-01-02 02:39:13 - INFO - Starting training for model: dictabert
+2025-01-02 02:39:17 - ERROR - Error in label GENERAL_CIRCUM: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-01-02 02:39:17 - INFO - Starting training for label: reject
+2025-01-02 02:39:17 - INFO - Starting training for model: dictabert
+2025-01-02 02:39:26 - ERROR - Error in label reject: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-01-02 02:39:27 - INFO - Starting training for label: CIR_TYPE
+2025-01-02 02:39:27 - INFO - Starting training for model: dictabert
+2025-01-02 02:39:28 - ERROR - Error in label CIR_TYPE: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-01-02 02:39:28 - INFO - Starting training for label: CIR_AMOUNT
+2025-01-02 02:39:29 - INFO - Starting training for model: dictabert
+2025-01-02 02:39:30 - ERROR - Error in label CIR_AMOUNT: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-01-02 02:39:30 - INFO - Starting training for label: CIR_ROLE
+2025-01-02 02:39:31 - INFO - Starting training for model: dictabert
+2025-01-02 02:39:32 - ERROR - Error in label CIR_ROLE: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-01-02 02:39:32 - INFO - Starting training for label: CIR_EQ
+2025-01-02 02:39:32 - INFO - Starting training for model: dictabert
+2025-01-02 02:39:34 - ERROR - Error in label CIR_EQ: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-01-02 02:39:34 - INFO - setfit training finished.
+2025-01-02 02:40:30 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/drugs/35cases_in_train
+2025-01-02 02:40:30 - INFO - Starting training for label: PUNISHMENT
+2025-01-02 02:40:30 - INFO - Starting training for model: dictabert
+2025-01-02 02:45:20 - INFO - Metrics for PUNISHMENT with model dictabert: {'accuracy': 0.9769979357121793, 'precision': 0.4748201438848921, 'recall': 0.9295774647887324, 'f1': 0.6285714285714286, 'PRAUC': 0.5943292394750971, 'best_threshold': 0.8907178640365601}
+2025-01-02 02:45:22 - INFO - Starting training for label: GENERAL_CIRCUM
+2025-01-02 02:45:22 - INFO - Starting training for model: dictabert
+2025-01-02 03:42:15 - INFO - Metrics for GENERAL_CIRCUM with model dictabert: {'accuracy': 0.9106458271896196, 'precision': 0.6947040498442367, 'recall': 0.8065099457504521, 'f1': 0.7464435146443514, 'PRAUC': 0.7397663974209174, 'best_threshold': 0.9999943971633911}
+2025-01-02 03:42:18 - INFO - Starting training for label: reject
+2025-01-02 03:42:18 - INFO - Starting training for model: dictabert
+2025-01-02 06:45:30 - INFO - Metrics for reject with model dictabert: {'accuracy': 0.8280743143615452, 'precision': 0.8722100656455142, 'recall': 0.8725919439579685, 'f1': 0.8724009630115999, 'PRAUC': 0.9129197020634587, 'best_threshold': 6.981464593991404e-06}
+2025-01-02 06:45:32 - INFO - Starting training for label: CIR_TYPE
+2025-01-02 06:45:32 - INFO - Starting training for model: dictabert
+2025-01-02 06:57:07 - ERROR - Error in label CIR_TYPE: CUDA out of memory. Tried to allocate 96.00 MiB. GPU 
+2025-01-02 06:57:07 - INFO - Starting training for label: CIR_AMOUNT
+2025-01-02 06:57:07 - INFO - Starting training for model: dictabert
+2025-01-02 07:06:21 - ERROR - Error in label CIR_AMOUNT: CUDA out of memory. Tried to allocate 768.00 MiB. GPU 
+2025-01-02 07:06:21 - INFO - Starting training for label: CIR_ROLE
+2025-01-02 07:06:21 - INFO - Starting training for model: dictabert
+2025-01-02 07:11:10 - INFO - Metrics for CIR_ROLE with model dictabert: {'accuracy': 0.8879386611618991, 'precision': 0.044854881266490766, 'recall': 0.4857142857142857, 'f1': 0.0821256038647343, 'PRAUC': 0.03059975629577477, 'best_threshold': 0.7294542789459229}
+2025-01-02 07:11:13 - INFO - Starting training for label: CIR_EQ
+2025-01-02 07:11:13 - INFO - Starting training for model: dictabert
+2025-01-02 07:15:47 - INFO - Metrics for CIR_EQ with model dictabert: {'accuracy': 0.9634326157475671, 'precision': 0.034482758620689655, 'recall': 0.25, 'f1': 0.06060606060606061, 'PRAUC': 0.016490414656576014, 'best_threshold': 0.6864103078842163}
+2025-01-02 07:15:52 - INFO - setfit training finished.
+2025-01-02 09:44:49 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/drugs/35cases_in_train
+2025-01-02 09:44:50 - INFO - Starting training for label: PUNISHMENT
+2025-01-02 09:44:50 - INFO - Starting training for model: dictabert
+2025-01-02 09:44:55 - ERROR - Error in label PUNISHMENT: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-01-02 09:44:55 - INFO - Starting training for label: CIR_TYPE
+2025-01-02 09:44:55 - INFO - Starting training for model: dictabert
+2025-01-02 09:44:57 - ERROR - Error in label CIR_TYPE: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-01-02 09:44:57 - INFO - Starting training for label: CIR_AMOUNT
+2025-01-02 09:44:58 - INFO - Starting training for model: dictabert
+2025-01-02 09:45:00 - ERROR - Error in label CIR_AMOUNT: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-01-02 09:45:00 - INFO - Starting training for label: CIR_ROLE
+2025-01-02 09:45:00 - INFO - Starting training for model: dictabert
+2025-01-02 09:45:02 - ERROR - Error in label CIR_ROLE: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-01-02 09:45:02 - INFO - Starting training for label: CIR_EQ
+2025-01-02 09:45:02 - INFO - Starting training for model: dictabert
+2025-01-02 09:45:03 - ERROR - Error in label CIR_EQ: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-01-02 09:45:03 - INFO - setfit training finished.
+2025-01-02 09:46:43 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/drugs/35cases_in_train
+2025-01-02 09:46:43 - INFO - Starting training for label: PUNISHMENT
+2025-01-02 09:46:43 - INFO - Starting training for model: dictabert
+2025-01-02 10:01:11 - INFO - Metrics for PUNISHMENT with model dictabert: {'accuracy': 0.9787673252727809, 'precision': 0.49572649572649574, 'recall': 0.8169014084507042, 'f1': 0.6170212765957447, 'PRAUC': 0.5623587336142567, 'best_threshold': 0.9964652061462402}
+2025-01-02 10:01:14 - INFO - Starting training for label: CIR_TYPE
+2025-01-02 10:01:14 - INFO - Starting training for model: dictabert
+2025-01-02 10:35:56 - INFO - Metrics for CIR_TYPE with model dictabert: {'accuracy': 0.9852550869949868, 'precision': 0.868421052631579, 'recall': 0.9390243902439024, 'f1': 0.90234375, 'PRAUC': 0.9345694279824333, 'best_threshold': 0.999950647354126}
+2025-01-02 10:35:59 - INFO - Starting training for label: CIR_AMOUNT
+2025-01-02 10:35:59 - INFO - Starting training for model: dictabert
+2025-01-02 11:03:29 - INFO - Metrics for CIR_AMOUNT with model dictabert: {'accuracy': 0.9926275434974934, 'precision': 0.9013452914798207, 'recall': 0.9852941176470589, 'f1': 0.9414519906323185, 'PRAUC': 0.9528415813398166, 'best_threshold': 0.3289204239845276}
+2025-01-02 11:03:32 - INFO - Starting training for label: CIR_ROLE
+2025-01-02 11:03:32 - INFO - Starting training for model: dictabert
+2025-01-02 11:17:37 - INFO - Metrics for CIR_ROLE with model dictabert: {'accuracy': 0.9802418165732822, 'precision': 0.22413793103448276, 'recall': 0.37142857142857144, 'f1': 0.27956989247311825, 'PRAUC': 0.15099091168515413, 'best_threshold': 0.9746267795562744}
+2025-01-02 11:17:40 - INFO - Starting training for label: CIR_EQ
+2025-01-02 11:17:40 - INFO - Starting training for model: dictabert
+2025-01-02 11:31:16 - INFO - Metrics for CIR_EQ with model dictabert: {'accuracy': 0.9929224417575936, 'precision': 0.3181818181818182, 'recall': 0.4375, 'f1': 0.3684210526315789, 'PRAUC': 0.22232613628864578, 'best_threshold': 0.7771119475364685}
+2025-01-02 11:31:19 - INFO - setfit training finished.

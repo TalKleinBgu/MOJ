@@ -1,0 +1,20 @@
+2024-04-25 13:12:27 - INFO - The feature extraction started with the # QA ## Regex #
+2024-04-25 13:12:27 - INFO - Finished extracting files, the appropriate files were saved in the cases in /results/db/2017!
+2024-04-25 13:23:28 - INFO - The feature extraction started with the # QA ## Regex #
+2024-04-25 13:23:28 - INFO - Finished extracting files, the appropriate files were saved in the cases in /results/db/2017!
+2024-04-25 13:23:56 - INFO - The feature extraction started with the # QA ## Regex #
+2024-04-25 13:23:56 - INFO - Finished extracting files, the appropriate files were saved in the cases in /results/db/2017!
+2024-04-25 13:24:45 - INFO - The feature extraction started with the # QA ## Regex #
+2024-04-25 14:01:22 - INFO - The feature extraction started with the # Q&A ## Regex #
+2024-04-25 14:01:26 - INFO - The db folder in path /results/db/2017 is empty!
+2024-04-25 14:02:36 - INFO - The feature extraction started with the # Q&A ## Regex #
+2024-04-25 14:02:36 - INFO - The db folder in path /results/db/2017 is empty!
+2024-04-25 14:04:29 - INFO - The feature extraction started with the # Q&A ## Regex #
+2024-04-25 14:04:29 - INFO - The db folder in path /results/db/2017 is empty!
+2024-04-25 14:15:07 - INFO - The feature extraction started with the # Q&A ## Regex #
+2024-04-25 14:17:16 - INFO - The feature extraction started with the # Q&A ## Regex #
+2024-04-25 14:17:20 - ERROR - There is an error in the path - /results/db/2017
+2024-04-25 14:18:07 - INFO - The feature extraction started with the # Q&A ## Regex #
+2024-04-25 14:18:07 - INFO - The feature extraction started with the # Q&A ## Regex #
+2024-04-25 14:19:02 - INFO - Finished extracting files, the appropriate files were saved in the cases in ./results/db/2017!
+2024-04-25 14:19:03 - INFO - Finished extracting files, the appropriate files were saved in the cases in ./results/db/2017!

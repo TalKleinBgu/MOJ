@@ -1,0 +1,67 @@
+2024-10-08 00:01:31 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-10-08 00:01:31 - INFO - Starting training for labels: reject
+2024-10-08 00:02:12 - ERROR - Error in label reject: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2024-10-08 00:02:13 - INFO - Starting training for labels: CONFESSION
+2024-10-08 00:02:15 - ERROR - Error in label CONFESSION: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2024-10-08 00:02:15 - INFO - Starting training for labels: CIR_TYPE_WEP
+2024-10-08 00:02:18 - ERROR - Error in label CIR_TYPE_WEP: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2024-10-08 00:02:18 - INFO - Starting training for labels: CIR_HELD_WAY_WEP
+2024-10-08 00:02:20 - ERROR - Error in label CIR_HELD_WAY_WEP: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2024-10-08 00:02:20 - INFO - Starting training for labels: CIR_AMMU_AMOUNT_WEP
+2024-10-08 00:02:23 - ERROR - Error in label CIR_AMMU_AMOUNT_WEP: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2024-10-08 00:02:23 - INFO - Starting training for labels: CIR_PURPOSE
+2024-10-08 00:02:53 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-10-08 00:02:53 - INFO - Starting training for labels: reject
+2024-10-08 00:03:32 - ERROR - Error in label reject: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2024-10-08 00:03:33 - INFO - Starting training for labels: CONFESSION
+2024-10-08 00:03:36 - ERROR - Error in label CONFESSION: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2024-10-08 00:03:36 - INFO - Starting training for labels: CIR_TYPE_WEP
+2024-10-08 00:03:39 - ERROR - Error in label CIR_TYPE_WEP: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2024-10-08 00:03:39 - INFO - Starting training for labels: CIR_HELD_WAY_WEP
+2024-10-08 00:03:42 - ERROR - Error in label CIR_HELD_WAY_WEP: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2024-10-08 00:03:42 - INFO - Starting training for labels: CIR_AMMU_AMOUNT_WEP
+2024-10-08 00:03:44 - ERROR - Error in label CIR_AMMU_AMOUNT_WEP: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2024-10-08 00:03:44 - INFO - Starting training for labels: CIR_PURPOSE
+2024-10-08 00:03:47 - ERROR - Error in label CIR_PURPOSE: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2024-10-08 00:03:47 - INFO - Starting training for labels: GENERAL_CIRCUM
+2024-10-08 00:03:56 - ERROR - Error in label GENERAL_CIRCUM: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2024-10-08 00:03:57 - INFO - Starting training for labels: CIR_STATUS_WEP
+2024-10-08 00:03:59 - ERROR - Error in label CIR_STATUS_WEP: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2024-10-08 00:03:59 - INFO - Starting training for labels: REGRET
+2024-10-08 00:04:02 - ERROR - Error in label REGRET: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2024-10-08 00:04:02 - INFO - Starting training for labels: PUNISHMENT
+2024-10-08 00:04:06 - ERROR - Error in label PUNISHMENT: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2024-10-08 00:04:06 - INFO - Starting training for labels: CIRCUM_OFFENSE
+2024-10-08 00:04:14 - ERROR - Error in label CIRCUM_OFFENSE: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2024-10-08 00:04:15 - INFO - Starting training for labels: CIR_PLANNING
+2024-10-08 00:04:18 - ERROR - Error in label CIR_PLANNING: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2024-10-08 00:04:18 - INFO - Starting training for labels: RESPO
+2024-10-08 00:04:21 - ERROR - Error in label RESPO: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2024-10-08 00:04:21 - INFO - Starting training for labels: CIR_OBTAIN_WAY_WEP
+2024-10-08 00:04:24 - ERROR - Error in label CIR_OBTAIN_WAY_WEP: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2024-10-08 00:04:24 - INFO - Starting training for labels: CIR_USE
+2024-10-08 00:04:47 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-10-08 00:04:47 - INFO - Starting training for labels: reject
+2024-10-08 11:53:19 - INFO - Metrics to reject is: {'accuracy': 0.920008578168561, 'precision': 0.9484181568088033, 'recall': 0.9251928882925193, 'f1': 0.9366615724231618, 'PRAUC': 0.9527990354363242, 'eval_set': 802, 'test_set': 4663, 'best_threshold': 3.8293259422061965e-05}
+2024-10-08 11:54:23 - INFO - Starting training for labels: CONFESSION
+2024-10-08 12:39:08 - ERROR - Error in label CONFESSION: CUDA out of memory. Tried to allocate 768.00 MiB. GPU 
+2024-10-08 12:39:08 - INFO - Starting training for labels: CIR_TYPE_WEP
+2024-10-08 13:39:43 - ERROR - Error in label CIR_TYPE_WEP: CUDA out of memory. Tried to allocate 96.00 MiB. GPU 
+2024-10-08 13:39:43 - INFO - Starting training for labels: CIR_HELD_WAY_WEP
+2024-10-08 14:07:57 - INFO - Metrics to CIR_HELD_WAY_WEP is: {'accuracy': 0.9646150546858245, 'precision': 0.5454545454545454, 'recall': 0.8167539267015707, 'f1': 0.6540880503144654, 'PRAUC': 0.5825933464071726, 'eval_set': 802, 'test_set': 4663, 'best_threshold': 0.9974530339241028}
+2024-10-08 14:09:01 - INFO - Starting training for labels: CIR_AMMU_AMOUNT_WEP
+2024-10-08 14:34:07 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9832725713060262, 'precision': 0.7098765432098766, 'recall': 0.7876712328767124, 'f1': 0.7467532467532467, 'PRAUC': 0.7499388416042667, 'eval_set': 802, 'test_set': 4663, 'best_threshold': 0.9845395684242249}
+2024-10-08 14:35:11 - INFO - Starting training for labels: CIR_PURPOSE
+2024-10-08 15:01:59 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.9729787690328114, 'precision': 0.6089108910891089, 'recall': 0.7235294117647059, 'f1': 0.6612903225806451, 'PRAUC': 0.5867022386298745, 'eval_set': 802, 'test_set': 4663, 'best_threshold': 0.9980841875076294}
+2024-10-08 15:03:03 - INFO - Starting training for labels: GENERAL_CIRCUM
+2024-10-08 17:25:02 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.9628994209736221, 'precision': 0.8748221906116643, 'recall': 0.8785714285714286, 'f1': 0.8766928011404134, 'PRAUC': 0.8575256418836448, 'eval_set': 802, 'test_set': 4663, 'best_threshold': 0.9999955892562866}
+2024-10-08 17:26:06 - INFO - Starting training for labels: CIR_STATUS_WEP
+2024-10-08 17:53:59 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.9590392451211667, 'precision': 0.43097643097643096, 'recall': 0.8533333333333334, 'f1': 0.5727069351230425, 'PRAUC': 0.4242450618173894, 'eval_set': 802, 'test_set': 4663, 'best_threshold': 0.9972031116485596}
+2024-10-08 17:55:03 - INFO - Starting training for labels: REGRET
+2024-10-08 18:18:47 - INFO - Metrics to REGRET is: {'accuracy': 0.9826292086639502, 'precision': 0.4636363636363636, 'recall': 0.6986301369863014, 'f1': 0.5573770491803278, 'PRAUC': 0.48132771858230516, 'eval_set': 802, 'test_set': 4663, 'best_threshold': 0.9944883584976196}
+2024-10-08 18:19:51 - INFO - Starting training for labels: PUNISHMENT
+2024-10-08 18:46:27 - INFO - Metrics to PUNISHMENT is: {'accuracy': 0.9942097362213167, 'precision': 0.8816568047337278, 'recall': 0.9551282051282052, 'f1': 0.916923076923077, 'PRAUC': 0.9361730841641865, 'eval_set': 802, 'test_set': 4663, 'best_threshold': 0.9987945556640625}
+2024-10-08 18:47:31 - INFO - Starting training for labels: CIRCUM_OFFENSE

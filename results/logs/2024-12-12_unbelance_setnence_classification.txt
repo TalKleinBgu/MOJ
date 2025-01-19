@@ -1,0 +1,47 @@
+2024-12-12 16:16:42 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-12 16:16:42 - INFO - Starting training for labels: PUNISHMENT
+2024-12-12 16:21:02 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-12 16:23:00 - ERROR - Error in label PUNISHMENT: '<=' not supported between instances of 'float' and 'str'
+2024-12-12 16:24:00 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-12 16:24:00 - INFO - Starting training for labels: PUNISHMENT
+2024-12-12 16:24:47 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-12 16:24:47 - INFO - Starting training for labels: reject
+2024-12-12 16:24:49 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-12 16:25:08 - ERROR - Error in label reject: '<=' not supported between instances of 'float' and 'str'
+2024-12-12 16:25:23 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-12 16:25:23 - INFO - Starting training for labels: reject
+2024-12-12 16:25:24 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-12 16:28:12 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-12 16:28:12 - INFO - Starting training for labels: reject
+2024-12-12 16:28:12 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-12 16:29:04 - ERROR - Error in label reject: '<=' not supported between instances of 'float' and 'str'
+2024-12-12 16:29:04 - INFO - setfit training finished.
+2024-12-12 16:31:03 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-12 16:31:03 - INFO - Starting training for labels: reject
+2024-12-12 16:31:03 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-12 16:31:17 - ERROR - Error in label reject: '<=' not supported between instances of 'float' and 'str'
+2024-12-12 16:31:17 - INFO - setfit training finished.
+2024-12-12 16:32:21 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-12 16:32:21 - INFO - Starting training for labels: reject
+2024-12-12 16:32:21 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-12 16:32:53 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-12 16:32:53 - INFO - Starting training for labels: reject
+2024-12-12 16:32:53 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-12 16:33:05 - ERROR - Error in label reject: '<=' not supported between instances of 'float' and 'str'
+2024-12-12 16:33:05 - INFO - setfit training finished.
+2024-12-12 16:33:41 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-12 16:33:41 - INFO - Starting training for labels: reject
+2024-12-12 16:33:41 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-12 16:35:39 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-12 16:35:39 - INFO - Starting training for labels: reject
+2024-12-12 16:35:39 - INFO - Starting training for model: dicta-il/dictabert

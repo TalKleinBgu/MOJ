@@ -1,0 +1,2 @@
+2024-04-28 11:34:51 - ERROR - Error occurred during initialization: [Errno 2] No such file or directory: 'results/pairs_similarity/2024-04-09-14:50_rgx_din_test/test.csv'
+2024-04-28 12:10:10 - INFO - Feature embedding for ['qa', 'regex'] methods is starting!

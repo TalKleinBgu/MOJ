@@ -1,0 +1,17 @@
+2025-01-19 11:32:27 - ERROR - 0520-07-17 isn't exist in DB!
+2025-01-19 11:32:27 - ERROR - 0398-09-16 isn't exist in DB!
+2025-01-19 11:32:27 - ERROR - 0633-05-17 isn't exist in DB!
+2025-01-19 11:32:27 - ERROR - 0336-05-16 isn't exist in DB!
+2025-01-19 11:32:27 - ERROR - 0398-09-16 isn't exist in DB!
+2025-01-19 11:32:27 - ERROR - 0613-04-17 isn't exist in DB!
+2025-01-19 11:32:27 - ERROR - 0613-04-17 isn't exist in DB!
+2025-01-19 11:32:27 - ERROR - m01008097-376 isn't exist in DB!
+2025-01-19 11:32:27 - INFO - Start to create DF with qa, for train pairs similarity!
+2025-01-19 11:32:27 - INFO - Save train_case_sim.csv in results/pairs_similarity/2025-01-19_qa_ml_models/train_case_sim.csv
+2025-01-19 11:47:59 - INFO - Accuracy: 0.565
+2025-01-19 11:47:59 - INFO - Precision: 0.556
+2025-01-19 11:47:59 - INFO - Recall: 0.565
+2025-01-19 11:47:59 - INFO - F1: 0.557
+2025-01-19 11:47:59 - INFO - Confusion Matrix:
+[[57 26]
+ [38 26]]

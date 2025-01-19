@@ -1,0 +1,15 @@
+Model Evaluation Report
+
+Model Type: random_forest
+Extraction Type: qa
+=========================
+Accuracy: 0.565
+Precision: 0.699
+Recall: 0.565
+F1: 0.52
+PR AUC: 0.596
+=========================
+Confusion Matrix:
+[[23 60]
+ [ 4 60]]
+AUC Score: <function auc at 0x7f9b2cbcf250>

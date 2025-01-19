@@ -1,0 +1,476 @@
+2024-09-01 12:19:24 - INFO - REJECT model successfully loaded!
+2024-09-01 12:41:17 - INFO - REJECT model successfully loaded!
+2024-09-01 12:55:22 - INFO - REJECT model successfully loaded!
+2024-09-01 12:55:45 - INFO - PUNISHMENT model successfully loaded!
+2024-09-01 12:56:28 - INFO - REJECT model successfully loaded!
+2024-09-01 13:05:53 - INFO - REJECT model successfully loaded!
+2024-09-01 13:06:04 - INFO - PUNISHMENT model successfully loaded!
+2024-09-01 13:06:16 - INFO - GENERAL_CIRCUM model successfully loaded!
+2024-09-01 13:06:32 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2024-09-01 13:06:45 - INFO - CONFESSION model successfully loaded!
+2024-09-01 13:06:58 - INFO - RESPO model successfully loaded!
+2024-09-01 13:07:11 - INFO - REGRET model successfully loaded!
+2024-09-01 13:07:23 - INFO - CIR_USE model successfully loaded!
+2024-09-01 13:57:35 - INFO - REJECT model successfully loaded!
+2024-09-01 13:57:36 - INFO - PUNISHMENT model successfully loaded!
+2024-09-01 13:57:36 - INFO - GENERAL_CIRCUM model successfully loaded!
+2024-09-01 13:57:37 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2024-09-01 13:57:38 - INFO - CONFESSION model successfully loaded!
+2024-09-01 13:57:39 - INFO - RESPO model successfully loaded!
+2024-09-01 13:57:40 - INFO - REGRET model successfully loaded!
+2024-09-01 13:57:40 - INFO - CIR_USE model successfully loaded!
+2024-09-01 13:57:41 - INFO - CIR_TYPE_WEP model successfully loaded!
+2024-09-01 13:57:42 - INFO - CIR_STATUS_WEP model successfully loaded!
+2024-09-01 13:57:43 - INFO - CIR_PURPOSE model successfully loaded!
+2024-09-01 13:57:43 - INFO - CIR_PLANNING model successfully loaded!
+2024-09-01 13:57:44 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2024-09-01 13:57:45 - INFO - CIR_MONEY_PAID_WEP model successfully loaded!
+2024-09-01 13:57:45 - INFO - CIR_BUYER_ID_WEP model successfully loaded!
+2024-09-01 14:23:56 - INFO - REJECT model successfully loaded!
+2024-09-01 14:23:57 - INFO - PUNISHMENT model successfully loaded!
+2024-09-01 14:23:58 - INFO - GENERAL_CIRCUM model successfully loaded!
+2024-09-01 14:23:58 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2024-09-01 14:23:59 - INFO - CONFESSION model successfully loaded!
+2024-09-01 14:24:00 - INFO - RESPO model successfully loaded!
+2024-09-01 14:24:00 - INFO - REGRET model successfully loaded!
+2024-09-01 14:24:01 - INFO - CIR_USE model successfully loaded!
+2024-09-01 14:24:02 - INFO - CIR_TYPE_WEP model successfully loaded!
+2024-09-01 14:24:02 - INFO - CIR_STATUS_WEP model successfully loaded!
+2024-09-01 14:24:03 - INFO - CIR_PURPOSE model successfully loaded!
+2024-09-01 14:24:04 - INFO - CIR_PLANNING model successfully loaded!
+2024-09-01 14:24:04 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2024-09-01 14:24:05 - INFO - CIR_MONEY_PAID_WEP model successfully loaded!
+2024-09-01 14:24:06 - INFO - CIR_BUYER_ID_WEP model successfully loaded!
+2024-09-01 14:36:44 - INFO - REGRET model successfully loaded!
+2024-09-01 14:36:45 - INFO - CIR_USE model successfully loaded!
+2024-09-01 14:36:46 - INFO - CIR_TYPE_WEP model successfully loaded!
+2024-09-01 14:36:46 - INFO - CIR_STATUS_WEP model successfully loaded!
+2024-09-01 14:36:47 - INFO - CIR_PURPOSE model successfully loaded!
+2024-09-01 14:36:47 - INFO - CIR_PLANNING model successfully loaded!
+2024-09-01 14:36:48 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2024-09-01 14:36:49 - INFO - CIR_MONEY_PAID_WEP model successfully loaded!
+2024-09-01 14:36:49 - INFO - CIR_BUYER_ID_WEP model successfully loaded!
+2024-09-01 14:36:50 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2024-09-01 14:36:50 - INFO - _HELD_WAY_WEP model successfully loaded!
+2024-09-01 14:37:14 - INFO - REJECT model successfully loaded!
+2024-09-01 14:37:14 - INFO - PUNISHMENT model successfully loaded!
+2024-09-01 14:37:15 - INFO - GENERAL_CIRCUM model successfully loaded!
+2024-09-01 14:37:16 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2024-09-01 14:37:17 - INFO - CONFESSION model successfully loaded!
+2024-09-01 14:37:17 - INFO - RESPO model successfully loaded!
+2024-09-01 14:37:18 - INFO - REGRET model successfully loaded!
+2024-09-01 14:37:19 - INFO - CIR_USE model successfully loaded!
+2024-09-01 14:37:19 - INFO - CIR_TYPE_WEP model successfully loaded!
+2024-09-01 14:37:20 - INFO - CIR_STATUS_WEP model successfully loaded!
+2024-09-01 14:37:21 - INFO - CIR_PURPOSE model successfully loaded!
+2024-09-01 14:37:21 - INFO - CIR_PLANNING model successfully loaded!
+2024-09-01 14:37:22 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2024-09-01 14:37:23 - INFO - CIR_MONEY_PAID_WEP model successfully loaded!
+2024-09-01 14:37:23 - INFO - CIR_BUYER_ID_WEP model successfully loaded!
+2024-09-01 14:40:38 - INFO - REJECT model successfully loaded!
+2024-09-01 14:40:39 - INFO - PUNISHMENT model successfully loaded!
+2024-09-01 14:40:40 - INFO - GENERAL_CIRCUM model successfully loaded!
+2024-09-01 14:40:40 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2024-09-01 14:40:41 - INFO - CONFESSION model successfully loaded!
+2024-09-01 14:40:42 - INFO - RESPO model successfully loaded!
+2024-09-01 14:40:42 - INFO - REGRET model successfully loaded!
+2024-09-01 14:40:43 - INFO - CIR_USE model successfully loaded!
+2024-09-01 14:40:44 - INFO - CIR_TYPE_WEP model successfully loaded!
+2024-09-01 14:40:45 - INFO - CIR_STATUS_WEP model successfully loaded!
+2024-09-01 14:40:45 - INFO - CIR_PURPOSE model successfully loaded!
+2024-09-01 14:40:46 - INFO - CIR_PLANNING model successfully loaded!
+2024-09-01 14:40:47 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2024-09-01 14:40:47 - INFO - CIR_MONEY_PAID_WEP model successfully loaded!
+2024-09-01 14:40:48 - INFO - CIR_BUYER_ID_WEP model successfully loaded!
+2024-09-01 14:47:19 - INFO - REJECT model successfully loaded!
+2024-09-01 14:47:20 - INFO - PUNISHMENT model successfully loaded!
+2024-09-01 14:47:21 - INFO - GENERAL_CIRCUM model successfully loaded!
+2024-09-01 14:47:22 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2024-09-01 14:47:22 - INFO - CONFESSION model successfully loaded!
+2024-09-01 14:47:23 - INFO - RESPO model successfully loaded!
+2024-09-01 14:47:24 - INFO - REGRET model successfully loaded!
+2024-09-01 14:47:24 - INFO - CIR_USE model successfully loaded!
+2024-09-01 14:47:25 - INFO - CIR_TYPE_WEP model successfully loaded!
+2024-09-01 14:47:26 - INFO - CIR_STATUS_WEP model successfully loaded!
+2024-09-01 14:47:27 - INFO - CIR_PURPOSE model successfully loaded!
+2024-09-01 14:47:27 - INFO - CIR_PLANNING model successfully loaded!
+2024-09-01 14:47:28 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2024-09-01 14:47:29 - INFO - CIR_MONEY_PAID_WEP model successfully loaded!
+2024-09-01 14:47:29 - INFO - CIR_BUYER_ID_WEP model successfully loaded!
+2024-09-01 14:53:06 - INFO - REJECT model successfully loaded!
+2024-09-01 14:53:07 - INFO - PUNISHMENT model successfully loaded!
+2024-09-01 14:53:08 - INFO - GENERAL_CIRCUM model successfully loaded!
+2024-09-01 14:53:09 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2024-09-01 14:53:09 - INFO - CONFESSION model successfully loaded!
+2024-09-01 14:53:10 - INFO - RESPO model successfully loaded!
+2024-09-01 14:53:11 - INFO - REGRET model successfully loaded!
+2024-09-01 14:53:11 - INFO - CIR_USE model successfully loaded!
+2024-09-01 14:53:12 - INFO - CIR_TYPE_WEP model successfully loaded!
+2024-09-01 14:53:13 - INFO - CIR_STATUS_WEP model successfully loaded!
+2024-09-01 14:53:13 - INFO - CIR_PURPOSE model successfully loaded!
+2024-09-01 14:53:14 - INFO - CIR_PLANNING model successfully loaded!
+2024-09-01 14:53:15 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2024-09-01 14:53:16 - INFO - CIR_MONEY_PAID_WEP model successfully loaded!
+2024-09-01 14:53:16 - INFO - CIR_BUYER_ID_WEP model successfully loaded!
+2024-09-01 15:02:50 - INFO - REJECT model successfully loaded!
+2024-09-01 15:02:51 - INFO - PUNISHMENT model successfully loaded!
+2024-09-01 15:02:52 - INFO - GENERAL_CIRCUM model successfully loaded!
+2024-09-01 15:02:52 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2024-09-01 15:02:53 - INFO - CONFESSION model successfully loaded!
+2024-09-01 15:02:54 - INFO - RESPO model successfully loaded!
+2024-09-01 15:02:54 - INFO - REGRET model successfully loaded!
+2024-09-01 15:02:55 - INFO - CIR_USE model successfully loaded!
+2024-09-01 15:02:56 - INFO - CIR_TYPE_WEP model successfully loaded!
+2024-09-01 15:02:57 - INFO - CIR_STATUS_WEP model successfully loaded!
+2024-09-01 15:02:57 - INFO - CIR_PURPOSE model successfully loaded!
+2024-09-01 15:02:58 - INFO - CIR_PLANNING model successfully loaded!
+2024-09-01 15:02:59 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2024-09-01 15:02:59 - INFO - CIR_MONEY_PAID_WEP model successfully loaded!
+2024-09-01 15:03:00 - INFO - CIR_BUYER_ID_WEP model successfully loaded!
+2024-09-01 15:06:23 - INFO - GENERAL_CIRCUM model successfully loaded!
+2024-09-01 15:06:24 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2024-09-01 15:06:25 - INFO - CONFESSION model successfully loaded!
+2024-09-01 15:06:40 - INFO - REJECT model successfully loaded!
+2024-09-01 15:06:40 - INFO - PUNISHMENT model successfully loaded!
+2024-09-01 15:06:41 - INFO - GENERAL_CIRCUM model successfully loaded!
+2024-09-01 15:06:42 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2024-09-01 15:06:43 - INFO - CONFESSION model successfully loaded!
+2024-09-01 15:06:44 - INFO - RESPO model successfully loaded!
+2024-09-01 15:06:44 - INFO - REGRET model successfully loaded!
+2024-09-01 15:06:45 - INFO - CIR_USE model successfully loaded!
+2024-09-01 15:06:46 - INFO - CIR_TYPE_WEP model successfully loaded!
+2024-09-01 15:06:46 - INFO - CIR_STATUS_WEP model successfully loaded!
+2024-09-01 15:06:47 - INFO - CIR_PURPOSE model successfully loaded!
+2024-09-01 15:06:48 - INFO - CIR_PLANNING model successfully loaded!
+2024-09-01 15:06:48 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2024-09-01 15:06:49 - INFO - CIR_MONEY_PAID_WEP model successfully loaded!
+2024-09-01 15:06:50 - INFO - CIR_BUYER_ID_WEP model successfully loaded!
+2024-09-01 15:35:37 - INFO - REJECT model successfully loaded!
+2024-09-01 15:35:38 - INFO - PUNISHMENT model successfully loaded!
+2024-09-01 15:35:39 - INFO - GENERAL_CIRCUM model successfully loaded!
+2024-09-01 15:35:39 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2024-09-01 15:35:40 - INFO - CONFESSION model successfully loaded!
+2024-09-01 15:35:41 - INFO - RESPO model successfully loaded!
+2024-09-01 15:35:42 - INFO - REGRET model successfully loaded!
+2024-09-01 15:35:42 - INFO - CIR_USE model successfully loaded!
+2024-09-01 15:35:43 - INFO - CIR_TYPE_WEP model successfully loaded!
+2024-09-01 15:35:44 - INFO - CIR_STATUS_WEP model successfully loaded!
+2024-09-01 15:35:44 - INFO - CIR_PURPOSE model successfully loaded!
+2024-09-01 15:35:45 - INFO - CIR_PLANNING model successfully loaded!
+2024-09-01 15:35:46 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2024-09-01 15:35:46 - INFO - CIR_MONEY_PAID_WEP model successfully loaded!
+2024-09-01 15:35:47 - INFO - CIR_BUYER_ID_WEP model successfully loaded!
+2024-09-01 15:37:57 - INFO - REJECT model successfully loaded!
+2024-09-01 15:37:58 - INFO - PUNISHMENT model successfully loaded!
+2024-09-01 15:37:59 - INFO - GENERAL_CIRCUM model successfully loaded!
+2024-09-01 15:37:59 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2024-09-01 15:38:00 - INFO - CONFESSION model successfully loaded!
+2024-09-01 15:38:01 - INFO - RESPO model successfully loaded!
+2024-09-01 15:38:02 - INFO - REGRET model successfully loaded!
+2024-09-01 15:38:02 - INFO - CIR_USE model successfully loaded!
+2024-09-01 15:38:03 - INFO - CIR_TYPE_WEP model successfully loaded!
+2024-09-01 15:38:04 - INFO - CIR_STATUS_WEP model successfully loaded!
+2024-09-01 15:38:04 - INFO - CIR_PURPOSE model successfully loaded!
+2024-09-01 15:38:05 - INFO - CIR_PLANNING model successfully loaded!
+2024-09-01 15:38:06 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2024-09-01 15:38:06 - INFO - CIR_MONEY_PAID_WEP model successfully loaded!
+2024-09-01 15:38:07 - INFO - CIR_BUYER_ID_WEP model successfully loaded!
+2024-09-01 15:45:29 - INFO - REJECT model successfully loaded!
+2024-09-01 15:45:30 - INFO - PUNISHMENT model successfully loaded!
+2024-09-01 15:45:31 - INFO - GENERAL_CIRCUM model successfully loaded!
+2024-09-01 15:45:31 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2024-09-01 15:45:32 - INFO - CONFESSION model successfully loaded!
+2024-09-01 15:45:33 - INFO - RESPO model successfully loaded!
+2024-09-01 15:45:33 - INFO - REGRET model successfully loaded!
+2024-09-01 15:45:34 - INFO - CIR_USE model successfully loaded!
+2024-09-01 15:45:35 - INFO - CIR_TYPE_WEP model successfully loaded!
+2024-09-01 15:45:36 - INFO - CIR_STATUS_WEP model successfully loaded!
+2024-09-01 15:45:36 - INFO - CIR_PURPOSE model successfully loaded!
+2024-09-01 15:45:37 - INFO - CIR_PLANNING model successfully loaded!
+2024-09-01 15:45:38 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2024-09-01 15:45:38 - INFO - CIR_MONEY_PAID_WEP model successfully loaded!
+2024-09-01 15:45:39 - INFO - CIR_BUYER_ID_WEP model successfully loaded!
+2024-09-01 15:48:25 - INFO - Metrics to RESPO is: {'accuracy': 0.9771222155328115, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.022877784467188442}
+2024-09-01 15:50:12 - INFO - Metrics to RESPO is: {'accuracy': 0.9771222155328115, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.022877784467188442}
+2024-09-01 15:52:18 - INFO - Metrics to RESPO is: {'accuracy': 0.9771222155328115, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.022877784467188442}
+2024-09-01 15:52:18 - INFO - Metrics to REGRET is: {'accuracy': 0.9885611077664058, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.011438892233594221}
+2024-09-01 15:52:18 - INFO - Metrics to CIR_USE is: {'accuracy': 0.9600580973129993, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.03994190268700073}
+2024-09-01 15:52:19 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.9163154726068633, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.08368452739313667}
+2024-09-01 15:52:19 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.9614689945815773, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.03853100541842264}
+2024-09-01 15:52:19 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.9861529199277543, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.013847080072245636}
+2024-09-01 15:52:19 - INFO - Metrics to CIR_PLANNING is: {'accuracy': 0.9873570138470801, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.012642986152919929}
+2024-09-01 15:52:19 - INFO - Metrics to CIR_OBTAIN_WAY_WEP is: {'accuracy': 0.9921733895243829, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.007826610475617099}
+2024-09-01 15:52:19 - INFO - Metrics to CIR_MONEY_PAID_WEP is: {'accuracy': 0.9876373626373627, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.012362637362637362}
+2024-09-01 15:52:19 - INFO - Metrics to CIR_BUYER_ID_WEP is: {'accuracy': 0.9846449136276392, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.015355086372360844}
+2024-09-01 15:52:19 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9674894641782059, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.0325105358217941}
+2024-09-01 15:53:24 - INFO - Metrics to RESPO is: {'accuracy': 0.9771222155328115, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.022877784467188442}
+2024-09-01 15:53:24 - INFO - Metrics to REGRET is: {'accuracy': 0.9885611077664058, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.011438892233594221}
+2024-09-01 15:53:24 - INFO - Metrics to CIR_USE is: {'accuracy': 0.9600580973129993, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.03994190268700073}
+2024-09-01 15:53:24 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.9163154726068633, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.08368452739313667}
+2024-09-01 15:53:24 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.9614689945815773, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.03853100541842264}
+2024-09-01 15:53:24 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.9861529199277543, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.013847080072245636}
+2024-09-01 15:53:24 - INFO - Metrics to CIR_PLANNING is: {'accuracy': 0.9873570138470801, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.012642986152919929}
+2024-09-01 15:53:24 - INFO - Metrics to CIR_OBTAIN_WAY_WEP is: {'accuracy': 0.9921733895243829, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.007826610475617099}
+2024-09-01 15:53:24 - INFO - Metrics to CIR_MONEY_PAID_WEP is: {'accuracy': 0.9876373626373627, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.012362637362637362}
+2024-09-01 15:53:24 - INFO - Metrics to CIR_BUYER_ID_WEP is: {'accuracy': 0.9846449136276392, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.015355086372360844}
+2024-09-01 15:53:24 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9674894641782059, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.0325105358217941}
+2024-09-01 16:24:30 - INFO - REJECT model successfully loaded!
+2024-09-01 16:24:33 - INFO - REJECT model successfully loaded!
+2024-09-01 16:31:35 - INFO - REJECT model successfully loaded!
+2024-09-01 16:32:04 - INFO - CIR_TYPE_WEP model successfully loaded!
+2024-09-01 16:43:02 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2024-09-01 16:43:17 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2024-09-01 16:43:29 - INFO - CIR_PURPOSE model successfully loaded!
+2024-09-01 16:43:40 - INFO - CIR_STATUS_WEP model successfully loaded!
+2024-09-01 16:43:51 - INFO - REGRET model successfully loaded!
+2024-09-01 16:46:13 - INFO - REJECT model successfully loaded!
+2024-09-01 16:46:14 - INFO - CIR_TYPE_WEP model successfully loaded!
+2024-09-01 16:46:15 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2024-09-01 16:46:15 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2024-09-01 16:46:16 - INFO - CIR_PURPOSE model successfully loaded!
+2024-09-01 16:46:17 - INFO - CIR_STATUS_WEP model successfully loaded!
+2024-09-01 16:46:18 - INFO - REGRET model successfully loaded!
+2024-09-01 16:46:29 - INFO - RESPO model successfully loaded!
+2024-09-01 16:46:41 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2024-09-01 16:46:52 - INFO - CIR_USE model successfully loaded!
+2024-09-01 16:48:24 - INFO - REJECT model successfully loaded!
+2024-09-01 16:52:12 - INFO - reject model successfully loaded!
+2024-09-01 16:52:35 - INFO - CIR_TYPE_WEP model successfully loaded!
+2024-09-01 16:52:36 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2024-09-01 16:52:37 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2024-09-01 16:52:38 - INFO - CIR_PURPOSE model successfully loaded!
+2024-09-01 16:52:38 - INFO - CIR_STATUS_WEP model successfully loaded!
+2024-09-01 16:52:39 - INFO - REGRET model successfully loaded!
+2024-09-01 16:52:40 - INFO - RESPO model successfully loaded!
+2024-09-01 16:52:40 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2024-09-01 16:52:41 - INFO - CIR_USE model successfully loaded!
+2024-09-01 16:54:28 - INFO - reject model successfully loaded!
+2024-09-01 16:54:29 - INFO - CIR_TYPE_WEP model successfully loaded!
+2024-09-01 16:54:30 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2024-09-01 16:54:31 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2024-09-01 16:54:31 - INFO - CIR_PURPOSE model successfully loaded!
+2024-09-01 16:54:32 - INFO - CIR_STATUS_WEP model successfully loaded!
+2024-09-01 16:54:33 - INFO - REGRET model successfully loaded!
+2024-09-01 16:54:34 - INFO - RESPO model successfully loaded!
+2024-09-01 16:54:35 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2024-09-01 16:54:35 - INFO - CIR_USE model successfully loaded!
+2024-09-01 16:56:26 - INFO - reject model successfully loaded!
+2024-09-01 16:56:27 - INFO - CIR_TYPE_WEP model successfully loaded!
+2024-09-01 16:56:28 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2024-09-01 16:56:28 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2024-09-01 16:56:50 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.9163154726068633, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.08368452739313667}
+2024-09-01 16:57:09 - INFO - Metrics to CIR_HELD_WAY_WEP is: {'accuracy': 0.9596628537025887, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.0403371462974112}
+2024-09-01 16:57:28 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9674894641782059, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.0325105358217941}
+2024-09-01 16:57:28 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.9861529199277543, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.013847080072245636}
+2024-09-01 16:57:28 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.9614689945815773, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.03853100541842264}
+2024-09-01 16:57:28 - INFO - Metrics to REGRET is: {'accuracy': 0.9885611077664058, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.011438892233594221}
+2024-09-01 16:57:28 - INFO - Metrics to CIR_PLANNING is: {'accuracy': 0.9873570138470801, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.012642986152919929}
+2024-09-01 16:57:28 - INFO - Metrics to RESPO is: {'accuracy': 0.9771222155328115, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.022877784467188442}
+2024-09-01 16:57:28 - INFO - Metrics to CIR_OBTAIN_WAY_WEP is: {'accuracy': 0.9921733895243829, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.007826610475617099}
+2024-09-01 16:57:28 - INFO - Metrics to CIR_USE is: {'accuracy': 0.9600580973129993, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.03994190268700073}
+2024-09-01 16:57:28 - INFO - Metrics to CIR_MONEY_PAID_WEP is: {'accuracy': 0.9876373626373627, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.012362637362637362}
+2024-09-01 16:58:50 - INFO - reject model successfully loaded!
+2024-09-01 16:58:51 - INFO - CIR_TYPE_WEP model successfully loaded!
+2024-09-01 16:58:52 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2024-09-01 16:58:52 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2024-09-01 16:58:53 - INFO - CIR_PURPOSE model successfully loaded!
+2024-09-01 16:58:54 - INFO - CIR_STATUS_WEP model successfully loaded!
+2024-09-01 16:58:55 - INFO - REGRET model successfully loaded!
+2024-09-01 16:58:55 - INFO - RESPO model successfully loaded!
+2024-09-01 16:58:56 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2024-09-01 16:58:57 - INFO - CIR_USE model successfully loaded!
+2024-09-01 16:59:32 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.9620710415412402, 'precision': 0.6938775510204082, 'recall': 0.9784172661870504, 'f1': 0.8119402985074626, 'PRAUC': 0.8562004834491703}
+2024-09-01 17:00:01 - INFO - Metrics to CIR_HELD_WAY_WEP is: {'accuracy': 0.8789885611077664, 'precision': 0.24621212121212122, 'recall': 0.9701492537313433, 'f1': 0.39274924471299094, 'PRAUC': 0.673864302073982}
+2024-09-01 17:00:30 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.917519566526189, 'precision': 0.26285714285714284, 'recall': 0.8518518518518519, 'f1': 0.4017467248908297, 'PRAUC': 0.6089592119209916}
+2024-09-01 17:00:59 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.7977122215532811, 'precision': 0.06162464985994398, 'recall': 0.9565217391304348, 'f1': 0.11578947368421053, 'PRAUC': 0.32480574931716644}
+2024-09-01 17:01:28 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.8079470198675497, 'precision': 0.1671018276762402, 'recall': 1.0, 'f1': 0.28635346756152125, 'PRAUC': 0.5322771499035361}
+2024-09-01 17:01:57 - INFO - Metrics to REGRET is: {'accuracy': 0.9783263094521373, 'precision': 0.32653061224489793, 'recall': 0.8421052631578947, 'f1': 0.47058823529411764, 'PRAUC': 0.6294421658759141}
+2024-09-01 17:02:33 - INFO - Metrics to CIR_PLANNING is: {'accuracy': 0.9873570138470801, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.012642986152919929}
+2024-09-01 17:03:02 - INFO - Metrics to RESPO is: {'accuracy': 0.9145093317278747, 'precision': 0.2111111111111111, 'recall': 1.0, 'f1': 0.3486238532110092, 'PRAUC': 0.7672918345845547}
+2024-09-01 17:03:31 - INFO - Metrics to CIR_OBTAIN_WAY_WEP is: {'accuracy': 0.8482841661649608, 'precision': 0.045627376425855515, 'recall': 0.9230769230769231, 'f1': 0.08695652173913043, 'PRAUC': 0.07318257074297116}
+2024-09-01 17:03:54 - INFO - Metrics to CIR_USE is: {'accuracy': 0.8888888888888888, 'precision': 0.25980392156862747, 'recall': 0.9636363636363636, 'f1': 0.4092664092664093, 'PRAUC': 0.5091004210808556}
+2024-09-01 17:03:54 - INFO - Metrics to CIR_MONEY_PAID_WEP is: {'accuracy': 0.9876373626373627, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.012362637362637362}
+2024-09-01 17:04:20 - INFO - reject model successfully loaded!
+2024-09-01 17:04:20 - INFO - CIR_TYPE_WEP model successfully loaded!
+2024-09-01 17:04:21 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2024-09-01 17:04:21 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2024-09-01 17:04:22 - INFO - CIR_PURPOSE model successfully loaded!
+2024-09-01 17:04:23 - INFO - CIR_STATUS_WEP model successfully loaded!
+2024-09-01 17:04:23 - INFO - REGRET model successfully loaded!
+2024-09-01 17:04:24 - INFO - RESPO model successfully loaded!
+2024-09-01 17:04:25 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2024-09-01 17:04:25 - INFO - CIR_USE model successfully loaded!
+2024-09-01 17:04:26 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.9163154726068633, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.08368452739313667}
+2024-09-01 17:04:26 - INFO - Metrics to CIR_HELD_WAY_WEP is: {'accuracy': 0.9596628537025887, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.0403371462974112}
+2024-09-01 17:04:26 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9674894641782059, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.0325105358217941}
+2024-09-01 17:04:26 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.9861529199277543, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.013847080072245636}
+2024-09-01 17:04:26 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.9614689945815773, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.03853100541842264}
+2024-09-01 17:04:26 - INFO - Metrics to REGRET is: {'accuracy': 0.9885611077664058, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.011438892233594221}
+2024-09-01 17:04:26 - INFO - Metrics to CIR_PLANNING is: {'accuracy': 0.9873570138470801, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.012642986152919929}
+2024-09-01 17:04:26 - INFO - Metrics to RESPO is: {'accuracy': 0.9771222155328115, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.022877784467188442}
+2024-09-01 17:04:26 - INFO - Metrics to CIR_OBTAIN_WAY_WEP is: {'accuracy': 0.9921733895243829, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.007826610475617099}
+2024-09-01 17:04:26 - INFO - Metrics to CIR_USE is: {'accuracy': 0.9600580973129993, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.03994190268700073}
+2024-09-01 17:04:26 - INFO - Metrics to CIR_MONEY_PAID_WEP is: {'accuracy': 0.9876373626373627, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.012362637362637362}
+2024-09-01 17:05:02 - INFO - reject model successfully loaded!
+2024-09-01 17:05:03 - INFO - CIR_TYPE_WEP model successfully loaded!
+2024-09-01 17:05:04 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2024-09-01 17:05:05 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2024-09-01 17:05:05 - INFO - CIR_PURPOSE model successfully loaded!
+2024-09-01 17:05:06 - INFO - CIR_STATUS_WEP model successfully loaded!
+2024-09-01 17:05:07 - INFO - REGRET model successfully loaded!
+2024-09-01 17:05:07 - INFO - RESPO model successfully loaded!
+2024-09-01 17:05:08 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2024-09-01 17:05:09 - INFO - CIR_USE model successfully loaded!
+2024-09-01 17:05:10 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.9163154726068633, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.08368452739313667}
+2024-09-01 17:05:10 - INFO - Metrics to CIR_HELD_WAY_WEP is: {'accuracy': 0.9596628537025887, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.0403371462974112}
+2024-09-01 17:05:10 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9674894641782059, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.0325105358217941}
+2024-09-01 17:05:10 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.9861529199277543, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.013847080072245636}
+2024-09-01 17:05:10 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.9614689945815773, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.03853100541842264}
+2024-09-01 17:05:10 - INFO - Metrics to REGRET is: {'accuracy': 0.9885611077664058, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.011438892233594221}
+2024-09-01 17:05:10 - INFO - Metrics to CIR_PLANNING is: {'accuracy': 0.9873570138470801, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.012642986152919929}
+2024-09-01 17:05:10 - INFO - Metrics to RESPO is: {'accuracy': 0.9771222155328115, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.022877784467188442}
+2024-09-01 17:05:10 - INFO - Metrics to CIR_OBTAIN_WAY_WEP is: {'accuracy': 0.9921733895243829, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.007826610475617099}
+2024-09-01 17:05:10 - INFO - Metrics to CIR_USE is: {'accuracy': 0.9600580973129993, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.03994190268700073}
+2024-09-01 17:05:10 - INFO - Metrics to CIR_MONEY_PAID_WEP is: {'accuracy': 0.9876373626373627, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.012362637362637362}
+2024-09-01 17:05:43 - INFO - reject model successfully loaded!
+2024-09-01 17:05:44 - INFO - CIR_TYPE_WEP model successfully loaded!
+2024-09-01 17:05:44 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2024-09-01 17:05:45 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2024-09-01 17:05:46 - INFO - CIR_PURPOSE model successfully loaded!
+2024-09-01 17:05:46 - INFO - CIR_STATUS_WEP model successfully loaded!
+2024-09-01 17:05:47 - INFO - REGRET model successfully loaded!
+2024-09-01 17:05:48 - INFO - RESPO model successfully loaded!
+2024-09-01 17:05:48 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2024-09-01 17:05:49 - INFO - CIR_USE model successfully loaded!
+2024-09-01 17:07:03 - INFO - reject model successfully loaded!
+2024-09-01 17:09:03 - INFO - reject model successfully loaded!
+2024-09-01 17:09:04 - INFO - CIR_TYPE_WEP model successfully loaded!
+2024-09-01 17:09:05 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2024-09-01 17:09:06 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2024-09-01 17:09:06 - INFO - CIR_PURPOSE model successfully loaded!
+2024-09-01 17:09:07 - INFO - CIR_STATUS_WEP model successfully loaded!
+2024-09-01 17:09:08 - INFO - REGRET model successfully loaded!
+2024-09-01 17:09:09 - INFO - RESPO model successfully loaded!
+2024-09-01 17:09:09 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2024-09-01 17:09:10 - INFO - CIR_USE model successfully loaded!
+2024-09-01 17:09:26 - INFO - reject model successfully loaded!
+2024-09-01 17:09:26 - INFO - CIR_TYPE_WEP model successfully loaded!
+2024-09-01 17:09:27 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2024-09-01 17:09:28 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2024-09-01 17:09:30 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.9163154726068633, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.08368452739313667}
+2024-09-01 17:09:30 - INFO - Metrics to CIR_HELD_WAY_WEP is: {'accuracy': 0.9596628537025887, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.0403371462974112}
+2024-09-01 17:09:30 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9674894641782059, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.0325105358217941}
+2024-09-01 17:09:30 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.9861529199277543, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.013847080072245636}
+2024-09-01 17:09:30 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.9614689945815773, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.03853100541842264}
+2024-09-01 17:09:30 - INFO - Metrics to REGRET is: {'accuracy': 0.9885611077664058, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.011438892233594221}
+2024-09-01 17:09:30 - INFO - Metrics to CIR_PLANNING is: {'accuracy': 0.9873570138470801, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.012642986152919929}
+2024-09-01 17:09:30 - INFO - Metrics to RESPO is: {'accuracy': 0.9771222155328115, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.022877784467188442}
+2024-09-01 17:09:30 - INFO - Metrics to CIR_OBTAIN_WAY_WEP is: {'accuracy': 0.9921733895243829, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.007826610475617099}
+2024-09-01 17:09:30 - INFO - Metrics to CIR_USE is: {'accuracy': 0.9600580973129993, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.03994190268700073}
+2024-09-01 17:09:30 - INFO - Metrics to CIR_MONEY_PAID_WEP is: {'accuracy': 0.9876373626373627, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.012362637362637362}
+2024-09-01 17:10:08 - INFO - reject model successfully loaded!
+2024-09-01 17:12:20 - INFO - reject model successfully loaded!
+2024-09-01 17:12:31 - INFO - CONFESSION model successfully loaded!
+2024-09-01 17:12:41 - INFO - GENERAL_CIRCUM model successfully loaded!
+2024-09-01 17:12:52 - INFO - PUNISHMENT model successfully loaded!
+2024-09-01 17:13:03 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2024-09-01 17:13:04 - INFO - CIR_TYPE_WEP model successfully loaded!
+2024-09-01 17:13:04 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2024-09-01 17:13:05 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2024-09-01 17:13:06 - INFO - CIR_PURPOSE model successfully loaded!
+2024-09-01 17:13:06 - INFO - CIR_STATUS_WEP model successfully loaded!
+2024-09-01 17:13:07 - INFO - REGRET model successfully loaded!
+2024-09-01 17:13:08 - INFO - RESPO model successfully loaded!
+2024-09-01 17:13:08 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2024-09-01 17:13:09 - INFO - CIR_USE model successfully loaded!
+2024-09-01 17:15:56 - INFO - reject model successfully loaded!
+2024-09-01 17:16:05 - INFO - CONFESSION model successfully loaded!
+2024-09-01 17:16:13 - INFO - GENERAL_CIRCUM model successfully loaded!
+2024-09-01 17:16:20 - INFO - PUNISHMENT model successfully loaded!
+2024-09-01 17:16:29 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2024-09-01 17:16:30 - INFO - CIR_TYPE_WEP model successfully loaded!
+2024-09-01 17:16:31 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2024-09-01 17:16:32 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2024-09-01 17:16:32 - INFO - CIR_PURPOSE model successfully loaded!
+2024-09-01 17:16:33 - INFO - CIR_STATUS_WEP model successfully loaded!
+2024-09-01 17:16:34 - INFO - REGRET model successfully loaded!
+2024-09-01 17:16:34 - INFO - RESPO model successfully loaded!
+2024-09-01 17:16:35 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2024-09-01 17:16:36 - INFO - CIR_USE model successfully loaded!
+2024-09-01 17:17:46 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.9620710415412402, 'precision': 0.6979166666666666, 'recall': 0.9640287769784173, 'f1': 0.8096676737160121, 'PRAUC': 0.8449152402063493}
+2024-09-01 17:18:22 - INFO - Metrics to CIR_HELD_WAY_WEP is: {'accuracy': 0.8922335942203492, 'precision': 0.26859504132231404, 'recall': 0.9701492537313433, 'f1': 0.42071197411003236, 'PRAUC': 0.67550355652412}
+2024-09-01 17:19:00 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9235400361228175, 'precision': 0.2787878787878788, 'recall': 0.8518518518518519, 'f1': 0.4200913242009132, 'PRAUC': 0.6171753727329103}
+2024-09-01 17:19:36 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.8296207104154124, 'precision': 0.060810810810810814, 'recall': 0.782608695652174, 'f1': 0.11285266457680251, 'PRAUC': 0.2731927118489308}
+2024-09-01 17:20:11 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.8603251053582179, 'precision': 0.21621621621621623, 'recall': 1.0, 'f1': 0.35555555555555557, 'PRAUC': 0.5447715471955483}
+2024-09-01 17:20:47 - INFO - Metrics to REGRET is: {'accuracy': 0.9891631547260686, 'precision': 1.0, 'recall': 0.05263157894736842, 'f1': 0.1, 'PRAUC': 0.11549795620900535}
+2024-09-01 17:21:16 - INFO - Metrics to CIR_PLANNING is: {'accuracy': 0.9873570138470801, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.012642986152919929}
+2024-09-01 17:21:52 - INFO - Metrics to RESPO is: {'accuracy': 0.9698976520168573, 'precision': 0.2692307692307692, 'recall': 0.18421052631578946, 'f1': 0.21875, 'PRAUC': 0.15104094667967097}
+2024-09-01 17:22:27 - INFO - Metrics to CIR_OBTAIN_WAY_WEP is: {'accuracy': 0.8585189644792294, 'precision': 0.045081967213114756, 'recall': 0.8461538461538461, 'f1': 0.08560311284046693, 'PRAUC': 0.06914092452031129}
+2024-09-01 17:22:57 - INFO - Metrics to CIR_USE is: {'accuracy': 0.8983297022512708, 'precision': 0.2774869109947644, 'recall': 0.9636363636363636, 'f1': 0.43089430894308944, 'PRAUC': 0.5072331630030759}
+2024-09-01 17:23:11 - INFO - Metrics to CIR_MONEY_PAID_WEP is: {'accuracy': 0.9876373626373627, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.012362637362637362}
+2024-09-01 17:24:53 - INFO - reject model successfully loaded!
+2024-09-01 17:24:54 - INFO - CONFESSION model successfully loaded!
+2024-09-01 17:24:55 - INFO - GENERAL_CIRCUM model successfully loaded!
+2024-09-01 17:24:56 - INFO - PUNISHMENT model successfully loaded!
+2024-09-01 17:24:56 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2024-09-01 17:24:57 - INFO - CIR_TYPE_WEP model successfully loaded!
+2024-09-01 17:24:58 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2024-09-01 17:24:58 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2024-09-01 17:24:59 - INFO - CIR_PURPOSE model successfully loaded!
+2024-09-01 17:25:00 - INFO - CIR_STATUS_WEP model successfully loaded!
+2024-09-01 17:25:01 - INFO - REGRET model successfully loaded!
+2024-09-01 17:25:02 - INFO - RESPO model successfully loaded!
+2024-09-01 17:25:03 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2024-09-01 17:25:04 - INFO - CIR_USE model successfully loaded!
+2024-09-01 17:26:36 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.9686935580975317, 'precision': 0.7457627118644068, 'recall': 0.9496402877697842, 'f1': 0.8354430379746836, 'PRAUC': 0.848580612213702}
+2024-09-01 17:27:22 - INFO - Metrics to CIR_HELD_WAY_WEP is: {'accuracy': 0.9241420830824805, 'precision': 0.32748538011695905, 'recall': 0.835820895522388, 'f1': 0.47058823529411764, 'PRAUC': 0.6169197584092376}
+2024-09-01 17:28:08 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9524382901866345, 'precision': 0.38095238095238093, 'recall': 0.7407407407407407, 'f1': 0.5031446540880503, 'PRAUC': 0.6313287125968866}
+2024-09-01 17:28:54 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.9163154726068633, 'precision': 0.10273972602739725, 'recall': 0.6521739130434783, 'f1': 0.17751479289940827, 'PRAUC': 0.31561449188094776}
+2024-09-01 17:29:40 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.9114990969295605, 'precision': 0.3014354066985646, 'recall': 0.984375, 'f1': 0.46153846153846156, 'PRAUC': 0.574185578586074}
+2024-09-01 17:30:26 - INFO - Metrics to REGRET is: {'accuracy': 0.9891631547260686, 'precision': 1.0, 'recall': 0.05263157894736842, 'f1': 0.1, 'PRAUC': 0.11549795620900535}
+2024-09-01 17:31:11 - INFO - reject model successfully loaded!
+2024-09-01 17:31:12 - INFO - CONFESSION model successfully loaded!
+2024-09-01 17:31:13 - INFO - GENERAL_CIRCUM model successfully loaded!
+2024-09-01 17:31:14 - INFO - PUNISHMENT model successfully loaded!
+2024-09-01 17:31:14 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2024-09-01 17:31:15 - INFO - CIR_TYPE_WEP model successfully loaded!
+2024-09-01 17:31:16 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2024-09-01 17:31:16 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2024-09-01 17:31:17 - INFO - CIR_PURPOSE model successfully loaded!
+2024-09-01 17:31:18 - INFO - CIR_STATUS_WEP model successfully loaded!
+2024-09-01 17:31:19 - INFO - REGRET model successfully loaded!
+2024-09-01 17:31:20 - INFO - RESPO model successfully loaded!
+2024-09-01 17:31:21 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2024-09-01 17:31:22 - INFO - CIR_USE model successfully loaded!
+2024-09-01 17:38:00 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.9163154726068633, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.08368452739313667}
+2024-09-01 17:38:00 - INFO - Metrics to CIR_HELD_WAY_WEP is: {'accuracy': 0.9596628537025887, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.0403371462974112}
+2024-09-01 17:38:00 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9674894641782059, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.0325105358217941}
+2024-09-01 17:38:00 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.9861529199277543, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.013847080072245636}
+2024-09-01 17:38:00 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.9614689945815773, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.03853100541842264}
+2024-09-01 17:38:00 - INFO - Metrics to REGRET is: {'accuracy': 0.9885611077664058, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.011438892233594221}
+2024-09-01 17:38:00 - INFO - Metrics to CIR_PLANNING is: {'accuracy': 0.9873570138470801, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.012642986152919929}
+2024-09-01 17:38:00 - INFO - Metrics to RESPO is: {'accuracy': 0.9771222155328115, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.022877784467188442}
+2024-09-01 17:38:00 - INFO - Metrics to CIR_OBTAIN_WAY_WEP is: {'accuracy': 0.9921733895243829, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.007826610475617099}
+2024-09-01 17:38:00 - INFO - Metrics to CIR_USE is: {'accuracy': 0.9600580973129993, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.03994190268700073}
+2024-09-01 17:38:00 - INFO - Metrics to CIR_MONEY_PAID_WEP is: {'accuracy': 0.9876373626373627, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.012362637362637362}
+2024-09-01 17:38:57 - INFO - reject model successfully loaded!
+2024-09-01 17:38:58 - INFO - CONFESSION model successfully loaded!
+2024-09-01 17:38:58 - INFO - GENERAL_CIRCUM model successfully loaded!
+2024-09-01 17:38:59 - INFO - PUNISHMENT model successfully loaded!
+2024-09-01 17:39:00 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2024-09-01 17:39:00 - INFO - CIR_TYPE_WEP model successfully loaded!
+2024-09-01 17:39:01 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2024-09-01 17:39:02 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2024-09-01 17:39:02 - INFO - CIR_PURPOSE model successfully loaded!
+2024-09-01 17:39:03 - INFO - CIR_STATUS_WEP model successfully loaded!
+2024-09-01 17:39:04 - INFO - REGRET model successfully loaded!
+2024-09-01 17:39:04 - INFO - RESPO model successfully loaded!
+2024-09-01 17:39:05 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2024-09-01 17:39:06 - INFO - CIR_USE model successfully loaded!
+2024-09-01 17:40:24 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.9686935580975317, 'precision': 0.7457627118644068, 'recall': 0.9496402877697842, 'f1': 0.8354430379746836, 'PRAUC': 0.848580612213702}
+2024-09-01 17:41:59 - INFO - Metrics to CIR_HELD_WAY_WEP is: {'accuracy': 0.9241420830824805, 'precision': 0.32748538011695905, 'recall': 0.835820895522388, 'f1': 0.47058823529411764, 'PRAUC': 0.6169197584092376}
+2024-09-01 17:42:45 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9524382901866345, 'precision': 0.38095238095238093, 'recall': 0.7407407407407407, 'f1': 0.5031446540880503, 'PRAUC': 0.6313287125968866}
+2024-09-01 17:43:30 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.9163154726068633, 'precision': 0.10273972602739725, 'recall': 0.6521739130434783, 'f1': 0.17751479289940827, 'PRAUC': 0.31561449188094776}
+2024-09-01 17:44:16 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.9114990969295605, 'precision': 0.3014354066985646, 'recall': 0.984375, 'f1': 0.46153846153846156, 'PRAUC': 0.574185578586074}
+2024-09-01 17:44:59 - INFO - Metrics to REGRET is: {'accuracy': 0.9861529199277543, 'precision': 0.16666666666666666, 'recall': 0.05263157894736842, 'f1': 0.08, 'PRAUC': 0.06183772193880245}
+2024-09-01 17:45:40 - INFO - Metrics to CIR_PLANNING is: {'accuracy': 0.9873570138470801, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'PRAUC': 0.012642986152919929}

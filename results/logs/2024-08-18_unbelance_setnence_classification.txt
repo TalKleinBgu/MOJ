@@ -1,0 +1,58 @@
+2024-08-18 11:31:39 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-18 11:33:03 - INFO - Starting training for labels: CONFESSION
+2024-08-18 11:56:48 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-18 11:56:48 - INFO - Starting training for labels: CIR_TYPE_WEP
+2024-08-18 11:56:48 - INFO - Starting training for model: HeNLP/HeRo
+2024-08-18 11:57:38 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.9552715654952076, 'precision': 0.6919431279620853, 'recall': 0.7564766839378239, 'f1': 0.7227722772277227, 'PRAUC': 0.756852377818842, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.9988997599029502}
+2024-08-18 11:59:44 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-18 11:59:44 - INFO - Starting training for labels: _HELD_WAY_WEP
+2024-08-18 12:14:11 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-18 12:14:11 - INFO - Starting training for labels: _HELD_WAY_WEP
+2024-08-18 12:14:12 - INFO - Starting training for model: HeNLP/HeRo
+2024-08-18 12:18:45 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-18 12:18:46 - INFO - Starting training for labels: CIR_AMMU_AMOUNT_WEP
+2024-08-18 12:18:47 - INFO - Starting training for model: HeNLP/HeRo
+2024-08-18 12:23:48 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-18 12:24:35 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-18 12:27:34 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-18 12:27:34 - INFO - Starting training for labels: CONFESSION
+2024-08-18 12:28:11 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-18 12:28:11 - INFO - Starting training for labels: CIR_TYPE_WEP
+2024-08-18 12:28:37 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-18 12:28:37 - INFO - Starting training for labels: _HELD_WAY_WEP
+2024-08-18 12:31:10 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-18 12:31:10 - INFO - Starting training for labels: CIR_AMMU_AMOUNT_WEP
+2024-08-18 12:37:03 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-18 12:37:03 - INFO - Starting training for labels: CIR_PURPOSE
+2024-08-18 12:49:19 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.9692492012779552, 'precision': 0.24561403508771928, 'recall': 0.2916666666666667, 'f1': 0.26666666666666666, 'PRAUC': 0.18459507840486428, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.9306705944027951}
+2024-08-18 13:47:09 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-18 13:47:10 - INFO - Starting training for labels: GENERAL_CIRCUM
+2024-08-18 14:18:45 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.9297124600638977, 'precision': 0.7298701298701299, 'recall': 0.7960339943342776, 'f1': 0.7615176151761518, 'PRAUC': 0.8223264217924248, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.3763097204947496}
+2024-08-18 14:18:46 - INFO - Starting training for labels: CIR_STATUS_WEP
+2024-08-18 14:23:25 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.9524760383386581, 'precision': 0.37575757575757573, 'recall': 0.7948717948717948, 'f1': 0.5102880658436214, 'PRAUC': 0.49104536709546026, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.7969316910463987}
+2024-08-18 14:23:25 - INFO - Starting training for labels: REGRET
+2024-08-18 14:27:46 - INFO - Metrics to REGRET is: {'accuracy': 0.979632587859425, 'precision': 0.3673469387755102, 'recall': 0.47368421052631576, 'f1': 0.41379310344827586, 'PRAUC': 0.3249818461802884, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.9274976671020821}
+2024-08-18 14:27:46 - INFO - Starting training for labels: PUNISHMENT
+2024-08-18 14:35:00 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-18 14:35:00 - INFO - Starting training for labels: CONFESSION
+2024-08-18 14:44:50 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-18 14:44:52 - INFO - Starting training for labels: CONFESSION
+2024-08-18 15:52:43 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-18 15:52:52 - INFO - Starting training for labels: CIR_TYPE_WEP
+2024-08-18 15:53:19 - INFO - Starting training for model: HeNLP/HeRo

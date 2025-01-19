@@ -1,0 +1,29 @@
+2025-01-03 23:02:23 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/drugs/15cases_in_train
+2025-01-03 23:02:23 - INFO - Starting training for label: PUNISHMENT
+2025-01-03 23:02:23 - ERROR - Error in label PUNISHMENT: [Errno 2] No such file or directory: '/home/tak/pred-sentencing/resources/data/trainning/sentence_classification/drugs/15cases_in_train/train_balance_label_dataframes.pkl'
+2025-01-03 23:02:23 - INFO - setfit training finished.
+2025-01-03 23:03:34 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/drugs/12cases_in_train
+2025-01-03 23:03:34 - INFO - Starting training for label: PUNISHMENT
+2025-01-03 23:03:34 - INFO - Starting training for model: dictabert
+2025-01-03 23:08:21 - ERROR - Error in label PUNISHMENT: [Errno 39] Directory not empty: 'checkpoints/step_115'
+2025-01-03 23:08:21 - INFO - setfit training finished.
+2025-01-03 23:08:40 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/drugs/12cases_in_train
+2025-01-03 23:08:40 - INFO - Starting training for label: PUNISHMENT
+2025-01-03 23:08:40 - INFO - Starting training for model: dictabert
+2025-01-03 23:13:27 - ERROR - Error in label PUNISHMENT: [Errno 39] Directory not empty: 'checkpoints/step_115'
+2025-01-03 23:13:27 - INFO - setfit training finished.
+2025-01-03 23:17:29 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/drugs/12cases_in_train
+2025-01-03 23:17:29 - INFO - Starting training for label: PUNISHMENT
+2025-01-03 23:17:29 - INFO - Starting training for model: dictabert
+2025-01-03 23:22:14 - ERROR - Error in label PUNISHMENT: [Errno 39] Directory not empty: 'checkpoints/step_115'
+2025-01-03 23:22:14 - INFO - setfit training finished.
+2025-01-03 23:23:31 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/drugs/12cases_in_train
+2025-01-03 23:23:31 - INFO - Starting training for label: PUNISHMENT
+2025-01-03 23:23:31 - INFO - Starting training for model: dictabert
+2025-01-03 23:23:34 - ERROR - Error in label PUNISHMENT: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-01-03 23:23:34 - INFO - setfit training finished.

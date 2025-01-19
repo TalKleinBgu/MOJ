@@ -1,0 +1,15 @@
+Model Evaluation Report
+
+Model Type: decision_tree
+Extraction Type: qa
+=========================
+Accuracy: 0.432
+Precision: 0.187
+Recall: 0.432
+F1: 0.261
+PR AUC: 0.58
+=========================
+Confusion Matrix:
+[[ 0 21]
+ [ 0 16]]
+AUC Score: <function auc at 0x7f5bb441a320>

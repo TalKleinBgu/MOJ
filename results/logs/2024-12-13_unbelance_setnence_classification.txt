@@ -1,0 +1,271 @@
+2024-12-13 14:56:26 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 14:56:26 - INFO - Starting training for labels: reject
+2024-12-13 14:56:26 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 14:58:50 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 14:58:50 - INFO - Starting training for labels: reject
+2024-12-13 14:58:50 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 14:59:38 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 14:59:38 - INFO - Starting training for labels: PUNISHMENT
+2024-12-13 14:59:38 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 15:04:20 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 15:04:20 - INFO - Starting training for labels: PUNISHMENT
+2024-12-13 15:04:20 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 15:06:25 - ERROR - Error in label PUNISHMENT: can't multiply sequence by non-int of type 'float'
+2024-12-13 15:06:25 - INFO - setfit training finished.
+2024-12-13 15:09:33 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 15:09:33 - INFO - Starting training for labels: PUNISHMENT
+2024-12-13 15:09:33 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 15:11:02 - ERROR - Error in label PUNISHMENT: can't multiply sequence by non-int of type 'float'
+2024-12-13 15:27:28 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 15:27:28 - INFO - Starting training for labels: PUNISHMENT
+2024-12-13 15:29:28 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 15:29:28 - INFO - Starting training for labels: PUNISHMENT
+2024-12-13 15:29:28 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 15:29:32 - ERROR - Error in label PUNISHMENT: TrainingArguments.__init__() got an unexpected keyword argument 'debug'
+2024-12-13 15:30:39 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 15:30:39 - INFO - Starting training for labels: PUNISHMENT
+2024-12-13 15:30:40 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 15:31:38 - ERROR - Error in label PUNISHMENT: can't multiply sequence by non-int of type 'float'
+2024-12-13 15:32:53 - INFO - setfit training finished.
+2024-12-13 15:36:31 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 15:36:31 - INFO - Starting training for labels: PUNISHMENT
+2024-12-13 15:36:39 - ERROR - Error in label PUNISHMENT: Label type error: <class 'str'>
+2024-12-13 15:36:52 - INFO - setfit training finished.
+2024-12-13 15:37:34 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 15:37:34 - INFO - Starting training for labels: PUNISHMENT
+2024-12-13 15:39:06 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 15:39:06 - INFO - Starting training for labels: PUNISHMENT
+2024-12-13 15:41:34 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 15:41:34 - INFO - Starting training for labels: PUNISHMENT
+2024-12-13 15:41:34 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 15:41:50 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 15:41:50 - INFO - Starting training for labels: PUNISHMENT
+2024-12-13 15:41:50 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 15:41:59 - ERROR - Error in label PUNISHMENT: '<=' not supported between instances of 'float' and 'str'
+2024-12-13 15:41:59 - INFO - setfit training finished.
+2024-12-13 15:42:20 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 15:42:20 - INFO - Starting training for labels: PUNISHMENT
+2024-12-13 15:42:20 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 15:42:44 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 15:42:44 - INFO - Starting training for labels: PUNISHMENT
+2024-12-13 15:42:44 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 15:43:31 - ERROR - Error in label PUNISHMENT: can't multiply sequence by non-int of type 'float'
+2024-12-13 15:43:31 - INFO - setfit training finished.
+2024-12-13 15:44:49 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 15:44:49 - INFO - Starting training for labels: PUNISHMENT
+2024-12-13 15:44:49 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 15:45:39 - ERROR - Error in label PUNISHMENT: y should be a 1d array, got an array of shape (1700, 2) instead.
+2024-12-13 15:45:39 - INFO - setfit training finished.
+2024-12-13 15:47:52 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 15:47:52 - INFO - Starting training for labels: PUNISHMENT
+2024-12-13 15:47:58 - ERROR - Error in label PUNISHMENT: 'SentenceTaggingModel' object has no attribute 'train_df'
+2024-12-13 15:48:39 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 15:48:39 - INFO - Starting training for labels: PUNISHMENT
+2024-12-13 15:48:43 - ERROR - Error in label PUNISHMENT: 'list' object has no attribute 'head'
+2024-12-13 15:49:09 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 15:49:09 - INFO - Starting training for labels: PUNISHMENT
+2024-12-13 15:50:13 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 15:50:13 - INFO - Starting training for labels: PUNISHMENT
+2024-12-13 15:50:45 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 15:50:45 - INFO - Starting training for labels: PUNISHMENT
+2024-12-13 15:51:00 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 15:51:00 - INFO - Starting training for labels: PUNISHMENT
+2024-12-13 15:52:30 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 15:52:30 - INFO - Starting training for labels: PUNISHMENT
+2024-12-13 15:52:30 - ERROR - Error in label PUNISHMENT: 'list' object has no attribute 'unique'
+2024-12-13 15:52:30 - INFO - setfit training finished.
+2024-12-13 15:52:51 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 15:52:51 - INFO - Starting training for labels: PUNISHMENT
+2024-12-13 15:52:51 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 15:53:44 - ERROR - Error in label PUNISHMENT: y should be a 1d array, got an array of shape (1700, 2) instead.
+2024-12-13 15:53:44 - INFO - setfit training finished.
+2024-12-13 15:54:54 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 15:54:54 - INFO - Starting training for labels: reject
+2024-12-13 15:56:19 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 15:56:19 - INFO - Starting training for labels: PUNISHMENT
+2024-12-13 15:56:19 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 15:58:16 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 15:58:16 - INFO - Starting training for labels: PUNISHMENT
+2024-12-13 15:58:16 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 16:00:07 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 16:00:07 - INFO - Starting training for labels: PUNISHMENT
+2024-12-13 16:00:29 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 16:02:08 - ERROR - Error in label PUNISHMENT: [Errno 32] Broken pipe
+2024-12-13 16:02:08 - INFO - setfit training finished.
+2024-12-13 16:02:51 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 16:02:51 - INFO - Starting training for labels: PUNISHMENT
+2024-12-13 16:02:51 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 16:04:21 - ERROR - Error in label PUNISHMENT: y should be a 1d array, got an array of shape (1700, 2) instead.
+2024-12-13 16:04:43 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 16:04:43 - INFO - Starting training for labels: PUNISHMENT
+2024-12-13 16:04:43 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 16:04:52 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 16:04:52 - INFO - Starting training for labels: PUNISHMENT
+2024-12-13 16:04:52 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 16:06:11 - ERROR - Error in label PUNISHMENT: CUDA out of memory. Tried to allocate 768.00 MiB. GPU 
+2024-12-13 16:06:11 - INFO - setfit training finished.
+2024-12-13 16:06:12 - ERROR - Error in label PUNISHMENT: CUDA out of memory. Tried to allocate 768.00 MiB. GPU 
+2024-12-13 16:06:12 - INFO - setfit training finished.
+2024-12-13 16:06:40 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 16:06:40 - INFO - Starting training for labels: PUNISHMENT
+2024-12-13 16:06:40 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 16:08:26 - ERROR - Error in label PUNISHMENT: y should be a 1d array, got an array of shape (1700, 2) instead.
+2024-12-13 16:08:47 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 16:08:47 - INFO - Starting training for labels: PUNISHMENT
+2024-12-13 16:08:47 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 16:09:35 - INFO - Metrics to PUNISHMENT is: {'accuracy': 0.9864705882352941, 'precision': 0.7536231884057971, 'recall': 0.896551724137931, 'f1': 0.8188976377952756, 'PRAUC': 0.7084031338962072, 'eval_set': 136, 'test_set': 1700, 'best_threshold': 0.8950230479240417}
+2024-12-13 16:09:38 - INFO - setfit training finished.
+2024-12-13 16:10:06 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 16:10:06 - INFO - Starting training for labels: PUNISHMENT
+2024-12-13 16:10:06 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 16:12:08 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 16:12:08 - INFO - Starting training for labels: PUNISHMENT
+2024-12-13 16:12:09 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 16:13:25 - INFO - Metrics to PUNISHMENT is: {'accuracy': 0.9882352941176471, 'precision': 0.796875, 'recall': 0.8793103448275862, 'f1': 0.8360655737704918, 'PRAUC': 0.8712226828281764, 'best_threshold': 0.90521639585495}
+2024-12-13 16:13:25 - ERROR - Error in label PUNISHMENT: [Errno 13] Permission denied: '/home/{username}'
+2024-12-13 16:13:27 - INFO - setfit training finished.
+2024-12-13 16:15:36 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 16:15:36 - INFO - Starting training for labels: PUNISHMENT
+2024-12-13 16:15:36 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 16:15:49 - ERROR - Error in label PUNISHMENT: '<=' not supported between instances of 'float' and 'str'
+2024-12-13 16:15:49 - INFO - setfit training finished.
+2024-12-13 16:16:26 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 16:16:26 - INFO - Starting training for labels: PUNISHMENT
+2024-12-13 16:16:26 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 16:17:12 - ERROR - Error in label PUNISHMENT: can't multiply sequence by non-int of type 'float'
+2024-12-13 16:17:12 - INFO - setfit training finished.
+2024-12-13 16:18:22 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 16:18:22 - INFO - Starting training for labels: PUNISHMENT
+2024-12-13 16:18:22 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 16:21:06 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 16:21:06 - INFO - Starting training for labels: PUNISHMENT
+2024-12-13 16:21:06 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 16:21:50 - INFO - Metrics to PUNISHMENT is: {'accuracy': 0.9870588235294118, 'precision': 0.7432432432432432, 'recall': 0.9482758620689655, 'f1': 0.8333333333333334, 'PRAUC': 0.7551704867870095, 'best_threshold': 0.9208636283874512}
+2024-12-13 16:21:53 - INFO - setfit training finished.
+2024-12-13 17:19:38 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-12-13 17:21:46 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/weapon/12cases_in_train
+2024-12-13 17:23:12 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/weapon/12cases_in_train
+2024-12-13 17:24:17 - INFO - Starting training for labels: PUNISHMENT
+2024-12-13 17:24:17 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 17:25:12 - INFO - Metrics to PUNISHMENT is: {'accuracy': 0.9852941176470589, 'precision': 0.746268656716418, 'recall': 0.8620689655172413, 'f1': 0.8, 'PRAUC': 0.8821715604164405, 'best_threshold': 0.8995977640151978}
+2024-12-13 17:25:19 - INFO - setfit training finished.
+2024-12-13 17:27:13 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/weapon/12cases_in_train
+2024-12-13 17:27:13 - INFO - Starting training for labels: PUNISHMENT
+2024-12-13 17:27:13 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 17:28:06 - INFO - Metrics to PUNISHMENT is: {'accuracy': 0.9852941176470589, 'precision': 0.7142857142857143, 'recall': 0.9482758620689655, 'f1': 0.8148148148148148, 'PRAUC': 0.8896873345844581, 'best_threshold': 0.938237726688385}
+2024-12-13 17:28:09 - INFO - setfit training finished.
+2024-12-13 18:52:05 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/weapon/12cases_in_train
+2024-12-13 18:52:05 - INFO - Starting training for label: PUNISHMENT
+2024-12-13 18:52:05 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 18:52:57 - INFO - Metrics for PUNISHMENT with model dicta-il/dictabert: {'accuracy': 0.9888235294117647, 'precision': 0.819672131147541, 'recall': 0.8620689655172413, 'f1': 0.8403361344537815, 'PRAUC': 0.8588924564030277, 'best_threshold': 0.929423987865448}
+2024-12-13 18:53:00 - INFO - setfit training finished.
+2024-12-13 19:26:45 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/weapon/12cases_in_train
+2024-12-13 19:26:45 - INFO - Starting training for label: CONFESSION
+2024-12-13 19:26:45 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 19:28:24 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/weapon/12cases_in_train
+2024-12-13 19:28:24 - INFO - Starting training for label: CONFESSION
+2024-12-13 19:28:24 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 19:29:44 - INFO - Metrics for CONFESSION with model dicta-il/dictabert: {'accuracy': 0.9870588235294118, 'precision': 0.8631578947368421, 'recall': 0.9010989010989011, 'f1': 0.8817204301075269, 'PRAUC': 0.9039118210462234, 'best_threshold': 0.9102143049240112}
+2024-12-13 19:29:48 - INFO - Starting training for label: GENERAL_CIRCUM
+2024-12-13 19:29:48 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 19:32:02 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/weapon/12cases_in_train
+2024-12-13 19:32:02 - INFO - Starting training for label: CONFESSION
+2024-12-13 19:32:02 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 19:33:12 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/weapon/12cases_in_train
+2024-12-13 19:33:12 - INFO - Starting training for label: CONFESSION
+2024-12-13 19:33:12 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 19:34:21 - INFO - Metrics for CONFESSION with model dicta-il/dictabert: {'accuracy': 0.9876470588235294, 'precision': 0.8431372549019608, 'recall': 0.945054945054945, 'f1': 0.8911917098445595, 'PRAUC': 0.9210295893708335, 'best_threshold': 0.9188550114631653}
+2024-12-13 19:34:24 - INFO - Starting training for label: GENERAL_CIRCUM
+2024-12-13 19:34:24 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 19:38:51 - INFO - Metrics for GENERAL_CIRCUM with model dicta-il/dictabert: {'accuracy': 0.9452941176470588, 'precision': 0.7622641509433963, 'recall': 0.8706896551724138, 'f1': 0.8128772635814889, 'PRAUC': 0.8581573592260208, 'best_threshold': 0.9976484179496765}
+2024-12-13 19:38:53 - INFO - Starting training for label: PUNISHMENT
+2024-12-13 19:38:53 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 19:39:44 - INFO - Metrics for PUNISHMENT with model dicta-il/dictabert: {'accuracy': 0.991764705882353, 'precision': 0.84375, 'recall': 0.9310344827586207, 'f1': 0.8852459016393442, 'PRAUC': 0.8648369174626793, 'best_threshold': 0.8834966421127319}
+2024-12-13 19:39:47 - INFO - Starting training for label: CIRCUM_OFFENSE
+2024-12-13 19:39:47 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 19:45:45 - INFO - Metrics for CIRCUM_OFFENSE with model dicta-il/dictabert: {'accuracy': 0.9317647058823529, 'precision': 0.7378277153558053, 'recall': 0.8106995884773662, 'f1': 0.7725490196078432, 'PRAUC': 0.7720252841152385, 'best_threshold': 0.997158408164978}
+2024-12-13 19:45:48 - INFO - Starting training for label: reject
+2024-12-13 19:45:48 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 20:02:16 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/weapon/12cases_in_train
+2024-12-13 20:02:16 - INFO - Starting training for label: CONFESSION
+2024-12-13 20:02:16 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 20:03:24 - INFO - Metrics for CONFESSION with model dicta-il/dictabert: {'accuracy': 0.9841176470588235, 'precision': 0.8018867924528302, 'recall': 0.9340659340659341, 'f1': 0.8629441624365483, 'PRAUC': 0.8663405074206835, 'best_threshold': 0.9490427374839783}
+2024-12-13 20:03:27 - INFO - Starting training for label: GENERAL_CIRCUM
+2024-12-13 20:03:27 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 20:07:16 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/weapon/12cases_in_train
+2024-12-13 20:08:31 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/weapon/12cases_in_train
+2024-12-13 20:09:29 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/weapon/12cases_in_train
+2024-12-13 20:09:29 - INFO - Starting training for label: CONFESSION
+2024-12-13 20:09:29 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 20:10:36 - INFO - Metrics for CONFESSION with model dicta-il/dictabert: {'accuracy': 0.9735294117647059, 'precision': 0.6825396825396826, 'recall': 0.945054945054945, 'f1': 0.7926267281105991, 'PRAUC': 0.6719451958779299, 'best_threshold': 0.8430505990982056}
+2024-12-13 20:10:38 - INFO - Starting training for label: GENERAL_CIRCUM
+2024-12-13 20:10:38 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 20:13:20 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/weapon/12cases_in_train
+2024-12-13 20:13:20 - INFO - Starting training for label: CONFESSION
+2024-12-13 20:13:20 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 20:14:28 - INFO - Metrics for CONFESSION with model dicta-il/dictabert: {'accuracy': 0.9829411764705882, 'precision': 0.8229166666666666, 'recall': 0.8681318681318682, 'f1': 0.8449197860962567, 'PRAUC': 0.8219947893183362, 'best_threshold': 0.865943193435669}
+2024-12-13 20:14:31 - INFO - Starting training for label: GENERAL_CIRCUM
+2024-12-13 20:14:31 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 20:16:30 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/weapon/12cases_in_train
+2024-12-13 20:16:30 - INFO - Starting training for label: CONFESSION
+2024-12-13 20:16:30 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 20:17:28 - INFO - Metrics for CONFESSION with model dicta-il/dictabert: {'accuracy': 0.9811764705882353, 'precision': 0.7757009345794392, 'recall': 0.9120879120879121, 'f1': 0.8383838383838383, 'PRAUC': 0.7970203891055683, 'best_threshold': 0.8334358930587769}
+2024-12-13 20:17:31 - INFO - Starting training for label: GENERAL_CIRCUM
+2024-12-13 20:17:31 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-13 20:21:37 - INFO - Metrics for GENERAL_CIRCUM with model dicta-il/dictabert: {'accuracy': 0.9452941176470588, 'precision': 0.7622641509433963, 'recall': 0.8706896551724138, 'f1': 0.8128772635814889, 'PRAUC': 0.8581573592260208, 'best_threshold': 0.9976484179496765}
+2024-12-13 20:21:39 - INFO - Starting training for label: PUNISHMENT
+2024-12-13 20:21:39 - INFO - Starting training for model: dicta-il/dictabert

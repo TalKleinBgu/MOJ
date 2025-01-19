@@ -1,0 +1,8 @@
+Mean Dice coefficient for:
+	 CONFESSION: 0.911
+	 OBTAIN_WAY: 0.7
+	 STATUS_WEP: 0.433
+	 HELD_WAY: 0.589
+	 PURPOSE: 0.733
+	 USE: 0.822
+	 TYPE_WEP: 0.72

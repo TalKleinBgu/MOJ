@@ -1,0 +1,140 @@
+2024-08-19 16:17:20 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-19 16:17:20 - INFO - Starting training for labels: CONFESSION
+2024-08-19 16:19:52 - INFO - Starting training for model: HeNLP/HeRo
+2024-08-19 16:25:48 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-19 16:25:48 - INFO - Starting training for labels: CIR_TYPE_WEP
+2024-08-19 16:27:32 - INFO - Starting training for model: HeNLP/HeRo
+2024-08-19 16:30:27 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.9552715654952076, 'precision': 0.6901408450704225, 'recall': 0.7616580310880829, 'f1': 0.7241379310344828, 'PRAUC': 0.7003753205851091, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.991856}
+2024-08-19 16:33:17 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-19 16:33:17 - INFO - Starting training for labels: _HELD_WAY_WEP
+2024-08-19 16:33:17 - INFO - Starting training for model: HeNLP/HeRo
+2024-08-19 16:34:48 - INFO - Metrics to _HELD_WAY_WEP is: {'accuracy': 0.950479233226837, 'precision': 0.3958333333333333, 'recall': 0.6063829787234043, 'f1': 0.4789915966386555, 'PRAUC': 0.421024812610974, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.96074826}
+2024-08-19 16:42:35 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-19 16:42:35 - INFO - Starting training for labels: CIR_AMMU_AMOUNT_WEP
+2024-08-19 16:42:35 - INFO - Starting training for model: HeNLP/HeRo
+2024-08-19 16:44:14 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9856230031948882, 'precision': 0.7708333333333334, 'recall': 0.5967741935483871, 'f1': 0.6727272727272727, 'PRAUC': 0.7498826029087671, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.9990992546081543}
+2024-08-19 16:46:27 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-19 16:46:27 - INFO - Starting training for labels: CONFESSION
+2024-08-19 16:46:27 - INFO - Starting training for model: HeNLP/HeRo
+2024-08-19 16:48:06 - INFO - Metrics to CONFESSION is: {'accuracy': 0.9620607028753994, 'precision': 0.5714285714285714, 'recall': 0.859504132231405, 'f1': 0.6864686468646864, 'PRAUC': 0.7506821021670594, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.9974452257156372}
+2024-08-19 16:48:06 - INFO - Starting training for model: amberoad/bert-multilingual-passage-reranking-msmarco
+2024-08-19 16:57:06 - INFO - Metrics to CONFESSION is: {'accuracy': 0.9289137380191693, 'precision': 0.33136094674556216, 'recall': 0.4628099173553719, 'f1': 0.38620689655172413, 'PRAUC': 0.31745171245542675, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.9970588684082031}
+2024-08-19 16:57:06 - INFO - Starting training for model: dicta-il/dictabert
+2024-08-19 17:20:10 - INFO - Metrics to CONFESSION is: {'accuracy': 0.978035143769968, 'precision': 0.8173076923076923, 'recall': 0.7024793388429752, 'f1': 0.7555555555555555, 'PRAUC': 0.8144940639939203, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.9128378033638}
+2024-08-19 17:20:11 - INFO - Starting training for model: avichr/Legal-heBERT
+2024-08-19 17:37:35 - INFO - Metrics to CONFESSION is: {'accuracy': 0.9616613418530351, 'precision': 0.6506024096385542, 'recall': 0.4462809917355372, 'f1': 0.5294117647058824, 'PRAUC': 0.5457512471058747, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.8579983711242676}
+2024-08-19 17:37:35 - INFO - Starting training for model: avichr/heBERT
+2024-08-19 17:48:30 - INFO - Metrics to CONFESSION is: {'accuracy': 0.9664536741214057, 'precision': 0.6390977443609023, 'recall': 0.7024793388429752, 'f1': 0.6692913385826772, 'PRAUC': 0.7105686585362678, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.8657986521720886}
+2024-08-19 17:48:30 - INFO - Starting training for model: onlplab/alephbert-base
+2024-08-19 18:02:03 - INFO - Metrics to CONFESSION is: {'accuracy': 0.9608626198083067, 'precision': 0.5804195804195804, 'recall': 0.6859504132231405, 'f1': 0.6287878787878788, 'PRAUC': 0.6652608490980054, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.9892414212226868}
+2024-08-19 18:02:03 - INFO - Starting training for labels: CIR_TYPE_WEP
+2024-08-19 18:02:03 - INFO - Starting training for model: HeNLP/HeRo
+2024-08-19 18:03:46 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.9544728434504792, 'precision': 0.6889952153110048, 'recall': 0.7461139896373057, 'f1': 0.7164179104477612, 'PRAUC': 0.7086953996435145, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.9999899864196777}
+2024-08-19 18:03:46 - INFO - Starting training for model: amberoad/bert-multilingual-passage-reranking-msmarco
+2024-08-19 18:06:44 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.9452875399361023, 'precision': 0.6308411214953271, 'recall': 0.6994818652849741, 'f1': 0.6633906633906634, 'PRAUC': 0.6454159677955642, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.8841663599014282}
+2024-08-19 18:06:44 - INFO - Starting training for model: dicta-il/dictabert
+2024-08-19 18:08:30 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.9636581469648562, 'precision': 0.7236842105263158, 'recall': 0.8549222797927462, 'f1': 0.7838479809976246, 'PRAUC': 0.766670274197225, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.8517536520957947}
+2024-08-19 18:08:31 - INFO - Starting training for model: avichr/Legal-heBERT
+2024-08-19 18:10:24 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.8961661341853036, 'precision': 0.3993993993993994, 'recall': 0.689119170984456, 'f1': 0.5057034220532319, 'PRAUC': 0.4778987261148595, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.4371933341026306}
+2024-08-19 18:10:24 - INFO - Starting training for model: avichr/heBERT
+2024-08-19 18:12:14 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.9592651757188498, 'precision': 0.7177033492822966, 'recall': 0.7772020725388601, 'f1': 0.746268656716418, 'PRAUC': 0.7768519527386712, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.998803973197937}
+2024-08-19 18:12:15 - INFO - Starting training for model: onlplab/alephbert-base
+2024-08-19 18:14:03 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.9496805111821086, 'precision': 0.6209386281588448, 'recall': 0.8911917098445595, 'f1': 0.7319148936170212, 'PRAUC': 0.7351964898253103, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.0636315867304802}
+2024-08-19 18:14:03 - INFO - Starting training for labels: _HELD_WAY_WEP
+2024-08-19 18:14:03 - INFO - Starting training for model: HeNLP/HeRo
+2024-08-19 18:15:30 - INFO - Metrics to _HELD_WAY_WEP is: {'accuracy': 0.9572683706070287, 'precision': 0.4424778761061947, 'recall': 0.5319148936170213, 'f1': 0.4830917874396135, 'PRAUC': 0.42349436507685984, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.9862444996833801}
+2024-08-19 18:15:30 - INFO - Starting training for model: amberoad/bert-multilingual-passage-reranking-msmarco
+2024-08-19 18:17:54 - INFO - Metrics to _HELD_WAY_WEP is: {'accuracy': 0.9528753993610224, 'precision': 0.40476190476190477, 'recall': 0.5425531914893617, 'f1': 0.4636363636363636, 'PRAUC': 0.40613557632563035, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.9442859888076782}
+2024-08-19 18:17:55 - INFO - Starting training for model: dicta-il/dictabert
+2024-08-19 18:19:23 - INFO - Metrics to _HELD_WAY_WEP is: {'accuracy': 0.9556709265175719, 'precision': 0.4405594405594406, 'recall': 0.6702127659574468, 'f1': 0.5316455696202531, 'PRAUC': 0.47828503036730285, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.7507980465888977}
+2024-08-19 18:19:23 - INFO - Starting training for model: avichr/Legal-heBERT
+2024-08-19 18:20:57 - INFO - Metrics to _HELD_WAY_WEP is: {'accuracy': 0.9524760383386581, 'precision': 0.3684210526315789, 'recall': 0.3723404255319149, 'f1': 0.37037037037037035, 'PRAUC': 0.33799665029935716, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.8111422657966614}
+2024-08-19 18:20:57 - INFO - Starting training for model: avichr/heBERT
+2024-08-19 18:22:30 - INFO - Metrics to _HELD_WAY_WEP is: {'accuracy': 0.957667731629393, 'precision': 0.45081967213114754, 'recall': 0.5851063829787234, 'f1': 0.5092592592592593, 'PRAUC': 0.49281375016735013, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.9132934808731079}
+2024-08-19 18:22:30 - INFO - Starting training for model: onlplab/alephbert-base
+2024-08-19 18:23:59 - INFO - Metrics to _HELD_WAY_WEP is: {'accuracy': 0.9544728434504792, 'precision': 0.427536231884058, 'recall': 0.6276595744680851, 'f1': 0.5086206896551724, 'PRAUC': 0.4701029619965588, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.9261016249656677}
+2024-08-19 18:24:00 - INFO - Starting training for labels: CIR_AMMU_AMOUNT_WEP
+2024-08-19 18:24:00 - INFO - Starting training for model: HeNLP/HeRo
+2024-08-19 18:25:36 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9844249201277955, 'precision': 0.7090909090909091, 'recall': 0.6290322580645161, 'f1': 0.6666666666666666, 'PRAUC': 0.7439704919585732, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.9991633892059326}
+2024-08-19 18:25:37 - INFO - Starting training for model: amberoad/bert-multilingual-passage-reranking-msmarco
+2024-08-19 18:28:24 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9760383386581469, 'precision': 0.5119047619047619, 'recall': 0.6935483870967742, 'f1': 0.589041095890411, 'PRAUC': 0.46209645343918787, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.9711101651191711}
+2024-08-19 18:28:24 - INFO - Starting training for model: dicta-il/dictabert
+2024-08-19 18:30:09 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9820287539936102, 'precision': 0.6268656716417911, 'recall': 0.6774193548387096, 'f1': 0.6511627906976745, 'PRAUC': 0.5894990825418391, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.8460903167724609}
+2024-08-19 18:30:09 - INFO - Starting training for model: avichr/Legal-heBERT
+2024-08-19 18:32:00 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9756389776357828, 'precision': 0.5087719298245614, 'recall': 0.46774193548387094, 'f1': 0.48739495798319327, 'PRAUC': 0.47194502285368406, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.8435917496681213}
+2024-08-19 18:32:01 - INFO - Starting training for model: avichr/heBERT
+2024-08-19 18:33:48 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9740415335463258, 'precision': 0.48314606741573035, 'recall': 0.6935483870967742, 'f1': 0.5695364238410596, 'PRAUC': 0.541200388386207, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.894868016242981}
+2024-08-19 18:33:48 - INFO - Starting training for model: onlplab/alephbert-base
+2024-08-19 18:35:31 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9820287539936102, 'precision': 0.639344262295082, 'recall': 0.6290322580645161, 'f1': 0.6341463414634146, 'PRAUC': 0.6592768729521595, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.9772721529006958}
+2024-08-19 18:35:31 - INFO - Starting training for labels: CIR_PURPOSE
+2024-08-19 18:35:31 - INFO - Starting training for model: HeNLP/HeRo
+2024-08-19 18:36:51 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.9373003194888179, 'precision': 0.07086614173228346, 'recall': 0.1875, 'f1': 0.10285714285714286, 'PRAUC': 0.04943538693255951, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.816903829574585}
+2024-08-19 18:36:51 - INFO - Starting training for model: amberoad/bert-multilingual-passage-reranking-msmarco
+2024-08-19 18:39:06 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.8865814696485623, 'precision': 0.04961832061068702, 'recall': 0.2708333333333333, 'f1': 0.08387096774193549, 'PRAUC': 0.03795757336662549, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.6617293357849121}
+2024-08-19 18:39:06 - INFO - Starting training for model: dicta-il/dictabert
+2024-08-19 18:40:28 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.8865814696485623, 'precision': 0.06934306569343066, 'recall': 0.3958333333333333, 'f1': 0.11801242236024845, 'PRAUC': 0.057403714487162284, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.6902132034301758}
+2024-08-19 18:40:28 - INFO - Starting training for model: avichr/Legal-heBERT
+2024-08-19 18:41:57 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.895367412140575, 'precision': 0.05416666666666667, 'recall': 0.2708333333333333, 'f1': 0.09027777777777778, 'PRAUC': 0.038916727781904845, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.7573647499084473}
+2024-08-19 18:41:58 - INFO - Starting training for model: avichr/heBERT
+2024-08-19 18:43:24 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.8063099041533547, 'precision': 0.04573804573804574, 'recall': 0.4583333333333333, 'f1': 0.0831758034026465, 'PRAUC': 0.03622530972577829, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.6863376498222351}
+2024-08-19 18:43:25 - INFO - Starting training for model: onlplab/alephbert-base
+2024-08-19 18:44:48 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.9692492012779552, 'precision': 0.19148936170212766, 'recall': 0.1875, 'f1': 0.18947368421052632, 'PRAUC': 0.0747245684721591, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.8493903279304504}
+2024-08-19 18:44:48 - INFO - Starting training for labels: GENERAL_CIRCUM
+2024-08-19 18:44:48 - INFO - Starting training for model: HeNLP/HeRo
+2024-08-19 18:46:18 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.9197284345047924, 'precision': 0.7054054054054054, 'recall': 0.7393767705382436, 'f1': 0.7219917012448133, 'PRAUC': 0.7697595273647264, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.9997091889381409}
+2024-08-19 18:46:19 - INFO - Starting training for model: amberoad/bert-multilingual-passage-reranking-msmarco
+2024-08-19 18:48:58 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.8977635782747604, 'precision': 0.6240409207161125, 'recall': 0.6912181303116147, 'f1': 0.6559139784946236, 'PRAUC': 0.6570367085573183, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.9982818365097046}
+2024-08-19 18:48:58 - INFO - Starting training for model: dicta-il/dictabert
+2024-08-19 18:50:35 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.9305111821086262, 'precision': 0.7336814621409922, 'recall': 0.7960339943342776, 'f1': 0.7635869565217391, 'PRAUC': 0.8121392870186358, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.8093931674957275}
+2024-08-19 18:50:36 - INFO - Starting training for model: avichr/Legal-heBERT
+2024-08-19 18:52:15 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.8366613418530351, 'precision': 0.44214876033057854, 'recall': 0.6062322946175638, 'f1': 0.5113500597371565, 'PRAUC': 0.5399608319710524, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.4373459219932556}
+2024-08-19 18:52:15 - INFO - Starting training for model: avichr/heBERT
+2024-08-19 18:53:53 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.9137380191693291, 'precision': 0.7455197132616488, 'recall': 0.5892351274787535, 'f1': 0.6582278481012658, 'PRAUC': 0.74329938601907, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.9905201196670532}
+2024-08-19 18:53:53 - INFO - Starting training for model: onlplab/alephbert-base
+2024-08-19 18:55:28 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.896964856230032, 'precision': 0.6184538653366584, 'recall': 0.7025495750708215, 'f1': 0.6578249336870027, 'PRAUC': 0.7137296300694512, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.7939494848251343}
+2024-08-19 18:55:28 - INFO - Starting training for labels: CIR_STATUS_WEP
+2024-08-19 18:55:28 - INFO - Starting training for model: HeNLP/HeRo
+2024-08-19 18:56:57 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.9704472843450479, 'precision': 0.5285714285714286, 'recall': 0.47435897435897434, 'f1': 0.5, 'PRAUC': 0.4577776853096872, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.970532238483429}
+2024-08-19 18:56:58 - INFO - Starting training for model: amberoad/bert-multilingual-passage-reranking-msmarco
+2024-08-19 18:59:31 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.9624600638977636, 'precision': 0.40476190476190477, 'recall': 0.4358974358974359, 'f1': 0.41975308641975306, 'PRAUC': 0.35223824937200293, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.9354491233825684}
+2024-08-19 18:59:31 - INFO - Starting training for model: dicta-il/dictabert
+2024-08-19 19:01:07 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.9544728434504792, 'precision': 0.3474576271186441, 'recall': 0.5256410256410257, 'f1': 0.41836734693877553, 'PRAUC': 0.33090358229714756, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.7630887031555176}
+2024-08-19 19:01:07 - INFO - Starting training for model: avichr/Legal-heBERT
+2024-08-19 19:02:49 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.9652555910543131, 'precision': 0.42105263157894735, 'recall': 0.3076923076923077, 'f1': 0.35555555555555557, 'PRAUC': 0.3041807569472989, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.8348523378372192}
+2024-08-19 19:02:50 - INFO - Starting training for model: avichr/heBERT
+2024-08-19 19:04:30 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.9524760383386581, 'precision': 0.297029702970297, 'recall': 0.38461538461538464, 'f1': 0.33519553072625696, 'PRAUC': 0.22277147709743222, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.6171538829803467}
+2024-08-19 19:04:30 - INFO - Starting training for model: onlplab/alephbert-base
+2024-08-19 19:06:07 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.9544728434504792, 'precision': 0.3524590163934426, 'recall': 0.5512820512820513, 'f1': 0.43, 'PRAUC': 0.3354082200840923, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.736034631729126}
+2024-08-19 19:06:07 - INFO - Starting training for labels: REGRET
+2024-08-19 19:06:07 - INFO - Starting training for model: HeNLP/HeRo
+2024-08-19 19:07:32 - INFO - Metrics to REGRET is: {'accuracy': 0.9836261980830671, 'precision': 0.4117647058823529, 'recall': 0.18421052631578946, 'f1': 0.2545454545454545, 'PRAUC': 0.1648629665881204, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.8980457186698914}
+2024-08-19 19:07:32 - INFO - Starting training for model: amberoad/bert-multilingual-passage-reranking-msmarco
+2024-08-19 19:09:54 - INFO - Metrics to REGRET is: {'accuracy': 0.9257188498402555, 'precision': 0.05952380952380952, 'recall': 0.2631578947368421, 'f1': 0.0970873786407767, 'PRAUC': 0.031919867059692714, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.6190816760063171}
+2024-08-19 19:09:54 - INFO - Starting training for model: dicta-il/dictabert
+2024-08-19 19:11:21 - INFO - Metrics to REGRET is: {'accuracy': 0.9388977635782748, 'precision': 0.06766917293233082, 'recall': 0.23684210526315788, 'f1': 0.10526315789473684, 'PRAUC': 0.04292979248884808, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.7226764559745789}
+2024-08-19 19:11:21 - INFO - Starting training for model: avichr/Legal-heBERT
+2024-08-19 19:12:51 - INFO - Metrics to REGRET is: {'accuracy': 0.9636581469648562, 'precision': 0.07936507936507936, 'recall': 0.13157894736842105, 'f1': 0.09900990099009901, 'PRAUC': 0.03919498999173775, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.7685502171516418}
+2024-08-19 19:12:52 - INFO - Starting training for model: avichr/heBERT
+2024-08-19 19:14:23 - INFO - Metrics to REGRET is: {'accuracy': 0.28434504792332266, 'precision': 0.018131868131868133, 'recall': 0.868421052631579, 'f1': 0.03552206673842842, 'PRAUC': 0.01611500565102712, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.4145931005477905}
+2024-08-19 19:14:23 - INFO - Starting training for model: onlplab/alephbert-base
+2024-08-19 19:15:51 - INFO - Metrics to REGRET is: {'accuracy': 0.9145367412140575, 'precision': 0.08490566037735849, 'recall': 0.47368421052631576, 'f1': 0.144, 'PRAUC': 0.06757103160460971, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.7377699613571167}
+2024-08-19 19:15:52 - INFO - Starting training for labels: PUNISHMENT
+2024-08-19 19:15:52 - INFO - Starting training for model: HeNLP/HeRo
+2024-08-19 19:17:12 - INFO - Metrics to PUNISHMENT is: {'accuracy': 0.9484824281150159, 'precision': 0.36666666666666664, 'recall': 0.8148148148148148, 'f1': 0.5057471264367817, 'PRAUC': 0.45852427044752786, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.9366768598556519}
+2024-08-19 19:17:12 - INFO - Starting training for model: amberoad/bert-multilingual-passage-reranking-msmarco
+2024-08-19 19:19:30 - INFO - Metrics to PUNISHMENT is: {'accuracy': 0.957667731629393, 'precision': 0.41379310344827586, 'recall': 0.7407407407407407, 'f1': 0.5309734513274337, 'PRAUC': 0.4308100530099711, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.7810876369476318}
+2024-08-19 19:19:30 - INFO - Starting training for model: dicta-il/dictabert
+2024-08-19 19:20:55 - INFO - Metrics to PUNISHMENT is: {'accuracy': 0.9784345047923323, 'precision': 0.6363636363636364, 'recall': 0.7777777777777778, 'f1': 0.7, 'PRAUC': 0.6418859045155012, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.6472722887992859}
+2024-08-19 19:20:56 - INFO - Starting training for model: avichr/Legal-heBERT
+2024-08-19 19:22:24 - INFO - Metrics to PUNISHMENT is: {'accuracy': 0.9776357827476039, 'precision': 0.6865671641791045, 'recall': 0.5679012345679012, 'f1': 0.6216216216216216, 'PRAUC': 0.6236519685868335, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.7432551980018616}
+2024-08-19 19:22:24 - INFO - Starting training for model: avichr/heBERT
+2024-08-19 19:23:56 - INFO - Metrics to PUNISHMENT is: {'accuracy': 0.9728434504792333, 'precision': 0.5619047619047619, 'recall': 0.7283950617283951, 'f1': 0.6344086021505376, 'PRAUC': 0.6256611012144169, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.8421235084533691}
+2024-08-19 19:23:56 - INFO - Starting training for model: onlplab/alephbert-base
+2024-08-19 19:25:26 - INFO - Metrics to PUNISHMENT is: {'accuracy': 0.9760383386581469, 'precision': 0.6296296296296297, 'recall': 0.6296296296296297, 'f1': 0.6296296296296297, 'PRAUC': 0.6139138292173772, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.8993949294090271}
+2024-08-19 19:25:27 - INFO - Starting training for labels: CIRCUM_OFFENSE
+2024-08-19 19:25:27 - INFO - Starting training for model: HeNLP/HeRo

@@ -1,0 +1,41 @@
+all_class: true
+balance: true
+data_path: /home/{username}/pred-sentencing/resources/data/trainning/sentence_classification/drugs/12cases_in_train
+experiment_name: first_try
+first_label_list:
+- REGRET
+generated_data: false
+ignore_labels:
+- 'Unnamed: 0'
+- verdict
+- text
+- CIR_BUYER_ID_WEP
+load_xlsx: true
+model_name_initial: test
+models_to_train:
+- t-few: false
+- roberta: false
+- setfit: true
+num_epoch: 5
+pretrained_model: amberoad/bert-multilingual-passage-reranking-msmarco
+pretrained_model_list:
+- dicta-il/dictabert
+save_dir: /home/{username}/pred-sentencing/results
+save_model: true
+save_model_path: /home/{username}/moj_models
+second_label_list: null
+setfit: true
+training_args:
+  batch_size: 64
+  body_learning_rate:
+  - 2.0e-05
+  - 5.0e-06
+  end_to_end: true
+  eval_steps: 3
+  evaluation_strategy: epoch
+  head_learning_rate: 0.002
+  l2_weight: 0.01
+  load_best_model_at_end: true
+  num_epochs: 3
+  save_strategy: epoch
+username: tak

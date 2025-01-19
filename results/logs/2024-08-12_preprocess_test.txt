@@ -1,0 +1,59 @@
+2024-08-12 14:39:16 - INFO - 
+Train start, data is taken from resources/data/tagging/gt/sentence_tagging.xlsx
+2024-08-12 14:39:16 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-08-12 14:42:48 - INFO - 
+Train start, data is taken from resources/data/tagging/gt/sentence_tagging.xlsx
+2024-08-12 14:42:48 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-08-12 14:55:10 - INFO - 
+Train start, data is taken from resources/data/tagging/gt/sentence_tagging.xlsx
+2024-08-12 14:55:10 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-08-12 15:17:28 - INFO - 
+Train start, data is taken from resources/data/tagging/gt/sentence_tagging.xlsx
+2024-08-12 15:17:28 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-08-12 15:22:28 - INFO - 
+Train start, data is taken from resources/data/tagging/gt/sentence_tagging.xlsx
+2024-08-12 15:22:28 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-08-12 15:29:46 - INFO - 
+Train start, data is taken from resources/data/tagging/gt/sentence_tagging.xlsx
+2024-08-12 15:29:46 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-08-12 15:31:54 - INFO - 
+Train start, data is taken from resources/data/tagging/gt/sentence_tagging.xlsx
+2024-08-12 15:31:54 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-08-12 15:34:53 - INFO - 
+Train start, data is taken from resources/data/tagging/gt/sentence_tagging.xlsx
+2024-08-12 15:34:53 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-08-12 15:36:20 - INFO - 
+Train start, data is taken from resources/data/tagging/gt/sentence_tagging.xlsx
+2024-08-12 15:36:20 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-08-12 15:41:54 - INFO - 
+Train start, data is taken from resources/data/tagging/gt/sentence_tagging.xlsx
+2024-08-12 15:41:54 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-08-12 16:02:41 - INFO - 
+Train start, data is taken from resources/data/tagging/gt/sentence_tagging.xlsx
+2024-08-12 16:02:41 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-08-12 16:06:06 - INFO - 
+Train start, data is taken from resources/data/tagging/gt/sentence_tagging.xlsx
+2024-08-12 16:06:06 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-08-12 16:10:50 - INFO - setfit training finished.
+2024-08-12 16:16:46 - INFO - 
+Train start, data is taken from resources/data/tagging/gt/sentence_tagging.xlsx
+2024-08-12 16:16:46 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-08-12 18:26:03 - INFO - 
+Train start, data is taken from resources/data/tagging/gt/sentence_tagging.xlsx
+2024-08-12 18:26:03 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-08-12 18:26:29 - INFO - 
+Train start, data is taken from resources/data/tagging/gt/sentence_tagging.xlsx
+2024-08-12 18:26:29 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-08-12 18:26:56 - INFO - 
+Train start, data is taken from resources/data/tagging/gt/sentence_tagging.xlsx
+2024-08-12 18:26:56 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-08-12 18:27:42 - INFO - 
+Train start, data is taken from resources/data/tagging/gt/sentence_tagging.xlsx
+2024-08-12 18:27:42 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-08-12 18:31:06 - INFO - setfit training finished.
+2024-08-12 18:43:13 - INFO - 
+Train start, data is taken from resources/data/tagging/gt/sentence_tagging.xlsx
+2024-08-12 18:43:13 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-08-12 18:57:14 - INFO - 
+Train start, data is taken from resources/data/tagging/gt/sentence_tagging.xlsx
+2024-08-12 18:57:14 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']

@@ -1,0 +1,28 @@
+2024-05-22 13:05:25 - INFO - The feature extraction started with the # Q&A #
+2024-05-22 13:11:46 - INFO - Finish to feature extraction ME-09-01-4206-239 case!!
+2024-05-22 13:12:56 - INFO - The feature extraction started with the # Q&A #
+2024-05-22 13:14:43 - INFO - The feature extraction started with the # Q&A #
+2024-05-22 13:19:01 - INFO - Finish to feature extraction ME-09-01-4206-239 case!!
+2024-05-22 13:19:08 - INFO - Finish to feature extraction ME-09-05-16192-355 case!!
+2024-05-22 13:19:19 - INFO - Finish to feature extraction ME-09-06-10774-130 case!!
+2024-05-22 13:19:28 - INFO - Finish to feature extraction ME-09-11-7566-913 case!!
+2024-05-22 13:19:35 - INFO - Finish to feature extraction ME-10-08-17917-313 case!!
+2024-05-22 13:19:35 - INFO - Finish to feature extraction ME-11-02-32508-490 case!!
+2024-05-22 13:19:38 - INFO - Finish to feature extraction ME-11-07-33734-821 case!!
+2024-05-22 13:19:55 - INFO - Finish to feature extraction ME-12-03-13401-281 case!!
+2024-05-22 13:20:00 - INFO - Finish to feature extraction ME-12-03-15148-775 case!!
+2024-05-22 13:20:09 - INFO - Finish to feature extraction ME-12-05-33444-999 case!!
+2024-05-22 13:20:14 - INFO - Finish to feature extraction ME-12-04-33577-700 case!!
+2024-05-22 13:20:27 - INFO - Finish to feature extraction ME-12-09-51207-971 case!!
+2024-05-22 13:20:40 - INFO - Finish to feature extraction ME-13-02-28360-614 case!!
+2024-05-22 13:21:16 - INFO - Finish to feature extraction ME-13-04-35007-454 case!!
+2024-05-22 13:21:38 - INFO - Finish to feature extraction ME-13-05-31862-33 case!!
+2024-05-22 13:21:51 - INFO - Finish to feature extraction ME-13-10-28139-807 case!!
+2024-05-22 13:21:58 - INFO - Finish to feature extraction ME-13-10-53169-537 case!!
+2024-05-22 13:22:12 - INFO - Finish to feature extraction ME-13-12-8338-415 case!!
+2024-05-22 13:22:25 - INFO - Finish to feature extraction ME-14-02-51828-88 case!!
+2024-05-22 13:22:27 - INFO - Finish to feature extraction ME-14-03-48488-922 case!!
+2024-05-22 13:22:42 - INFO - Finish to feature extraction ME-14-07-13179-197 case!!
+2024-05-22 13:22:48 - INFO - Finish to feature extraction ME-14-07-28889-461 case!!
+2024-05-22 13:23:00 - INFO - Finish to feature extraction ME-14-10-31218-522 case!!
+2024-05-22 13:27:13 - INFO - The feature extraction started with the # Q&A #

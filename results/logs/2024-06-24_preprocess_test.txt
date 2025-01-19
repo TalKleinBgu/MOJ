@@ -1,0 +1,42 @@
+2024-06-24 17:28:20 - INFO - 
+Train start, data is taken from resources/data/tagging/sentence_classfication/test/GT.xlsx
+2024-06-24 17:28:20 - INFO - Starting setfit training for labels: ['CIR_USE', 'CONFESSION', 'CIR_OBTAIN_WAY_WEP', 'CIR_PLANNING', 'CIR_PURPOSE', 'CIR_STATUS_WEP', 'CIR_TYPE_WEP', 'CIR_MONEY_PAID_WEP', 'CIR_HELD_WAY_WEP', 'CIR_AMMU_AMOUNT_WEP']
+2024-06-24 17:29:22 - INFO - 
+Train start, data is taken from resources/data/tagging/sentence_classfication/test/GT.xlsx
+2024-06-24 17:29:22 - INFO - Starting setfit training for labels: ['CIR_USE', 'CONFESSION', 'CIR_OBTAIN_WAY_WEP', 'CIR_PLANNING', 'CIR_PURPOSE', 'CIR_STATUS_WEP', 'CIR_TYPE_WEP', 'CIR_MONEY_PAID_WEP', 'CIR_HELD_WAY_WEP', 'CIR_AMMU_AMOUNT_WEP']
+2024-06-24 17:29:44 - INFO - ֿ
+Start to train CIR_USE classifier
+
+2024-06-24 17:34:36 - INFO - 
+Train start, data is taken from resources/data/tagging/sentence_classfication/test/GT.xlsx
+2024-06-24 17:34:36 - INFO - Starting setfit training for labels: ['CIR_USE', 'CONFESSION', 'CIR_OBTAIN_WAY_WEP', 'CIR_PLANNING', 'CIR_PURPOSE', 'CIR_STATUS_WEP', 'CIR_TYPE_WEP', 'CIR_MONEY_PAID_WEP', 'CIR_HELD_WAY_WEP', 'CIR_AMMU_AMOUNT_WEP']
+2024-06-24 17:34:40 - INFO - ֿ
+Start to train CIR_USE classifier
+
+2024-06-24 17:39:14 - INFO - ֿ
+Start to train CONFESSION classifier
+
+2024-06-24 17:44:13 - INFO - ֿ
+Start to train CIR_OBTAIN_WAY_WEP classifier
+
+2024-06-24 17:49:25 - INFO - ֿ
+Start to train CIR_PLANNING classifier
+
+2024-06-24 17:55:34 - INFO - 
+Train start, data is taken from resources/data/tagging/sentence_classfication/test/GT.xlsx
+2024-06-24 17:55:34 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP', 'CIR_HELD_WAY_WEP - CIR_PURPOSE', 'CIR_AMMU_AMOUNT_WEP']
+2024-06-24 17:56:01 - INFO - 
+Train start, data is taken from resources/data/tagging/sentence_classfication/test/GT.xlsx
+2024-06-24 17:56:01 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP', 'CIR_HELD_WAY_WEP', 'CIR_PURPOSE', 'CIR_AMMU_AMOUNT_WEP']
+2024-06-24 17:56:04 - INFO - ֿ
+Start to train CIR_STATUS_WEP classifier
+
+2024-06-24 18:00:46 - INFO - ֿ
+Start to train CIR_HELD_WAY_WEP classifier
+
+2024-06-24 18:05:33 - INFO - ֿ
+Start to train CIR_PURPOSE classifier
+
+2024-06-24 18:14:24 - INFO - ֿ
+Start to train CIR_AMMU_AMOUNT_WEP classifier
+

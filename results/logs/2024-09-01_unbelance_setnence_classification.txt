@@ -1,0 +1,30 @@
+2024-09-01 13:09:38 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-09-01 13:09:38 - INFO - Starting training for labels: CIR_TYPE_WEP
+2024-09-01 13:38:26 - ERROR - Error in label CIR_TYPE_WEP: CUDA out of memory. Tried to allocate 48.00 MiB. GPU 
+2024-09-01 13:38:27 - INFO - Starting training for labels: CIR_HELD_WAY_WEP
+2024-09-01 13:54:39 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification/12cases_in_train
+2024-09-01 13:54:39 - INFO - Starting training for labels: CIR_TYPE_WEP
+2024-09-01 14:04:06 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.9759181216134859, 'precision': 0.8278145695364238, 'recall': 0.8992805755395683, 'f1': 0.8620689655172413, 'PRAUC': 0.8562004834491703, 'eval_set': 89, 'test_set': 1661, 'best_threshold': 0.9999979734420776}
+2024-09-01 14:04:08 - INFO - Starting training for labels: CIR_HELD_WAY_WEP
+2024-09-01 14:07:34 - INFO - Metrics to CIR_HELD_WAY_WEP is: {'accuracy': 0.9723058398555088, 'precision': 0.6438356164383562, 'recall': 0.7014925373134329, 'f1': 0.6714285714285714, 'PRAUC': 0.673864302073982, 'eval_set': 89, 'test_set': 1661, 'best_threshold': 0.999994158744812}
+2024-09-01 14:07:44 - INFO - Starting training for labels: CIR_AMMU_AMOUNT_WEP
+2024-09-01 14:09:48 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9717037928958459, 'precision': 0.5614035087719298, 'recall': 0.5925925925925926, 'f1': 0.5765765765765766, 'PRAUC': 0.6089592119209916, 'eval_set': 89, 'test_set': 1661, 'best_threshold': 0.9998846054077148}
+2024-09-01 14:09:54 - INFO - Starting training for labels: CIR_PURPOSE
+2024-09-01 14:12:17 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.983744732089103, 'precision': 0.43333333333333335, 'recall': 0.5652173913043478, 'f1': 0.49056603773584906, 'PRAUC': 0.32480574931716644, 'eval_set': 89, 'test_set': 1661, 'best_threshold': 0.9998499155044556}
+2024-09-01 14:12:27 - INFO - Starting training for labels: CIR_STATUS_WEP
+2024-09-01 14:14:56 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.963275135460566, 'precision': 0.5185185185185185, 'recall': 0.65625, 'f1': 0.5793103448275863, 'PRAUC': 0.5322771499035361, 'eval_set': 89, 'test_set': 1661, 'best_threshold': 0.9999653100967407}
+2024-09-01 14:15:05 - INFO - Starting training for labels: REGRET
+2024-09-01 14:17:21 - INFO - Metrics to REGRET is: {'accuracy': 0.9927754364840458, 'precision': 0.6666666666666666, 'recall': 0.7368421052631579, 'f1': 0.7, 'PRAUC': 0.6294421658759141, 'eval_set': 89, 'test_set': 1661, 'best_threshold': 0.9999221563339233}
+2024-09-01 14:17:29 - INFO - Starting training for labels: CIR_PLANNING
+2024-09-01 14:17:40 - ERROR - Error in label CIR_PLANNING: list index out of range
+2024-09-01 14:17:40 - INFO - Starting training for labels: RESPO
+2024-09-01 14:19:49 - INFO - Metrics to RESPO is: {'accuracy': 0.9843467790487658, 'precision': 0.6304347826086957, 'recall': 0.7631578947368421, 'f1': 0.6904761904761905, 'PRAUC': 0.7672918345845549, 'eval_set': 89, 'test_set': 1661, 'best_threshold': 0.9999825954437256}
+2024-09-01 14:19:57 - INFO - Starting training for labels: CIR_OBTAIN_WAY_WEP
+2024-09-01 14:22:09 - INFO - Metrics to CIR_OBTAIN_WAY_WEP is: {'accuracy': 0.9723058398555088, 'precision': 0.11627906976744186, 'recall': 0.38461538461538464, 'f1': 0.17857142857142858, 'PRAUC': 0.07318257074297116, 'eval_set': 89, 'test_set': 1661, 'best_threshold': 0.9998754262924194}
+2024-09-01 14:22:16 - INFO - Starting training for labels: CIR_USE
+2024-09-01 14:25:16 - INFO - Metrics to CIR_USE is: {'accuracy': 0.9622367465504721, 'precision': 0.5211267605633803, 'recall': 0.6727272727272727, 'f1': 0.5873015873015873, 'PRAUC': 0.5091004210808556, 'eval_set': 89, 'test_set': 1377, 'best_threshold': 0.9999858140945435}
+2024-09-01 14:25:19 - INFO - Starting training for labels: CIR_MONEY_PAID_WEP
+2024-09-01 14:25:21 - ERROR - Error in label CIR_MONEY_PAID_WEP: list index out of range
+2024-09-01 14:25:21 - INFO - setfit training finished.

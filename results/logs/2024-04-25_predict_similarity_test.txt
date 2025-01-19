@@ -1,0 +1,27 @@
+2024-04-25 14:39:10 - INFO - Feature embedding for ['manual'] methods is starting!
+2024-04-25 14:40:24 - INFO - Feature embedding for ['manual'] methods is starting!
+2024-04-25 15:16:53 - INFO - Feature embedding for ['manual'] methods is starting!
+2024-04-25 15:19:07 - INFO - Feature embedding for ['manual'] methods is starting!
+2024-04-25 15:22:35 - INFO - Feature embedding for ['manual'] methods is starting!
+2024-04-25 15:41:53 - INFO - Feature embedding for ['manual', 'qa', 'regex'] methods is starting!
+2024-04-25 15:42:52 - INFO - save manual in results/embedding/fearture_manual_emb.xlsx
+2024-04-25 15:44:32 - INFO - Feature embedding for ['manual', 'qa', 'regex'] methods is starting!
+2024-04-25 15:46:58 - INFO - save manual in results/embedding/fearture_manual_emb.xlsx
+2024-04-25 15:50:49 - INFO - Feature embedding for ['manual', 'qa', 'regex'] methods is starting!
+2024-04-25 15:52:22 - INFO - save manual in results/embedding/fearture_manual_emb.xlsx
+2024-04-25 15:53:08 - INFO - Feature embedding for ['manual', 'qa', 'regex'] methods is starting!
+2024-04-25 15:54:09 - INFO - save manual in results/embedding/fearture_manual_emb.xlsx
+2024-04-25 16:17:44 - INFO - Feature embedding for ['qa', 'regex'] methods is starting!
+2024-04-25 16:18:38 - INFO - Feature embedding for ['qa', 'regex'] methods is starting!
+2024-04-25 16:19:56 - INFO - Feature embedding for ['qa', 'regex'] methods is starting!
+2024-04-25 16:21:40 - INFO - Feature embedding for ['qa', 'regex'] methods is starting!
+2024-04-25 16:22:37 - INFO - Feature embedding for ['qa', 'regex'] methods is starting!
+2024-04-25 16:24:04 - INFO - Feature embedding for ['qa', 'regex'] methods is starting!
+2024-04-25 16:24:08 - INFO - save qa in results/embedding/fearture_qa_emb.xlsx
+2024-04-25 16:24:11 - INFO - save regex in results/embedding/fearture_regex_emb.xlsx
+2024-04-25 16:59:43 - INFO - Feature embedding for ['qa', 'regex'] methods is starting!
+2024-04-25 17:15:56 - INFO - Feature embedding for ['qa', 'regex'] methods is starting!
+2024-04-25 17:16:59 - INFO - Feature embedding for ['qa', 'regex'] methods is starting!
+2024-04-25 17:18:52 - INFO - Feature embedding for ['qa', 'regex'] methods is starting!
+2024-04-25 17:19:47 - INFO - save qa in results/embedding/fearture_qa_emb.xlsx
+2024-04-25 17:19:51 - INFO - save regex in results/embedding/fearture_regex_emb.xlsx

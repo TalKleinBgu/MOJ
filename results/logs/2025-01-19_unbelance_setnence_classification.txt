@@ -1,0 +1,4 @@
+2025-01-19 11:44:41 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/drugs/35cases_in_train
+2025-01-19 11:44:41 - INFO - Starting training for label: PUNISHMENT
+2025-01-19 11:44:42 - INFO - Starting training for model: dictabert

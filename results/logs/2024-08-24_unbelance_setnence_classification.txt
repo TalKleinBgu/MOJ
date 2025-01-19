@@ -1,0 +1,249 @@
+2024-08-24 12:06:28 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-24 12:06:55 - INFO - Starting training for labels: CIR_BUYER_ID_WEP
+2024-08-24 12:08:26 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-24 12:09:56 - INFO - Starting training for labels: CIR_MONEY_PAID_WEP
+2024-08-24 12:10:42 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-24 12:10:42 - INFO - setfit training finished.
+2024-08-24 12:10:59 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-24 12:10:59 - INFO - setfit training finished.
+2024-08-24 12:12:02 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-24 12:12:02 - INFO - setfit training finished.
+2024-08-24 12:14:03 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-24 12:14:03 - INFO - Starting training for labels: CIRCUM_OFFENSE
+2024-08-24 12:14:15 - INFO - Starting training for model: HeNLP/HeRo
+2024-08-24 12:26:58 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-24 12:26:58 - INFO - Starting training for labels: CIR_USE
+2024-08-24 12:26:59 - INFO - Starting training for model: HeNLP/HeRo
+2024-08-24 12:28:43 - ERROR - Error preparing datasets for label CIR_USE: unknown format is not supported
+2024-08-24 12:28:43 - INFO - Starting training for labels: CIR_MONEY_PAID_WEP
+2024-08-24 12:28:43 - INFO - Starting training for model: HeNLP/HeRo
+2024-08-24 12:29:54 - ERROR - Error preparing datasets for label CIR_MONEY_PAID_WEP: unknown format is not supported
+2024-08-24 12:29:54 - INFO - setfit training finished.
+2024-08-24 12:40:38 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-24 12:40:38 - INFO - Starting training for labels: CIR_USE
+2024-08-24 12:42:26 - INFO - Starting training for model: HeNLP/HeRo
+2024-08-24 12:50:43 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-24 12:50:43 - INFO - setfit training finished.
+2024-08-24 12:51:36 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-24 12:51:36 - INFO - setfit training finished.
+2024-08-24 12:53:42 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-24 12:53:42 - INFO - Starting training for labels: CIR_USE
+2024-08-24 12:59:09 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-24 12:59:09 - INFO - Starting training for labels: CIR_USE
+2024-08-24 13:00:17 - ERROR - Error in label CIR_USE: 'CIR_USE'
+2024-08-24 13:00:17 - INFO - setfit training finished.
+2024-08-24 13:22:04 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-24 13:22:04 - INFO - setfit training finished.
+2024-08-24 13:22:44 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-24 13:22:45 - INFO - Starting training for labels: CIR_USE
+2024-08-24 13:22:45 - ERROR - Error in label CIR_USE: 'CIR_USE'
+2024-08-24 13:22:45 - INFO - setfit training finished.
+2024-08-24 13:23:34 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-24 13:23:53 - INFO - Starting training for labels: CIR_USE
+2024-08-24 13:25:15 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-24 13:25:15 - INFO - Starting training for labels: CIR_USE
+2024-08-24 13:25:15 - INFO - Starting training for model: HeNLP/HeRo
+2024-08-24 13:26:16 - INFO - Metrics to CIR_USE is: {'accuracy': 0.9420831387202242, 'precision': 0.3116883116883117, 'recall': 0.7272727272727273, 'f1': 0.43636363636363634, 'PRAUC': 0.37311972211267047, 'eval_set': 184, 'test_set': 2141, 'best_threshold': 0.9985305070877075}
+2024-08-24 13:26:17 - INFO - Starting training for model: amberoad/bert-multilingual-passage-reranking-msmarco
+2024-08-24 13:27:43 - INFO - Metrics to CIR_USE is: {'accuracy': 0.962634283045306, 'precision': 0.38333333333333336, 'recall': 0.3484848484848485, 'f1': 0.36507936507936506, 'PRAUC': 0.24078138697882603, 'eval_set': 184, 'test_set': 2141, 'best_threshold': 0.9951342940330505}
+2024-08-24 13:27:43 - INFO - Starting training for model: dicta-il/dictabert
+2024-08-24 13:28:50 - INFO - Metrics to CIR_USE is: {'accuracy': 0.9654367118169079, 'precision': 0.44594594594594594, 'recall': 0.5, 'f1': 0.4714285714285714, 'PRAUC': 0.37095494461371337, 'eval_set': 184, 'test_set': 2141, 'best_threshold': 0.9870029091835022}
+2024-08-24 13:28:50 - INFO - Starting training for model: avichr/Legal-heBERT
+2024-08-24 13:29:52 - INFO - Metrics to CIR_USE is: {'accuracy': 0.8921064922933208, 'precision': 0.15481171548117154, 'recall': 0.5606060606060606, 'f1': 0.24262295081967214, 'PRAUC': 0.16238048490162849, 'eval_set': 184, 'test_set': 2141, 'best_threshold': 0.8284322619438171}
+2024-08-24 13:29:52 - INFO - Starting training for model: avichr/heBERT
+2024-08-24 13:30:54 - INFO - Metrics to CIR_USE is: {'accuracy': 0.9649696403549743, 'precision': 0.4444444444444444, 'recall': 0.5454545454545454, 'f1': 0.4897959183673469, 'PRAUC': 0.49011529482254834, 'eval_set': 184, 'test_set': 2141, 'best_threshold': 0.9896889925003052}
+2024-08-24 13:30:54 - INFO - Starting training for model: onlplab/alephbert-base
+2024-08-24 13:31:56 - INFO - Metrics to CIR_USE is: {'accuracy': 0.9645025688930406, 'precision': 0.4444444444444444, 'recall': 0.6060606060606061, 'f1': 0.5128205128205128, 'PRAUC': 0.5191078332569709, 'eval_set': 184, 'test_set': 2141, 'best_threshold': 0.9979109168052673}
+2024-08-24 13:31:56 - INFO - setfit training finished.
+2024-08-24 14:36:11 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-24 14:37:45 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-24 15:17:51 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-24 15:17:51 - INFO - Starting training for labels: CONFESSION
+2024-08-24 15:20:34 - INFO - Starting training for model: HeNLP/HeRo
+2024-08-24 15:23:06 - INFO - Metrics to CONFESSION is: {'accuracy': 0.9660543130990416, 'precision': 0.6363636363636364, 'recall': 0.6942148760330579, 'f1': 0.6640316205533597, 'PRAUC': 0.652869891644749, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.9961793422698975}
+2024-08-24 15:26:23 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-24 15:26:23 - INFO - Starting training for labels: CONFESSION
+2024-08-24 15:26:23 - INFO - Starting training for model: HeNLP/HeRo
+2024-08-24 15:27:58 - INFO - Metrics to CONFESSION is: {'accuracy': 0.9584664536741214, 'precision': 0.5459459459459459, 'recall': 0.8347107438016529, 'f1': 0.6601307189542484, 'PRAUC': 0.68824337084054, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.9971390962600708}
+2024-08-24 15:27:58 - INFO - Starting training for model: amberoad/bert-multilingual-passage-reranking-msmarco
+2024-08-24 15:30:34 - INFO - Metrics to CONFESSION is: {'accuracy': 0.9289137380191693, 'precision': 0.33136094674556216, 'recall': 0.4628099173553719, 'f1': 0.38620689655172413, 'PRAUC': 0.31745171245542675, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.9970588684082031}
+2024-08-24 15:30:34 - INFO - Starting training for model: dicta-il/dictabert
+                                                                                                                                             2024-08-24 15:32:05 - INFO - Metrics to CONFESSION is: {'accuracy': 0.978035143769968, 'precision': 0.8173076923076923, 'recall': 0.7024793388429752, 'f1': 0.7555555555555555, 'PRAUC': 0.8144940639939203, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.9128378033638}
+2024-08-24 15:32:05 - INFO - Starting training for model: avichr/Legal-heBERT
+2024-08-24 15:33:42 - INFO - Metrics to CONFESSION is: {'accuracy': 0.9616613418530351, 'precision': 0.6506024096385542, 'recall': 0.4462809917355372, 'f1': 0.5294117647058824, 'PRAUC': 0.5457512471058747, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.8579983711242676}
+2024-08-24 15:33:42 - INFO - Starting training for model: avichr/heBERT
+2024-08-24 15:35:23 - INFO - Metrics to CONFESSION is: {'accuracy': 0.9664536741214057, 'precision': 0.6390977443609023, 'recall': 0.7024793388429752, 'f1': 0.6692913385826772, 'PRAUC': 0.7105686585362678, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.8657986521720886}
+2024-08-24 15:35:23 - INFO - Starting training for model: onlplab/alephbert-base
+                                                                     2024-08-24 15:37:00 - INFO - Metrics to CONFESSION is: {'accuracy': 0.9608626198083067, 'precision': 0.5804195804195804, 'recall': 0.6859504132231405, 'f1': 0.6287878787878788, 'PRAUC': 0.6652608490980054, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.9892414212226868}
+2024-08-24 15:37:00 - INFO - Starting training for labels: GENERAL_CIRCUM
+2024-08-24 15:37:00 - INFO - Starting training for model: HeNLP/HeRo
+2024-08-24 15:38:32 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.9121405750798722, 'precision': 0.6666666666666666, 'recall': 0.7535410764872521, 'f1': 0.7074468085106383, 'PRAUC': 0.7487751048532357, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.9999856948852539}
+2024-08-24 15:38:33 - INFO - Starting training for model: amberoad/bert-multilingual-passage-reranking-msmarco
+2024-08-24 15:39:27 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-24 15:39:27 - INFO - Starting training for labels: CONFESSION
+2024-08-24 15:39:27 - INFO - Starting training for model: HeNLP/HeRo
+2024-08-24 15:41:13 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.8977635782747604, 'precision': 0.6240409207161125, 'recall': 0.6912181303116147, 'f1': 0.6559139784946236, 'PRAUC': 0.6570367085573183, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.9982818365097046}
+2024-08-24 15:41:13 - INFO - Starting training for model: dicta-il/dictabert
+2024-08-24 15:42:47 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.9305111821086262, 'precision': 0.7336814621409922, 'recall': 0.7960339943342776, 'f1': 0.7635869565217391, 'PRAUC': 0.8121392870186358, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.8093931674957275}
+2024-08-24 15:42:47 - INFO - Starting training for model: avichr/Legal-heBERT
+2024-08-24 15:44:27 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.8366613418530351, 'precision': 0.44214876033057854, 'recall': 0.6062322946175638, 'f1': 0.5113500597371565, 'PRAUC': 0.5399608319710524, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.4373459219932556}
+2024-08-24 15:44:28 - INFO - Starting training for model: avichr/heBERT
+2024-08-24 15:44:57 - ERROR - Error in label CONFESSION: checkpoints/step_58 is not a local folder and is not a valid model identifier listed on 'https://huggingface.co/models'
+If this is a private repository, make sure to pass a token having permission to this repo either by logging in with `huggingface-cli login` or by passing `token=<your_token>`
+2024-08-24 15:44:57 - INFO - Starting training for labels: CIR_TYPE_WEP
+2024-08-24 15:44:57 - INFO - Starting training for model: HeNLP/HeRo
+2024-08-24 15:46:13 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.9137380191693291, 'precision': 0.7455197132616488, 'recall': 0.5892351274787535, 'f1': 0.6582278481012658, 'PRAUC': 0.74329938601907, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.9905201196670532}
+2024-08-24 15:46:14 - INFO - Starting training for model: onlplab/alephbert-base
+2024-08-24 15:47:51 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.896964856230032, 'precision': 0.6184538653366584, 'recall': 0.7025495750708215, 'f1': 0.6578249336870027, 'PRAUC': 0.7137296300694512, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.7939494848251343}
+2024-08-24 15:47:51 - INFO - Starting training for labels: PUNISHMENT
+2024-08-24 15:47:51 - INFO - Starting training for model: HeNLP/HeRo
+2024-08-24 15:49:12 - INFO - Metrics to PUNISHMENT is: {'accuracy': 0.9492811501597445, 'precision': 0.37362637362637363, 'recall': 0.8395061728395061, 'f1': 0.5171102661596958, 'PRAUC': 0.351633262140454, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.9615433216094971}
+2024-08-24 15:49:12 - INFO - Starting training for model: amberoad/bert-multilingual-passage-reranking-msmarco
+2024-08-24 15:51:24 - ERROR - Error in label PUNISHMENT: [Errno 39] Directory not empty: 'checkpoints/step_1228'
+2024-08-24 15:51:25 - INFO - Starting training for labels: CIRCUM_OFFENSE
+2024-08-24 15:51:25 - INFO - Starting training for model: HeNLP/HeRo
+2024-08-24 15:51:27 - ERROR - Error in label CIR_TYPE_WEP: checkpoints/step_307 is not a local folder and is not a valid model identifier listed on 'https://huggingface.co/models'
+If this is a private repository, make sure to pass a token having permission to this repo either by logging in with `huggingface-cli login` or by passing `token=<your_token>`
+2024-08-24 15:51:27 - INFO - Starting training for labels: _HELD_WAY_WEP
+2024-08-24 15:51:27 - INFO - Starting training for model: HeNLP/HeRo
+2024-08-24 15:52:11 - INFO - Metrics to CIRCUM_OFFENSE is: {'accuracy': 0.12844465203176086, 'precision': 0.010084925690021231, 'recall': 0.95, 'f1': 0.01995798319327731, 'PRAUC': 0.007822175819537968, 'eval_set': 184, 'test_set': 2141, 'best_threshold': 0.48615601658821106}
+2024-08-24 15:52:11 - INFO - Starting training for model: amberoad/bert-multilingual-passage-reranking-msmarco
+2024-08-24 15:53:28 - INFO - Metrics to CIRCUM_OFFENSE is: {'accuracy': 0.3563755254553947, 'precision': 0.010806916426512969, 'recall': 0.75, 'f1': 0.02130681818181818, 'PRAUC': 0.008105302464162346, 'eval_set': 184, 'test_set': 2141, 'best_threshold': 0.4577505588531494}
+2024-08-24 15:53:28 - INFO - Starting training for model: dicta-il/dictabert
+2024-08-24 15:54:16 - INFO - Metrics to CIRCUM_OFFENSE is: {'accuracy': 0.7818776272769734, 'precision': 0.010940919037199124, 'recall': 0.25, 'f1': 0.020964360587002098, 'PRAUC': 0.00955251024968386, 'eval_set': 184, 'test_set': 2141, 'best_threshold': 0.713572084903717}
+2024-08-24 15:54:16 - INFO - Starting training for model: avichr/Legal-heBERT
+2024-08-24 15:55:07 - INFO - Metrics to CIRCUM_OFFENSE is: {'accuracy': 0.7155534796823914, 'precision': 0.016420361247947456, 'recall': 0.5, 'f1': 0.03179650238473768, 'PRAUC': 0.012852803932733706, 'eval_set': 184, 'test_set': 2141, 'best_threshold': 0.5327627062797546}
+2024-08-24 15:55:07 - INFO - Starting training for model: avichr/heBERT
+2024-08-24 15:55:57 - INFO - Metrics to CIRCUM_OFFENSE is: {'accuracy': 0.9915927136851939, 'precision': 0.75, 'recall': 0.15, 'f1': 0.25, 'PRAUC': 0.12006715933888108, 'eval_set': 184, 'test_set': 2141, 'best_threshold': 0.7929471135139465}
+2024-08-24 15:55:57 - INFO - Starting training for model: onlplab/alephbert-base
+2024-08-24 15:56:46 - INFO - Metrics to CIRCUM_OFFENSE is: {'accuracy': 0.0270901447921532, 'precision': 0.009510223490252021, 'recall': 1.0, 'f1': 0.018841262364578427, 'PRAUC': 0.007347450197512547, 'eval_set': 184, 'test_set': 2141, 'best_threshold': 0.18943217396736145}
+2024-08-24 15:56:47 - INFO - setfit training finished.
+2024-08-24 15:59:45 - ERROR - Error in label _HELD_WAY_WEP: checkpoints/step_117 is not a local folder and is not a valid model identifier listed on 'https://huggingface.co/models'
+If this is a private repository, make sure to pass a token having permission to this repo either by logging in with `huggingface-cli login` or by passing `token=<your_token>`
+2024-08-24 15:59:46 - INFO - Starting training for labels: CIR_AMMU_AMOUNT_WEP
+2024-08-24 15:59:46 - INFO - Starting training for model: HeNLP/HeRo
+2024-08-24 16:06:58 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9828274760383386, 'precision': 0.6666666666666666, 'recall': 0.6129032258064516, 'f1': 0.6386554621848739, 'PRAUC': 0.7033242750228589, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.9999988079071045}
+2024-08-24 16:06:59 - INFO - Starting training for model: amberoad/bert-multilingual-passage-reranking-msmarco
+2024-08-24 16:23:38 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9792332268370607, 'precision': 0.578125, 'recall': 0.5967741935483871, 'f1': 0.5873015873015873, 'PRAUC': 0.5016454159740884, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.9999905824661255}
+2024-08-24 16:23:38 - INFO - Starting training for model: dicta-il/dictabert
+2024-08-24 16:32:40 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.981629392971246, 'precision': 0.6290322580645161, 'recall': 0.6290322580645161, 'f1': 0.6290322580645161, 'PRAUC': 0.6773944725516688, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.9996987581253052}
+2024-08-24 16:32:41 - INFO - Starting training for model: avichr/Legal-heBERT
+2024-08-24 16:43:38 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9808306709265175, 'precision': 0.7333333333333333, 'recall': 0.3548387096774194, 'f1': 0.4782608695652174, 'PRAUC': 0.4418047078691178, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.9999810457229614}
+2024-08-24 16:43:38 - INFO - Starting training for model: avichr/heBERT
+2024-08-24 16:52:12 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9848242811501597, 'precision': 0.7608695652173914, 'recall': 0.5645161290322581, 'f1': 0.6481481481481481, 'PRAUC': 0.7063629635053328, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.9999909400939941}
+2024-08-24 16:52:12 - INFO - Starting training for model: onlplab/alephbert-base
+                                                                                                                                                                                                                                                                                                                                                                2024-08-24 17:05:08 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9764376996805112, 'precision': 0.5168539325842697, 'recall': 0.7419354838709677, 'f1': 0.609271523178808, 'PRAUC': 0.6612192740506085, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.9999557733535767}
+2024-08-24 17:05:08 - INFO - Starting training for labels: CIR_PURPOSE
+2024-08-24 17:05:08 - INFO - Starting training for model: HeNLP/HeRo
+                                                                                                                                                                                                                                                                                    2024-08-24 17:10:08 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.9688498402555911, 'precision': 0.23214285714285715, 'recall': 0.2708333333333333, 'f1': 0.25, 'PRAUC': 0.16626959028664257, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.9899062514305115}
+2024-08-24 17:10:08 - INFO - Starting training for model: amberoad/bert-multilingual-passage-reranking-msmarco
+2024-08-24 17:20:35 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.9253194888178914, 'precision': 0.12432432432432433, 'recall': 0.4791666666666667, 'f1': 0.19742489270386265, 'PRAUC': 0.1284351893303293, 'eval_set': 254, 'test_set': 2504, 'best_threshold': 0.9997804760932922}
+2024-08-24 17:20:35 - INFO - Starting training for model: dicta-il/dictabert
+2024-08-24 17:26:13 - ERROR - Error in label reject: checkpoints/step_3592 is not a local folder and is not a valid model identifier listed on 'https://huggingface.co/models'
+If this is a private repository, make sure to pass a token having permission to this repo either by logging in with `huggingface-cli login` or by passing `token=<your_token>`
+2024-08-24 17:26:13 - INFO - Starting training for labels: CONFESSION
+2024-08-24 17:26:13 - INFO - Starting training for model: HeNLP/HeRo
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                2024-08-24 17:31:51 - ERROR - Error in label CONFESSION: checkpoints/step_58 is not a local folder and is not a valid model identifier listed on 'https://huggingface.co/models'
+If this is a private repository, make sure to pass a token having permission to this repo either by logging in with `huggingface-cli login` or by passing `token=<your_token>`
+2024-08-24 17:31:51 - INFO - Starting training for labels: GENERAL_CIRCUM
+2024-08-24 17:31:51 - INFO - Starting training for model: HeNLP/HeRo
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    2024-08-24 17:37:39 - ERROR - Error in label GENERAL_CIRCUM: checkpoints/step_372 is not a local folder and is not a valid model identifier listed on 'https://huggingface.co/models'
+If this is a private repository, make sure to pass a token having permission to this repo either by logging in with `huggingface-cli login` or by passing `token=<your_token>`
+2024-08-24 17:37:39 - INFO - Starting training for labels: PUNISHMENT
+2024-08-24 17:37:39 - INFO - Starting training for model: HeNLP/HeRo
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           2024-08-24 17:47:41 - ERROR - Error in label PUNISHMENT: checkpoints/step_85 is not a local folder and is not a valid model identifier listed on 'https://huggingface.co/models'
+If this is a private repository, make sure to pass a token having permission to this repo either by logging in with `huggingface-cli login` or by passing `token=<your_token>`
+2024-08-24 17:47:41 - INFO - Starting training for labels: CIRCUM_OFFENSE
+2024-08-24 17:47:42 - INFO - Starting training for model: HeNLP/HeRo
+2024-08-24 17:48:47 - ERROR - Error in label REGRET: checkpoints/step_36 is not a local folder and is not a valid model identifier listed on 'https://huggingface.co/models'
+If this is a private repository, make sure to pass a token having permission to this repo either by logging in with `huggingface-cli login` or by passing `token=<your_token>`
+2024-08-24 17:48:47 - INFO - Starting training for labels: PUNISHMENT
+2024-08-24 17:48:49 - INFO - Starting training for model: HeNLP/HeRo
+2024-08-24 17:55:10 - ERROR - Error in label PUNISHMENT: checkpoints/step_23 is not a local folder and is not a valid model identifier listed on 'https://huggingface.co/models'
+If this is a private repository, make sure to pass a token having permission to this repo either by logging in with `huggingface-cli login` or by passing `token=<your_token>`
+2024-08-24 17:55:10 - INFO - Starting training for labels: CIRCUM_OFFENSE
+2024-08-24 17:55:10 - INFO - Starting training for model: HeNLP/HeRo
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        2024-08-24 18:06:53 - INFO - Metrics to CIRCUM_OFFENSE is: {'accuracy': 0.9182493806771264, 'precision': 0.6890080428954424, 'recall': 0.7581120943952803, 'f1': 0.7219101123595506, 'PRAUC': 0.6737424449802496, 'eval_set': 282, 'test_set': 2422, 'best_threshold': 0.9999998807907104}
+2024-08-24 18:06:53 - INFO - Starting training for model: amberoad/bert-multilingual-passage-reranking-msmarco
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              2024-08-24 18:26:47 - INFO - Metrics to CIRCUM_OFFENSE is: {'accuracy': 0.9178364987613542, 'precision': 0.7302631578947368, 'recall': 0.6548672566371682, 'f1': 0.6905132192846034, 'PRAUC': 0.7119594516626615, 'eval_set': 282, 'test_set': 2422, 'best_threshold': 0.9999972581863403}
+2024-08-24 18:26:47 - INFO - Starting training for model: dicta-il/dictabert
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            2024-08-24 19:03:34 - INFO - Metrics to CIRCUM_OFFENSE is: {'accuracy': 0.9310487200660611, 'precision': 0.7457142857142857, 'recall': 0.7699115044247787, 'f1': 0.7576197387518142, 'PRAUC': 0.8214731543089271, 'eval_set': 282, 'test_set': 2422, 'best_threshold': 0.9998311996459961}
+2024-08-24 19:06:22 - INFO - Starting training for model: avichr/Legal-heBERT
+2024-08-24 19:08:39 - ERROR - Error in label CIRCUM_OFFENSE: (MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /avichr/Legal-heBERT/resolve/main/config.json (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)')))"), '(Request ID: 4a5892b5-b048-4425-9a48-2f7d40363d9b)')
+2024-08-24 19:09:30 - INFO - Starting training for labels: CIR_PLANNING
+2024-08-24 19:10:55 - INFO - Starting training for model: HeNLP/HeRo
+2024-08-24 19:15:56 - ERROR - Error in label CIR_PLANNING: (MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /HeNLP/HeRo/resolve/main/config.json (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)')))"), '(Request ID: f631e45a-d396-48b8-b1be-f363e71fe2a8)')
+2024-08-24 19:16:43 - INFO - Starting training for labels: RESPO
+2024-08-24 19:17:44 - INFO - Starting training for model: HeNLP/HeRo
+2024-08-24 19:19:09 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-24 19:19:09 - INFO - Starting training for labels: PUNISHMENT
+2024-08-24 19:19:51 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-24 19:19:51 - INFO - Starting training for labels: PUNISHMENT
+2024-08-24 19:19:51 - INFO - Starting training for model: HeNLP/HeRo
+2024-08-24 19:21:55 - INFO - Metrics to PUNISHMENT is: {'accuracy': 0.9772914946325351, 'precision': 0.6666666666666666, 'recall': 0.7058823529411765, 'f1': 0.6857142857142857, 'PRAUC': 0.5940061914255842, 'eval_set': 282, 'test_set': 2422, 'best_threshold': 0.9510606527328491}
+2024-08-24 19:21:55 - INFO - Starting training for model: amberoad/bert-multilingual-passage-reranking-msmarco
+2024-08-24 19:25:06 - INFO - Metrics to PUNISHMENT is: {'accuracy': 0.9789430222956235, 'precision': 0.7125, 'recall': 0.6705882352941176, 'f1': 0.6909090909090909, 'PRAUC': 0.7098535769533508, 'eval_set': 282, 'test_set': 2422, 'best_threshold': 0.7909451127052307}
+2024-08-24 19:25:06 - INFO - Starting training for model: dicta-il/dictabert
+2024-08-24 19:27:11 - INFO - Metrics to PUNISHMENT is: {'accuracy': 0.9822460776218002, 'precision': 0.7560975609756098, 'recall': 0.7294117647058823, 'f1': 0.7425149700598802, 'PRAUC': 0.7994047678848811, 'eval_set': 282, 'test_set': 2422, 'best_threshold': 0.7873161435127258}
+2024-08-24 19:27:11 - INFO - Starting training for model: avichr/Legal-heBERT
+2024-08-24 19:29:13 - INFO - Metrics to PUNISHMENT is: {'accuracy': 0.9801816680429397, 'precision': 0.7341772151898734, 'recall': 0.6823529411764706, 'f1': 0.7073170731707317, 'PRAUC': 0.7267701483098405, 'eval_set': 282, 'test_set': 2422, 'best_threshold': 0.6848853826522827}
+2024-08-24 19:29:13 - INFO - Starting training for model: avichr/heBERT
+2024-08-24 19:31:15 - INFO - Metrics to PUNISHMENT is: {'accuracy': 0.976878612716763, 'precision': 0.6835443037974683, 'recall': 0.6352941176470588, 'f1': 0.6585365853658537, 'PRAUC': 0.7014622848940257, 'eval_set': 282, 'test_set': 2422, 'best_threshold': 0.7299944758415222}
+2024-08-24 19:31:15 - INFO - Starting training for model: onlplab/alephbert-base
+2024-08-24 19:33:14 - INFO - Metrics to PUNISHMENT is: {'accuracy': 0.9772914946325351, 'precision': 0.6293103448275862, 'recall': 0.8588235294117647, 'f1': 0.7263681592039801, 'PRAUC': 0.8031085898094573, 'eval_set': 282, 'test_set': 2422, 'best_threshold': 0.8799635171890259}
+2024-08-24 19:33:15 - INFO - setfit training finished.
+2024-08-24 19:40:09 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-24 19:40:09 - INFO - Starting training for labels: CIRCUM_OFFENSE
+2024-08-24 19:40:10 - INFO - Starting training for model: HeNLP/HeRo
+2024-08-24 19:42:46 - INFO - Metrics to CIRCUM_OFFENSE is: {'accuracy': 0.9236168455821635, 'precision': 0.6984536082474226, 'recall': 0.799410029498525, 'f1': 0.7455295735900963, 'PRAUC': 0.7576949645470312, 'eval_set': 282, 'test_set': 2422, 'best_threshold': 0.0879078134894371}
+2024-08-24 19:42:47 - INFO - Starting training for model: amberoad/bert-multilingual-passage-reranking-msmarco
+                                                                                                                                                                                                    2024-08-24 19:47:03 - INFO - Metrics to CIRCUM_OFFENSE is: {'accuracy': 0.9046242774566474, 'precision': 0.6467391304347826, 'recall': 0.7020648967551623, 'f1': 0.6732673267326733, 'PRAUC': 0.6562510236559607, 'eval_set': 282, 'test_set': 2422, 'best_threshold': 0.003938382025808096}
+2024-08-24 19:47:03 - INFO - Starting training for model: dicta-il/dictabert
+2024-08-24 19:49:44 - INFO - Metrics to CIRCUM_OFFENSE is: {'accuracy': 0.93476465730801, 'precision': 0.7734138972809668, 'recall': 0.7551622418879056, 'f1': 0.764179104477612, 'PRAUC': 0.8269810547494285, 'eval_set': 282, 'test_set': 2422, 'best_threshold': 0.9997559189796448}
+2024-08-24 19:49:44 - INFO - Starting training for model: avichr/Legal-heBERT
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     2024-08-24 19:52:24 - INFO - Metrics to CIRCUM_OFFENSE is: {'accuracy': 0.870355078447564, 'precision': 0.5272331154684096, 'recall': 0.7138643067846607, 'f1': 0.606516290726817, 'PRAUC': 0.6110138779464598, 'eval_set': 282, 'test_set': 2422, 'best_threshold': 0.6126466393470764}
+2024-08-24 19:52:24 - INFO - Starting training for model: avichr/heBERT
+                                                                                                                                                                                                               2024-08-24 19:55:04 - INFO - Metrics to CIRCUM_OFFENSE is: {'accuracy': 0.921552436003303, 'precision': 0.6955380577427821, 'recall': 0.7817109144542773, 'f1': 0.7361111111111112, 'PRAUC': 0.7698919212389566, 'eval_set': 282, 'test_set': 2422, 'best_threshold': 0.9995073080062866}
+2024-08-24 19:55:04 - INFO - Starting training for model: onlplab/alephbert-base
+2024-08-24 19:57:41 - INFO - Metrics to CIRCUM_OFFENSE is: {'accuracy': 0.916597853014038, 'precision': 0.6708229426433915, 'recall': 0.7935103244837758, 'f1': 0.727027027027027, 'PRAUC': 0.8040168151912827, 'eval_set': 282, 'test_set': 2422, 'best_threshold': 0.8867211937904358}
+2024-08-24 19:57:41 - INFO - setfit training finished.
+2024-08-24 20:00:35 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-24 20:00:35 - INFO - Starting training for labels: reject
+2024-08-24 20:35:48 - INFO - Metrics to reject is: {'accuracy': 0.8319570602807597, 'precision': 0.8758212877792378, 'recall': 0.8594455190199871, 'f1': 0.8675561340709405, 'PRAUC': 0.9249899754380456, 'eval_set': 282, 'test_set': 2422, 'best_threshold': 1.9294794e-06}
+2024-08-24 20:35:48 - ERROR - Error in label reject: Object of type float32 is not JSON serializable
+2024-08-24 20:35:48 - INFO - Starting training for labels: CONFESSION
+2024-08-24 20:45:09 - INFO - Metrics to CONFESSION is: {'accuracy': 0.9822460776218002, 'precision': 0.808695652173913, 'recall': 0.8157894736842105, 'f1': 0.8122270742358079, 'PRAUC': 0.8712012288225375, 'eval_set': 282, 'test_set': 2422, 'best_threshold': 0.999982}
+2024-08-24 20:45:09 - ERROR - Error in label CONFESSION: Object of type float32 is not JSON serializable
+2024-08-24 20:45:09 - INFO - Starting training for labels: GENERAL_CIRCUM
+2024-08-24 22:01:52 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-24 22:01:53 - INFO - Starting training for labels: PUNISHMENT
+2024-08-24 22:02:49 - ERROR - Error in label PUNISHMENT: Timed out waiting for wandb service to start after 30.0 seconds. Try increasing the timeout with the `_service_wait` setting.
+2024-08-24 22:02:50 - INFO - Starting training for labels: CIRCUM_OFFENSE
+2024-08-24 22:03:25 - ERROR - Error in label CIRCUM_OFFENSE: Timed out waiting for wandb service to start after 30.0 seconds. Try increasing the timeout with the `_service_wait` setting.
+2024-08-24 22:03:25 - INFO - setfit training finished.

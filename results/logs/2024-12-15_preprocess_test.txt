@@ -1,0 +1,41 @@
+2024-12-15 14:51:04 - INFO - Start Preprocessing flow!
+2024-12-15 14:52:39 - INFO - Start Preprocessing flow!
+2024-12-15 14:54:53 - INFO - Start Preprocessing flow!
+2024-12-15 14:58:03 - INFO - Start Preprocessing flow!
+2024-12-15 14:59:22 - INFO - Start Preprocessing flow!
+2024-12-15 14:59:53 - INFO - Finis to process ME-22-12-47987-640 case
+2024-12-15 15:00:39 - INFO - Start Preprocessing flow!
+2024-12-15 15:00:47 - INFO - Finish to process ME-22-12-47987-640 case
+2024-12-15 15:00:56 - INFO - Finish to process ME-23-01-53640-602 case
+2024-12-15 15:00:59 - INFO - Finish to process ME-23-05-49875-541 case
+2024-12-15 15:01:09 - INFO - Finish to process ME-23-05-52567-993 case
+2024-12-15 15:01:19 - INFO - Finish to process ME-23-06-15727-546 case
+2024-12-15 15:01:25 - INFO - Finish to process SH-17-10-12320-80 case
+2024-12-15 15:01:31 - INFO - Finish to process SH-19-02-58269-573 case
+2024-12-15 15:01:48 - INFO - Finish to process SH-19-03-50607-561 case
+2024-12-15 15:01:59 - INFO - Finish to process SH-19-05-41247-961 case
+2024-12-15 15:02:06 - INFO - Finish to process SH-20-06-57459-683 case
+2024-12-15 15:02:11 - INFO - Finish to process SH-20-08-24302-570 case
+2024-12-15 15:02:21 - INFO - Finish to process SH-20-09-43084-871 case
+2024-12-15 15:02:26 - INFO - Finish to process SH-21-02-39690-282 case
+2024-12-15 15:02:32 - INFO - Finish to process SH-21-08-36546-752 case
+2024-12-15 15:02:40 - INFO - Finish to process SH-21-09-42879-201 case
+2024-12-15 15:02:43 - INFO - Finish to process SH-21-10-30884-544 case
+2024-12-15 15:02:48 - INFO - Finish to process SH-22-01-33898-590 case
+2024-12-15 15:02:54 - INFO - Finish to process SH-22-03-40650-599 case
+2024-12-15 15:02:58 - INFO - Finish to process SH-22-03-62924-190 case
+2024-12-15 15:03:04 - INFO - Finish to process SH-22-11-37606-732 case
+2024-12-15 15:03:18 - INFO - Finish to process SH-22-11-64232-785 case
+2024-12-15 15:03:22 - INFO - Finish to process SH-22-12-20664-221 case
+2024-12-15 15:03:25 - INFO - Finish to process SH-23-05-72468-401 case
+2024-12-15 15:03:34 - INFO - Finish to process SH-23-08-30009-79 case
+2024-12-15 15:03:42 - INFO - Finish to process SH-24-01-9804-702 case
+2024-12-15 15:03:53 - INFO - Finish to process SH-24-01-26596-264 case
+2024-12-15 15:04:00 - INFO - Finish to process SH-24-05-46424-585 case
+2024-12-15 15:04:07 - INFO - Finish to process ME-10-11-18588-3 case
+2024-12-15 15:04:12 - INFO - Finish to process ME-22-01-47042-277 case
+2024-12-15 15:04:18 - INFO - Finish to process ME-22-07-53625-139 case
+2024-12-15 15:04:24 - INFO - Finish to process ME-22-08-15747-700 case
+2024-12-15 15:04:30 - INFO - Finish to process ME-22-11-1990-79 case
+2024-12-15 15:05:08 - INFO - Start Preprocessing flow!
+2024-12-15 15:05:18 - INFO - Finish to process ME-09-01-4206-239 case

@@ -1,0 +1,24 @@
+2024-09-07 10:24:54 - INFO - The feature extraction started with the # Regex #
+2024-09-07 10:29:44 - INFO - The feature extraction started with the # Regex #
+2024-09-07 10:37:16 - INFO - The feature extraction started with the # Regex #
+2024-09-07 10:38:50 - INFO - The feature extraction started with the # Regex #
+2024-09-07 10:38:51 - INFO - Finished extracting files, the appropriate files were saved in the cases in None!
+2024-09-07 10:39:57 - INFO - Save to /home/ezradin/pred-sentencing/results/evaluations/feature_extraction/diff_models/regex/regex_07_09.txt!!
+2024-09-07 10:42:21 - INFO - The feature extraction started with the # Regex #
+2024-09-07 11:20:57 - INFO - The feature extraction started with the # Q&A #
+2024-09-07 11:30:00 - INFO - The feature extraction started with the # Q&A #
+2024-09-07 11:32:17 - INFO - The feature extraction started with the # Q&A #
+2024-09-07 11:37:32 - INFO - Finish to feature extraction on /home/ezradin/pred-sentencing/resources/data/tagging/gt/sentence_tagging.csv tagged casaes!!
+2024-09-07 11:59:50 - INFO - Save to /home/ezradin/pred-sentencing/results/evaluations/feature_extraction/diff_models/heBERT SQuAD/heBERT_SQuAD_07_09.txt!!
+2024-09-07 12:05:43 - INFO - The feature extraction started with the # Q&A #
+2024-09-07 12:15:53 - INFO - The feature extraction started with the # Q&A #
+2024-09-07 12:17:55 - INFO - Finish to feature extraction on /home/ezradin/pred-sentencing/resources/data/tagging/gt/sentence_tagging.csv tagged casaes!!
+2024-09-07 12:18:16 - INFO - Save to /home/ezradin/pred-sentencing/results/evaluations/feature_extraction/diff_models/heBERT SQuAD/heBERT_SQuAD_07_09.txt!!
+2024-09-07 12:20:23 - INFO - The feature extraction started with the # Q&A #
+2024-09-07 12:23:23 - INFO - The feature extraction started with the # Q&A #
+2024-09-07 12:31:12 - INFO - Save to /home/ezradin/pred-sentencing/results/evaluations/feature_extraction/diff_models/heBERT SQuAD/heBERT_SQuAD_07_09.txt!!
+2024-09-07 12:51:38 - INFO - The feature extraction started with the # Q&A #
+2024-09-07 12:57:30 - INFO - The feature extraction started with the # Q&A #
+2024-09-07 14:17:34 - INFO - Save to /home/ezradin/pred-sentencing/results/evaluations/feature_extraction/diff_models/heBERT SQuAD/heBERT_SQuAD_07_09.txt!!
+2024-09-07 14:20:18 - INFO - Save to /home/ezradin/pred-sentencing/results/evaluations/feature_extraction/diff_models/heBERT SQuAD/heBERT_SQuAD_07_09.txt!!
+2024-09-07 14:20:45 - INFO - Save to /home/ezradin/pred-sentencing/results/evaluations/feature_extraction/pipeline_eval/dicta2_07_09.txt!!

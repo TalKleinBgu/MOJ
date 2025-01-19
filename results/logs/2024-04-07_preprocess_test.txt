@@ -1,0 +1,10 @@
+2024-04-07 17:42:18,477 - INFO - Start Preprocessing flow
+2024-04-07 17:46:12,390 - INFO - Start Preprocessing flow
+2024-04-%\d 17:49:33 - INFO - Start Preprocessing flow
+2024-04-07 17:50:15 - INFO - Start Preprocessing flow
+2024-04-07 17:51:52 - INFO - Save preprocessing csv file to results/db/1316-04-19
+2024-04-07 17:57:57 - INFO - Start Preprocessing flow!
+2024-04-07 17:58:05 - INFO - Finis to process 1316-04-19 verdict
+2024-04-07 18:02:23 - INFO - Start Preprocessing flow!
+2024-04-07 18:03:35 - INFO - Start Preprocessing flow!
+2024-04-07 18:07:06 - INFO - Start Preprocessing flow!

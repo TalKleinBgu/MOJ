@@ -1,0 +1,84 @@
+2024-07-21 19:02:47 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/results/sentence_generation/combained/dfs
+2024-07-21 19:02:47 - INFO - Starting setfit training for labels: ['CIR_MONEY_PAID_WEP']
+2024-07-21 19:09:32 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/results/sentence_generation/combained/dfs
+2024-07-21 19:09:32 - INFO - Starting setfit training for labels: ['CIR_MONEY_PAID_WEP']
+2024-07-21 19:32:43 - INFO - 
+Train start, data is taken from resources/data/tagging/gt/sentence_tagging.xlsx
+2024-07-21 19:32:43 - INFO - Starting setfit training for labels: ['CIR_MONEY_PAID_WEP']
+2024-07-21 19:33:08 - INFO - 
+Train start, data is taken from resources/data/tagging/gt/sentence_tagging.xlsx
+2024-07-21 19:33:08 - INFO - Starting setfit training for labels: ['CIR_MONEY_PAID_WEP']
+2024-07-21 19:44:55 - INFO - 
+Train start, data is taken from resources/data/tagging/gt/sentence_tagging.xlsx
+2024-07-21 19:44:55 - INFO - Starting setfit training for labels: ['CIR_MONEY_PAID_WEP']
+2024-07-21 19:53:53 - INFO - 
+Train start, data is taken from resources/data/tagging/gt/sentence_tagging.xlsx
+2024-07-21 19:53:53 - INFO - Starting setfit training for labels: ['CIR_MONEY_PAID_WEP']
+2024-07-21 20:13:02 - INFO - 
+Train start, data is taken from resources/data/tagging/gt/sentence_tagging.xlsx
+2024-07-21 20:13:02 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-07-21 20:17:11 - INFO - 
+Train start, data is taken from resources/data/tagging/gt/sentence_tagging.xlsx
+2024-07-21 20:17:11 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-07-21 20:21:59 - INFO - 
+Train start, data is taken from resources/data/tagging/gt/sentence_tagging.xlsx
+2024-07-21 20:21:59 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-07-21 20:26:58 - INFO - 
+Train start, data is taken from resources/data/tagging/gt/sentence_tagging.xlsx
+2024-07-21 20:26:58 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-07-21 20:28:31 - INFO - 
+Train start, data is taken from resources/data/tagging/gt/sentence_tagging.xlsx
+2024-07-21 20:28:31 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-07-21 20:31:09 - INFO - 
+Train start, data is taken from resources/data/tagging/gt/sentence_tagging.xlsx
+2024-07-21 20:31:09 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-07-21 20:31:18 - INFO - ֿ
+Start to train CIR_STATUS_WEP classifier
+
+2024-07-21 20:32:51 - INFO - 
+Train start, data is taken from resources/data/tagging/gt/sentence_tagging.xlsx
+2024-07-21 20:32:51 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-07-21 20:34:43 - INFO - ֿ
+Start to train CIR_STATUS_WEP classifier
+
+2024-07-21 20:38:07 - INFO - 
+Train start, data is taken from resources/data/tagging/gt/sentence_tagging.xlsx
+2024-07-21 20:38:07 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-07-21 20:38:28 - INFO - 
+Train start, data is taken from resources/data/tagging/gt/sentence_tagging.xlsx
+2024-07-21 20:38:28 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-07-21 20:38:43 - INFO - 
+Train start, data is taken from resources/data/tagging/gt/sentence_tagging.xlsx
+2024-07-21 20:38:43 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-07-21 20:39:47 - INFO - 
+Train start, data is taken from resources/data/tagging/gt/sentence_tagging.xlsx
+2024-07-21 20:39:47 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-07-21 20:39:59 - INFO - ֿ
+Start to train CIR_STATUS_WEP classifier
+
+2024-07-21 20:40:25 - INFO - 
+Train start, data is taken from resources/data/tagging/gt/sentence_tagging.xlsx
+2024-07-21 20:40:25 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-07-21 20:40:51 - INFO - ֿ
+Start to train CIR_STATUS_WEP classifier
+
+2024-07-21 20:49:02 - INFO - 
+Train start, data is taken from resources/data/tagging/gt/sentence_tagging.xlsx
+2024-07-21 20:49:02 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-07-21 20:49:13 - INFO - ֿ
+Start to train CIR_STATUS_WEP classifier
+
+2024-07-21 20:53:15 - INFO - 
+Train start, data is taken from resources/data/tagging/gt/sentence_tagging.xlsx
+2024-07-21 20:53:15 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-07-21 20:53:18 - INFO - ֿ
+Start to train CIR_STATUS_WEP classifier
+
+2024-07-21 20:54:05 - INFO - 
+Train start, data is taken from resources/data/tagging/gt/sentence_tagging.xlsx
+2024-07-21 20:54:05 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-07-21 20:54:09 - INFO - ֿ
+Start to train CIR_STATUS_WEP classifier
+

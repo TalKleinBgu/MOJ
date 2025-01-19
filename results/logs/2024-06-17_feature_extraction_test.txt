@@ -1,0 +1,157 @@
+2024-06-17 11:00:02 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 11:05:42 - INFO - Evaluation on resources/data/tagging/sentence_classfication/test/combain_tagged_gt.xlsx save in results/evaluations/feature_extraction/fe_from_sentence_tagged/qa_features_dictalm2.0-instruct.csv 
+
+2024-06-17 11:05:42 - INFO - Finish to feature extraction on resources/data/tagging/sentence_classfication/test/combain_tagged_gt.xlsx tagged casaes!!
+2024-06-17 11:11:04 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 12:24:43 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 12:32:27 - INFO - Evaluation on resources/data/tagging/sentence_classfication/test/combain_tagged_gt.xlsx save in results/evaluations/feature_extraction/fe_from_sentence_tagged/qa_features_dictalm2.0-instruct.csv 
+
+2024-06-17 12:32:39 - INFO - Finish to feature extraction on resources/data/tagging/sentence_classfication/test/combain_tagged_gt.xlsx tagged casaes!!
+2024-06-17 12:32:59 - INFO - Save to results/evaluations/feature_extraction/fe_from_sentence_tagged/manual_feature_extraction_error_analysis_17.6.txt!!
+2024-06-17 12:35:57 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 12:36:56 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 12:41:03 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 12:44:35 - INFO - Evaluation on resources/data/tagging/sentence_classfication/test/combain_tagged_gt.xlsx save in results/evaluations/feature_extraction/fe_from_sentence_tagged/qa_features_dictalm2.0-instruct.csv 
+
+2024-06-17 12:44:35 - INFO - Finish to feature extraction on resources/data/tagging/sentence_classfication/test/combain_tagged_gt.xlsx tagged casaes!!
+2024-06-17 12:45:56 - INFO - Save to results/evaluations/feature_extraction/fe_from_sentence_tagged/manual_feature_extraction_error_analysis_17.6.txt!!
+2024-06-17 12:46:29 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 12:51:16 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 12:56:07 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 13:00:47 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 13:04:19 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 13:09:11 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 13:12:57 - INFO - Evaluation on resources/data/tagging/sentence_classfication/test/combain_tagged_gt.xlsx save in results/evaluations/feature_extraction/fe_from_sentence_tagged/qa_features_dictalm2.0-instruct.csv 
+
+2024-06-17 13:12:59 - INFO - Finish to feature extraction on resources/data/tagging/sentence_classfication/test/combain_tagged_gt.xlsx tagged casaes!!
+2024-06-17 13:35:42 - INFO - Save to results/evaluations/feature_extraction/fe_from_sentence_tagged/manual_feature_extraction_error_analysis_17.6.txt!!
+2024-06-17 13:36:31 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 13:40:04 - INFO - Evaluation on resources/data/tagging/sentence_classfication/test/combain_tagged_gt.xlsx save in results/evaluations/feature_extraction/fe_from_sentence_tagged/qa_features_dictalm2.0-instruct.csv 
+
+2024-06-17 13:40:04 - INFO - Finish to feature extraction on resources/data/tagging/sentence_classfication/test/combain_tagged_gt.xlsx tagged casaes!!
+2024-06-17 13:41:04 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 13:41:11 - INFO - Save to results/evaluations/feature_extraction/fe_from_sentence_tagged/manual_feature_extraction_error_analysis_17.6.txt!!
+2024-06-17 13:44:22 - INFO - Save to results/evaluations/feature_extraction/fe_from_sentence_tagged/manual_feature_extraction_error_analysis_17.6.txt!!
+2024-06-17 13:45:13 - INFO - Save to results/evaluations/feature_extraction/fe_from_sentence_tagged/manual_feature_extraction_error_analysis_17.6.txt!!
+2024-06-17 13:47:28 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 13:50:29 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 13:54:30 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 13:55:19 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 13:57:05 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 14:06:18 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 14:09:50 - INFO - Evaluation on resources/data/tagging/sentence_classfication/test/combain_tagged_gt.xlsx save in results/evaluations/feature_extraction/fe_from_sentence_tagged/qa_features_dictalm2.0-instruct.csv 
+
+2024-06-17 14:09:50 - INFO - Finish to feature extraction on resources/data/tagging/sentence_classfication/test/combain_tagged_gt.xlsx tagged casaes!!
+2024-06-17 14:09:55 - INFO - Save to results/evaluations/feature_extraction/fe_from_sentence_tagged/manual_feature_extraction_error_analysis_17.6.txt!!
+2024-06-17 14:12:13 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 14:13:03 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 14:17:20 - INFO - Evaluation on resources/data/tagging/sentence_classfication/test/gt.xlsx save in results/evaluations/feature_extraction/fe_from_sentence_tagged/qa_features_dictalm2.0-instruct.csv 
+
+2024-06-17 14:17:20 - INFO - Finish to feature extraction on resources/data/tagging/sentence_classfication/test/gt.xlsx tagged casaes!!
+2024-06-17 14:17:28 - INFO - Save to results/evaluations/feature_extraction/fe_from_sentence_tagged/manual_feature_extraction_error_analysis_17.6.txt!!
+2024-06-17 14:19:12 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 14:30:20 - INFO - Save to results/evaluations/feature_extraction/fe_from_sentence_tagged/manual_feature_extraction_error_analysis_17.6.txt!!
+2024-06-17 14:36:44 - INFO - Save to results/evaluations/feature_extraction/fe_from_sentence_tagged/manual_feature_extraction_error_analysis_17.6.txt!!
+2024-06-17 14:44:14 - INFO - Save to results/evaluations/feature_extraction/fe_from_sentence_tagged/manual_feature_extraction_error_analysis_17.6.txt!!
+2024-06-17 14:49:22 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 14:50:24 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 14:54:24 - INFO - Save to results/evaluations/feature_extraction/fe_from_sentence_tagged/manual_feature_extraction_error_analysis_17.6.txt!!
+2024-06-17 14:54:52 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 14:57:04 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 15:02:27 - INFO - Evaluation on resources/data/tagging/sentence_classfication/test/GT.xlsx save in results/evaluations/feature_extraction/fe_from_sentence_tagged/qa_features_dictalm2.0-instruct.csv 
+
+2024-06-17 15:02:27 - INFO - Finish to feature extraction on resources/data/tagging/sentence_classfication/test/GT.xlsx tagged casaes!!
+2024-06-17 15:03:02 - INFO - Save to results/evaluations/feature_extraction/fe_from_sentence_tagged/manual_feature_extraction_error_analysis_17.6.txt!!
+2024-06-17 15:04:35 - INFO - Save to results/evaluations/feature_extraction/fe_from_sentence_tagged/manual_feature_extraction_error_analysis_17.6.txt!!
+2024-06-17 15:04:47 - INFO - Save to results/evaluations/feature_extraction/fe_from_sentence_tagged/manual_feature_extraction_error_analysis_17.6.txt!!
+2024-06-17 15:09:23 - INFO - Save to results/evaluations/feature_extraction/fe_from_sentence_tagged/manual_feature_extraction_error_analysis_17.6.txt!!
+2024-06-17 15:12:03 - INFO - Save to results/evaluations/feature_extraction/fe_from_sentence_tagged/manual_feature_extraction_error_analysis_17.6.txt!!
+2024-06-17 15:15:56 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 15:20:21 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 15:23:16 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 15:32:37 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 15:35:09 - INFO - Evaluation on resources/data/tagging/sentence_classfication/test/GT.xlsx save in results/evaluations/feature_extraction/fe_from_sentence_tagged/qa_features_dictalm2.0-instruct.csv 
+
+2024-06-17 15:35:09 - INFO - Finish to feature extraction on resources/data/tagging/sentence_classfication/test/GT.xlsx tagged casaes!!
+2024-06-17 15:38:00 - INFO - Save to results/evaluations/feature_extraction/fe_from_sentence_tagged/manual_feature_extraction_error_analysis_17.6.txt!!
+2024-06-17 15:43:04 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 15:45:45 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 15:49:17 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 15:53:08 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 15:55:35 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 16:00:48 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 16:02:04 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 16:09:23 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 16:10:33 - INFO - Evaluation on resources/data/tagging/sentence_classfication/test/GT.xlsx save in results/evaluations/feature_extraction/fe_from_sentence_tagged/qa_features_dictalm2.0-instruct.csv 
+
+2024-06-17 16:10:33 - INFO - Finish to feature extraction on resources/data/tagging/sentence_classfication/test/GT.xlsx tagged casaes!!
+2024-06-17 16:10:39 - INFO - Save to results/evaluations/feature_extraction/fe_from_sentence_tagged/manual_feature_extraction_error_analysis_17.6.txt!!
+2024-06-17 16:11:16 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 16:12:25 - INFO - Evaluation on resources/data/tagging/sentence_classfication/test/GT.xlsx save in results/evaluations/feature_extraction/fe_from_sentence_tagged/qa_features_dictalm2.0-instruct.csv 
+
+2024-06-17 16:12:25 - INFO - Finish to feature extraction on resources/data/tagging/sentence_classfication/test/GT.xlsx tagged casaes!!
+2024-06-17 16:13:05 - INFO - Save to results/evaluations/feature_extraction/fe_from_sentence_tagged/manual_feature_extraction_error_analysis_17.6.txt!!
+2024-06-17 16:14:06 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 16:19:49 - INFO - Evaluation on resources/data/tagging/sentence_classfication/test/GT.xlsx save in results/evaluations/feature_extraction/fe_from_sentence_tagged/qa_features_dictalm2.0-instruct.csv 
+
+2024-06-17 16:19:49 - INFO - Finish to feature extraction on resources/data/tagging/sentence_classfication/test/GT.xlsx tagged casaes!!
+2024-06-17 16:19:55 - INFO - Save to results/evaluations/feature_extraction/fe_from_sentence_tagged/manual_feature_extraction_error_analysis_17.6.txt!!
+2024-06-17 16:33:36 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 16:55:12 - INFO - Save to results/evaluations/feature_extraction/fe_from_sentence_tagged/manual_feature_extraction_error_analysis_17.6.txt!!
+2024-06-17 16:56:56 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 16:59:27 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 17:04:35 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 17:05:36 - INFO - Evaluation on resources/data/tagging/sentence_classfication/test/GT.xlsx save in results/evaluations/feature_extraction/fe_from_sentence_tagged/qa_features_dictalm2.0-instruct.csv 
+
+2024-06-17 17:05:36 - INFO - Finish to feature extraction on resources/data/tagging/sentence_classfication/test/GT.xlsx tagged casaes!!
+2024-06-17 17:07:44 - INFO - Save to results/evaluations/feature_extraction/fe_from_sentence_tagged/manual_feature_extraction_error_analysis_17.6.txt!!
+2024-06-17 17:09:27 - INFO - Save to results/evaluations/feature_extraction/fe_from_sentence_tagged/manual_feature_extraction_error_analysis_17.6.txt!!
+2024-06-17 17:10:53 - INFO - Save to results/evaluations/feature_extraction/fe_from_sentence_tagged/manual_feature_extraction_error_analysis_17.6.txt!!
+2024-06-17 17:11:01 - INFO - Save to results/evaluations/feature_extraction/fe_from_sentence_tagged/manual_feature_extraction_error_analysis_17.6.txt!!
+2024-06-17 17:58:30 - INFO - Save to results/evaluations/feature_extraction/fe_from_sentence_tagged/manual_feature_extraction_error_analysis_17.6.txt!!
+2024-06-17 17:59:52 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 18:00:53 - INFO - Evaluation on resources/data/tagging/sentence_classfication/test/GT.xlsx save in results/evaluations/feature_extraction/fe_from_sentence_tagged/qa_features_dictalm2.0-instruct.csv 
+
+2024-06-17 18:00:53 - INFO - Finish to feature extraction on resources/data/tagging/sentence_classfication/test/GT.xlsx tagged casaes!!
+2024-06-17 18:01:39 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 18:05:26 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 18:10:37 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 18:17:37 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 18:20:56 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 18:28:43 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 18:31:30 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 18:34:02 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 18:34:58 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 18:36:10 - INFO - Evaluation on resources/data/tagging/sentence_classfication/test/GT.xlsx save in results/evaluations/feature_extraction/fe_from_sentence_tagged/qa_features_dictalm2.0-instruct.csv 
+
+2024-06-17 18:36:10 - INFO - Finish to feature extraction on resources/data/tagging/sentence_classfication/test/GT.xlsx tagged casaes!!
+2024-06-17 18:37:06 - INFO - Save to results/evaluations/feature_extraction/fe_from_sentence_tagged/manual_feature_extraction_error_analysis_17.6.txt!!
+2024-06-17 18:40:55 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 18:42:15 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 18:47:18 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 18:48:27 - INFO - Evaluation on resources/data/tagging/sentence_classfication/test/GT.xlsx save in results/evaluations/feature_extraction/fe_from_sentence_tagged/qa_features_dictalm2.0-instruct.csv 
+
+2024-06-17 18:48:27 - INFO - Finish to feature extraction on resources/data/tagging/sentence_classfication/test/GT.xlsx tagged casaes!!
+2024-06-17 18:50:09 - INFO - Save to results/evaluations/feature_extraction/fe_from_sentence_tagged/manual_feature_extraction_error_analysis_17.6.txt!!
+2024-06-17 18:57:53 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 18:59:15 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 19:03:07 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 19:04:18 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 19:04:47 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 19:08:29 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 19:09:45 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 19:10:14 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 19:13:29 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 19:24:21 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 19:24:24 - INFO - Evaluation on resources/data/tagging/sentence_classfication/test/GT.xlsx save in results/evaluations/feature_extraction/fe_from_sentence_tagged/qa_features_dictalm2.0-instruct.csv 
+
+2024-06-17 19:24:24 - INFO - Finish to feature extraction on resources/data/tagging/sentence_classfication/test/GT.xlsx tagged casaes!!
+2024-06-17 19:27:21 - INFO - Save to results/evaluations/feature_extraction/fe_from_sentence_tagged/manual_feature_extraction_error_analysis_17.6.txt!!
+2024-06-17 19:28:28 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 19:29:35 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 19:30:46 - INFO - The feature extraction started with the # Q&A #
+2024-06-17 19:37:26 - INFO - Evaluation on resources/data/tagging/sentence_classfication/test/GT.xlsx save in results/evaluations/feature_extraction/fe_from_sentence_tagged/qa_features_dictalm2.0-instruct.csv 
+
+2024-06-17 19:37:26 - INFO - Finish to feature extraction on resources/data/tagging/sentence_classfication/test/GT.xlsx tagged casaes!!
+2024-06-17 19:38:02 - INFO - Save to results/evaluations/feature_extraction/fe_from_sentence_tagged/manual_feature_extraction_error_analysis_17.6.txt!!
+2024-06-17 19:38:58 - INFO - Save to results/evaluations/feature_extraction/fe_from_sentence_tagged/manual_feature_extraction_error_analysis_17.6.txt!!

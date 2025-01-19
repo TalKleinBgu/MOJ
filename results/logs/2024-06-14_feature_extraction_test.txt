@@ -1,0 +1,5 @@
+2024-06-14 12:22:08 - INFO - The feature extraction started with the # Q&A #
+2024-06-14 12:22:52 - INFO - The feature extraction started with the # Q&A #
+2024-06-14 12:48:04 - INFO - The feature extraction started with the # Q&A #
+2024-06-14 12:51:32 - INFO - The feature extraction started with the # Q&A #
+2024-06-14 12:58:19 - INFO - The feature extraction started with the # Q&A #

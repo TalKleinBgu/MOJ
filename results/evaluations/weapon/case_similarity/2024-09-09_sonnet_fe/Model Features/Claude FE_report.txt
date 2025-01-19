@@ -1,0 +1,15 @@
+Model Evaluation Report
+
+Model Type: None
+Extraction Type: qa
+=========================
+Accuracy: 0.673
+Precision: 0.675
+Recall: 0.673
+F1: 0.674
+PR AUC: 
+=========================
+Confusion Matrix:
+[[58 25]
+ [23 41]]
+AUC Score: <function auc at 0x7f285acda320>

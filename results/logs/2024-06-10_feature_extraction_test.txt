@@ -1,0 +1,2 @@
+2024-06-10 16:01:08 - INFO - Save to results/evaluations/feature_extraction/fe_from_sentence_tagged/manual_feature_extraction_error_analysis_10.6.txt!!
+2024-06-10 16:07:20 - INFO - Save to results/evaluations/feature_extraction/fe_from_sentence_tagged/manual_feature_extraction_error_analysis_10.6.txt!!

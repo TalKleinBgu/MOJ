@@ -1,0 +1,10 @@
+2025-01-08 02:21:14 - INFO - The feature extraction started with the # Q&A #
+2025-01-08 02:21:14 - INFO - preprocessing.csv doesn't exist in drugs folder case
+2025-01-08 02:23:25 - INFO - The feature extraction started with the # Q&A #
+2025-01-08 02:23:25 - INFO - preprocessing.csv doesn't exist in drugs folder case
+2025-01-08 02:23:56 - INFO - Finish to feature extraction ME-22-12-47987-640 case!!
+2025-01-08 02:24:14 - INFO - Finish to feature extraction ME-23-01-53640-602 case!!
+2025-01-08 02:24:28 - INFO - Finish to feature extraction ME-23-05-49875-541 case!!
+2025-01-08 02:24:49 - INFO - Finish to feature extraction ME-23-05-52567-993 case!!
+2025-01-08 02:25:11 - INFO - Finish to feature extraction ME-23-06-15727-546 case!!
+2025-01-08 22:48:35 - INFO - Save to /home/tak/pred-sentencing/results/evaluations/dicta2_08_01.txt!!

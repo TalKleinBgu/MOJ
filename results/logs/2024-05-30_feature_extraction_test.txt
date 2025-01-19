@@ -1,0 +1,4 @@
+2024-05-30 15:50:59 - INFO - The feature extraction started with the # Q&A #
+2024-05-30 15:56:51 - INFO - The feature extraction started with the # Q&A #
+2024-05-30 15:57:56 - INFO - Evaluation on resources/data/tagging/sentence_classfication/test/** ME-12-05-33444-999_tagged_ME-13-04-35007-454_tagged_ME-13-10-53169-537_tagged_ME-14-03-48488-922_tagged_ME-14-10-31218-522_GROUND_T.xlsx save in results/evaluations/feature_extraction/fe_from_sentence_tagged/qa_features_dictalm2.0-instruct.csv
+2024-05-30 15:57:56 - INFO - Finish to feature extraction on resources/data/tagging/sentence_classfication/test/** ME-12-05-33444-999_tagged_ME-13-04-35007-454_tagged_ME-13-10-53169-537_tagged_ME-14-03-48488-922_tagged_ME-14-10-31218-522_GROUND_T.xlsx tagged casaes!!

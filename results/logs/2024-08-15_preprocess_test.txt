@@ -1,0 +1,51 @@
+2024-08-15 13:14:42 - INFO - 
+Train start, data is taken from resources/data/tagging/gt/sentence_tagging.xlsx
+2024-08-15 13:14:42 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-08-15 16:09:18 - INFO - 
+Train start, data is taken from resources/data/tagging/trainning/sentence_claddification
+2024-08-15 16:09:18 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-08-15 16:11:07 - INFO - 
+Train start, data is taken from resources/data/tagging/trainning/sentence_claddification
+2024-08-15 16:11:07 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-08-15 16:11:48 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/tagging/trainning/sentence_claddification
+2024-08-15 16:11:48 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-08-15 16:14:00 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-15 16:14:00 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-08-15 16:15:11 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-15 16:15:11 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-08-15 16:17:05 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-15 16:17:05 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-08-15 16:24:30 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-15 16:24:30 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-08-15 16:26:03 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-15 16:26:03 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-08-15 16:26:52 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-15 16:26:52 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-08-15 16:27:36 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-15 16:27:36 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-08-15 16:30:38 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-15 16:30:38 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-08-15 16:36:46 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-15 16:36:46 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-08-15 16:42:04 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-15 16:42:04 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-08-15 17:15:07 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-15 17:15:07 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-08-15 18:38:35 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-15 18:38:35 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']
+2024-08-15 18:38:59 - INFO - 
+Train start, data is taken from /home/ezradin/pred-sentencing/resources/data/trainning/sentence_classification
+2024-08-15 18:38:59 - INFO - Starting setfit training for labels: ['CIR_STATUS_WEP']

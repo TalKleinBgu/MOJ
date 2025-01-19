@@ -1,0 +1,30 @@
+2024-09-02 11:16:38 - INFO - The feature extraction started with the # Q&A #
+2024-09-02 11:27:41 - INFO - The feature extraction started with the # Q&A #
+2024-09-02 11:28:21 - INFO - The feature extraction started with the # Q&A #
+2024-09-02 11:28:58 - INFO - The feature extraction started with the # Q&A #
+2024-09-02 11:30:31 - INFO - The feature extraction started with the # Q&A #
+2024-09-02 11:33:36 - INFO - The feature extraction started with the # Q&A #
+2024-09-02 11:34:13 - INFO - The feature extraction started with the # Q&A #
+2024-09-02 11:34:31 - INFO - The feature extraction started with the # Q&A #
+2024-09-02 11:47:25 - INFO - The feature extraction started with the # Q&A #
+2024-09-02 11:49:43 - INFO - The feature extraction started with the # Q&A #
+2024-09-02 11:50:23 - INFO - The feature extraction started with the # Q&A #
+2024-09-02 11:56:13 - INFO - The feature extraction started with the # Q&A #
+2024-09-02 12:00:56 - INFO - The feature extraction started with the # Q&A #
+2024-09-02 12:02:27 - INFO - The feature extraction started with the # Q&A #
+2024-09-02 12:10:23 - INFO - The feature extraction started with the # Q&A #
+2024-09-02 12:16:29 - INFO - The feature extraction started with the # Q&A #
+2024-09-02 12:42:45 - INFO - The feature extraction started with the # Q&A #
+2024-09-02 12:45:36 - INFO - The feature extraction started with the # Q&A #
+2024-09-02 12:52:58 - INFO - The feature extraction started with the # Q&A #
+2024-09-02 13:00:14 - INFO - The feature extraction started with the # Q&A #
+2024-09-02 13:03:49 - INFO - The feature extraction started with the # Q&A #
+2024-09-02 13:04:31 - INFO - The feature extraction started with the # Q&A #
+2024-09-02 17:30:41 - INFO - Save to results/evaluations/feature_extraction/fe_from_sentence_tagged/model_feature_extraction_24.6.txt!!
+2024-09-02 17:38:06 - INFO - Save to results/evaluations/feature_extraction/fe_from_sentence_tagged/model_feature_extraction_24.6.txt!!
+2024-09-02 17:43:36 - INFO - Save to results/evaluations/feature_extraction/fe_from_sentence_tagged/model_feature_extraction_24.6.txt!!
+2024-09-02 18:05:46 - INFO - The feature extraction started with the # Regex #
+2024-09-02 18:07:12 - INFO - The feature extraction started with the # Regex #
+2024-09-02 18:08:03 - INFO - The feature extraction started with the # Regex #
+2024-09-02 18:13:20 - INFO - The feature extraction started with the # Regex #
+2024-09-02 18:19:47 - INFO - The feature extraction started with the # Regex #

@@ -1,0 +1,128 @@
+2024-12-16 00:00:19 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/drugs/12cases_in_train
+2024-12-16 00:00:19 - INFO - Starting training for label: REGRET
+2024-12-16 00:00:19 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-16 00:03:03 - INFO - Metrics for REGRET with model dicta-il/dictabert: {'accuracy': 0.9935012185215272, 'precision': 0.875, 'recall': 0.5, 'f1': 0.6363636363636364, 'PRAUC': 0.5541788632469117, 'best_threshold': 0.9830133318901062}
+2024-12-16 00:03:07 - INFO - setfit training finished.
+2024-12-16 00:03:26 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/drugs/12cases_in_train
+2024-12-16 00:03:26 - INFO - Starting training for label: REGRET
+2024-12-16 00:03:26 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-16 00:07:41 - INFO - Metrics for REGRET with model dicta-il/dictabert: {'accuracy': 0.9910641754670999, 'precision': 0.6153846153846154, 'recall': 0.5714285714285714, 'f1': 0.5925925925925926, 'PRAUC': 0.5819119988545589, 'best_threshold': 0.9835860729217529}
+2024-12-16 00:07:46 - INFO - setfit training finished.
+2024-12-16 00:08:41 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/drugs/12cases_in_train
+2024-12-16 00:08:41 - INFO - Starting training for label: CIR_PURPOSE
+2024-12-16 00:08:41 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-16 00:12:28 - INFO - Metrics for CIR_PURPOSE with model dicta-il/dictabert: {'accuracy': 0.9731925264012997, 'precision': 0.5, 'recall': 0.3333333333333333, 'f1': 0.4, 'PRAUC': 0.35743506298821487, 'best_threshold': 0.9998289346694946}
+2024-12-16 00:12:31 - INFO - setfit training finished.
+2024-12-16 11:06:18 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/drugs/12cases_in_train
+2024-12-16 11:06:18 - INFO - Starting training for label: PUNISHMENT
+2024-12-16 11:06:20 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-16 11:07:25 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/drugs/12cases_in_train
+2024-12-16 11:07:25 - INFO - Starting training for label: PUNISHMENT
+2024-12-16 11:07:25 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-16 11:07:41 - ERROR - Error in label PUNISHMENT: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2024-12-16 11:07:41 - INFO - Starting training for label: GENERAL_CIRCUM
+2024-12-16 11:08:14 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/drugs/12cases_in_train
+2024-12-16 11:08:14 - INFO - Starting training for label: PUNISHMENT
+2024-12-16 11:08:14 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-16 11:08:49 - ERROR - Error in label PUNISHMENT: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2024-12-16 11:08:49 - INFO - Starting training for label: GENERAL_CIRCUM
+2024-12-16 11:08:49 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-16 11:08:52 - ERROR - Error in label GENERAL_CIRCUM: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2024-12-16 11:08:52 - INFO - Starting training for label: CONFESSION
+2024-12-16 11:08:52 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-16 11:08:54 - ERROR - Error in label CONFESSION: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2024-12-16 11:08:54 - INFO - Starting training for label: REGRET
+2024-12-16 11:08:54 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-16 11:08:55 - ERROR - Error in label REGRET: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2024-12-16 11:08:55 - INFO - Starting training for label: CIR_TYPE
+2024-12-16 11:08:56 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-16 11:08:57 - ERROR - Error in label CIR_TYPE: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2024-12-16 11:08:57 - INFO - Starting training for label: CIR_AMOUNT
+2024-12-16 11:08:57 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-16 11:08:59 - ERROR - Error in label CIR_AMOUNT: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2024-12-16 11:08:59 - INFO - Starting training for label: CIR_ROLE
+2024-12-16 11:08:59 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-16 11:09:01 - ERROR - Error in label CIR_ROLE: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2024-12-16 11:09:01 - INFO - Starting training for label: CIR_PREVENT
+2024-12-16 11:09:01 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-16 11:09:03 - ERROR - Error in label CIR_PREVENT: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2024-12-16 11:09:03 - INFO - Starting training for label: CIR_PLANNING
+2024-12-16 11:09:03 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-16 11:09:05 - ERROR - Error in label CIR_PLANNING: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2024-12-16 11:09:05 - INFO - Starting training for label: CIR_HOLD_TIME
+2024-12-16 11:09:05 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-16 11:09:06 - ERROR - Error in label CIR_HOLD_TIME: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2024-12-16 11:09:06 - INFO - Starting training for label: CIR_HELD_WAY
+2024-12-16 11:09:06 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-16 11:09:08 - ERROR - Error in label CIR_HELD_WAY: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2024-12-16 11:09:08 - INFO - Starting training for label: CIR_VALUE
+2024-12-16 11:09:08 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-16 11:09:10 - ERROR - Error in label CIR_VALUE: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2024-12-16 11:09:10 - INFO - Starting training for label: CIR_BUYER
+2024-12-16 11:09:10 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-16 11:09:12 - ERROR - Error in label CIR_BUYER: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2024-12-16 11:09:12 - INFO - Starting training for label: RESPO
+2024-12-16 11:09:12 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-16 11:09:13 - ERROR - Error in label RESPO: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2024-12-16 11:09:13 - INFO - Starting training for label: CIR_PURPOSE
+2024-12-16 11:09:14 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-16 11:10:51 - INFO - 
+Train start, data is taken from /home/tak/pred-sentencing/resources/data/trainning/sentence_classification/drugs/12cases_in_train
+2024-12-16 11:10:51 - INFO - Starting training for label: PUNISHMENT
+2024-12-16 11:10:51 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-16 11:15:59 - INFO - Metrics for PUNISHMENT with model dicta-il/dictabert: {'accuracy': 0.9916291049581455, 'precision': 0.8703703703703703, 'recall': 0.8867924528301887, 'f1': 0.8785046728971962, 'PRAUC': 0.8318189465902258, 'best_threshold': 0.9976732134819031}
+2024-12-16 11:16:02 - INFO - Starting training for label: GENERAL_CIRCUM
+2024-12-16 11:16:03 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-16 11:58:40 - INFO - Metrics for GENERAL_CIRCUM with model dicta-il/dictabert: {'accuracy': 0.8776561493882807, 'precision': 0.5989583333333334, 'recall': 0.8646616541353384, 'f1': 0.7076923076923077, 'PRAUC': 0.7303494606601281, 'best_threshold': 0.9999676942825317}
+2024-12-16 11:58:43 - INFO - Starting training for label: CONFESSION
+2024-12-16 11:58:44 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-16 12:04:09 - INFO - Metrics for CONFESSION with model dicta-il/dictabert: {'accuracy': 0.9884095299420477, 'precision': 0.8148148148148148, 'recall': 0.8461538461538461, 'f1': 0.8301886792452831, 'PRAUC': 0.8838907351445474, 'best_threshold': 0.9989859461784363}
+2024-12-16 12:04:13 - INFO - Starting training for label: REGRET
+2024-12-16 12:04:13 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-16 12:07:55 - INFO - Metrics for REGRET with model dicta-il/dictabert: {'accuracy': 0.9890534449452673, 'precision': 0.5625, 'recall': 0.47368421052631576, 'f1': 0.5142857142857142, 'PRAUC': 0.3820815863188694, 'best_threshold': 0.9643617868423462}
+2024-12-16 12:08:00 - INFO - Starting training for label: CIR_TYPE
+2024-12-16 12:08:00 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-16 12:16:10 - INFO - Metrics for CIR_TYPE with model dicta-il/dictabert: {'accuracy': 0.9871216999356085, 'precision': 0.8791208791208791, 'recall': 0.898876404494382, 'f1': 0.8888888888888888, 'PRAUC': 0.8630478187105187, 'best_threshold': 0.9998617172241211}
+2024-12-16 12:16:14 - INFO - Starting training for label: CIR_AMOUNT
+2024-12-16 12:16:14 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-16 12:22:54 - INFO - Metrics for CIR_AMOUNT with model dicta-il/dictabert: {'accuracy': 0.9896973599484868, 'precision': 0.8292682926829268, 'recall': 0.9714285714285714, 'f1': 0.8947368421052632, 'PRAUC': 0.8996279972675747, 'best_threshold': 0.9984754920005798}
+2024-12-16 12:22:57 - INFO - Starting training for label: CIR_ROLE
+2024-12-16 12:22:57 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-16 12:26:57 - INFO - Metrics for CIR_ROLE with model dicta-il/dictabert: {'accuracy': 0.9935608499678042, 'precision': 0.4, 'recall': 0.2222222222222222, 'f1': 0.2857142857142857, 'PRAUC': 0.19132354286646805, 'best_threshold': 0.9697167277336121}
+2024-12-16 12:27:00 - INFO - Starting training for label: CIR_PREVENT
+2024-12-16 12:27:00 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-16 12:27:02 - ERROR - Error in label CIR_PREVENT: list index out of range
+2024-12-16 12:27:02 - INFO - Starting training for label: CIR_PLANNING
+2024-12-16 12:27:02 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-16 12:30:39 - INFO - Metrics for CIR_PLANNING with model dicta-il/dictabert: {'accuracy': 0.9806825499034127, 'precision': 0.4594594594594595, 'recall': 0.6296296296296297, 'f1': 0.53125, 'PRAUC': 0.3524175991672414, 'best_threshold': 0.691326916217804}
+2024-12-16 12:30:44 - INFO - Starting training for label: CIR_HOLD_TIME
+2024-12-16 12:30:44 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-16 12:30:45 - ERROR - Error in label CIR_HOLD_TIME: list index out of range
+2024-12-16 12:30:45 - INFO - Starting training for label: CIR_HELD_WAY
+2024-12-16 12:30:45 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-16 12:34:50 - INFO - Metrics for CIR_HELD_WAY with model dicta-il/dictabert: {'accuracy': 0.9826142949130715, 'precision': 0.3870967741935484, 'recall': 0.6, 'f1': 0.47058823529411764, 'PRAUC': 0.33287106047588294, 'best_threshold': 0.9740161299705505}
+2024-12-16 12:34:54 - INFO - Starting training for label: CIR_VALUE
+2024-12-16 12:34:54 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-16 12:39:10 - INFO - Metrics for CIR_VALUE with model dicta-il/dictabert: {'accuracy': 0.9929169349645847, 'precision': 0.9074074074074074, 'recall': 0.8909090909090909, 'f1': 0.8990825688073395, 'PRAUC': 0.926198330868838, 'best_threshold': 0.9653475880622864}
+2024-12-16 12:39:14 - INFO - Starting training for label: CIR_BUYER
+2024-12-16 12:39:14 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-16 12:39:29 - ERROR - Error in label CIR_BUYER: list index out of range
+2024-12-16 12:39:29 - INFO - Starting training for label: RESPO
+2024-12-16 12:39:29 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-16 12:43:46 - INFO - Metrics for RESPO with model dicta-il/dictabert: {'accuracy': 0.9890534449452673, 'precision': 0.6551724137931034, 'recall': 0.7307692307692307, 'f1': 0.6909090909090909, 'PRAUC': 0.7945929081442596, 'best_threshold': 0.9961966276168823}
+2024-12-16 12:43:50 - INFO - Starting training for label: CIR_PURPOSE
+2024-12-16 12:43:50 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-16 12:48:42 - INFO - Metrics for CIR_PURPOSE with model dicta-il/dictabert: {'accuracy': 0.9781068898905344, 'precision': 0.5869565217391305, 'recall': 0.6428571428571429, 'f1': 0.6136363636363636, 'PRAUC': 0.6259257651535943, 'best_threshold': 0.9971221089363098}
+2024-12-16 12:48:45 - INFO - Starting training for label: CIR_EQ
+2024-12-16 12:48:45 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-16 12:48:47 - ERROR - Error in label CIR_EQ: list index out of range
+2024-12-16 12:48:47 - INFO - Starting training for label: reject
+2024-12-16 12:48:47 - INFO - Starting training for model: dicta-il/dictabert
+2024-12-16 15:36:18 - INFO - Metrics for reject with model dicta-il/dictabert: {'accuracy': 0.8435286542176432, 'precision': 0.8615819209039548, 'recall': 0.9050445103857567, 'f1': 0.8827785817655571, 'PRAUC': 0.9251990100946179, 'best_threshold': 1.404927115800092e-05}
+2024-12-16 15:36:21 - INFO - setfit training finished.

@@ -1,0 +1,207 @@
+2024-06-13 15:35:37 - INFO - REJECT model successfully loaded!
+2024-06-13 15:35:42 - INFO - PUNISHMENT model successfully loaded!
+2024-06-13 15:35:47 - INFO - GENERAL_CIRCUM model successfully loaded!
+2024-06-13 15:35:52 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2024-06-13 15:35:59 - INFO - CONFESSION model successfully loaded!
+2024-06-13 15:36:04 - INFO - CONFESSION_LVL2 model successfully loaded!
+2024-06-13 15:36:08 - INFO - CIR_TYPE_WEP model successfully loaded!
+2024-06-13 15:36:14 - INFO - CIR_PURPOSE model successfully loaded!
+2024-06-13 15:36:18 - INFO - CIR_PLANNING model successfully loaded!
+2024-06-13 15:36:23 - INFO - CIR_MONEY_PAID_WEP model successfully loaded!
+2024-06-13 15:36:28 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2024-06-13 15:36:33 - INFO - REGRET model successfully loaded!
+2024-06-13 15:36:38 - INFO - RESPO model successfully loaded!
+2024-06-13 15:36:43 - INFO - CIR_USE model successfully loaded!
+2024-06-13 15:36:47 - INFO - CIR_STATUS_WEP model successfully loaded!
+2024-06-13 15:36:52 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2024-06-13 15:36:57 - INFO - CIR_BUYER_ID_WEP model successfully loaded!
+2024-06-13 15:37:01 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2024-06-13 15:37:02 - INFO - predict label reject start
+2024-06-13 15:37:40 - INFO - End to predict tagged file!
+2024-06-13 15:37:40 - INFO - Predict probability saved in: results/evaluations/sentence_calssification/13.06/sentence_probability.csv
+2024-06-13 15:37:40 - INFO - Lebels prediction save in: results/evaluations/sentence_calssification/13.06/sentence_tagging.csv
+2024-06-13 17:20:36 - INFO - REJECT model successfully loaded!
+2024-06-13 17:20:37 - INFO - PUNISHMENT model successfully loaded!
+2024-06-13 17:20:37 - INFO - GENERAL_CIRCUM model successfully loaded!
+2024-06-13 17:20:38 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2024-06-13 17:20:39 - INFO - CONFESSION model successfully loaded!
+2024-06-13 17:20:39 - INFO - CONFESSION_LVL2 model successfully loaded!
+2024-06-13 17:20:40 - INFO - CIR_TYPE_WEP model successfully loaded!
+2024-06-13 17:20:41 - INFO - CIR_PURPOSE model successfully loaded!
+2024-06-13 17:20:41 - INFO - CIR_PLANNING model successfully loaded!
+2024-06-13 17:20:42 - INFO - CIR_MONEY_PAID_WEP model successfully loaded!
+2024-06-13 17:20:42 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2024-06-13 17:20:43 - INFO - REGRET model successfully loaded!
+2024-06-13 17:20:43 - INFO - RESPO model successfully loaded!
+2024-06-13 17:20:44 - INFO - CIR_USE model successfully loaded!
+2024-06-13 17:20:44 - INFO - CIR_STATUS_WEP model successfully loaded!
+2024-06-13 17:20:45 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2024-06-13 17:20:45 - INFO - CIR_BUYER_ID_WEP model successfully loaded!
+2024-06-13 17:20:46 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2024-06-13 17:20:46 - INFO - predict label reject start
+2024-06-13 17:23:13 - INFO - REJECT model successfully loaded!
+2024-06-13 17:23:14 - INFO - PUNISHMENT model successfully loaded!
+2024-06-13 17:23:15 - INFO - GENERAL_CIRCUM model successfully loaded!
+2024-06-13 17:23:16 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2024-06-13 17:23:17 - INFO - CONFESSION model successfully loaded!
+2024-06-13 17:23:18 - INFO - CONFESSION_LVL2 model successfully loaded!
+2024-06-13 17:23:19 - INFO - CIR_TYPE_WEP model successfully loaded!
+2024-06-13 17:23:20 - INFO - CIR_PURPOSE model successfully loaded!
+2024-06-13 17:23:21 - INFO - CIR_PLANNING model successfully loaded!
+2024-06-13 17:23:22 - INFO - CIR_MONEY_PAID_WEP model successfully loaded!
+2024-06-13 17:23:23 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2024-06-13 17:23:25 - INFO - REGRET model successfully loaded!
+2024-06-13 17:23:26 - INFO - RESPO model successfully loaded!
+2024-06-13 17:23:27 - INFO - CIR_USE model successfully loaded!
+2024-06-13 17:23:28 - INFO - CIR_STATUS_WEP model successfully loaded!
+2024-06-13 17:23:29 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2024-06-13 17:23:30 - INFO - CIR_BUYER_ID_WEP model successfully loaded!
+2024-06-13 17:23:31 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2024-06-13 17:23:45 - INFO - predict label reject start
+2024-06-13 17:25:43 - INFO - REJECT model successfully loaded!
+2024-06-13 17:25:44 - INFO - PUNISHMENT model successfully loaded!
+2024-06-13 17:25:44 - INFO - GENERAL_CIRCUM model successfully loaded!
+2024-06-13 17:25:45 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2024-06-13 17:25:46 - INFO - CONFESSION model successfully loaded!
+2024-06-13 17:25:47 - INFO - CONFESSION_LVL2 model successfully loaded!
+2024-06-13 17:25:48 - INFO - CIR_TYPE_WEP model successfully loaded!
+2024-06-13 17:25:48 - INFO - CIR_PURPOSE model successfully loaded!
+2024-06-13 17:25:49 - INFO - CIR_PLANNING model successfully loaded!
+2024-06-13 17:25:50 - INFO - CIR_MONEY_PAID_WEP model successfully loaded!
+2024-06-13 17:25:50 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2024-06-13 17:25:51 - INFO - REGRET model successfully loaded!
+2024-06-13 17:25:51 - INFO - RESPO model successfully loaded!
+2024-06-13 17:25:52 - INFO - CIR_USE model successfully loaded!
+2024-06-13 17:25:53 - INFO - CIR_STATUS_WEP model successfully loaded!
+2024-06-13 17:25:54 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2024-06-13 17:25:55 - INFO - CIR_BUYER_ID_WEP model successfully loaded!
+2024-06-13 17:25:55 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2024-06-13 17:25:57 - INFO - predict label reject start
+2024-06-13 17:35:37 - INFO - REJECT model successfully loaded!
+2024-06-13 17:35:37 - INFO - PUNISHMENT model successfully loaded!
+2024-06-13 17:35:38 - INFO - GENERAL_CIRCUM model successfully loaded!
+2024-06-13 17:35:39 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2024-06-13 17:35:40 - INFO - CONFESSION model successfully loaded!
+2024-06-13 17:35:41 - INFO - CONFESSION_LVL2 model successfully loaded!
+2024-06-13 17:35:41 - INFO - CIR_TYPE_WEP model successfully loaded!
+2024-06-13 17:35:42 - INFO - CIR_PURPOSE model successfully loaded!
+2024-06-13 17:35:42 - INFO - CIR_PLANNING model successfully loaded!
+2024-06-13 17:35:43 - INFO - CIR_MONEY_PAID_WEP model successfully loaded!
+2024-06-13 17:35:43 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2024-06-13 17:35:44 - INFO - REGRET model successfully loaded!
+2024-06-13 17:35:45 - INFO - RESPO model successfully loaded!
+2024-06-13 17:35:46 - INFO - CIR_USE model successfully loaded!
+2024-06-13 17:35:46 - INFO - CIR_STATUS_WEP model successfully loaded!
+2024-06-13 17:35:47 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2024-06-13 17:35:47 - INFO - CIR_BUYER_ID_WEP model successfully loaded!
+2024-06-13 17:35:48 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2024-06-13 17:35:49 - INFO - predict label reject start
+2024-06-13 17:42:44 - INFO - REJECT model successfully loaded!
+2024-06-13 17:42:44 - INFO - PUNISHMENT model successfully loaded!
+2024-06-13 17:42:45 - INFO - GENERAL_CIRCUM model successfully loaded!
+2024-06-13 17:42:46 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2024-06-13 17:42:47 - INFO - CONFESSION model successfully loaded!
+2024-06-13 17:42:48 - INFO - CONFESSION_LVL2 model successfully loaded!
+2024-06-13 17:42:48 - INFO - CIR_TYPE_WEP model successfully loaded!
+2024-06-13 17:42:49 - INFO - CIR_PURPOSE model successfully loaded!
+2024-06-13 17:42:49 - INFO - CIR_PLANNING model successfully loaded!
+2024-06-13 17:42:50 - INFO - CIR_MONEY_PAID_WEP model successfully loaded!
+2024-06-13 17:42:51 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2024-06-13 17:42:51 - INFO - REGRET model successfully loaded!
+2024-06-13 17:42:52 - INFO - RESPO model successfully loaded!
+2024-06-13 17:42:52 - INFO - CIR_USE model successfully loaded!
+2024-06-13 17:42:53 - INFO - CIR_STATUS_WEP model successfully loaded!
+2024-06-13 17:42:54 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2024-06-13 17:42:54 - INFO - CIR_BUYER_ID_WEP model successfully loaded!
+2024-06-13 17:42:55 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2024-06-13 17:42:56 - INFO - predict label reject start
+2024-06-13 17:52:26 - INFO - REJECT model successfully loaded!
+2024-06-13 17:52:27 - INFO - PUNISHMENT model successfully loaded!
+2024-06-13 17:52:28 - INFO - GENERAL_CIRCUM model successfully loaded!
+2024-06-13 17:52:28 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2024-06-13 17:52:29 - INFO - CONFESSION model successfully loaded!
+2024-06-13 17:52:30 - INFO - CONFESSION_LVL2 model successfully loaded!
+2024-06-13 17:52:30 - INFO - CIR_TYPE_WEP model successfully loaded!
+2024-06-13 17:52:31 - INFO - CIR_PURPOSE model successfully loaded!
+2024-06-13 17:52:31 - INFO - CIR_PLANNING model successfully loaded!
+2024-06-13 17:52:32 - INFO - CIR_MONEY_PAID_WEP model successfully loaded!
+2024-06-13 17:52:33 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2024-06-13 17:52:33 - INFO - REGRET model successfully loaded!
+2024-06-13 17:52:34 - INFO - RESPO model successfully loaded!
+2024-06-13 17:52:35 - INFO - CIR_USE model successfully loaded!
+2024-06-13 17:52:35 - INFO - CIR_STATUS_WEP model successfully loaded!
+2024-06-13 17:52:36 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2024-06-13 17:52:36 - INFO - CIR_BUYER_ID_WEP model successfully loaded!
+2024-06-13 17:52:37 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2024-06-13 17:52:37 - INFO - predict label reject start
+2024-06-13 17:54:45 - INFO - End to predict tagged file!
+2024-06-13 17:54:45 - INFO - Predict probability saved in: results/evaluations/sentence_calssification/13.06/sentence_probability.csv
+2024-06-13 17:54:45 - INFO - Lebels prediction save in: results/evaluations/sentence_calssification/13.06/sentence_tagging.csv
+2024-06-13 18:00:00 - INFO - REJECT model successfully loaded!
+2024-06-13 18:00:01 - INFO - PUNISHMENT model successfully loaded!
+2024-06-13 18:00:01 - INFO - GENERAL_CIRCUM model successfully loaded!
+2024-06-13 18:00:02 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2024-06-13 18:00:03 - INFO - CONFESSION model successfully loaded!
+2024-06-13 18:00:03 - INFO - CONFESSION_LVL2 model successfully loaded!
+2024-06-13 18:00:04 - INFO - CIR_TYPE_WEP model successfully loaded!
+2024-06-13 18:00:05 - INFO - CIR_PURPOSE model successfully loaded!
+2024-06-13 18:00:05 - INFO - CIR_PLANNING model successfully loaded!
+2024-06-13 18:00:06 - INFO - CIR_MONEY_PAID_WEP model successfully loaded!
+2024-06-13 18:00:06 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2024-06-13 18:00:07 - INFO - REGRET model successfully loaded!
+2024-06-13 18:00:07 - INFO - RESPO model successfully loaded!
+2024-06-13 18:00:08 - INFO - CIR_USE model successfully loaded!
+2024-06-13 18:00:08 - INFO - CIR_STATUS_WEP model successfully loaded!
+2024-06-13 18:00:09 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2024-06-13 18:00:09 - INFO - CIR_BUYER_ID_WEP model successfully loaded!
+2024-06-13 18:00:10 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2024-06-13 18:00:11 - INFO - predict label reject start
+2024-06-13 18:02:18 - INFO - End to predict tagged file!
+2024-06-13 18:02:18 - INFO - Predict probability saved in: results/evaluations/sentence_calssification/13.06/13.06/sentence_probability.csv
+2024-06-13 18:02:18 - INFO - Lebels prediction save in: results/evaluations/sentence_calssification/13.06/13.06/sentence_tagging.csv
+2024-06-13 18:02:18 - ERROR - Error evaluating column Unnamed: 0: 'UNNAMED: 0'
+2024-06-13 18:02:18 - ERROR - Error evaluating column verdict: unsupported operand type(s) for +: 'int' and 'str'
+2024-06-13 18:02:18 - ERROR - Error evaluating column text: unsupported operand type(s) for +: 'int' and 'str'
+2024-06-13 18:02:19 - ERROR - Error evaluating column _HELD_WAY_WEP: '_HELD_WAY_WEP'
+2024-06-13 18:02:21 - INFO - All metrics saved to results/evaluations/sentence_calssification/13.06/13.06/ ME-12-03-15148-775_tagged_ME-12-09-51207-971_tagged_ME-13-05-31862-33_tagged_ME-13-12-8338-415_tagged_ME-14-07-13179-197_GOLD.xlsx.txt
+2024-06-13 18:02:21 - ERROR - Error evaluating column Unnamed: 0: 'UNNAMED: 0'
+2024-06-13 18:02:21 - ERROR - Error evaluating column verdict: unsupported operand type(s) for +: 'int' and 'str'
+2024-06-13 18:02:21 - ERROR - Error evaluating column text: unsupported operand type(s) for +: 'int' and 'str'
+2024-06-13 18:02:23 - ERROR - Error evaluating column _HELD_WAY_WEP: '_HELD_WAY_WEP'
+2024-06-13 18:02:26 - INFO - All metrics saved to results/evaluations/sentence_calssification/13.06/13.06/ ME-12-03-15148-775_tagged_ME-12-09-51207-971_tagged_ME-13-05-31862-33_tagged_ME-13-12-8338-415_tagged_ME-14-07-13179-197_GOLD.xlsx.txt/ ME-17-05-35227-215_tagged_ME-17-08-28615-573_tagged_ME-18-04-34027-630_tagged_ME-18-10-30972-637_tagged_ME-20-01-17935-7_tagged_GT.xlsx.txt
+2024-06-13 18:02:26 - ERROR - Error evaluating column Unnamed: 0: 'UNNAMED: 0'
+2024-06-13 18:02:26 - ERROR - Error evaluating column verdict: unsupported operand type(s) for +: 'int' and 'str'
+2024-06-13 18:02:26 - ERROR - Error evaluating column text: unsupported operand type(s) for +: 'int' and 'str'
+2024-06-13 18:02:27 - ERROR - Error evaluating column _HELD_WAY_WEP: '_HELD_WAY_WEP'
+2024-06-13 18:02:30 - INFO - All metrics saved to results/evaluations/sentence_calssification/13.06/13.06/ ME-12-03-15148-775_tagged_ME-12-09-51207-971_tagged_ME-13-05-31862-33_tagged_ME-13-12-8338-415_tagged_ME-14-07-13179-197_GOLD.xlsx.txt/ ME-17-05-35227-215_tagged_ME-17-08-28615-573_tagged_ME-18-04-34027-630_tagged_ME-18-10-30972-637_tagged_ME-20-01-17935-7_tagged_GT.xlsx.txt/ ME-16-08-54879-35_tagged_ME-16-10-5037-989_tagged_ME-16-11-56385-886_tagged_ME-16-12-64990-76_tagged_ME-17-03-1995-297_GT.xlsx.txt
+2024-06-13 18:02:30 - ERROR - Error evaluating column Unnamed: 0: 'UNNAMED: 0'
+2024-06-13 18:02:30 - ERROR - Error evaluating column verdict: unsupported operand type(s) for +: 'int' and 'str'
+2024-06-13 18:02:30 - ERROR - Error evaluating column text: unsupported operand type(s) for +: 'int' and 'str'
+2024-06-13 18:02:31 - ERROR - Error evaluating column _HELD_WAY_WEP: '_HELD_WAY_WEP'
+2024-06-13 18:02:35 - INFO - All metrics saved to results/evaluations/sentence_calssification/13.06/13.06/ ME-12-03-15148-775_tagged_ME-12-09-51207-971_tagged_ME-13-05-31862-33_tagged_ME-13-12-8338-415_tagged_ME-14-07-13179-197_GOLD.xlsx.txt/ ME-17-05-35227-215_tagged_ME-17-08-28615-573_tagged_ME-18-04-34027-630_tagged_ME-18-10-30972-637_tagged_ME-20-01-17935-7_tagged_GT.xlsx.txt/ ME-16-08-54879-35_tagged_ME-16-10-5037-989_tagged_ME-16-11-56385-886_tagged_ME-16-12-64990-76_tagged_ME-17-03-1995-297_GT.xlsx.txt/ME-16-04-12480-812_tagged_ME-16-05-336-804_tagged_ME-16-06-42987-901_tagged_ME-16-06-64845-657_tagged_ME-16-08-229-604_tagged_GT-3.xlsx.txt
+2024-06-13 18:02:35 - ERROR - Error evaluating column Unnamed: 0: 'UNNAMED: 0'
+2024-06-13 18:02:35 - ERROR - Error evaluating column verdict: unsupported operand type(s) for +: 'int' and 'str'
+2024-06-13 18:02:35 - ERROR - Error evaluating column text: unsupported operand type(s) for +: 'int' and 'str'
+2024-06-13 18:02:36 - ERROR - Error evaluating column _HELD_WAY_WEP: '_HELD_WAY_WEP'
+2024-06-13 18:02:40 - INFO - All metrics saved to results/evaluations/sentence_calssification/13.06/13.06/ ME-12-03-15148-775_tagged_ME-12-09-51207-971_tagged_ME-13-05-31862-33_tagged_ME-13-12-8338-415_tagged_ME-14-07-13179-197_GOLD.xlsx.txt/ ME-17-05-35227-215_tagged_ME-17-08-28615-573_tagged_ME-18-04-34027-630_tagged_ME-18-10-30972-637_tagged_ME-20-01-17935-7_tagged_GT.xlsx.txt/ ME-16-08-54879-35_tagged_ME-16-10-5037-989_tagged_ME-16-11-56385-886_tagged_ME-16-12-64990-76_tagged_ME-17-03-1995-297_GT.xlsx.txt/ME-16-04-12480-812_tagged_ME-16-05-336-804_tagged_ME-16-06-42987-901_tagged_ME-16-06-64845-657_tagged_ME-16-08-229-604_tagged_GT-3.xlsx.txt/ME-16-04-12480-812_tagged_ME-16-05-336-804_tagged_ME-16-06-42987-901_tagged_ME-16-06-64845-657_tagged_ME-16-08-229-604_tagged_GT-2.xlsx.txt
+2024-06-13 18:02:40 - ERROR - Error evaluating column Unnamed: 0: 'UNNAMED: 0'
+2024-06-13 18:02:40 - ERROR - Error evaluating column verdict: unsupported operand type(s) for +: 'int' and 'str'
+2024-06-13 18:02:40 - ERROR - Error evaluating column text: unsupported operand type(s) for +: 'int' and 'str'
+2024-06-13 18:02:41 - ERROR - Error evaluating column _HELD_WAY_WEP: '_HELD_WAY_WEP'
+2024-06-13 18:02:45 - INFO - All metrics saved to results/evaluations/sentence_calssification/13.06/13.06/ ME-12-03-15148-775_tagged_ME-12-09-51207-971_tagged_ME-13-05-31862-33_tagged_ME-13-12-8338-415_tagged_ME-14-07-13179-197_GOLD.xlsx.txt/ ME-17-05-35227-215_tagged_ME-17-08-28615-573_tagged_ME-18-04-34027-630_tagged_ME-18-10-30972-637_tagged_ME-20-01-17935-7_tagged_GT.xlsx.txt/ ME-16-08-54879-35_tagged_ME-16-10-5037-989_tagged_ME-16-11-56385-886_tagged_ME-16-12-64990-76_tagged_ME-17-03-1995-297_GT.xlsx.txt/ME-16-04-12480-812_tagged_ME-16-05-336-804_tagged_ME-16-06-42987-901_tagged_ME-16-06-64845-657_tagged_ME-16-08-229-604_tagged_GT-3.xlsx.txt/ME-16-04-12480-812_tagged_ME-16-05-336-804_tagged_ME-16-06-42987-901_tagged_ME-16-06-64845-657_tagged_ME-16-08-229-604_tagged_GT-2.xlsx.txt/** ME-12-05-33444-999_tagged_ME-13-04-35007-454_tagged_ME-13-10-53169-537_tagged_ME-14-03-48488-922_tagged_ME-14-10-31218-522_GROUND_T.xlsx.txt
+2024-06-13 18:02:45 - ERROR - Error evaluating column Unnamed: 0: 'UNNAMED: 0'
+2024-06-13 18:02:45 - ERROR - Error evaluating column verdict: unsupported operand type(s) for +: 'int' and 'str'
+2024-06-13 18:02:45 - ERROR - Error evaluating column text: unsupported operand type(s) for +: 'int' and 'str'
+2024-06-13 18:02:46 - ERROR - Error evaluating column _HELD_WAY_WEP: '_HELD_WAY_WEP'
+2024-06-13 18:02:49 - INFO - All metrics saved to results/evaluations/sentence_calssification/13.06/13.06/ ME-12-03-15148-775_tagged_ME-12-09-51207-971_tagged_ME-13-05-31862-33_tagged_ME-13-12-8338-415_tagged_ME-14-07-13179-197_GOLD.xlsx.txt/ ME-17-05-35227-215_tagged_ME-17-08-28615-573_tagged_ME-18-04-34027-630_tagged_ME-18-10-30972-637_tagged_ME-20-01-17935-7_tagged_GT.xlsx.txt/ ME-16-08-54879-35_tagged_ME-16-10-5037-989_tagged_ME-16-11-56385-886_tagged_ME-16-12-64990-76_tagged_ME-17-03-1995-297_GT.xlsx.txt/ME-16-04-12480-812_tagged_ME-16-05-336-804_tagged_ME-16-06-42987-901_tagged_ME-16-06-64845-657_tagged_ME-16-08-229-604_tagged_GT-3.xlsx.txt/ME-16-04-12480-812_tagged_ME-16-05-336-804_tagged_ME-16-06-42987-901_tagged_ME-16-06-64845-657_tagged_ME-16-08-229-604_tagged_GT-2.xlsx.txt/** ME-12-05-33444-999_tagged_ME-13-04-35007-454_tagged_ME-13-10-53169-537_tagged_ME-14-03-48488-922_tagged_ME-14-10-31218-522_GROUND_T.xlsx.txt/ME-12-03-15148-775_tagged_ME-12-09-51207-971_tagged_ME-13-05-31862-33_tagged_ME-13-12-8338-415_tagged_ME-14-07-13179-197_GOLD.xlsx.txt
+2024-06-13 18:02:49 - ERROR - Error evaluating column Unnamed: 0: 'UNNAMED: 0'
+2024-06-13 18:02:49 - ERROR - Error evaluating column verdict: unsupported operand type(s) for +: 'int' and 'str'
+2024-06-13 18:02:49 - ERROR - Error evaluating column text: unsupported operand type(s) for +: 'int' and 'str'
+2024-06-13 18:02:51 - ERROR - Error evaluating column _HELD_WAY_WEP: '_HELD_WAY_WEP'
+2024-06-13 18:02:52 - INFO - All metrics saved to results/evaluations/sentence_calssification/13.06/13.06/ ME-12-03-15148-775_tagged_ME-12-09-51207-971_tagged_ME-13-05-31862-33_tagged_ME-13-12-8338-415_tagged_ME-14-07-13179-197_GOLD.xlsx.txt/ ME-17-05-35227-215_tagged_ME-17-08-28615-573_tagged_ME-18-04-34027-630_tagged_ME-18-10-30972-637_tagged_ME-20-01-17935-7_tagged_GT.xlsx.txt/ ME-16-08-54879-35_tagged_ME-16-10-5037-989_tagged_ME-16-11-56385-886_tagged_ME-16-12-64990-76_tagged_ME-17-03-1995-297_GT.xlsx.txt/ME-16-04-12480-812_tagged_ME-16-05-336-804_tagged_ME-16-06-42987-901_tagged_ME-16-06-64845-657_tagged_ME-16-08-229-604_tagged_GT-3.xlsx.txt/ME-16-04-12480-812_tagged_ME-16-05-336-804_tagged_ME-16-06-42987-901_tagged_ME-16-06-64845-657_tagged_ME-16-08-229-604_tagged_GT-2.xlsx.txt/** ME-12-05-33444-999_tagged_ME-13-04-35007-454_tagged_ME-13-10-53169-537_tagged_ME-14-03-48488-922_tagged_ME-14-10-31218-522_GROUND_T.xlsx.txt/ME-12-03-15148-775_tagged_ME-12-09-51207-971_tagged_ME-13-05-31862-33_tagged_ME-13-12-8338-415_tagged_ME-14-07-13179-197_GOLD.xlsx.txt/ME-11-07-33734-821_tagged_ME-12-04-33577-700_tagged_ME-13-02-28360-614_tagged_ME-13-10-28139-807_tagged_ME-14-02-51828-88_tagged_graund_T***.xlsx.txt
+2024-06-13 18:02:52 - ERROR - Error evaluating column Unnamed: 0: 'UNNAMED: 0'
+2024-06-13 18:02:52 - ERROR - Error evaluating column verdict: unsupported operand type(s) for +: 'int' and 'str'
+2024-06-13 18:02:52 - ERROR - Error evaluating column text: unsupported operand type(s) for +: 'int' and 'str'
+2024-06-13 18:02:53 - ERROR - Error evaluating column _HELD_WAY_WEP: '_HELD_WAY_WEP'
+2024-06-13 18:02:57 - INFO - All metrics saved to results/evaluations/sentence_calssification/13.06/13.06/ ME-12-03-15148-775_tagged_ME-12-09-51207-971_tagged_ME-13-05-31862-33_tagged_ME-13-12-8338-415_tagged_ME-14-07-13179-197_GOLD.xlsx.txt/ ME-17-05-35227-215_tagged_ME-17-08-28615-573_tagged_ME-18-04-34027-630_tagged_ME-18-10-30972-637_tagged_ME-20-01-17935-7_tagged_GT.xlsx.txt/ ME-16-08-54879-35_tagged_ME-16-10-5037-989_tagged_ME-16-11-56385-886_tagged_ME-16-12-64990-76_tagged_ME-17-03-1995-297_GT.xlsx.txt/ME-16-04-12480-812_tagged_ME-16-05-336-804_tagged_ME-16-06-42987-901_tagged_ME-16-06-64845-657_tagged_ME-16-08-229-604_tagged_GT-3.xlsx.txt/ME-16-04-12480-812_tagged_ME-16-05-336-804_tagged_ME-16-06-42987-901_tagged_ME-16-06-64845-657_tagged_ME-16-08-229-604_tagged_GT-2.xlsx.txt/** ME-12-05-33444-999_tagged_ME-13-04-35007-454_tagged_ME-13-10-53169-537_tagged_ME-14-03-48488-922_tagged_ME-14-10-31218-522_GROUND_T.xlsx.txt/ME-12-03-15148-775_tagged_ME-12-09-51207-971_tagged_ME-13-05-31862-33_tagged_ME-13-12-8338-415_tagged_ME-14-07-13179-197_GOLD.xlsx.txt/ME-11-07-33734-821_tagged_ME-12-04-33577-700_tagged_ME-13-02-28360-614_tagged_ME-13-10-28139-807_tagged_ME-14-02-51828-88_tagged_graund_T***.xlsx.txt/ME-15-02-9111-399_tagged_ME-15-08-44579-251_tagged_ME-15-12-39071-113_tagged_ME-16-01-3772-806_tagged_ME-16-03-41585-22_tagged_GT.xlsx.txt
+2024-06-13 18:02:57 - INFO - Average metrics saved to results/evaluations/sentence_calssification/13.06/13.06/average_metrics.txt

@@ -1,0 +1,86 @@
+2024-06-27 11:39:10 - ERROR - 0520-07-17 isn't exist in DB!
+2024-06-27 11:39:10 - ERROR - 0398-09-16 isn't exist in DB!
+2024-06-27 11:39:10 - ERROR - 0633-05-17 isn't exist in DB!
+2024-06-27 11:39:10 - ERROR - 0336-05-16 isn't exist in DB!
+2024-06-27 11:39:10 - ERROR - 0398-09-16 isn't exist in DB!
+2024-06-27 11:39:11 - ERROR - 0613-04-17 isn't exist in DB!
+2024-06-27 11:39:11 - ERROR - 0613-04-17 isn't exist in DB!
+2024-06-27 11:39:11 - ERROR - m01008097-376 isn't exist in DB!
+2024-06-27 12:13:55 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-06-27 12:13:55 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-06-27_qa_din_testss/train_case_sim.csv
+2024-06-27 12:14:59 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-06-27 12:14:59 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-06-27_qa_din_testss/train_case_sim.csv
+2024-06-27 12:16:34 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-06-27 12:16:34 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-06-27_qa_din_testss/train_case_sim.csv
+2024-06-27 12:17:52 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-06-27 12:17:52 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-06-27_qa_din_testss/train_case_sim.csv
+2024-06-27 12:18:54 - INFO - Start to train random_forest case similarity model using LOOCV!
+2024-06-27 12:19:25 - INFO - Accuracy: 0.791
+2024-06-27 12:19:25 - INFO - Precision: 0.81
+2024-06-27 12:19:25 - INFO - Recall: 0.791
+2024-06-27 12:19:25 - INFO - F1: 0.794
+2024-06-27 12:19:58 - INFO - Confusion Matrix:
+[[73 22]
+ [ 9 44]]
+2024-06-27 12:20:06 - INFO - PR AUC: 0.779
+2024-06-27 12:21:01 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-06-27 12:21:01 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-06-27_qa_din_testss/train_case_sim.csv
+2024-06-27 12:26:22 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-06-27 12:26:22 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-06-27_qa_din_testss/train_case_sim.csv
+2024-06-27 12:26:26 - INFO - Start to train random_forest case similarity model using LOOCV!
+2024-06-27 12:26:56 - INFO - Accuracy: 0.811
+2024-06-27 12:26:56 - INFO - Precision: 0.821
+2024-06-27 12:26:56 - INFO - Recall: 0.811
+2024-06-27 12:26:56 - INFO - F1: 0.813
+2024-06-27 12:27:13 - INFO - Confusion Matrix:
+[[77 18]
+ [10 43]]
+2024-06-27 12:27:18 - INFO - PR AUC: 0.784
+2024-06-27 12:32:06 - ERROR - 0520-07-17 isn't exist in DB!
+2024-06-27 12:32:06 - ERROR - 0398-09-16 isn't exist in DB!
+2024-06-27 12:32:06 - ERROR - 0633-05-17 isn't exist in DB!
+2024-06-27 12:32:06 - ERROR - 0336-05-16 isn't exist in DB!
+2024-06-27 12:32:06 - ERROR - 0398-09-16 isn't exist in DB!
+2024-06-27 12:32:06 - ERROR - 0613-04-17 isn't exist in DB!
+2024-06-27 12:32:06 - ERROR - 0613-04-17 isn't exist in DB!
+2024-06-27 12:32:06 - ERROR - m01008097-376 isn't exist in DB!
+2024-06-27 12:32:07 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-06-27 12:32:07 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-06-27_qa_din_testss/train_case_sim.csv
+2024-06-27 12:32:31 - INFO - Start to train random_forest case similarity model using LOOCV!
+2024-06-27 12:33:23 - INFO - Accuracy: 0.531
+2024-06-27 12:33:23 - INFO - Precision: 0.678
+2024-06-27 12:33:23 - INFO - Recall: 0.531
+2024-06-27 12:33:23 - INFO - F1: 0.514
+2024-06-27 12:33:29 - INFO - Confusion Matrix:
+[[32 62]
+ [ 7 46]]
+2024-06-27 12:34:03 - INFO - PR AUC: 0.504
+2024-06-27 12:34:57 - ERROR - 0520-07-17 isn't exist in DB!
+2024-06-27 12:34:57 - ERROR - 0398-09-16 isn't exist in DB!
+2024-06-27 12:34:57 - ERROR - 0633-05-17 isn't exist in DB!
+2024-06-27 12:34:57 - ERROR - 0336-05-16 isn't exist in DB!
+2024-06-27 12:34:57 - ERROR - 0398-09-16 isn't exist in DB!
+2024-06-27 12:34:57 - ERROR - 0613-04-17 isn't exist in DB!
+2024-06-27 12:34:57 - ERROR - 0613-04-17 isn't exist in DB!
+2024-06-27 12:34:57 - ERROR - m01008097-376 isn't exist in DB!
+2024-06-27 12:34:57 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-06-27 12:34:57 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-06-27_qa_din_testss/train_case_sim.csv
+2024-06-27 12:36:50 - ERROR - 0520-07-17 isn't exist in DB!
+2024-06-27 12:36:51 - ERROR - 0398-09-16 isn't exist in DB!
+2024-06-27 12:36:51 - ERROR - 0633-05-17 isn't exist in DB!
+2024-06-27 12:36:51 - ERROR - 0336-05-16 isn't exist in DB!
+2024-06-27 12:36:51 - ERROR - 0398-09-16 isn't exist in DB!
+2024-06-27 12:36:51 - ERROR - 0613-04-17 isn't exist in DB!
+2024-06-27 12:36:51 - ERROR - 0613-04-17 isn't exist in DB!
+2024-06-27 12:36:51 - ERROR - m01008097-376 isn't exist in DB!
+2024-06-27 12:36:51 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-06-27 12:36:51 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-06-27_qa_din_testss/train_case_sim.csv
+2024-06-27 12:36:51 - INFO - Start to train random_forest case similarity model using LOOCV!
+2024-06-27 12:37:13 - INFO - Accuracy: 0.531
+2024-06-27 12:37:13 - INFO - Precision: 0.689
+2024-06-27 12:37:13 - INFO - Recall: 0.531
+2024-06-27 12:37:21 - INFO - F1: 0.464
+2024-06-27 12:37:21 - INFO - PR AUC: 0.562
+2024-06-27 12:37:21 - INFO - Confusion Matrix:
+[[17 66]
+ [ 3 61]]

@@ -1,0 +1,361 @@
+2025-01-18 00:03:23 - INFO - The feature extraction started with the # Q&A #
+2025-01-18 00:03:23 - INFO - preprocessing.csv doesn't exist in drugs folder case
+2025-01-18 00:03:43 - INFO - Finish to feature extraction ME-22-12-47987-640 case!!
+2025-01-18 00:03:56 - INFO - Finish to feature extraction ME-23-01-53640-602 case!!
+2025-01-18 00:04:05 - INFO - Finish to feature extraction ME-23-05-49875-541 case!!
+2025-01-18 00:04:27 - INFO - Finish to feature extraction ME-23-05-52567-993 case!!
+2025-01-18 00:04:43 - INFO - Finish to feature extraction ME-23-06-15727-546 case!!
+2025-01-18 00:05:00 - INFO - Finish to feature extraction SH-17-10-12320-80 case!!
+2025-01-18 00:05:18 - INFO - Finish to feature extraction SH-19-02-58269-573 case!!
+2025-01-18 00:05:32 - INFO - Finish to feature extraction SH-19-03-50607-561 case!!
+2025-01-18 00:06:05 - INFO - Finish to feature extraction SH-19-05-41247-961 case!!
+2025-01-18 00:06:36 - INFO - Finish to feature extraction SH-20-06-57459-683 case!!
+2025-01-18 00:06:51 - INFO - Finish to feature extraction SH-20-08-24302-570 case!!
+2025-01-18 00:07:14 - INFO - Finish to feature extraction SH-20-09-43084-871 case!!
+2025-01-18 00:07:27 - INFO - Finish to feature extraction SH-21-02-39690-282 case!!
+2025-01-18 00:07:38 - INFO - Finish to feature extraction SH-21-08-36546-752 case!!
+2025-01-18 00:07:51 - INFO - Finish to feature extraction SH-21-09-42879-201 case!!
+2025-01-18 00:08:01 - INFO - Finish to feature extraction SH-21-10-30884-544 case!!
+2025-01-18 00:08:09 - INFO - Finish to feature extraction SH-22-01-33898-590 case!!
+2025-01-18 00:08:19 - INFO - Finish to feature extraction SH-22-03-40650-599 case!!
+2025-01-18 00:08:32 - INFO - Finish to feature extraction SH-22-03-62924-190 case!!
+2025-01-18 00:08:45 - INFO - Finish to feature extraction SH-22-11-37606-732 case!!
+2025-01-18 00:09:25 - INFO - Finish to feature extraction SH-22-11-64232-785 case!!
+2025-01-18 00:09:36 - INFO - Finish to feature extraction SH-22-12-20664-221 case!!
+2025-01-18 00:09:43 - INFO - Finish to feature extraction SH-23-05-72468-401 case!!
+2025-01-18 00:10:05 - INFO - Finish to feature extraction SH-23-08-30009-79 case!!
+2025-01-18 00:10:38 - INFO - Finish to feature extraction SH-24-01-9804-702 case!!
+2025-01-18 00:10:50 - INFO - Finish to feature extraction SH-24-01-26596-264 case!!
+2025-01-18 00:13:21 - INFO - The feature extraction started with the # Q&A #
+2025-01-18 00:13:21 - INFO - preprocessing.csv doesn't exist in drugs folder case
+2025-01-18 00:13:41 - INFO - Finish to feature extraction ME-22-12-47987-640 case!!
+2025-01-18 00:13:55 - INFO - Finish to feature extraction ME-23-01-53640-602 case!!
+2025-01-18 00:15:26 - INFO - The feature extraction started with the # Q&A #
+2025-01-18 00:15:26 - INFO - preprocessing.csv doesn't exist in drugs folder case
+2025-01-18 00:15:46 - INFO - Finish to feature extraction ME-22-12-47987-640 case!!
+2025-01-18 00:15:59 - INFO - Finish to feature extraction ME-23-01-53640-602 case!!
+2025-01-18 00:16:08 - INFO - Finish to feature extraction ME-23-05-49875-541 case!!
+2025-01-18 00:16:30 - INFO - Finish to feature extraction ME-23-05-52567-993 case!!
+2025-01-18 00:16:45 - INFO - Finish to feature extraction ME-23-06-15727-546 case!!
+2025-01-18 00:17:02 - INFO - Finish to feature extraction SH-17-10-12320-80 case!!
+2025-01-18 00:17:20 - INFO - Finish to feature extraction SH-19-02-58269-573 case!!
+2025-01-18 00:17:34 - INFO - Finish to feature extraction SH-19-03-50607-561 case!!
+2025-01-18 00:18:36 - INFO - The feature extraction started with the # Q&A #
+2025-01-18 00:18:36 - INFO - preprocessing.csv doesn't exist in drugs folder case
+2025-01-18 00:18:55 - INFO - Finish to feature extraction ME-22-12-47987-640 case!!
+2025-01-18 00:19:09 - INFO - Finish to feature extraction ME-23-01-53640-602 case!!
+2025-01-18 00:19:18 - INFO - Finish to feature extraction ME-23-05-49875-541 case!!
+2025-01-18 00:19:57 - INFO - The feature extraction started with the # Q&A #
+2025-01-18 00:19:57 - INFO - preprocessing.csv doesn't exist in drugs folder case
+2025-01-18 00:20:16 - INFO - Finish to feature extraction ME-22-12-47987-640 case!!
+2025-01-18 00:20:30 - INFO - Finish to feature extraction ME-23-01-53640-602 case!!
+2025-01-18 00:20:39 - INFO - Finish to feature extraction ME-23-05-49875-541 case!!
+2025-01-18 00:21:01 - INFO - Finish to feature extraction ME-23-05-52567-993 case!!
+2025-01-18 00:21:16 - INFO - Finish to feature extraction ME-23-06-15727-546 case!!
+2025-01-18 00:21:32 - INFO - Finish to feature extraction SH-17-10-12320-80 case!!
+2025-01-18 00:21:50 - INFO - Finish to feature extraction SH-19-02-58269-573 case!!
+2025-01-18 00:22:04 - INFO - Finish to feature extraction SH-19-03-50607-561 case!!
+2025-01-18 00:22:37 - INFO - Finish to feature extraction SH-19-05-41247-961 case!!
+2025-01-18 00:23:07 - INFO - Finish to feature extraction SH-20-06-57459-683 case!!
+2025-01-18 00:23:22 - INFO - Finish to feature extraction SH-20-08-24302-570 case!!
+2025-01-18 00:23:45 - INFO - Finish to feature extraction SH-20-09-43084-871 case!!
+2025-01-18 00:23:59 - INFO - Finish to feature extraction SH-21-02-39690-282 case!!
+2025-01-18 00:24:09 - INFO - Finish to feature extraction SH-21-08-36546-752 case!!
+2025-01-18 00:24:22 - INFO - Finish to feature extraction SH-21-09-42879-201 case!!
+2025-01-18 00:24:32 - INFO - Finish to feature extraction SH-21-10-30884-544 case!!
+2025-01-18 00:24:40 - INFO - Finish to feature extraction SH-22-01-33898-590 case!!
+2025-01-18 00:24:49 - INFO - Finish to feature extraction SH-22-03-40650-599 case!!
+2025-01-18 00:25:03 - INFO - Finish to feature extraction SH-22-03-62924-190 case!!
+2025-01-18 00:25:15 - INFO - Finish to feature extraction SH-22-11-37606-732 case!!
+2025-01-18 00:25:53 - INFO - Finish to feature extraction SH-22-11-64232-785 case!!
+2025-01-18 00:26:04 - INFO - Finish to feature extraction SH-22-12-20664-221 case!!
+2025-01-18 00:26:12 - INFO - Finish to feature extraction SH-23-05-72468-401 case!!
+2025-01-18 00:26:33 - INFO - Finish to feature extraction SH-23-08-30009-79 case!!
+2025-01-18 00:27:06 - INFO - Finish to feature extraction SH-24-01-9804-702 case!!
+2025-01-18 00:27:18 - INFO - Finish to feature extraction SH-24-01-26596-264 case!!
+2025-01-18 00:27:33 - INFO - Finish to feature extraction SH-24-05-46424-585 case!!
+2025-01-18 00:27:47 - INFO - Finish to feature extraction ME-10-11-18588-3 case!!
+2025-01-18 00:28:07 - INFO - Finish to feature extraction ME-22-01-47042-277 case!!
+2025-01-18 00:28:34 - INFO - Finish to feature extraction ME-22-07-53625-139 case!!
+2025-01-18 00:28:47 - INFO - Finish to feature extraction ME-22-08-15747-700 case!!
+2025-01-18 00:29:07 - INFO - Finish to feature extraction ME-22-11-1990-79 case!!
+2025-01-18 00:29:24 - INFO - Finish to feature extraction SH-19-11-6047-641 case!!
+2025-01-18 00:29:54 - INFO - Finish to feature extraction ME-20-12-1338-335 case!!
+2025-01-18 00:30:24 - INFO - Finish to feature extraction ME-21-11-35998-405 case!!
+2025-01-18 00:30:41 - INFO - Finish to feature extraction ME-22-04-7867-732 case!!
+2025-01-18 00:31:04 - INFO - Finish to feature extraction ME-22-06-54208-991 case!!
+2025-01-18 00:31:29 - INFO - Finish to feature extraction ME-22-07-32175-327 case!!
+2025-01-18 00:31:39 - INFO - Finish to feature extraction ME-23-01-46786-206 case!!
+2025-01-18 00:31:50 - INFO - Finish to feature extraction ME-23-12-14553-571 case!!
+2025-01-18 00:32:03 - INFO - Finish to feature extraction SH-24-05-28565-553 case!!
+2025-01-18 00:32:13 - INFO - Finish to feature extraction ME-23-08-41833-827 case!!
+2025-01-18 00:32:28 - INFO - Finish to feature extraction SH-22-08-21724-809 case!!
+2025-01-18 00:32:35 - INFO - Finish to feature extraction SH-23-03-20257-157 case!!
+2025-01-18 00:32:44 - INFO - Finish to feature extraction SH-23-09-35299-260 case!!
+2025-01-18 00:33:13 - INFO - Finish to feature extraction ME-22-03-60484-11 case!!
+2025-01-18 00:33:15 - INFO - Finish to feature extraction ME-24-07-35088-529 case!!
+2025-01-18 00:33:27 - INFO - Finish to feature extraction SH-16-12-19437-616 case!!
+2025-01-18 00:33:34 - INFO - Finish to feature extraction SH-22-05-39259-133 case!!
+2025-01-18 00:33:59 - INFO - Finish to feature extraction ME-23-04-8444-574 case!!
+2025-01-18 00:34:31 - INFO - Finish to feature extraction ME-24-07-35088-627 case!!
+2025-01-18 00:34:45 - INFO - Finish to feature extraction SH-20-06-12380-808 case!!
+2025-01-18 00:35:02 - INFO - Finish to feature extraction SH-21-03-7171-604 case!!
+2025-01-18 00:35:37 - INFO - Finish to feature extraction SH-21-03-10393-815 case!!
+2025-01-18 00:35:46 - INFO - Finish to feature extraction SH-21-12-59578-330 case!!
+2025-01-18 00:36:07 - INFO - Finish to feature extraction SH-22-01-21142-171 case!!
+2025-01-18 00:36:18 - INFO - Finish to feature extraction SH-19-06-45102-509 case!!
+2025-01-18 00:36:37 - INFO - Finish to feature extraction SH-19-12-65763-975 case!!
+2025-01-18 00:36:40 - INFO - Finish to feature extraction SH-20-05-28746-251 case!!
+2025-01-18 00:37:03 - INFO - Finish to feature extraction SH-21-02-40908-370 case!!
+2025-01-18 00:37:14 - INFO - Finish to feature extraction SH-21-03-56850-36 case!!
+2025-01-18 00:37:38 - INFO - Finish to feature extraction SH-21-11-9851-17 case!!
+2025-01-18 00:37:45 - INFO - Finish to feature extraction SH-22-01-16014-223 case!!
+2025-01-18 00:38:20 - INFO - Finish to feature extraction SH-22-01-30506-413 case!!
+2025-01-18 00:38:44 - INFO - Finish to feature extraction SH-22-05-36033-112 case!!
+2025-01-18 00:39:00 - INFO - Finish to feature extraction SH-17-07-16759-919 case!!
+2025-01-18 00:39:12 - INFO - Finish to feature extraction ME-20-09-5778-327 case!!
+2025-01-18 00:40:11 - INFO - Finish to feature extraction SH-19-11-18218-11 case!!
+2025-01-18 00:40:43 - INFO - Finish to feature extraction SH-13-09-29504-694 case!!
+2025-01-18 00:41:02 - INFO - Finish to feature extraction SH-15-05-13336-101 case!!
+2025-01-18 00:41:02 - INFO - Finished extracting files, the appropriate files were saved in the cases in /home/tak/pred-sentencing/results/db/drugs!
+2025-01-18 11:38:41 - INFO - The feature extraction started with the # Q&A #
+2025-01-18 11:38:41 - INFO - preprocessing.csv doesn't exist in drugs folder case
+2025-01-18 11:39:29 - INFO - Finish to feature extraction ME-22-12-47987-640 case!!
+2025-01-18 11:43:12 - INFO - The feature extraction started with the # Q&A #
+2025-01-18 11:43:12 - INFO - preprocessing.csv doesn't exist in drugs folder case
+2025-01-18 11:43:43 - INFO - Finish to feature extraction ME-22-12-47987-640 case!!
+2025-01-18 11:45:37 - INFO - The feature extraction started with the # Q&A #
+2025-01-18 11:45:37 - INFO - preprocessing.csv doesn't exist in drugs folder case
+2025-01-18 11:46:26 - INFO - Finish to feature extraction ME-22-12-47987-640 case!!
+2025-01-18 11:49:55 - INFO - The feature extraction started with the # Q&A #
+2025-01-18 11:49:55 - INFO - preprocessing.csv doesn't exist in drugs folder case
+2025-01-18 11:50:22 - INFO - Finish to feature extraction ME-22-12-47987-640 case!!
+2025-01-18 11:55:29 - INFO - The feature extraction started with the # Q&A #
+2025-01-18 11:55:29 - INFO - preprocessing.csv doesn't exist in drugs folder case
+2025-01-18 11:56:03 - INFO - Finish to feature extraction ME-22-12-47987-640 case!!
+2025-01-18 11:57:40 - INFO - The feature extraction started with the # Q&A #
+2025-01-18 11:57:40 - INFO - preprocessing.csv doesn't exist in drugs folder case
+2025-01-18 11:57:59 - INFO - Finish to feature extraction ME-22-12-47987-640 case!!
+2025-01-18 11:58:15 - INFO - Finish to feature extraction ME-23-01-53640-602 case!!
+2025-01-18 11:58:26 - INFO - Finish to feature extraction ME-23-05-49875-541 case!!
+2025-01-18 11:58:48 - INFO - Finish to feature extraction ME-23-05-52567-993 case!!
+2025-01-18 11:59:04 - INFO - Finish to feature extraction ME-23-06-15727-546 case!!
+2025-01-18 11:59:20 - INFO - Finish to feature extraction SH-17-10-12320-80 case!!
+2025-01-18 11:59:38 - INFO - Finish to feature extraction SH-19-02-58269-573 case!!
+2025-01-18 11:59:55 - INFO - Finish to feature extraction SH-19-03-50607-561 case!!
+2025-01-18 12:00:25 - INFO - Finish to feature extraction SH-19-05-41247-961 case!!
+2025-01-18 12:00:58 - INFO - Finish to feature extraction SH-20-06-57459-683 case!!
+2025-01-18 12:01:12 - INFO - Finish to feature extraction SH-20-08-24302-570 case!!
+2025-01-18 12:01:35 - INFO - Finish to feature extraction SH-20-09-43084-871 case!!
+2025-01-18 12:01:53 - INFO - Finish to feature extraction SH-21-02-39690-282 case!!
+2025-01-18 12:02:03 - INFO - Finish to feature extraction SH-21-08-36546-752 case!!
+2025-01-18 12:02:16 - INFO - Finish to feature extraction SH-21-09-42879-201 case!!
+2025-01-18 12:02:25 - INFO - Finish to feature extraction SH-21-10-30884-544 case!!
+2025-01-18 12:02:32 - INFO - Finish to feature extraction SH-22-01-33898-590 case!!
+2025-01-18 12:02:42 - INFO - Finish to feature extraction SH-22-03-40650-599 case!!
+2025-01-18 12:02:56 - INFO - Finish to feature extraction SH-22-03-62924-190 case!!
+2025-01-18 12:03:07 - INFO - Finish to feature extraction SH-22-11-37606-732 case!!
+2025-01-18 12:03:50 - INFO - Finish to feature extraction SH-22-11-64232-785 case!!
+2025-01-18 12:04:02 - INFO - Finish to feature extraction SH-22-12-20664-221 case!!
+2025-01-18 12:04:10 - INFO - Finish to feature extraction SH-23-05-72468-401 case!!
+2025-01-18 12:04:30 - INFO - Finish to feature extraction SH-23-08-30009-79 case!!
+2025-01-18 12:05:04 - INFO - Finish to feature extraction SH-24-01-9804-702 case!!
+2025-01-18 12:05:18 - INFO - Finish to feature extraction SH-24-01-26596-264 case!!
+2025-01-18 12:05:33 - INFO - Finish to feature extraction SH-24-05-46424-585 case!!
+2025-01-18 12:05:46 - INFO - Finish to feature extraction ME-10-11-18588-3 case!!
+2025-01-18 12:06:07 - INFO - Finish to feature extraction ME-22-01-47042-277 case!!
+2025-01-18 12:06:32 - INFO - Finish to feature extraction ME-22-07-53625-139 case!!
+2025-01-18 12:06:44 - INFO - Finish to feature extraction ME-22-08-15747-700 case!!
+2025-01-18 12:07:03 - INFO - Finish to feature extraction ME-22-11-1990-79 case!!
+2025-01-18 12:07:21 - INFO - Finish to feature extraction SH-19-11-6047-641 case!!
+2025-01-18 12:07:48 - INFO - Finish to feature extraction ME-20-12-1338-335 case!!
+2025-01-18 12:08:18 - INFO - Finish to feature extraction ME-21-11-35998-405 case!!
+2025-01-18 12:08:35 - INFO - Finish to feature extraction ME-22-04-7867-732 case!!
+2025-01-18 12:08:58 - INFO - Finish to feature extraction ME-22-06-54208-991 case!!
+2025-01-18 12:09:23 - INFO - Finish to feature extraction ME-22-07-32175-327 case!!
+2025-01-18 12:09:33 - INFO - Finish to feature extraction ME-23-01-46786-206 case!!
+2025-01-18 12:09:44 - INFO - Finish to feature extraction ME-23-12-14553-571 case!!
+2025-01-18 12:09:56 - INFO - Finish to feature extraction SH-24-05-28565-553 case!!
+2025-01-18 12:10:07 - INFO - Finish to feature extraction ME-23-08-41833-827 case!!
+2025-01-18 12:10:21 - INFO - Finish to feature extraction SH-22-08-21724-809 case!!
+2025-01-18 12:10:29 - INFO - Finish to feature extraction SH-23-03-20257-157 case!!
+2025-01-18 12:10:38 - INFO - Finish to feature extraction SH-23-09-35299-260 case!!
+2025-01-18 12:11:08 - INFO - Finish to feature extraction ME-22-03-60484-11 case!!
+2025-01-18 12:11:09 - INFO - Finish to feature extraction ME-24-07-35088-529 case!!
+2025-01-18 12:11:20 - INFO - Finish to feature extraction SH-16-12-19437-616 case!!
+2025-01-18 12:11:27 - INFO - Finish to feature extraction SH-22-05-39259-133 case!!
+2025-01-18 12:11:54 - INFO - Finish to feature extraction ME-23-04-8444-574 case!!
+2025-01-18 12:12:25 - INFO - Finish to feature extraction ME-24-07-35088-627 case!!
+2025-01-18 12:12:38 - INFO - Finish to feature extraction SH-20-06-12380-808 case!!
+2025-01-18 12:12:54 - INFO - Finish to feature extraction SH-21-03-7171-604 case!!
+2025-01-18 12:13:29 - INFO - Finish to feature extraction SH-21-03-10393-815 case!!
+2025-01-18 12:13:37 - INFO - Finish to feature extraction SH-21-12-59578-330 case!!
+2025-01-18 12:13:58 - INFO - Finish to feature extraction SH-22-01-21142-171 case!!
+2025-01-18 12:14:09 - INFO - Finish to feature extraction SH-19-06-45102-509 case!!
+2025-01-18 12:14:28 - INFO - Finish to feature extraction SH-19-12-65763-975 case!!
+2025-01-18 12:14:32 - INFO - Finish to feature extraction SH-20-05-28746-251 case!!
+2025-01-18 12:14:55 - INFO - Finish to feature extraction SH-21-02-40908-370 case!!
+2025-01-18 12:15:05 - INFO - Finish to feature extraction SH-21-03-56850-36 case!!
+2025-01-18 12:15:29 - INFO - Finish to feature extraction SH-21-11-9851-17 case!!
+2025-01-18 12:15:35 - INFO - Finish to feature extraction SH-22-01-16014-223 case!!
+2025-01-18 12:16:14 - INFO - Finish to feature extraction SH-22-01-30506-413 case!!
+2025-01-18 12:16:39 - INFO - Finish to feature extraction SH-22-05-36033-112 case!!
+2025-01-18 12:16:54 - INFO - Finish to feature extraction SH-17-07-16759-919 case!!
+2025-01-18 12:17:07 - INFO - Finish to feature extraction ME-20-09-5778-327 case!!
+2025-01-18 12:18:18 - INFO - Finish to feature extraction SH-19-11-18218-11 case!!
+2025-01-18 12:18:48 - INFO - Finish to feature extraction SH-13-09-29504-694 case!!
+2025-01-18 12:19:06 - INFO - Finish to feature extraction SH-15-05-13336-101 case!!
+2025-01-18 12:19:06 - INFO - Finished extracting files, the appropriate files were saved in the cases in /home/tak/pred-sentencing/results/db/drugs!
+2025-01-18 16:21:30 - INFO - The feature extraction started with the # Q&A #
+2025-01-18 16:21:30 - INFO - preprocessing.csv doesn't exist in drugs folder case
+2025-01-18 16:21:30 - INFO - Finish to feature extraction ME-22-12-47987-640 case!!
+2025-01-18 16:21:30 - INFO - Finish to feature extraction ME-23-01-53640-602 case!!
+2025-01-18 16:21:30 - INFO - Finish to feature extraction ME-23-05-49875-541 case!!
+2025-01-18 16:21:30 - INFO - Finish to feature extraction ME-23-05-52567-993 case!!
+2025-01-18 16:21:30 - INFO - Finish to feature extraction ME-23-06-15727-546 case!!
+2025-01-18 16:21:30 - INFO - Finish to feature extraction SH-17-10-12320-80 case!!
+2025-01-18 16:21:30 - INFO - Finish to feature extraction SH-19-02-58269-573 case!!
+2025-01-18 16:22:04 - INFO - The feature extraction started with the # Q&A #
+2025-01-18 16:22:04 - INFO - preprocessing.csv doesn't exist in drugs folder case
+2025-01-18 16:22:04 - INFO - Finish to feature extraction ME-22-12-47987-640 case!!
+2025-01-18 16:22:04 - INFO - Finish to feature extraction ME-23-01-53640-602 case!!
+2025-01-18 16:22:04 - INFO - Finish to feature extraction ME-23-05-49875-541 case!!
+2025-01-18 16:22:04 - INFO - Finish to feature extraction ME-23-05-52567-993 case!!
+2025-01-18 16:22:04 - INFO - Finish to feature extraction ME-23-06-15727-546 case!!
+2025-01-18 16:22:04 - INFO - Finish to feature extraction SH-17-10-12320-80 case!!
+2025-01-18 16:22:04 - INFO - Finish to feature extraction SH-19-02-58269-573 case!!
+2025-01-18 16:25:38 - INFO - The feature extraction started with the # Q&A #
+2025-01-18 16:25:38 - INFO - preprocessing.csv doesn't exist in drugs folder case
+2025-01-18 16:25:38 - INFO - Finish to feature extraction ME-22-12-47987-640 case!!
+2025-01-18 16:25:38 - INFO - Finish to feature extraction ME-23-01-53640-602 case!!
+2025-01-18 16:25:38 - INFO - Finish to feature extraction ME-23-05-49875-541 case!!
+2025-01-18 16:25:38 - INFO - Finish to feature extraction ME-23-05-52567-993 case!!
+2025-01-18 16:25:38 - INFO - Finish to feature extraction ME-23-06-15727-546 case!!
+2025-01-18 16:25:38 - INFO - Finish to feature extraction SH-17-10-12320-80 case!!
+2025-01-18 16:25:38 - INFO - Finish to feature extraction SH-19-02-58269-573 case!!
+2025-01-18 16:27:18 - INFO - The feature extraction started with the # Q&A #
+2025-01-18 16:27:18 - INFO - preprocessing.csv doesn't exist in drugs folder case
+2025-01-18 16:27:18 - INFO - Finish to feature extraction ME-22-12-47987-640 case!!
+2025-01-18 16:27:18 - INFO - Finish to feature extraction ME-23-01-53640-602 case!!
+2025-01-18 16:27:18 - INFO - Finish to feature extraction ME-23-05-49875-541 case!!
+2025-01-18 16:27:18 - INFO - Finish to feature extraction ME-23-05-52567-993 case!!
+2025-01-18 16:27:18 - INFO - Finish to feature extraction ME-23-06-15727-546 case!!
+2025-01-18 16:27:18 - INFO - Finish to feature extraction SH-17-10-12320-80 case!!
+2025-01-18 16:27:18 - INFO - Finish to feature extraction SH-19-02-58269-573 case!!
+2025-01-18 16:29:29 - INFO - The feature extraction started with the # Q&A #
+2025-01-18 16:29:29 - INFO - preprocessing.csv doesn't exist in drugs folder case
+2025-01-18 16:29:29 - INFO - Finish to feature extraction ME-22-12-47987-640 case!!
+2025-01-18 16:29:29 - INFO - Finish to feature extraction ME-23-01-53640-602 case!!
+2025-01-18 16:29:29 - INFO - Finish to feature extraction ME-23-05-49875-541 case!!
+2025-01-18 16:29:29 - INFO - Finish to feature extraction ME-23-05-52567-993 case!!
+2025-01-18 16:29:29 - INFO - Finish to feature extraction ME-23-06-15727-546 case!!
+2025-01-18 16:29:29 - INFO - Finish to feature extraction SH-17-10-12320-80 case!!
+2025-01-18 16:29:29 - INFO - Finish to feature extraction SH-19-02-58269-573 case!!
+2025-01-18 16:30:41 - INFO - The feature extraction started with the # Q&A #
+2025-01-18 16:30:41 - INFO - preprocessing.csv doesn't exist in drugs folder case
+2025-01-18 16:30:41 - INFO - Finish to feature extraction ME-22-12-47987-640 case!!
+2025-01-18 16:30:41 - INFO - Finish to feature extraction ME-23-01-53640-602 case!!
+2025-01-18 16:30:41 - INFO - Finish to feature extraction ME-23-05-49875-541 case!!
+2025-01-18 16:30:41 - INFO - Finish to feature extraction ME-23-05-52567-993 case!!
+2025-01-18 16:30:41 - INFO - Finish to feature extraction ME-23-06-15727-546 case!!
+2025-01-18 16:30:41 - INFO - Finish to feature extraction SH-17-10-12320-80 case!!
+2025-01-18 16:30:41 - INFO - Finish to feature extraction SH-19-02-58269-573 case!!
+2025-01-18 16:32:27 - INFO - The feature extraction started with the # Q&A #
+2025-01-18 16:32:27 - INFO - preprocessing.csv doesn't exist in drugs folder case
+2025-01-18 16:32:27 - INFO - Finish to feature extraction ME-22-12-47987-640 case!!
+2025-01-18 16:32:27 - INFO - Finish to feature extraction ME-23-01-53640-602 case!!
+2025-01-18 16:32:27 - INFO - Finish to feature extraction ME-23-05-49875-541 case!!
+2025-01-18 16:32:27 - INFO - Finish to feature extraction ME-23-05-52567-993 case!!
+2025-01-18 16:32:27 - INFO - Finish to feature extraction ME-23-06-15727-546 case!!
+2025-01-18 16:32:27 - INFO - Finish to feature extraction SH-17-10-12320-80 case!!
+2025-01-18 16:32:27 - INFO - Finish to feature extraction SH-19-02-58269-573 case!!
+2025-01-18 16:35:38 - INFO - The feature extraction started with the # Q&A #
+2025-01-18 16:35:38 - INFO - preprocessing.csv doesn't exist in drugs folder case
+2025-01-18 16:35:38 - INFO - Finish to feature extraction ME-22-12-47987-640 case!!
+2025-01-18 16:35:38 - INFO - Finish to feature extraction ME-23-01-53640-602 case!!
+2025-01-18 16:35:38 - INFO - Finish to feature extraction ME-23-05-49875-541 case!!
+2025-01-18 16:35:38 - INFO - Finish to feature extraction ME-23-05-52567-993 case!!
+2025-01-18 16:35:38 - INFO - Finish to feature extraction ME-23-06-15727-546 case!!
+2025-01-18 16:35:38 - INFO - Finish to feature extraction SH-17-10-12320-80 case!!
+2025-01-18 16:35:38 - INFO - Finish to feature extraction SH-19-02-58269-573 case!!
+2025-01-18 16:37:16 - INFO - The feature extraction started with the # Q&A #
+2025-01-18 16:37:16 - INFO - preprocessing.csv doesn't exist in drugs folder case
+2025-01-18 16:37:33 - INFO - Finish to feature extraction ME-22-12-47987-640 case!!
+2025-01-18 16:37:46 - INFO - Finish to feature extraction ME-23-01-53640-602 case!!
+2025-01-18 16:37:55 - INFO - Finish to feature extraction ME-23-05-49875-541 case!!
+2025-01-18 16:38:16 - INFO - Finish to feature extraction ME-23-05-52567-993 case!!
+2025-01-18 16:38:31 - INFO - Finish to feature extraction ME-23-06-15727-546 case!!
+2025-01-18 16:38:47 - INFO - Finish to feature extraction SH-17-10-12320-80 case!!
+2025-01-18 16:39:05 - INFO - The feature extraction started with the # Q&A #
+2025-01-18 16:39:05 - INFO - preprocessing.csv doesn't exist in drugs folder case
+2025-01-18 16:39:22 - INFO - Finish to feature extraction ME-22-12-47987-640 case!!
+2025-01-18 16:39:35 - INFO - Finish to feature extraction ME-23-01-53640-602 case!!
+2025-01-18 16:39:45 - INFO - Finish to feature extraction ME-23-05-49875-541 case!!
+2025-01-18 16:40:06 - INFO - Finish to feature extraction ME-23-05-52567-993 case!!
+2025-01-18 16:40:20 - INFO - Finish to feature extraction ME-23-06-15727-546 case!!
+2025-01-18 16:40:36 - INFO - Finish to feature extraction SH-17-10-12320-80 case!!
+2025-01-18 16:40:53 - INFO - Finish to feature extraction SH-19-02-58269-573 case!!
+2025-01-18 16:41:06 - INFO - Finish to feature extraction SH-19-03-50607-561 case!!
+2025-01-18 16:41:35 - INFO - Finish to feature extraction SH-19-05-41247-961 case!!
+2025-01-18 16:42:04 - INFO - Finish to feature extraction SH-20-06-57459-683 case!!
+2025-01-18 16:42:17 - INFO - Finish to feature extraction SH-20-08-24302-570 case!!
+2025-01-18 16:42:40 - INFO - Finish to feature extraction SH-20-09-43084-871 case!!
+2025-01-18 16:42:53 - INFO - Finish to feature extraction SH-21-02-39690-282 case!!
+2025-01-18 16:43:03 - INFO - Finish to feature extraction SH-21-08-36546-752 case!!
+2025-01-18 16:43:15 - INFO - Finish to feature extraction SH-21-09-42879-201 case!!
+2025-01-18 16:43:24 - INFO - Finish to feature extraction SH-21-10-30884-544 case!!
+2025-01-18 16:43:31 - INFO - Finish to feature extraction SH-22-01-33898-590 case!!
+2025-01-18 16:43:41 - INFO - Finish to feature extraction SH-22-03-40650-599 case!!
+2025-01-18 16:43:52 - INFO - Finish to feature extraction SH-22-03-62924-190 case!!
+2025-01-18 16:44:04 - INFO - Finish to feature extraction SH-22-11-37606-732 case!!
+2025-01-18 16:44:39 - INFO - Finish to feature extraction SH-22-11-64232-785 case!!
+2025-01-18 16:44:49 - INFO - Finish to feature extraction SH-22-12-20664-221 case!!
+2025-01-18 16:44:56 - INFO - Finish to feature extraction SH-23-05-72468-401 case!!
+2025-01-18 16:45:15 - INFO - Finish to feature extraction SH-23-08-30009-79 case!!
+2025-01-18 16:45:46 - INFO - Finish to feature extraction SH-24-01-9804-702 case!!
+2025-01-18 16:45:56 - INFO - Finish to feature extraction SH-24-01-26596-264 case!!
+2025-01-18 16:46:11 - INFO - Finish to feature extraction SH-24-05-46424-585 case!!
+2025-01-18 16:46:24 - INFO - Finish to feature extraction ME-10-11-18588-3 case!!
+2025-01-18 16:46:43 - INFO - Finish to feature extraction ME-22-01-47042-277 case!!
+2025-01-18 16:47:07 - INFO - Finish to feature extraction ME-22-07-53625-139 case!!
+2025-01-18 16:47:20 - INFO - Finish to feature extraction ME-22-08-15747-700 case!!
+2025-01-18 16:47:39 - INFO - Finish to feature extraction ME-22-11-1990-79 case!!
+2025-01-18 16:47:54 - INFO - Finish to feature extraction SH-19-11-6047-641 case!!
+2025-01-18 16:48:22 - INFO - Finish to feature extraction ME-20-12-1338-335 case!!
+2025-01-18 16:48:51 - INFO - Finish to feature extraction ME-21-11-35998-405 case!!
+2025-01-18 16:49:08 - INFO - Finish to feature extraction ME-22-04-7867-732 case!!
+2025-01-18 16:49:28 - INFO - Finish to feature extraction ME-22-06-54208-991 case!!
+2025-01-18 16:49:51 - INFO - Finish to feature extraction ME-22-07-32175-327 case!!
+2025-01-18 16:49:59 - INFO - Finish to feature extraction ME-23-01-46786-206 case!!
+2025-01-18 16:50:10 - INFO - Finish to feature extraction ME-23-12-14553-571 case!!
+2025-01-18 16:50:22 - INFO - Finish to feature extraction SH-24-05-28565-553 case!!
+2025-01-18 16:50:31 - INFO - Finish to feature extraction ME-23-08-41833-827 case!!
+2025-01-18 16:50:44 - INFO - Finish to feature extraction SH-22-08-21724-809 case!!
+2025-01-18 16:50:50 - INFO - Finish to feature extraction SH-23-03-20257-157 case!!
+2025-01-18 16:50:59 - INFO - Finish to feature extraction SH-23-09-35299-260 case!!
+2025-01-18 16:51:26 - INFO - Finish to feature extraction ME-22-03-60484-11 case!!
+2025-01-18 16:51:27 - INFO - Finish to feature extraction ME-24-07-35088-529 case!!
+2025-01-18 16:51:39 - INFO - Finish to feature extraction SH-16-12-19437-616 case!!
+2025-01-18 16:51:45 - INFO - Finish to feature extraction SH-22-05-39259-133 case!!
+2025-01-18 16:52:09 - INFO - Finish to feature extraction ME-23-04-8444-574 case!!
+2025-01-18 16:52:39 - INFO - Finish to feature extraction ME-24-07-35088-627 case!!
+2025-01-18 16:52:51 - INFO - Finish to feature extraction SH-20-06-12380-808 case!!
+2025-01-18 16:53:08 - INFO - Finish to feature extraction SH-21-03-7171-604 case!!
+2025-01-18 16:53:35 - INFO - Finish to feature extraction SH-21-03-10393-815 case!!
+2025-01-18 16:53:43 - INFO - Finish to feature extraction SH-21-12-59578-330 case!!
+2025-01-18 16:54:03 - INFO - Finish to feature extraction SH-22-01-21142-171 case!!
+2025-01-18 16:54:13 - INFO - Finish to feature extraction SH-19-06-45102-509 case!!
+2025-01-18 16:54:30 - INFO - Finish to feature extraction SH-19-12-65763-975 case!!
+2025-01-18 16:54:33 - INFO - Finish to feature extraction SH-20-05-28746-251 case!!
+2025-01-18 16:54:54 - INFO - Finish to feature extraction SH-21-02-40908-370 case!!
+2025-01-18 16:55:04 - INFO - Finish to feature extraction SH-21-03-56850-36 case!!
+2025-01-18 16:55:25 - INFO - Finish to feature extraction SH-21-11-9851-17 case!!
+2025-01-18 16:55:31 - INFO - Finish to feature extraction SH-22-01-16014-223 case!!
+2025-01-18 16:56:03 - INFO - Finish to feature extraction SH-22-01-30506-413 case!!
+2025-01-18 16:56:24 - INFO - Finish to feature extraction SH-22-05-36033-112 case!!
+2025-01-18 16:56:37 - INFO - Finish to feature extraction SH-17-07-16759-919 case!!
+2025-01-18 16:56:47 - INFO - Finish to feature extraction ME-20-09-5778-327 case!!
+2025-01-18 16:57:41 - INFO - Finish to feature extraction SH-19-11-18218-11 case!!
+2025-01-18 16:58:11 - INFO - Finish to feature extraction SH-13-09-29504-694 case!!
+2025-01-18 16:58:28 - INFO - Finish to feature extraction SH-15-05-13336-101 case!!
+2025-01-18 16:58:28 - INFO - Finished extracting files, the appropriate files were saved in the cases in /home/tak/pred-sentencing/results/db/drugs!

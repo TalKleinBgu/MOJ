@@ -1,0 +1,4 @@
+2025-01-18 19:31:31 - INFO - Save to /home/tak/pred-sentencing/results/evaluations/drugs/features_extraction/dice_coefficient.txt!!
+2025-01-18 19:34:06 - INFO - Save to /home/tak/pred-sentencing/results/evaluations/drugs/features_extraction/dice_coefficient.txt!!
+2025-01-18 19:34:44 - INFO - Save to /home/tak/pred-sentencing/results/evaluations/drugs/features_extraction/dice_coefficient.txt!!
+2025-01-18 19:35:17 - INFO - Save to /home/tak/pred-sentencing/results/evaluations/drugs/features_extraction/dice_coefficient.txt!!

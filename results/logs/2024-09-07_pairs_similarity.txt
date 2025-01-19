@@ -1,0 +1,110 @@
+2024-09-07 17:17:43 - ERROR - 0520-07-17 isn't exist in DB!
+2024-09-07 17:17:43 - ERROR - 0398-09-16 isn't exist in DB!
+2024-09-07 17:17:43 - ERROR - 0633-05-17 isn't exist in DB!
+2024-09-07 17:17:43 - ERROR - 0336-05-16 isn't exist in DB!
+2024-09-07 17:17:43 - ERROR - 0398-09-16 isn't exist in DB!
+2024-09-07 17:17:43 - ERROR - 0613-04-17 isn't exist in DB!
+2024-09-07 17:17:43 - ERROR - 0613-04-17 isn't exist in DB!
+2024-09-07 17:17:44 - ERROR - m01008097-376 isn't exist in DB!
+2024-09-07 17:36:16 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-09-07 17:36:16 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-09-07_qa_din_testss/train_case_sim.csv
+2024-09-07 17:36:16 - INFO - Start to train random_forest case similarity model using LOOCV!
+2024-09-07 17:36:40 - INFO - Accuracy: 0.777
+2024-09-07 17:36:40 - INFO - Precision: 0.795
+2024-09-07 17:36:40 - INFO - Recall: 0.777
+2024-09-07 17:36:40 - INFO - F1: 0.778
+2024-09-07 17:36:40 - INFO - PR AUC: 0.806
+2024-09-07 17:36:40 - INFO - Confusion Matrix:
+[[60 24]
+ [ 9 55]]
+2024-09-07 17:40:46 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-09-07 17:40:46 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-09-07_qa_din_testss/train_case_sim.csv
+2024-09-07 17:41:22 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-09-07 17:52:52 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-09-07_qa_din_testss/train_case_sim.csv
+2024-09-07 18:31:34 - ERROR - 0520-07-17 isn't exist in DB!
+2024-09-07 18:31:34 - ERROR - 0398-09-16 isn't exist in DB!
+2024-09-07 18:31:34 - ERROR - 0633-05-17 isn't exist in DB!
+2024-09-07 18:31:34 - ERROR - 0336-05-16 isn't exist in DB!
+2024-09-07 18:31:34 - ERROR - 0398-09-16 isn't exist in DB!
+2024-09-07 18:31:34 - ERROR - 0613-04-17 isn't exist in DB!
+2024-09-07 18:31:34 - ERROR - 0613-04-17 isn't exist in DB!
+2024-09-07 18:31:34 - ERROR - m01008097-376 isn't exist in DB!
+2024-09-07 18:31:34 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-09-07 18:32:17 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-09-07_qa_din_testss/train_case_sim.csv
+2024-09-07 18:33:39 - ERROR - 0520-07-17 isn't exist in DB!
+2024-09-07 18:33:39 - ERROR - 0398-09-16 isn't exist in DB!
+2024-09-07 18:33:39 - ERROR - 0633-05-17 isn't exist in DB!
+2024-09-07 18:33:39 - ERROR - 0336-05-16 isn't exist in DB!
+2024-09-07 18:33:39 - ERROR - 0398-09-16 isn't exist in DB!
+2024-09-07 18:33:40 - ERROR - 0613-04-17 isn't exist in DB!
+2024-09-07 18:33:40 - ERROR - 0613-04-17 isn't exist in DB!
+2024-09-07 18:33:40 - ERROR - m01008097-376 isn't exist in DB!
+2024-09-07 18:33:40 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-09-07 18:33:40 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-09-07_qa_din_testss/train_case_sim.csv
+2024-09-07 18:33:40 - INFO - Start to train random_forest case similarity model using LOOCV!
+2024-09-07 18:33:52 - INFO - Accuracy: 0.565
+2024-09-07 18:33:52 - INFO - Precision: 0.699
+2024-09-07 18:33:52 - INFO - Recall: 0.565
+2024-09-07 18:33:52 - INFO - F1: 0.52
+2024-09-07 18:33:52 - INFO - PR AUC: 0.596
+2024-09-07 18:33:52 - INFO - Confusion Matrix:
+[[23 60]
+ [ 4 60]]
+2024-09-07 18:35:15 - ERROR - 0520-07-17 isn't exist in DB!
+2024-09-07 18:35:15 - ERROR - 0398-09-16 isn't exist in DB!
+2024-09-07 18:35:15 - ERROR - 0633-05-17 isn't exist in DB!
+2024-09-07 18:35:15 - ERROR - 0336-05-16 isn't exist in DB!
+2024-09-07 18:35:15 - ERROR - 0398-09-16 isn't exist in DB!
+2024-09-07 18:35:16 - ERROR - 0613-04-17 isn't exist in DB!
+2024-09-07 18:35:16 - ERROR - 0613-04-17 isn't exist in DB!
+2024-09-07 18:35:16 - ERROR - m01008097-376 isn't exist in DB!
+2024-09-07 18:50:40 - ERROR - 0520-07-17 isn't exist in DB!
+2024-09-07 18:50:41 - ERROR - 0398-09-16 isn't exist in DB!
+2024-09-07 18:50:41 - ERROR - 0633-05-17 isn't exist in DB!
+2024-09-07 18:50:41 - ERROR - 0336-05-16 isn't exist in DB!
+2024-09-07 18:50:41 - ERROR - 0398-09-16 isn't exist in DB!
+2024-09-07 18:50:41 - ERROR - 0613-04-17 isn't exist in DB!
+2024-09-07 18:50:41 - ERROR - 0613-04-17 isn't exist in DB!
+2024-09-07 18:50:41 - ERROR - m01008097-376 isn't exist in DB!
+2024-09-07 18:50:41 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-09-07 18:50:41 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-09-07_qa_din_testss/train_case_sim.csv
+2024-09-07 18:52:49 - ERROR - 0520-07-17 isn't exist in DB!
+2024-09-07 18:52:49 - ERROR - 0398-09-16 isn't exist in DB!
+2024-09-07 18:52:49 - ERROR - 0633-05-17 isn't exist in DB!
+2024-09-07 18:52:49 - ERROR - 0336-05-16 isn't exist in DB!
+2024-09-07 18:52:49 - ERROR - 0398-09-16 isn't exist in DB!
+2024-09-07 18:52:49 - ERROR - 0613-04-17 isn't exist in DB!
+2024-09-07 18:52:49 - ERROR - 0613-04-17 isn't exist in DB!
+2024-09-07 18:52:49 - ERROR - m01008097-376 isn't exist in DB!
+2024-09-07 18:52:49 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-09-07 18:52:49 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-09-07_qa_din_testss/train_case_sim.csv
+2024-09-07 18:57:37 - ERROR - 0520-07-17 isn't exist in DB!
+2024-09-07 18:57:37 - ERROR - 0398-09-16 isn't exist in DB!
+2024-09-07 18:57:37 - ERROR - 0633-05-17 isn't exist in DB!
+2024-09-07 18:57:37 - ERROR - 0336-05-16 isn't exist in DB!
+2024-09-07 18:57:37 - ERROR - 0398-09-16 isn't exist in DB!
+2024-09-07 18:57:37 - ERROR - 0613-04-17 isn't exist in DB!
+2024-09-07 18:57:37 - ERROR - 0613-04-17 isn't exist in DB!
+2024-09-07 18:57:37 - ERROR - m01008097-376 isn't exist in DB!
+2024-09-07 18:57:37 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-09-07 18:57:37 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-09-07_qa_din_testss/train_case_sim.csv
+2024-09-07 18:59:16 - ERROR - 0520-07-17 isn't exist in DB!
+2024-09-07 18:59:16 - ERROR - 0398-09-16 isn't exist in DB!
+2024-09-07 18:59:16 - ERROR - 0633-05-17 isn't exist in DB!
+2024-09-07 18:59:16 - ERROR - 0336-05-16 isn't exist in DB!
+2024-09-07 18:59:16 - ERROR - 0398-09-16 isn't exist in DB!
+2024-09-07 18:59:17 - ERROR - 0613-04-17 isn't exist in DB!
+2024-09-07 18:59:17 - ERROR - 0613-04-17 isn't exist in DB!
+2024-09-07 18:59:17 - ERROR - m01008097-376 isn't exist in DB!
+2024-09-07 18:59:17 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-09-07 18:59:17 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-09-07_qa_din_testss/train_case_sim.csv
+2024-09-07 19:00:28 - ERROR - 0520-07-17 isn't exist in DB!
+2024-09-07 19:00:28 - ERROR - 0398-09-16 isn't exist in DB!
+2024-09-07 19:00:28 - ERROR - 0633-05-17 isn't exist in DB!
+2024-09-07 19:00:28 - ERROR - 0336-05-16 isn't exist in DB!
+2024-09-07 19:00:28 - ERROR - 0398-09-16 isn't exist in DB!
+2024-09-07 19:00:28 - ERROR - 0613-04-17 isn't exist in DB!
+2024-09-07 19:00:28 - ERROR - 0613-04-17 isn't exist in DB!
+2024-09-07 19:00:28 - ERROR - m01008097-376 isn't exist in DB!
+2024-09-07 19:00:29 - INFO - Start to create DF with qa, for train pairs similarity!
+2024-09-07 19:00:29 - INFO - Save train_case_sim.csv in results/pairs_similarity/2024-09-07_qa_din_testss/train_case_sim.csv

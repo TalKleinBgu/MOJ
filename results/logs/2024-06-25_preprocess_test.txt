@@ -1,0 +1,45 @@
+2024-06-25 18:49:22 - INFO - 
+Train start, data is taken from resources/data/tagging/sentence_classfication/test/GT.xlsx
+2024-06-25 18:49:22 - INFO - Starting setfit training for labels: ['CIR_OBTAIN_WAY_WEP', 'CIR_BUYER_ID_WEP', 'CIR_TYPE_WEP', 'CIR_MONEY_PAID_WEP']
+2024-06-25 18:49:26 - INFO - ֿ
+Start to train CIR_OBTAIN_WAY_WEP classifier
+
+2024-06-25 18:54:17 - INFO - ֿ
+Start to train CIR_BUYER_ID_WEP classifier
+
+2024-06-25 18:55:58 - INFO - 
+Train start, data is taken from resources/data/tagging/sentence_classfication/test/GT.xlsx
+2024-06-25 18:55:58 - INFO - Starting setfit training for labels: ['CIR_OBTAIN_WAY_WEP', 'CIR_BUYER_ID_WEP', 'CIR_TYPE_WEP', 'CIR_MONEY_PAID_WEP']
+2024-06-25 18:56:00 - INFO - ֿ
+Start to train CIR_OBTAIN_WAY_WEP classifier
+
+2024-06-25 19:00:32 - INFO - ֿ
+Start to train CIR_BUYER_ID_WEP classifier
+
+2024-06-25 19:09:22 - INFO - 
+Train start, data is taken from resources/data/tagging/sentence_classfication/test/GT.xlsx
+2024-06-25 19:09:22 - INFO - Starting setfit training for labels: ['CIR_OBTAIN_WAY_WEP', 'CIR_BUYER_ID_WEP', 'CIR_TYPE_WEP', 'CIR_MONEY_PAID_WEP']
+2024-06-25 19:09:25 - INFO - ֿ
+Start to train CIR_OBTAIN_WAY_WEP classifier
+
+2024-06-25 19:13:57 - INFO - ֿ
+Start to train CIR_BUYER_ID_WEP classifier
+
+2024-06-25 23:13:44 - INFO - 
+Train start, data is taken from resources/data/tagging/sentence_classfication/test/GT.xlsx
+2024-06-25 23:13:44 - INFO - Starting setfit training for labels: ['CIR_OBTAIN_WAY_WEP', 'CIR_TYPE_WEP', 'CIR_MONEY_PAID_WEP']
+2024-06-25 23:13:47 - INFO - ֿ
+Start to train CIR_OBTAIN_WAY_WEP classifier
+
+2024-06-25 23:27:00 - INFO - ֿ
+Start to train CIR_TYPE_WEP classifier
+
+2024-06-25 23:32:44 - INFO - ֿ
+Start to train CIR_MONEY_PAID_WEP classifier
+
+2024-06-25 23:38:11 - INFO - 
+Train start, data is taken from resources/data/tagging/sentence_classfication/test/GT.xlsx
+2024-06-25 23:38:11 - INFO - Starting setfit training for labels: ['CIR_MONEY_PAID_WEP']
+2024-06-25 23:38:14 - INFO - ֿ
+Start to train CIR_MONEY_PAID_WEP classifier
+
