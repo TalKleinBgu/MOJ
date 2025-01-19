@@ -1,0 +1,30 @@
+Mean Dice coefficient for הודאה: 0.98
+Mean Dice coefficient for מספר עבירה: 0.987
+Mean Dice coefficient for סוג העבירה: 0.991
+Mean Dice coefficient for סוג הנשק [תת מקלע]: 0.9
+Mean Dice coefficient for עבר פלילי: 0.98
+Mean Dice coefficient for אופן קבלת הנשק: 0.833
+Mean Dice coefficient for סטטוס הנשק: 0.937
+Mean Dice coefficient for חרטה: 0.98
+Mean Dice coefficient for מכירה לסוכן: 1.0
+Mean Dice coefficient for כמות תחמושת: 0.826
+Mean Dice coefficient for אופן החזקת הנשק: 0.957
+Mean Dice coefficient for תכנון: 0.95
+Mean Dice coefficient for שימוש: 0.98
+Mean Dice coefficient for נזק: 0.955
+Mean Dice coefficient for בריחה
+מרדף: 0.95
+Mean Dice coefficient for עונש: 0.929
+Mean Dice coefficient for סוג הנשק [אקדח]: 1.0
+Mean Dice coefficient for מתחם ענישה - מאשימה : 0.957
+Mean Dice coefficient for מתחם ענישה - שופט : 0.955
+Mean Dice coefficient for סוג הנשק [רובה סער ]: 0.9
+Mean Dice coefficient for סוג הנשק [תת מקלע מאולתר]: 0.926
+Mean Dice coefficient for מטרה-סיבת העבירה: 0.909
+Mean Dice coefficient for כסף ששולם: 0.9
+Mean Dice coefficient for סוג הנשק [רימון הלם/גז]: 0.833
+Mean Dice coefficient for סוג הנשק - אם לא נמצא בטבלה: 0.8
+Mean Dice coefficient for סוג הנשק [רובה צייד]: 0.667
+Mean Dice coefficient for סוג הנשק [טיל מטאדור]: 1.0
+Mean Dice coefficient for סוג הנשק [רימון רסס]: 1.0
+Mean Dice coefficient for סוג הנשק [רובה סער מאולתר]: 1.0
