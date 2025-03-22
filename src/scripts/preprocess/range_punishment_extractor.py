@@ -100,8 +100,8 @@ def extract_punishment_range_tagging_db(corpus_path):
         if os.path.isdir(directory_path):
             if os.path.exists(os.path.join(directory_path, 'preprocessing.csv')):
                 try:
-                    if dir_name =="ME-23-06-15727-546":
-                        print()
+                    # if dir_name =="ME-23-06-15727-546":
+                    #     print()
                     pre = Punishment_range_extractor(directory_path)
                     save_json(pre.punishment_range, directory_path_jason)
                     print("done", dir_name)
