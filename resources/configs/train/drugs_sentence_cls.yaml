@@ -1,10 +1,10 @@
 # Most important is to change the experiment name!!'
-experiment_name: 'real_try'
+experiment_name: 'with_f2_try'
 username: tak
 
 # paths
-data_path: "/home/{username}/pred-sentencing/resources/data/trainning/sentence_classification/drugs/35cases_in_train"
-save_dir: '/home/{username}/pred-sentencing/results'
+data_path: "/home/{username}/MOJ/resources/data/trainning/sentence_classification/drugs/stratify_sentences_50_40_10"
+save_dir: '/home/{username}/MOJ/results'
 save_model_path: '/home/{username}/moj_models'
 
 # models to train
@@ -17,20 +17,22 @@ models_to_train:
 generated_data: False
 setfit: True
 balance: True # balance the train set
-save_model: true #if False, save just the result by label 
+save_model: True #if False, save just the result by label 
 
-#first level labels
 first_label_list:
-  - PUNISHMENT
-  # - GENERAL_CIRCUM
+  # - CONFESSION
+  # - CIR_PUNISHMENT
+  - GENERAL_CIRCUMs
   # - reject
 
 #second level labels
 second_label_list: 
   # - CIR_TYPE
   # - CIR_AMOUNT
-  # - CIR_ROLE
-  # - CIR_EQ
+  - CIR_ROLE
+  - CIR_EQ
+  - REGRET
+  - RESPO
 
 
 #labels to ignore
@@ -40,12 +42,12 @@ ignore_labels:
   - text
 
 pretrained_model_list:
-    #  - HeNLP/HeRo
-    #  - amberoad/bert-multilingual-passage-reranking-msmarco
-     - dicta-il/dictabert
-    #  - avichr/Legal-heBERT
-    #  - avichr/heBERT
-    #  - onlplab/alephbert-base
+  # - HeNLP/HeRo
+  - amberoad/bert-multilingual-passage-reranking-msmarco
+  - dicta-il/dictabert
+  # - avichr/Legal-heBERT
+  - avichr/heBERT
+  # - onlplab/alephbert-base
   
 
 # training arguments
@@ -56,7 +58,7 @@ training_args:
     - 0.000005
   head_learning_rate: 0.002
   l2_weight: 0.01
-  num_epochs: 3 
+  num_epochs: 5
   end_to_end: True
   evaluation_strategy: "epoch"
   save_strategy: "epoch"

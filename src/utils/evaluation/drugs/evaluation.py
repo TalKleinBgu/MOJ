@@ -226,7 +226,7 @@ def convert_tagging_to_pred_foramt(df):
                     'עונש תנאי': 'PUNISHMENT_SUSPENDED',
                     'עונש קנס': 'PUNISHMENT_FINE',
                     'מעבדה': 'CIR_EQ',
-                    'תפקיד' : 'CIR_ROLE',
+                    'תפקיד ' : 'CIR_ROLE',
                     'סוג הסם, כמות': 'CIR_TYPE_AMOUNT',
                     }
     df.rename(columns=column_mapping, inplace=True)

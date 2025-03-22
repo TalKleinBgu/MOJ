@@ -26,7 +26,7 @@ def extract_two_numbers(string):
                 pass
             else:
                 if words[i+1] =='שנות':
-                    numbers[0] = numbers[0]*12
+                    # numbers[0] = numbers_[0]*12
                     numbers.append(int(numbers_[0])*12)
                 else:
                     numbers.append(int(numbers_[0]))
@@ -48,10 +48,11 @@ def extract_two_numbers(string):
                 cleaned_words = [word.strip() for word in words if word.strip()]
 
                 next_words_2 = " ".join(cleaned_words[i+1:i+4])
-                next_word = next_words_2.split()[0]
-                if next_word =='עד' or next_word == 'בין' or next_word == '-': 
-                    if next_words_2.split()[2] == 'שנות':
-                        number *= 12
+                if next_words_2 != '':
+                    next_word = next_words_2.split()[0]
+                    if next_word =='עד' or next_word == 'בין' or next_word == '-': 
+                        if next_words_2.split()[2] == 'שנות':
+                            number *= 12
                 elif 'חודשי מאסר' not in next_words:
                     # If none of the options are found, it's multiplied by 1
                     pass

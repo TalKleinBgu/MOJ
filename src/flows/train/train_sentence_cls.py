@@ -5,6 +5,7 @@ from datetime import datetime
 import pandas as pd
 from sklearn.model_selection import train_test_split
 import torch
+from datetime import datetime, timedelta
 
 from setfit import SetFitModel, SetFitTrainer
 
@@ -16,7 +17,7 @@ sys.path.insert(0, pred_sentencing_path)
 # Import utility functions and custom modules
 from utils.files import config_parser, setup_logger, write_yaml
 from utils.sentence_classification import evaluate, load_datasets
-from scripts.sentence_classification.setfit_handler import SetfitTrainerWrapper
+# from scripts.sentence_classification.setfit_handler import SetfitTrainerWrapper
 from scripts.sentence_classification.setfit_version import SentenceTaggingModel
 
 # Set the device for computation
@@ -109,7 +110,7 @@ def run(params,domain_path,domain_path_model, tagger=False, date='', logger=None
             # Handle training with the SentenceTaggingModel
             elif params['setfit']:
                 # Get the current date for file organization
-                current_date = datetime.now()
+                current_date = datetime.now() - timedelta(days=1)
                 formatted_date = current_date.strftime("%m_%d")
                 
                 # Initialize the SentenceTaggingModel
@@ -138,24 +139,24 @@ def run(params,domain_path,domain_path_model, tagger=False, date='', logger=None
                 )
 
             # Handle training with the SetfitTrainerWrapper
-            else:
-                st = SetfitTrainerWrapper(logger,
-                                          train_path=data_path,
-                                          save_dir=params["save_dir"],
-                                          num_samples_list=params["num_samples_list"],
-                                          model_name_initial=params["model_name_initial"],
-                                          load_xlsx=params["load_xlsx"],
-                                          all_class=params["all_class"],
-                                          batch_size=params["batch_size"],
-                                          num_iteration=params["num_iteration"],
-                                          labels_=params["labels"],
-                                          pretrained_model=params["pretrained_model"],
-                                          pretrained_model_list=params["pretrained_model_list"],
-                                          result_path=params['result_path'].format(username=username),
-                                          generated_data=params['generated_data']
-                                         )
+            # else:
+                # st = SetfitTrainerWrapper(logger,
+                #                           train_path=data_path,
+                #                           save_dir=params["save_dir"],
+                #                           num_samples_list=params["num_samples_list"],
+                #                           model_name_initial=params["model_name_initial"],
+                #                           load_xlsx=params["load_xlsx"],
+                #                           all_class=params["all_class"],
+                #                           batch_size=params["batch_size"],
+                #                           num_iteration=params["num_iteration"],
+                #                           labels_=params["labels"],
+                #                           pretrained_model=params["pretrained_model"],
+                #                           pretrained_model_list=params["pretrained_model_list"],
+                #                           result_path=params['result_path'].format(username=username),
+                #                           generated_data=params['generated_data']
+                #                          )
                 # Train and get the save path for results
-                save_path = st.train(params['experiment_name'], params["load_xlsx"])
+                # save_path = st.train(params['experiment_name'], params["load_xlsx"])
     # Log completion of training for the current model
     logger.info(f'{model_name} training finished.')
 

@@ -17,7 +17,7 @@ chardet==4.0.0
 charset-normalizer==3.3.2
 click==8.1.7
 cloudpickle==3.0.0
-cockpit @ file:///builddir/build/BUILD/cockpit-323.1/tmp/wheel/cockpit-323.1-py3-none-any.whl
+# cockpit @ file:///builddir/build/BUILD/cockpit-323.1/tmp/wheel/cockpit-323.1-py3-none-any.whl
 colorama==0.4.6
 coloredlogs==15.0.1
 comm==0.2.2
@@ -151,7 +151,7 @@ sepolicy==3.6
 setfit==1.0.3
 setools==4.4.4
 setproctitle==1.3.3
-setroubleshoot @ file:///builddir/build/BUILD/setroubleshoot-3.3.32/src
+# setroubleshoot @ file:///builddir/build/BUILD/setroubleshoot-3.3.32/src
 shap==0.45.0
 six==1.16.0
 slicer==0.0.7

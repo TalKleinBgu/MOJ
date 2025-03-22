@@ -1,0 +1,48 @@
+2025-03-22 20:59:20 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/drugs/stratify_sentences_50_40_10
+2025-03-22 20:59:20 - INFO - Starting training for label: GENERAL_CIRCUMs
+2025-03-22 20:59:20 - ERROR - Error in label GENERAL_CIRCUMs: 'GENERAL_CIRCUMs'
+2025-03-22 20:59:20 - INFO - Starting training for label: CIR_ROLE
+2025-03-22 20:59:22 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-22 21:09:59 - INFO - Metrics for CIR_ROLE with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.8059244126659857, 'precision': 0.1336405529953917, 'recall': 0.9354838709677419, 'f1': 0.23387096774193547, 'f2': 0.4252199413489736, 'PRAUC': 0.37010681072504087, 'AUC': 0.9293589220089833, 'best_threshold': 0.999799907207489}
+2025-03-22 21:10:03 - INFO - Starting training for model: dictabert
+2025-03-22 21:16:14 - INFO - Metrics for CIR_ROLE with model dictabert: {'accuracy': 0.9346271705822268, 'precision': 0.3146067415730337, 'recall': 0.9032258064516129, 'f1': 0.4666666666666667, 'f2': 0.6572769953051644, 'PRAUC': 0.6041052354323486, 'AUC': 0.9668572206342725, 'best_threshold': 0.9962705373764038}
+2025-03-22 21:16:18 - INFO - Starting training for model: heBERT
+2025-03-22 21:22:34 - INFO - Metrics for CIR_ROLE with model heBERT: {'accuracy': 0.958120531154239, 'precision': 0.42424242424242425, 'recall': 0.9032258064516129, 'f1': 0.5773195876288659, 'f2': 0.7368421052631579, 'PRAUC': 0.6530885760088952, 'AUC': 0.9674016605417177, 'best_threshold': 0.9986447691917419}
+2025-03-22 21:22:36 - INFO - Starting training for label: CIR_EQ
+2025-03-22 21:22:36 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-22 21:29:57 - INFO - Metrics for CIR_EQ with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.9591419816138917, 'precision': 0.1875, 'recall': 0.9, 'f1': 0.3103448275862069, 'f2': 0.5113636363636364, 'PRAUC': 0.5317111116957217, 'AUC': 0.9739938080495356, 'best_threshold': 0.8074223399162292}
+2025-03-22 21:30:01 - INFO - Starting training for model: dictabert
+2025-03-22 21:34:31 - INFO - Metrics for CIR_EQ with model dictabert: {'accuracy': 0.874361593462717, 'precision': 0.06870229007633588, 'recall': 0.9, 'f1': 0.1276595744680851, 'f2': 0.2631578947368421, 'PRAUC': 0.37081711545452006, 'AUC': 0.9484004127966976, 'best_threshold': 0.5342316627502441}
+2025-03-22 21:34:34 - INFO - Starting training for model: heBERT
+2025-03-22 21:39:21 - INFO - Metrics for CIR_EQ with model heBERT: {'accuracy': 0.9570990806945863, 'precision': 0.18, 'recall': 0.9, 'f1': 0.3, 'f2': 0.5, 'PRAUC': 0.599481186392267, 'AUC': 0.9678018575851393, 'best_threshold': 0.65465247631073}
+2025-03-22 21:39:22 - INFO - Starting training for label: REGRET
+2025-03-22 21:39:22 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-22 21:43:32 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/drugs/stratify_sentences_50_40_10
+2025-03-22 21:43:32 - INFO - Starting training for label: GENERAL_CIRCUMs
+2025-03-22 21:43:32 - ERROR - Error in label GENERAL_CIRCUMs: 'GENERAL_CIRCUMs'
+2025-03-22 21:43:32 - INFO - Starting training for label: CIR_ROLE
+2025-03-22 21:43:32 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-22 21:43:37 - ERROR - Error in label CIR_ROLE: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-03-22 21:43:37 - INFO - Starting training for label: CIR_EQ
+2025-03-22 21:43:37 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-22 21:43:39 - ERROR - Error in label CIR_EQ: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-03-22 21:43:39 - INFO - Starting training for label: REGRET
+2025-03-22 21:43:39 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-22 21:43:41 - ERROR - Error in label REGRET: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-03-22 21:43:41 - INFO - Starting training for label: RESPO
+2025-03-22 21:43:41 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-22 21:43:43 - ERROR - Error in label RESPO: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-03-22 21:43:43 - INFO - setfit training finished.
+2025-03-22 21:50:58 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/drugs/stratify_sentences_50_40_10
+2025-03-22 21:50:58 - INFO - Starting training for label: GENERAL_CIRCUMs
+2025-03-22 21:50:58 - ERROR - Error in label GENERAL_CIRCUMs: 'GENERAL_CIRCUMs'
+2025-03-22 21:50:58 - INFO - Starting training for label: CIR_ROLE
+2025-03-22 21:50:58 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-22 21:52:02 - ERROR - Error in label CIR_ROLE: CUDA error: an illegal instruction was encountered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1.
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+

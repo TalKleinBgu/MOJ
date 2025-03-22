@@ -1,0 +1,184 @@
+2025-03-20 00:15:51 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/stratify_sentences
+2025-03-20 00:15:52 - INFO - Starting training for label: PUNISHMENT
+2025-03-20 00:15:52 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-20 00:16:28 - ERROR - Error in label PUNISHMENT: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-03-20 00:16:28 - INFO - Starting training for label: CIRCUM_OFFENSE
+2025-03-20 00:16:28 - ERROR - Error in label CIRCUM_OFFENSE: 'CIRCUM_OFFENSE'
+2025-03-20 00:16:28 - INFO - Starting training for label: CIR_AMMU_AMOUNT_WEP
+2025-03-20 00:16:28 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-20 00:16:31 - ERROR - Error in label CIR_AMMU_AMOUNT_WEP: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-03-20 00:16:31 - INFO - Starting training for label: CIR_OBTAIN_WAY_WEP
+2025-03-20 00:16:31 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-20 00:16:34 - ERROR - Error in label CIR_OBTAIN_WAY_WEP: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-03-20 00:16:34 - INFO - Starting training for label: CIR_TYPE_WEP
+2025-03-20 00:16:34 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-20 00:16:37 - ERROR - Error in label CIR_TYPE_WEP: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-03-20 00:16:37 - INFO - Starting training for label: CIR_USE
+2025-03-20 00:16:37 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-20 00:16:39 - ERROR - Error in label CIR_USE: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-03-20 00:16:39 - INFO - Starting training for label: CIR_PLANNING
+2025-03-20 00:16:39 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-20 00:16:41 - ERROR - Error in label CIR_PLANNING: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-03-20 00:16:41 - INFO - setfit training finished.
+2025-03-20 00:17:13 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/stratify_sentences
+2025-03-20 00:17:13 - INFO - Starting training for label: PUNISHMENT
+2025-03-20 00:17:13 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-20 00:34:18 - ERROR - Error in label PUNISHMENT: CUDA out of memory. Tried to allocate 768.00 MiB. GPU 
+2025-03-20 00:34:18 - INFO - Starting training for label: CIRCUM_OFFENSE
+2025-03-20 00:34:18 - ERROR - Error in label CIRCUM_OFFENSE: 'CIRCUM_OFFENSE'
+2025-03-20 00:34:18 - INFO - Starting training for label: CIR_AMMU_AMOUNT_WEP
+2025-03-20 00:34:18 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-20 00:45:15 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/stratify_sentences
+2025-03-20 00:45:15 - INFO - Starting training for label: PUNISHMENT
+2025-03-20 00:45:15 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-20 01:02:14 - ERROR - Error in label PUNISHMENT: CUDA out of memory. Tried to allocate 768.00 MiB. GPU 
+2025-03-20 01:02:14 - INFO - Starting training for label: CIRCUM_OFFENSE
+2025-03-20 01:02:14 - ERROR - Error in label CIRCUM_OFFENSE: 'CIRCUM_OFFENSE'
+2025-03-20 01:02:15 - INFO - Starting training for label: CIR_AMMU_AMOUNT_WEP
+2025-03-20 01:02:15 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-20 01:18:13 - ERROR - Error in label CIR_AMMU_AMOUNT_WEP: CUDA out of memory. Tried to allocate 96.00 MiB. GPU 
+2025-03-20 01:18:13 - INFO - Starting training for label: CIR_OBTAIN_WAY_WEP
+2025-03-20 01:18:13 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-20 01:34:09 - ERROR - Error in label CIR_OBTAIN_WAY_WEP: CUDA out of memory. Tried to allocate 78.00 MiB. GPU 
+2025-03-20 01:34:09 - INFO - Starting training for label: CIR_TYPE_WEP
+2025-03-20 01:34:10 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-20 02:00:07 - ERROR - Error in label CIR_TYPE_WEP: CUDA out of memory. Tried to allocate 768.00 MiB. GPU 
+2025-03-20 02:00:07 - INFO - Starting training for label: CIR_USE
+2025-03-20 02:00:08 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-20 02:17:58 - ERROR - Error in label CIR_USE: CUDA out of memory. Tried to allocate 768.00 MiB. GPU 
+2025-03-20 02:17:58 - INFO - Starting training for label: CIR_PLANNING
+2025-03-20 02:17:59 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-20 02:33:48 - INFO - Metrics for CIR_PLANNING with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.9078844652615145, 'precision': 0.11538461538461539, 'recall': 0.8333333333333334, 'f1': 0.20270270270270271, 'f2': 0.3712871287128713, 'PRAUC': 0.21323658979800308, 'AUC': 0.9248702384094308, 'best_threshold': 0.9370854496955872}
+2025-03-20 02:33:51 - INFO - Starting training for model: dictabert
+2025-03-20 02:42:30 - INFO - Metrics for CIR_PLANNING with model dictabert: {'accuracy': 0.9718969555035128, 'precision': 0.32, 'recall': 0.8888888888888888, 'f1': 0.47058823529411764, 'f2': 0.6557377049180327, 'PRAUC': 0.7202591020820669, 'AUC': 0.980865663763526, 'best_threshold': 0.8049361705780029}
+2025-03-20 02:42:34 - INFO - Starting training for model: heBERT
+2025-03-20 02:51:45 - INFO - Metrics for CIR_PLANNING with model heBERT: {'accuracy': 0.8813427010148321, 'precision': 0.09146341463414634, 'recall': 0.8333333333333334, 'f1': 0.16483516483516483, 'f2': 0.3177966101694915, 'PRAUC': 0.17800378332040795, 'AUC': 0.9244303686108912, 'best_threshold': 0.6422873735427856}
+2025-03-20 02:51:46 - INFO - setfit training finished.
+2025-03-20 04:47:47 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/stratify_sentences
+2025-03-20 04:47:48 - INFO - Starting training for label: GENERAL_CIRCUM
+2025-03-20 04:47:49 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-20 04:47:59 - ERROR - Error in label GENERAL_CIRCUM: CUDA out of memory. Tried to allocate 226.00 MiB. GPU 
+2025-03-20 04:47:59 - INFO - Starting training for label: RESPO
+2025-03-20 04:48:00 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-20 04:48:03 - ERROR - Error in label RESPO: CUDA out of memory. Tried to allocate 226.00 MiB. GPU 
+2025-03-20 04:48:03 - INFO - Starting training for label: REGRET
+2025-03-20 04:48:03 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-20 04:48:09 - ERROR - Error in label REGRET: CUDA out of memory. Tried to allocate 104.00 MiB. GPU 
+2025-03-20 04:48:11 - INFO - setfit training finished.
+2025-03-20 09:22:15 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/stratify_sentences
+2025-03-20 09:22:15 - INFO - Starting training for label: PUNISHMENT
+2025-03-20 09:22:15 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-20 09:23:24 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/stratify_sentences
+2025-03-20 09:23:24 - INFO - Starting training for label: PUNISHMENT
+2025-03-20 09:23:25 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-20 09:23:37 - ERROR - Error in label PUNISHMENT: CUDA error: an illegal instruction was encountered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1.
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2025-03-20 09:24:10 - ERROR - Error in label PUNISHMENT: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-03-20 09:24:10 - INFO - Starting training for label: CIR_AMMU_AMOUNT_WEP
+2025-03-20 09:24:10 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-20 09:24:15 - ERROR - Error in label CIR_AMMU_AMOUNT_WEP: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-03-20 09:24:15 - INFO - Starting training for label: CIR_OBTAIN_WAY_WEP
+2025-03-20 09:24:15 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-20 09:24:18 - ERROR - Error in label CIR_OBTAIN_WAY_WEP: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-03-20 09:24:18 - INFO - Starting training for label: CIR_TYPE_WEP
+2025-03-20 09:24:18 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-20 09:24:20 - ERROR - Error in label CIR_TYPE_WEP: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-03-20 09:24:20 - INFO - setfit training finished.
+2025-03-20 09:34:51 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/stratify_sentences
+2025-03-20 09:34:51 - INFO - Starting training for label: PUNISHMENT
+2025-03-20 09:34:51 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-20 09:51:38 - INFO - Metrics for PUNISHMENT with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.9773614363778298, 'precision': 0.6375, 'recall': 1.0, 'f1': 0.7786259541984732, 'f2': 0.897887323943662, 'PRAUC': 0.8947746063453745, 'AUC': 0.9959987246931293, 'best_threshold': 0.9462587237358093}
+2025-03-20 09:51:41 - INFO - Starting training for model: dictabert
+2025-03-20 10:00:39 - INFO - Metrics for PUNISHMENT with model dictabert: {'accuracy': 0.9804839968774395, 'precision': 0.6710526315789473, 'recall': 1.0, 'f1': 0.8031496062992126, 'f2': 0.9107142857142857, 'PRAUC': 0.79413342569511, 'AUC': 0.9940698230511718, 'best_threshold': 0.9841994047164917}
+2025-03-20 10:00:42 - INFO - Starting training for model: heBERT
+2025-03-20 10:10:22 - INFO - Metrics for PUNISHMENT with model heBERT: {'accuracy': 0.9781420765027322, 'precision': 0.6455696202531646, 'recall': 1.0, 'f1': 0.7846153846153846, 'f2': 0.901060070671378, 'PRAUC': 0.8769192709279088, 'AUC': 0.9955683086242627, 'best_threshold': 0.9957799911499023}
+2025-03-20 10:10:24 - INFO - Starting training for label: CIR_AMMU_AMOUNT_WEP
+2025-03-20 10:10:24 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-20 10:25:37 - INFO - Metrics for CIR_AMMU_AMOUNT_WEP with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.9633099141295862, 'precision': 0.4155844155844156, 'recall': 0.9411764705882353, 'f1': 0.5765765765765766, 'f2': 0.7511737089201878, 'PRAUC': 0.5552492231477906, 'AUC': 0.9632058115948865, 'best_threshold': 0.9959491491317749}
+2025-03-20 10:25:39 - INFO - Starting training for model: dictabert
+2025-03-20 10:33:33 - INFO - Metrics for CIR_AMMU_AMOUNT_WEP with model dictabert: {'accuracy': 0.9601873536299765, 'precision': 0.39759036144578314, 'recall': 0.9705882352941176, 'f1': 0.5641025641025641, 'f2': 0.7534246575342466, 'PRAUC': 0.643874786029358, 'AUC': 0.9682296334732771, 'best_threshold': 0.9903509020805359}
+2025-03-20 10:33:36 - INFO - Starting training for model: heBERT
+2025-03-20 10:42:24 - INFO - Metrics for CIR_AMMU_AMOUNT_WEP with model heBERT: {'accuracy': 0.9141295862607338, 'precision': 0.2323943661971831, 'recall': 0.9705882352941176, 'f1': 0.375, 'f2': 0.5935251798561151, 'PRAUC': 0.760426522606773, 'AUC': 0.9786310675031842, 'best_threshold': 0.21902060508728027}
+2025-03-20 10:42:25 - INFO - Starting training for label: CIR_OBTAIN_WAY_WEP
+2025-03-20 10:42:25 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-20 10:58:07 - INFO - Metrics for CIR_OBTAIN_WAY_WEP with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.7150663544106167, 'precision': 0.04960835509138381, 'recall': 0.95, 'f1': 0.09429280397022333, 'f2': 0.20518358531317496, 'PRAUC': 0.0755268979331474, 'AUC': 0.8662172878667724, 'best_threshold': 0.3819318115711212}
+2025-03-20 10:58:13 - INFO - Starting training for model: dictabert
+2025-03-20 11:06:05 - INFO - Metrics for CIR_OBTAIN_WAY_WEP with model dictabert: {'accuracy': 0.7220921155347385, 'precision': 0.05319148936170213, 'recall': 1.0, 'f1': 0.10101010101010101, 'f2': 0.21929824561403508, 'PRAUC': 0.07327432967193319, 'AUC': 0.8802141157811261, 'best_threshold': 0.4365139901638031}
+2025-03-20 11:06:09 - INFO - Starting training for model: heBERT
+2025-03-20 11:15:03 - INFO - Metrics for CIR_OBTAIN_WAY_WEP with model heBERT: {'accuracy': 0.8485558157689306, 'precision': 0.08173076923076923, 'recall': 0.85, 'f1': 0.14912280701754385, 'f2': 0.2951388888888889, 'PRAUC': 0.1345082501528945, 'AUC': 0.8988897700237907, 'best_threshold': 0.815258264541626}
+2025-03-20 11:15:05 - INFO - Starting training for label: CIR_TYPE_WEP
+2025-03-20 11:15:05 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-20 11:40:55 - INFO - Metrics for CIR_TYPE_WEP with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.9695550351288056, 'precision': 0.7342657342657343, 'recall': 0.9905660377358491, 'f1': 0.8433734939759037, 'f2': 0.9259259259259259, 'PRAUC': 0.9007190446715418, 'AUC': 0.9921477318346046, 'best_threshold': 0.6473551392555237}
+2025-03-20 11:40:59 - INFO - Starting training for model: dictabert
+2025-03-20 11:55:12 - INFO - Metrics for CIR_TYPE_WEP with model dictabert: {'accuracy': 0.9750195160031225, 'precision': 0.7761194029850746, 'recall': 0.9811320754716981, 'f1': 0.8666666666666667, 'f2': 0.931899641577061, 'PRAUC': 0.8951894290875643, 'AUC': 0.9932155760738659, 'best_threshold': 0.9999462366104126}
+2025-03-20 11:55:17 - INFO - Starting training for model: heBERT
+2025-03-20 12:10:45 - INFO - Metrics for CIR_TYPE_WEP with model heBERT: {'accuracy': 0.9765807962529274, 'precision': 0.7878787878787878, 'recall': 0.9811320754716981, 'f1': 0.8739495798319328, 'f2': 0.935251798561151, 'PRAUC': 0.9070074839399771, 'AUC': 0.9873183460457648, 'best_threshold': 0.9999908208847046}
+2025-03-20 12:10:46 - INFO - setfit training finished.
+2025-03-20 12:19:10 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/stratify_sentences
+2025-03-20 12:19:11 - INFO - Starting training for label: GENERAL_CIRCUM
+2025-03-20 12:19:14 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-20 13:59:10 - INFO - Metrics for GENERAL_CIRCUM with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.8797814207650273, 'precision': 0.6587926509186351, 'recall': 0.9127272727272727, 'f1': 0.7652439024390244, 'f2': 0.8474004051316678, 'PRAUC': 0.7289652160040317, 'AUC': 0.9206379902403758, 'best_threshold': 0.9999972581863403}
+2025-03-20 13:59:12 - INFO - Starting training for model: dictabert
+2025-03-20 14:51:13 - INFO - Metrics for GENERAL_CIRCUM with model dictabert: {'accuracy': 0.9227166276346604, 'precision': 0.7699386503067485, 'recall': 0.9127272727272727, 'f1': 0.8352745424292846, 'f2': 0.8800841514726507, 'PRAUC': 0.8729519483279488, 'AUC': 0.9384258087836617, 'best_threshold': 0.40248629450798035}
+2025-03-20 14:51:20 - INFO - Starting training for model: heBERT
+2025-03-20 15:48:24 - INFO - Metrics for GENERAL_CIRCUM with model heBERT: {'accuracy': 0.9063231850117096, 'precision': 0.7066666666666667, 'recall': 0.9636363636363636, 'f1': 0.8153846153846154, 'f2': 0.8983050847457628, 'PRAUC': 0.7970278138058857, 'AUC': 0.9523730345201518, 'best_threshold': 0.0005449079908430576}
+2025-03-20 15:48:27 - INFO - Starting training for label: CIR_USE
+2025-03-20 15:48:28 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-20 16:05:31 - INFO - Metrics for CIR_USE with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.8665105386416861, 'precision': 0.2175925925925926, 'recall': 0.9591836734693877, 'f1': 0.35471698113207545, 'f2': 0.5703883495145631, 'PRAUC': 0.35302910517091, 'AUC': 0.9463457460906441, 'best_threshold': 0.9437929391860962}
+2025-03-20 16:05:33 - INFO - Starting training for model: dictabert
+2025-03-20 16:14:16 - INFO - Metrics for CIR_USE with model dictabert: {'accuracy': 0.9297423887587822, 'precision': 0.35251798561151076, 'recall': 1.0, 'f1': 0.5212765957446809, 'f2': 0.7313432835820896, 'PRAUC': 0.6022589532913822, 'AUC': 0.9806851311953353, 'best_threshold': 0.9326928853988647}
+2025-03-20 16:14:27 - INFO - Starting training for model: heBERT
+2025-03-20 16:24:14 - INFO - Metrics for CIR_USE with model heBERT: {'accuracy': 0.8758782201405152, 'precision': 0.23557692307692307, 'recall': 1.0, 'f1': 0.38132295719844356, 'f2': 0.6064356435643564, 'PRAUC': 0.5532186153619594, 'AUC': 0.9720712960508878, 'best_threshold': 0.5878461599349976}
+2025-03-20 16:24:15 - INFO - Starting training for label: RESPO
+2025-03-20 16:24:15 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-20 16:40:22 - INFO - Metrics for RESPO with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.9953161592505855, 'precision': 0.8378378378378378, 'recall': 1.0, 'f1': 0.9117647058823529, 'f2': 0.9627329192546584, 'PRAUC': 0.8290738598707891, 'AUC': 0.9973677419354839, 'best_threshold': 0.9930376410484314}
+2025-03-20 16:40:25 - INFO - Starting training for model: dictabert
+2025-03-20 16:48:29 - INFO - Metrics for RESPO with model dictabert: {'accuracy': 0.9726775956284153, 'precision': 0.4696969696969697, 'recall': 1.0, 'f1': 0.6391752577319587, 'f2': 0.8157894736842105, 'PRAUC': 0.9026448978099549, 'AUC': 0.9969806451612904, 'best_threshold': 0.9887767434120178}
+2025-03-20 16:48:32 - INFO - Starting training for model: heBERT
+2025-03-20 16:57:31 - INFO - Metrics for RESPO with model heBERT: {'accuracy': 0.9921935987509758, 'precision': 0.7560975609756098, 'recall': 1.0, 'f1': 0.8611111111111112, 'f2': 0.9393939393939394, 'PRAUC': 0.9457699948387249, 'AUC': 0.9985806451612904, 'best_threshold': 0.9978901743888855}
+2025-03-20 16:57:33 - INFO - Starting training for label: REGRET
+2025-03-20 16:57:33 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-20 17:12:54 - INFO - Metrics for REGRET with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.9000780640124902, 'precision': 0.13513513513513514, 'recall': 1.0, 'f1': 0.23809523809523808, 'f2': 0.43859649122807015, 'PRAUC': 0.44546707018110315, 'AUC': 0.9785091197462332, 'best_threshold': 0.8067302703857422}
+2025-03-20 17:13:00 - INFO - Starting training for model: dictabert
+2025-03-20 17:20:40 - INFO - Metrics for REGRET with model dictabert: {'accuracy': 0.9656518345042935, 'precision': 0.3064516129032258, 'recall': 0.95, 'f1': 0.4634146341463415, 'f2': 0.6690140845070423, 'PRAUC': 0.5400491397981217, 'AUC': 0.9875495638382237, 'best_threshold': 0.764880895614624}
+2025-03-20 17:20:45 - INFO - Starting training for model: heBERT
+2025-03-20 17:29:20 - INFO - Metrics for REGRET with model heBERT: {'accuracy': 0.9601873536299765, 'precision': 0.28169014084507044, 'recall': 1.0, 'f1': 0.43956043956043955, 'f2': 0.6622516556291391, 'PRAUC': 0.5782770339260865, 'AUC': 0.9912371134020619, 'best_threshold': 0.8244652152061462}
+2025-03-20 17:29:21 - INFO - setfit training finished.
+2025-03-20 17:33:36 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/drugs/stratify_sentences_50_40_10
+2025-03-20 17:33:36 - INFO - Starting training for label: GENERAL_CIRCUM
+2025-03-20 17:33:37 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-20 19:14:36 - INFO - Metrics for GENERAL_CIRCUM with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.8784473953013279, 'precision': 0.7508305647840532, 'recall': 0.837037037037037, 'f1': 0.7915936952714536, 'f2': 0.8182476466328747, 'PRAUC': 0.7814944181926223, 'AUC': 0.9022802068641279, 'best_threshold': 0.9999929666519165}
+2025-03-20 19:14:41 - INFO - Starting training for model: dictabert
+2025-03-20 20:07:37 - INFO - Metrics for GENERAL_CIRCUM with model dictabert: {'accuracy': 0.9029622063329928, 'precision': 0.7777777777777778, 'recall': 0.9074074074074074, 'f1': 0.8376068376068376, 'f2': 0.8781362007168458, 'PRAUC': 0.8875968499556922, 'AUC': 0.9335866896515697, 'best_threshold': 0.9935831427574158}
+2025-03-20 20:07:43 - INFO - Starting training for model: heBERT
+2025-03-20 21:06:09 - INFO - Metrics for GENERAL_CIRCUM with model heBERT: {'accuracy': 0.8712972420837589, 'precision': 0.7057142857142857, 'recall': 0.9148148148148149, 'f1': 0.7967741935483871, 'f2': 0.8636363636363636, 'PRAUC': 0.8057842781471788, 'AUC': 0.9295460481638197, 'best_threshold': 0.9999967813491821}
+2025-03-20 21:06:11 - INFO - Starting training for label: RESPO
+2025-03-20 21:06:12 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-20 21:14:51 - INFO - Metrics for RESPO with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.9948927477017364, 'precision': 0.92, 'recall': 0.8846153846153846, 'f1': 0.9019607843137255, 'f2': 0.8914728682170543, 'PRAUC': 0.8106139566375936, 'AUC': 0.9325207845669545, 'best_threshold': 0.9955611228942871}
+2025-03-20 21:14:54 - INFO - Starting training for model: dictabert
+2025-03-20 21:19:45 - INFO - Metrics for RESPO with model dictabert: {'accuracy': 0.9387129724208376, 'precision': 0.2976190476190476, 'recall': 0.9615384615384616, 'f1': 0.45454545454545453, 'f2': 0.6648936170212766, 'PRAUC': 0.7909628150533242, 'AUC': 0.9629510049237228, 'best_threshold': 0.9266346096992493}
+2025-03-20 21:19:49 - INFO - Starting training for model: heBERT
+2025-03-20 21:25:03 - INFO - Metrics for RESPO with model heBERT: {'accuracy': 0.9601634320735445, 'precision': 0.3968253968253968, 'recall': 0.9615384615384616, 'f1': 0.5617977528089888, 'f2': 0.7485029940119761, 'PRAUC': 0.8407888163231241, 'AUC': 0.9650092824279602, 'best_threshold': 0.6916684508323669}
+2025-03-20 21:25:05 - INFO - setfit training finished.
+2025-03-20 22:20:32 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/stratify_sentences
+2025-03-20 22:20:33 - INFO - Starting training for label: GENERAL_CIRCUMs
+2025-03-20 22:20:33 - ERROR - Error in label GENERAL_CIRCUMs: 'GENERAL_CIRCUMs'
+2025-03-20 22:20:33 - INFO - Starting training for label: CIR_STATUS_WEP
+2025-03-20 22:20:34 - INFO - Starting training for model: dictabert
+2025-03-20 22:31:51 - INFO - Metrics for CIR_STATUS_WEP with model dictabert: {'accuracy': 0.9336455893832943, 'precision': 0.3560606060606061, 'recall': 1.0, 'f1': 0.5251396648044693, 'f2': 0.734375, 'PRAUC': 0.5870041090400664, 'AUC': 0.9832063174592227, 'best_threshold': 0.9769864678382874}
+2025-03-20 22:31:54 - INFO - Starting training for model: heBERT
+2025-03-20 22:42:41 - INFO - Metrics for CIR_STATUS_WEP with model heBERT: {'accuracy': 0.8836846213895394, 'precision': 0.23979591836734693, 'recall': 1.0, 'f1': 0.3868312757201646, 'f2': 0.6119791666666666, 'PRAUC': 0.6529604435402018, 'AUC': 0.9769992068692024, 'best_threshold': 0.08860038220882416}
+2025-03-20 22:42:43 - INFO - setfit training finished.

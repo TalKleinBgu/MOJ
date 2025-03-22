@@ -22,6 +22,7 @@ from sklearn.metrics import (
 from datasets import Dataset
 from setfit import SetFitModel, Trainer, TrainingArguments
 from transformers import EarlyStoppingCallback
+from sklearn.metrics import roc_curve, roc_auc_score
 
 # Set project directory for importing project-specific modules
 current_dir = os.path.abspath(__file__)
@@ -30,6 +31,8 @@ sys.path.insert(0, pred_sentencing_path)
 
 # Project-specific imports
 from utils.files import convert_to_serializable, save_json, load_datasets
+
+from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, roc_auc_score, average_precision_score, fbeta_score
 
 def compute_metrics(predictions, labels, probabilities):
     """
@@ -41,23 +44,27 @@ def compute_metrics(predictions, labels, probabilities):
         probabilities (array-like): Predicted probabilities for each class.
         
     Returns:
-        dict: A dictionary containing accuracy, precision, recall, F1 score, and PRAUC.
+        dict: A dictionary containing accuracy, precision, recall, F1 score, F2 score, PRAUC, and AUC.
     """
         
     accuracy = accuracy_score(labels, predictions)
     precision = precision_score(labels, predictions)
     recall = recall_score(labels, predictions)
     f1 = f1_score(labels, predictions)
+    f2 = fbeta_score(labels, predictions, beta=2)  # F2 Score
     prauc = average_precision_score(labels, probabilities[:, 1])
+    auc = roc_auc_score(labels, probabilities[:, 1])
 
     return {
         'accuracy': accuracy,
         'precision': precision,
         'recall': recall,
         'f1': f1,
-        'PRAUC': prauc
-        
-        }
+        'f2': f2,
+        'PRAUC': prauc,
+        'AUC': auc
+    }
+
 
 class SentenceTaggingModel:
     def __init__(self, file_path, save_path, seed=42, num_samples=8, num_eval_samples=100):
@@ -403,31 +410,35 @@ class SentenceTaggingModel:
 
 
 
-        
+            
     def find_best_threshold(self, labels, probabilities):
         """
-        Determine the best decision threshold for a classification model based on F1 score.
+        Determine the best decision threshold for a classification model based on ROC curve,
+        selecting the threshold that maximizes Youden's J statistic, and return the ROC AUC.
 
         Args:
             labels (array-like): True binary labels for the dataset.
             probabilities (array-like): Predicted probabilities for each class, typically from the model.
+                                        It is assumed probabilities[:, 1] corresponds to the positive class.
 
         Returns:
-            float: The threshold that maximizes the F1 score.
+            tuple: A tuple containing:
+                - float: The threshold that maximizes Youden's J (sensitivity - FPR).
+                - float: The ROC AUC score.
         """
-        # Compute precision, recall, and thresholds using the precision-recall curve
-        precisions, recalls, thresholds = precision_recall_curve(labels, probabilities[:, 1])
-
-        # Calculate F1 scores for each threshold
-        f1_scores = 2 * (precisions * recalls) / (precisions + recalls + 1e-6)
-
-        # Find the index of the threshold that maximizes the F1 score
-        best_idx = np.argmax(f1_scores)
-
-        # Retrieve the corresponding best threshold
+        # Compute the ROC curve: fpr, tpr, and thresholds.
+        fpr, tpr, thresholds = roc_curve(labels, probabilities[:, 1])
+        
+        # Calculate Youden's J statistic for each threshold.
+        J = tpr - fpr
+        
+        # Find the index of the threshold that maximizes J.
+        best_idx = np.argmax(J)
+        
+        # Retrieve the corresponding best threshold.
         best_threshold = thresholds[best_idx]
-
-        # Return the best threshold
+        
+        
         return best_threshold
 
     
@@ -446,7 +457,8 @@ class SentenceTaggingModel:
         labels = self.test_dataset['label']
 
         # Get predicted probabilities for the sentences
-        probabilities = self.model.predict_proba(sentences)
+        with torch.no_grad():
+            probabilities = self.model.predict_proba(sentences)
         try:
             # Ensure probabilities are in a NumPy array format (handle potential Tensor output)
             probabilities = probabilities.numpy()
@@ -596,6 +608,7 @@ class SentenceTaggingModel:
                     # Train multiple pretrained language models
                     for pretrained_model in pretrained_model_list:
                         model_name = pretrained_model.split('/')[-1]
+                        torch.cuda.empty_cache()
 
                         logger.info(f'Starting training for model: {model_name}')
 
@@ -642,5 +655,7 @@ class SentenceTaggingModel:
             except Exception as e:
                 # Log any errors encountered during processing
                 logger.error(f'Error in label {label}: {e}')
+                torch.cuda.empty_cache()
+
 
         return
