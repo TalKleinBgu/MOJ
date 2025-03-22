@@ -46,3 +46,22 @@ CUDA kernel errors might be asynchronously reported at some other API call, so t
 For debugging consider passing CUDA_LAUNCH_BLOCKING=1.
 Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
 
+2025-03-22 21:57:20 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/drugs/stratify_sentences_50_40_10
+2025-03-22 21:57:20 - INFO - Starting training for label: GENERAL_CIRCUMs
+2025-03-22 21:57:20 - ERROR - Error in label GENERAL_CIRCUMs: [Errno 2] No such file or directory: '/home/tak/MOJ/resources/data/trainning/sentence_classification/drugs/stratify_sentences_50_40_10/train_balance_label_dataframes.pkl'
+2025-03-22 21:57:20 - INFO - Starting training for label: CIR_ROLE
+2025-03-22 21:57:20 - ERROR - Error in label CIR_ROLE: [Errno 2] No such file or directory: '/home/tak/MOJ/resources/data/trainning/sentence_classification/drugs/stratify_sentences_50_40_10/train_balance_label_dataframes.pkl'
+2025-03-22 21:57:20 - INFO - Starting training for label: CIR_EQ
+2025-03-22 21:57:20 - ERROR - Error in label CIR_EQ: [Errno 2] No such file or directory: '/home/tak/MOJ/resources/data/trainning/sentence_classification/drugs/stratify_sentences_50_40_10/train_balance_label_dataframes.pkl'
+2025-03-22 21:57:20 - INFO - Starting training for label: REGRET
+2025-03-22 21:57:20 - ERROR - Error in label REGRET: [Errno 2] No such file or directory: '/home/tak/MOJ/resources/data/trainning/sentence_classification/drugs/stratify_sentences_50_40_10/train_balance_label_dataframes.pkl'
+2025-03-22 21:57:20 - INFO - Starting training for label: RESPO
+2025-03-22 21:57:20 - ERROR - Error in label RESPO: [Errno 2] No such file or directory: '/home/tak/MOJ/resources/data/trainning/sentence_classification/drugs/stratify_sentences_50_40_10/train_balance_label_dataframes.pkl'
+2025-03-22 21:57:20 - INFO - setfit training finished.
+2025-03-22 21:58:28 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/drugs/stratify_sentences_50_40_10
+2025-03-22 21:58:28 - INFO - Starting training for label: GENERAL_CIRCUMs
+2025-03-22 21:58:28 - ERROR - Error in label GENERAL_CIRCUMs: 'GENERAL_CIRCUMs'
+2025-03-22 21:58:28 - INFO - Starting training for label: CIR_ROLE
+2025-03-22 21:58:28 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
