@@ -3,7 +3,8 @@ balance: true
 data_path: /home/{username}/MOJ/resources/data/trainning/sentence_classification/drugs/stratify_sentences_50_40_10
 experiment_name: with_f2_try
 first_label_list:
-- GENERAL_CIRCUM
+- CONFESSION
+- CIR_PUNISHMENT
 generated_data: false
 ignore_labels:
 - 'Unnamed: 0'
@@ -25,6 +26,11 @@ save_dir: /home/{username}/MOJ/results
 save_model: true
 save_model_path: /home/{username}/moj_models
 second_label_list:
+- CIR_TYPE
+- CIR_AMOUNT
+- CIR_ROLE
+- CIR_EQ
+- REGRET
 - RESPO
 setfit: true
 training_args:

@@ -65,3 +65,26 @@ Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_
 2025-03-22 21:58:28 - ERROR - Error in label GENERAL_CIRCUMs: 'GENERAL_CIRCUMs'
 2025-03-22 21:58:28 - INFO - Starting training for label: CIR_ROLE
 2025-03-22 21:58:28 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-22 22:13:48 - INFO - Metrics for CIR_ROLE with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.8784473953013279, 'precision': 0.19014084507042253, 'recall': 0.8709677419354839, 'f1': 0.31213872832369943, 'f2': 0.5075187969924813, 'PRAUC': 0.36214019223057153, 'AUC': 0.9325575064652238, 'best_threshold': 0.9995535016059875}
+2025-03-22 22:13:56 - INFO - Starting training for model: dictabert
+2025-03-22 22:21:01 - INFO - Metrics for CIR_ROLE with model dictabert: {'accuracy': 0.8845760980592441, 'precision': 0.20714285714285716, 'recall': 0.9354838709677419, 'f1': 0.3391812865497076, 'f2': 0.5492424242424242, 'PRAUC': 0.532588198614868, 'AUC': 0.9629440587995101, 'best_threshold': 0.9902814626693726}
+2025-03-22 22:21:16 - INFO - Starting training for model: heBERT
+2025-03-22 22:30:50 - INFO - Metrics for CIR_ROLE with model heBERT: {'accuracy': 0.9601634320735445, 'precision': 0.4375, 'recall': 0.9032258064516129, 'f1': 0.5894736842105263, 'f2': 0.7446808510638298, 'PRAUC': 0.6653564979836134, 'AUC': 0.9688308152987612, 'best_threshold': 0.9985724687576294}
+2025-03-22 22:30:52 - INFO - Starting training for label: CIR_EQ
+2025-03-22 22:30:52 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-22 22:43:12 - INFO - Metrics for CIR_EQ with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.8661899897854954, 'precision': 0.07092198581560284, 'recall': 1.0, 'f1': 0.13245033112582782, 'f2': 0.27624309392265195, 'PRAUC': 0.27254216528152697, 'AUC': 0.9647058823529412, 'best_threshold': 0.5252419710159302}
+2025-03-22 22:43:16 - INFO - Starting training for model: dictabert
+2025-03-22 22:50:22 - INFO - Metrics for CIR_EQ with model dictabert: {'accuracy': 0.9029622063329928, 'precision': 0.09523809523809523, 'recall': 1.0, 'f1': 0.17391304347826086, 'f2': 0.3448275862068966, 'PRAUC': 0.6819999999999999, 'AUC': 0.9841073271413828, 'best_threshold': 0.4556649625301361}
+2025-03-22 22:50:27 - INFO - Starting training for model: heBERT
+2025-03-22 22:58:17 - INFO - Metrics for CIR_EQ with model heBERT: {'accuracy': 0.9642492339121552, 'precision': 0.20930232558139536, 'recall': 0.9, 'f1': 0.33962264150943394, 'f2': 0.5421686746987951, 'PRAUC': 0.5617480451086254, 'AUC': 0.9629514963880289, 'best_threshold': 0.938062846660614}
+2025-03-22 22:58:25 - INFO - Starting training for label: REGRET
+2025-03-22 22:58:25 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-22 23:10:46 - INFO - Metrics for REGRET with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.8140960163432074, 'precision': 0.07142857142857142, 'recall': 1.0, 'f1': 0.13333333333333333, 'f2': 0.2777777777777778, 'PRAUC': 0.12087061187464446, 'AUC': 0.9270910436713545, 'best_threshold': 0.10977308452129364}
+2025-03-22 23:10:49 - INFO - Starting training for model: dictabert
+2025-03-22 23:17:49 - INFO - Metrics for REGRET with model dictabert: {'accuracy': 0.9591419816138917, 'precision': 0.25925925925925924, 'recall': 1.0, 'f1': 0.4117647058823529, 'f2': 0.6363636363636364, 'PRAUC': 0.47291505247170273, 'AUC': 0.9895632864544781, 'best_threshold': 0.8125757575035095}
+2025-03-22 23:17:54 - INFO - Starting training for model: heBERT
+2025-03-22 23:25:30 - INFO - Metrics for REGRET with model heBERT: {'accuracy': 0.9489274770173647, 'precision': 0.21875, 'recall': 1.0, 'f1': 0.358974358974359, 'f2': 0.5833333333333334, 'PRAUC': 0.42562218504700766, 'AUC': 0.9851221317542562, 'best_threshold': 0.8098142147064209}
+2025-03-22 23:25:33 - INFO - Starting training for label: RESPO
+2025-03-22 23:25:33 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-22 23:38:27 - ERROR - Error in label RESPO: CUDA out of memory. Tried to allocate 768.00 MiB. GPU 
+2025-03-22 23:38:27 - INFO - setfit training finished.

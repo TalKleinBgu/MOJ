@@ -17,7 +17,7 @@ def models_name_extraction(classifiers_path:str = None, level:str = None):
     return models_name
 
 def load_all_classifies(eval_path, classifiers_path:str = None, first_level_labels:list = None,
-                        second_level_labels:list = None, logger:logging.Logger = None):
+                        second_level_labels:list = None, logger:logging.Logger = None,model_name:str = ''):
     """
     Loads all classifiers (both first-level and second-level) from the specified model paths.
     Returns:
@@ -47,11 +47,11 @@ def load_all_classifies(eval_path, classifiers_path:str = None, first_level_labe
         if label.lower() == 'yaml' in label :
             continue
         label_path = os.path.join(first_level_path, f"{label}")
-        model_path = os.path.join(label_path, load_models_name(label_path))
+        model_path = os.path.join(label_path, model_name)
         model_path = os.path.join(model_path, 'model')
         try:
             label_path = os.path.join(eval_path_first, f"{label}")
-            eval_path = os.path.join(label_path, load_models_name(label_path))
+            eval_path = os.path.join(label_path, model_name)
             metrics = load_json(os.path.join(eval_path, 'metric.json'))
             classifiers[label] = (Classifier(model_path, label).load_model(logger), metrics['best_threshold'])
         except:
@@ -61,11 +61,11 @@ def load_all_classifies(eval_path, classifiers_path:str = None, first_level_labe
         if label.lower() == 'yaml' in label :
             continue
         label_path = os.path.join(second_level_path, f"{label}")
-        model_path = os.path.join(label_path, load_models_name(label_path))
+        model_path = os.path.join(label_path, model_name)
         model_path = os.path.join(model_path, 'model')
         try:
             label_path = os.path.join(eval_path_second, f"{label}")
-            eval_path = os.path.join(label_path, load_models_name(label_path))
+            eval_path = os.path.join(label_path, model_name)
             metrics = load_json(os.path.join(eval_path, 'metric.json'))
             classifiers[label] = (Classifier(model_path, label).load_model(logger), metrics['best_threshold'])
         except:

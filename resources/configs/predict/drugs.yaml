@@ -1,14 +1,19 @@
-experiment_name: '01_02_real_try'
+experiment_name: '03_19_with_f2_try'
+model_name: bert-multilingual-passage-reranking-msmarco  # bert-multilingual-passage-reranking-msmarco | heBERT | dictabert
+with_clf : False
 
-classifiers_path: /sise/home/tak/moj_models/{domain}/{experiment_name}
-eval_path : /home/tak/pred-sentencing/results/evaluations/{domain}/sentence_classification/{experiment_name}
-db_path: /home/tak/pred-sentencing/results/db/{domain}
+classifiers_path: /sise/home/tak/moj_models/drugs/{experiment_name}/
+eval_path : /home/tak/MOJ/results/evaluations/drugs/sentence_classification/{experiment_name}
+test_set_path: /home/tak/MOJ/resources/data/trainning/sentence_classification/drugs/stratify_sentences_50_40_10
+db_path: /home/tak/MOJ/results/db/drugs
 result_path: 'results'
 
 first_level_labels:
-  - PUNISHMENT
+  - CONFESSION
+  - CIR_PUNISHMENT
   - GENERAL_CIRCUM
-  - reject
+  - CIRCUM_OFFENSE
+  # - reject
 
 #second level labels
 second_level_labels: 
@@ -16,4 +21,6 @@ second_level_labels:
   - CIR_AMOUNT
   - CIR_ROLE
   - CIR_EQ
+  # - REGRET
+  # - RESPO
 

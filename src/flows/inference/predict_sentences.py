@@ -39,6 +39,7 @@ def predict_from_datasets(datasets_dict, classifiers,first_level_labels, second_
                 probabilities = probabilities[1].detach().cpu().numpy() if isinstance(probabilities[1], torch.Tensor) else probabilities[1]
                 binary_predictions.append((probabilities >= model[1]).astype(int))
                 probability_predictions.append(probabilities)
+
             except Exception as e:
                 logger.error(f"Error predicting for label {label}: {e}")
                 binary_predictions.append(0)
@@ -70,6 +71,7 @@ def predict_from_datasets(datasets_dict, classifiers,first_level_labels, second_
     logger.info(f"Probabilities saved to {probability_predictions_path}")
 
 
+            
             
             
 def predict_2cls_lvl_flow(db_path:str = None, test_set_path:str = None, classifiers:dict = None, classifiers_path:str = None, 
@@ -114,11 +116,10 @@ def main(param, domain):
     logger = setup_logger(save_path=os.path.join(param['result_path'], 'logs'),
                           file_name='predict_sentence_cls_test')
     
-    db_path = params['db_path'].format(domain=domain)
-    classifiers_path = param['classifiers_path'].format(domain=domain,experiment_name=param['experiment_name'])
-    eval_path = param['eval_path'].format(domain=domain,experiment_name=param['experiment_name'])
+    classifiers_path = param['classifiers_path'].format(experiment_name=param['experiment_name'],model_name=param['model_name'])    
+    eval_path = param['eval_path'].format(experiment_name=param['experiment_name'],date=datetime.today().strftime("%d.%m"))
 
-    predict_2cls_lvl_flow(db_path=db_path,
+    predict_2cls_lvl_flow(db_path= params['db_path'],
                         eval_path=eval_path,
                         classifiers_path=classifiers_path,
                         first_level_labels=param['first_level_labels'],

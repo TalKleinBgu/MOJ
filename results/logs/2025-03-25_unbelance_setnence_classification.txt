@@ -1,0 +1,78 @@
+2025-03-25 14:19:56 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/drugs/stratify_sentences_50_40_10
+2025-03-25 14:19:56 - INFO - Starting training for label: CIRCUM_OFFENSE
+2025-03-25 14:19:57 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-25 14:35:46 - INFO - Metrics for CIRCUM_OFFENSE with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.9499489274770173, 'precision': 0.6237623762376238, 'recall': 0.8513513513513513, 'f1': 0.72, 'f2': 0.7934508816120907, 'PRAUC': 0.7425094619024414, 'AUC': 0.9531282663879349, 'best_threshold': 0.9995655417442322}
+2025-03-25 14:35:50 - INFO - Starting training for model: dictabert
+2025-03-25 14:44:14 - INFO - Metrics for CIRCUM_OFFENSE with model dictabert: {'accuracy': 0.9009193054136875, 'precision': 0.4303030303030303, 'recall': 0.9594594594594594, 'f1': 0.5941422594142259, 'f2': 0.7700650759219089, 'PRAUC': 0.7243183561364523, 'AUC': 0.9751381215469613, 'best_threshold': 0.9981743097305298}
+2025-03-25 14:44:16 - INFO - Starting training for model: heBERT
+2025-03-25 14:53:30 - INFO - Metrics for CIRCUM_OFFENSE with model heBERT: {'accuracy': 0.9387129724208376, 'precision': 0.5573770491803278, 'recall': 0.918918918918919, 'f1': 0.6938775510204082, 'f2': 0.8133971291866029, 'PRAUC': 0.8285829427220457, 'AUC': 0.9692548902493654, 'best_threshold': 0.39675721526145935}
+2025-03-25 14:53:31 - INFO - setfit training finished.
+2025-03-25 17:51:57 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/drugs/stratify_sentences_50_40_10
+2025-03-25 17:51:57 - INFO - Starting training for label: CONFESSION
+2025-03-25 17:51:58 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-25 17:52:36 - ERROR - Error in label CONFESSION: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-03-25 17:52:36 - INFO - Starting training for label: CIR_PUNISHMENT
+2025-03-25 17:52:36 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-25 17:52:38 - ERROR - Error in label CIR_PUNISHMENT: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-03-25 17:52:38 - INFO - Starting training for label: CIR_TYPE
+2025-03-25 17:52:38 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-25 17:52:40 - ERROR - Error in label CIR_TYPE: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-03-25 17:52:40 - INFO - Starting training for label: CIR_AMOUNT
+2025-03-25 17:52:40 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-25 17:52:42 - ERROR - Error in label CIR_AMOUNT: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-03-25 17:52:42 - INFO - Starting training for label: CIR_ROLE
+2025-03-25 17:52:42 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-25 17:52:44 - ERROR - Error in label CIR_ROLE: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-03-25 17:52:44 - INFO - Starting training for label: CIR_EQ
+2025-03-25 17:52:44 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-25 17:52:46 - ERROR - Error in label CIR_EQ: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-03-25 17:52:46 - INFO - Starting training for label: REGRET
+2025-03-25 17:52:46 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-25 17:52:48 - ERROR - Error in label REGRET: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-03-25 17:52:48 - INFO - Starting training for label: RESPO
+2025-03-25 17:52:48 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-25 17:52:53 - ERROR - Error in label RESPO: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-03-25 17:52:53 - INFO - setfit training finished.
+2025-03-25 18:10:40 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/drugs/stratify_sentences_50_40_10
+2025-03-25 18:10:40 - INFO - Starting training for label: CONFESSION
+2025-03-25 18:10:40 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-25 18:18:47 - ERROR - Error in label CONFESSION: CUDA out of memory. Tried to allocate 96.00 MiB. GPU 
+2025-03-25 18:18:47 - INFO - Starting training for label: CIR_PUNISHMENT
+2025-03-25 18:18:47 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-25 18:28:52 - ERROR - Error in label CIR_PUNISHMENT: y should be a 1d array, got an array of shape (979, 2) instead.
+2025-03-25 18:28:52 - INFO - Starting training for label: CIR_TYPE
+2025-03-25 18:28:52 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-25 18:32:48 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/drugs/stratify_sentences_50_40_10
+2025-03-25 18:32:48 - INFO - Starting training for label: CONFESSION
+2025-03-25 18:32:48 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-25 18:33:08 - ERROR - Error in label CONFESSION: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-03-25 18:33:08 - INFO - Starting training for label: CIR_PUNISHMENT
+2025-03-25 18:33:08 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-25 18:33:10 - ERROR - Error in label CIR_PUNISHMENT: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-03-25 18:33:10 - INFO - Starting training for label: CIR_TYPE
+2025-03-25 18:33:10 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-25 18:33:12 - ERROR - Error in label CIR_TYPE: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-03-25 18:33:12 - INFO - Starting training for label: CIR_AMOUNT
+2025-03-25 18:33:12 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-25 18:33:14 - ERROR - Error in label CIR_AMOUNT: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-03-25 18:33:14 - INFO - Starting training for label: CIR_ROLE
+2025-03-25 18:33:14 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-25 18:33:16 - ERROR - Error in label CIR_ROLE: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-03-25 18:33:16 - INFO - Starting training for label: CIR_EQ
+2025-03-25 18:33:16 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-25 18:33:19 - ERROR - Error in label CIR_EQ: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-03-25 18:33:19 - INFO - Starting training for label: REGRET
+2025-03-25 18:33:20 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-25 18:33:21 - ERROR - Error in label REGRET: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-03-25 18:33:21 - INFO - Starting training for label: RESPO
+2025-03-25 18:33:21 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-25 18:33:24 - ERROR - Error in label RESPO: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-03-25 18:33:24 - INFO - setfit training finished.
+2025-03-25 18:35:03 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/drugs/stratify_sentences_50_40_10
+2025-03-25 18:35:03 - INFO - Starting training for label: CONFESSION
+2025-03-25 18:35:03 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco

@@ -21,48 +21,53 @@ map_lvl = {'RESPO': 'CONFESSION',
            'REGRET': 'CONFESSION',
            'CONFESSION': 'CONFESSION'}
 
-def predict_from_datasets(datasets_dict, classifiers, logger, save_path, best_threshold = 0.999):
+def predict_from_datasets(datasets_dict, classifiers, logger, save_path,model_name, with_clf, best_threshold = 0.999):
     for label in datasets_dict.keys():
         model = classifiers[label]
         probabilities = []
-        if label in map_lvl.keys():
-            first_lvl_model = classifiers['CONFESSION']
-        else: 
-            first_lvl_model = classifiers['CIRCUM_OFFENSE']
-        reject_model = classifiers['reject']
+        # if label in map_lvl.keys():
+        #     first_lvl_model = classifiers['CONFESSION']
+        # else: 
+        #     first_lvl_model = classifiers['CIRCUM_OFFENSE']
+        first_lvl_model = classifiers['CIRCUM_OFFENSE']
+        # reject_model = classifiers['reject']
         for sentence in datasets_dict[label]['text']:
             try:
                 # probabilities.append(model[0].predict_proba(sentence))
-                if int(reject_model.predict(sentence)) == 0:
-                    first_lvl_pred = first_lvl_model.predict(sentence)
+                # if int(reject_model.predict(sentence)) == 0:
+                if with_clf:
+                    first_lvl_pred = first_lvl_model[0].predict(sentence)
                     if int(first_lvl_pred) == 1:
                         probabilities.append(model[0].predict_proba(sentence))
                     else:
                         probabilities.append((0,0))
                 else:
-                    probabilities.append((0,0))
-            except:
+                    probabilities.append(model[0].predict_proba(sentence))
+
+                # else:
+                    # probabilities.append((0,0))
+            except :
                 probabilities.append((0,0))
             
         second_probabilities = [
                                 prob[1].detach().cpu().numpy() if isinstance(prob[1], torch.Tensor) else prob[1] 
                                 for prob in probabilities
                                  ]
-        predictions = (np.array(second_probabilities) >= best_threshold).astype(int)
+        predictions = (np.array(second_probabilities) >= model[1]).astype(int)
         metrics = compute_metrics(predictions=predictions,
                         labels=datasets_dict[label]['label'],
                         probabilities=second_probabilities
                         )
         logger.info(f'Metrics to {label} is: {metrics}')
-        save_label_path = os.path.join(save_path, label)
+        save_label_path = os.path.join(save_path, label, model_name)
         os.makedirs(save_label_path, exist_ok=True)
-        save_json(metrics, os.path.join(save_path, 'metrics.json'))
+        save_json(metrics, os.path.join(save_label_path, 'metrics.json'))
             
             
 def predict_2cls_lvl_flow(case_dir_path:str = None, test_set_path:str = None, classifiers:dict = None, classifiers_path:str = None, 
                           logger:logging.Logger = None, first_level_labels:list = None, first_lvl_cls_path:str = None,
                           second_level_labels:list = None, threshold:object = None, tagged_path: str = None,
-                          eval_path:str = None, experimant_name:str = ''):
+                          eval_path:str = None, experimant_name:str = '',model_name:str = '', with_clf:bool = False):
 
                                                                                     
     """
@@ -86,42 +91,54 @@ def predict_2cls_lvl_flow(case_dir_path:str = None, test_set_path:str = None, cl
         if test_set_path is None:
             test_set_path = os.path.join(case_dir_path, 'preprocessing.csv')
         save_path = case_dir_path
-        
-        
+    elif with_clf:
+        save_path = os.path.join(eval_path, 'predictions')
     else:
-        today = datetime.today()
-        formatted_date = today.strftime("%d.%m")
-        save_path = os.path.join(eval_path, formatted_date+ f'_{experimant_name}')
+        save_path = os.path.join(eval_path, 'predictions_no_clf')
+        # save_path = eval_path
 
     if not os.path.exists(save_path):
         os.makedirs(save_path)
         
             
     if classifiers is None:
-            classifiers, first_level_labels, second_level_labels = load_classifires(classifiers_path=classifiers_path,
-                                                                                    first_level_path=first_lvl_cls_path,
-                                                                                    logger=logger)
+            classifiers, first_level_labels, second_level_labels = load_classifires(eval_path=eval_path,
+                                                                                    classifiers_path= classifiers_path,
+                                                                                    first_level_labels=first_level_labels,
+                                                                                    second_level_labels=second_level_labels,
+                                                                                    logger=logger,
+                                                                                    model_name=model_name)
     test_dataset = load_all_datasets(test_set_path, second_level_labels)
-    predict_from_datasets(test_dataset, classifiers, logger, save_path)
+    predict_from_datasets(test_dataset, classifiers, logger, save_path, model_name, with_clf)
 
     
 
 
 
-def main(param):
+def main(param, domain):
     logger = setup_logger(save_path=os.path.join(param['result_path'], 'logs'),
                           file_name='predict_sentence_cls_test')
     
-
-    predict_2cls_lvl_flow(eval_path='results/evaluations/sentence_calssification',
-                          first_lvl_cls_path=param['first_lvl_cls_path'],
-                          classifiers_path=param['classifiers_path'],
-                          experimant_name=param['experimant_name'],
+    
+    classifiers_path = param['classifiers_path'].format(experiment_name=param['experiment_name'])    
+    eval_path = param['eval_path'].format(experiment_name=param['experiment_name'])
+    model_name = param['model_name']
+    with_clf = param['with_clf']
+    predict_2cls_lvl_flow(eval_path=eval_path,
+                          classifiers_path=classifiers_path,
+                          first_level_labels=param['first_level_labels'],
+                          second_level_labels=param['second_level_labels'],
                           test_set_path=param['test_set_path'],
                           logger=logger,
-                          threshold=param['threshold']
+                          model_name=model_name,
+                          with_clf=with_clf
                           )
 
+
 if __name__ == '__main__':
-    param = config_parser('main_config')
-    main(param)
+    main_params = config_parser("", "main_config")    
+    domain = main_params["domain"] 
+    # Parse the training configuration parameters for the specific task
+    params = config_parser("predict", domain)
+    
+    main(params, domain)

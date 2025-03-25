@@ -181,13 +181,14 @@ def evaluate(tagged_df, df_predictions, df_probabilities, column, file, label=No
     
 
 def load_classifires(eval_path, classifiers_path, logger, first_level_labels:list = None,
-                          second_level_labels:list = None):
+                          second_level_labels:list = None,model_name:str = ''):
 
     classifiers = load_all_classifies(eval_path=eval_path,
                                         classifiers_path=classifiers_path,
                                         first_level_labels=first_level_labels,
                                         second_level_labels=second_level_labels,
-                                        logger=logger)
+                                        logger=logger,
+                                        model_name=model_name)
     return classifiers, first_level_labels, second_level_labels
 
 

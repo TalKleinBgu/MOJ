@@ -53,7 +53,9 @@ def compute_metrics(predictions, labels, probabilities):
     f1 = f1_score(labels, predictions)
     f2 = fbeta_score(labels, predictions, beta=2)  # F2 Score
     prauc = average_precision_score(labels, probabilities[:, 1])
+    # prauc = average_precision_score(labels, probabilities)
     auc = roc_auc_score(labels, probabilities[:, 1])
+    #  auc = roc_auc_score(labels, probabilities)
 
     return {
         'accuracy': accuracy,

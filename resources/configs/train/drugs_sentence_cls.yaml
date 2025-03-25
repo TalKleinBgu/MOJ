@@ -20,15 +20,16 @@ balance: True # balance the train set
 save_model: True #if False, save just the result by label 
 
 first_label_list:
-  # - CONFESSION
-  # - CIR_PUNISHMENT
-  - GENERAL_CIRCUMs
+  - CONFESSION
+  - CIR_PUNISHMENT
+  # - GENERAL_CIRCUMs
+  # - CIRCUM_OFFENSE
   # - reject
 
 #second level labels
 second_label_list: 
-  # - CIR_TYPE
-  # - CIR_AMOUNT
+  - CIR_TYPE
+  - CIR_AMOUNT
   - CIR_ROLE
   - CIR_EQ
   - REGRET
@@ -58,7 +59,7 @@ training_args:
     - 0.000005
   head_learning_rate: 0.002
   l2_weight: 0.01
-  num_epochs: 5
+  num_epochs: 3
   end_to_end: True
   evaluation_strategy: "epoch"
   save_strategy: "epoch"
