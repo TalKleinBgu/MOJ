@@ -1,6 +1,12 @@
-experiment_name: '03_19_with_f2_try'
-model_name: bert-multilingual-passage-reranking-msmarco  # bert-multilingual-passage-reranking-msmarco | heBERT | dictabert
+experiment_name: '03_26_with_f2_try'
+model_names: 
+  - bert-multilingual-passage-reranking-msmarco
+  - dictabert
+  - heBERT
+
 with_clf : False
+ground_truth : True
+ground_truth_path: /home/tak/MOJ/resources/data/tagging/drugs/gt/combined_output.csv
 
 classifiers_path: /sise/home/tak/moj_models/drugs/{experiment_name}/
 eval_path : /home/tak/MOJ/results/evaluations/drugs/sentence_classification/{experiment_name}
@@ -9,9 +15,9 @@ db_path: /home/tak/MOJ/results/db/drugs
 result_path: 'results'
 
 first_level_labels:
-  - CONFESSION
-  - CIR_PUNISHMENT
-  - GENERAL_CIRCUM
+  # - CONFESSION
+  # - CIR_PUNISHMENT
+  # - GENERAL_CIRCUM
   - CIRCUM_OFFENSE
   # - reject
 

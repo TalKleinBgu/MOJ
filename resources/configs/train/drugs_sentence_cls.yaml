@@ -21,19 +21,19 @@ save_model: True #if False, save just the result by label
 
 first_label_list:
   - CONFESSION
-  - CIR_PUNISHMENT
-  # - GENERAL_CIRCUMs
-  # - CIRCUM_OFFENSE
+  # - CIR_PUNISHMENT
+  # - GENERAL_CIRCUM
+  - CIRCUM_OFFENSE
   # - reject
 
 #second level labels
 second_label_list: 
-  - CIR_TYPE
-  - CIR_AMOUNT
-  - CIR_ROLE
-  - CIR_EQ
-  - REGRET
-  - RESPO
+  # - CIR_TYPE
+  # - CIR_AMOUNT
+  # - CIR_ROLE
+  # - CIR_EQ
+  # - REGRET
+  # - RESPO
 
 
 #labels to ignore

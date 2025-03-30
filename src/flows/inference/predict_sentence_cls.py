@@ -2,9 +2,12 @@ import logging
 import os
 import sys
 from datetime import datetime
-
+import pandas as pd
 import numpy as np
 import torch
+from sklearn.metrics import confusion_matrix
+import seaborn as sns
+import matplotlib.pyplot as plt
 
 current_dir = os.path.abspath(__file__)
 pred_sentencing_path = os.path.abspath(os.path.join(current_dir, '..', '..', '..'))
@@ -21,7 +24,7 @@ map_lvl = {'RESPO': 'CONFESSION',
            'REGRET': 'CONFESSION',
            'CONFESSION': 'CONFESSION'}
 
-def predict_from_datasets(datasets_dict, classifiers, logger, save_path,model_name, with_clf, best_threshold = 0.999):
+def predict_from_datasets(datasets_dict, classifiers, logger, save_path,model_name, with_clf, ground_truth,ground_truth_path, best_threshold = 0.999):
     for label in datasets_dict.keys():
         model = classifiers[label]
         probabilities = []
@@ -41,8 +44,16 @@ def predict_from_datasets(datasets_dict, classifiers, logger, save_path,model_na
                         probabilities.append(model[0].predict_proba(sentence))
                     else:
                         probabilities.append((0,0))
+                elif ground_truth:
+                    ground_truth_df = pd.read_csv(ground_truth_path)
+                    first_lvl_pred  = ground_truth_df[ground_truth_df['text'] == sentence][label].values[0]
+                    if int(first_lvl_pred) == 1:
+                        probabilities.append(model[0].predict_proba(sentence))
+                    else:
+                        probabilities.append((0,0))
                 else:
                     probabilities.append(model[0].predict_proba(sentence))
+
 
                 # else:
                     # probabilities.append((0,0))
@@ -58,16 +69,29 @@ def predict_from_datasets(datasets_dict, classifiers, logger, save_path,model_na
                         labels=datasets_dict[label]['label'],
                         probabilities=second_probabilities
                         )
+        conf_matrix = confusion_matrix(datasets_dict[label]['label'], predictions)
+        sns.heatmap(conf_matrix, annot=True, fmt='d', cmap='Blues')
+        plt.xlabel('Predicted')
+        plt.ylabel('Actual')
+        plt.title('Confusion Matrix')
+
         logger.info(f'Metrics to {label} is: {metrics}')
         save_label_path = os.path.join(save_path, label, model_name)
         os.makedirs(save_label_path, exist_ok=True)
+                # Save the confusion matrix plot to the specified path
+        conf_matrix_path = os.path.join(save_label_path, 'confusion_matrix.png')
+        plt.savefig(conf_matrix_path)
+        plt.show()
+        plt.clf()  # Clear the figure to avoid overlapping plots
+
+        plt.close()  # Close the figure to free resources
         save_json(metrics, os.path.join(save_label_path, 'metrics.json'))
             
             
 def predict_2cls_lvl_flow(case_dir_path:str = None, test_set_path:str = None, classifiers:dict = None, classifiers_path:str = None, 
                           logger:logging.Logger = None, first_level_labels:list = None, first_lvl_cls_path:str = None,
                           second_level_labels:list = None, threshold:object = None, tagged_path: str = None,
-                          eval_path:str = None, experimant_name:str = '',model_name:str = '', with_clf:bool = False):
+                          eval_path:str = None, experimant_name:str = '',model_names:list = None, with_clf:bool = False, ground_truth:bool = False, ground_truth_path:str = None):
 
                                                                                     
     """
@@ -92,24 +116,28 @@ def predict_2cls_lvl_flow(case_dir_path:str = None, test_set_path:str = None, cl
             test_set_path = os.path.join(case_dir_path, 'preprocessing.csv')
         save_path = case_dir_path
     elif with_clf:
-        save_path = os.path.join(eval_path, 'predictions')
+        save_path = os.path.join(eval_path, 'predictions_with_clf')
+    elif ground_truth:
+        save_path = os.path.join(eval_path, 'predictions_with_ground_truth')
     else:
         save_path = os.path.join(eval_path, 'predictions_no_clf')
+
         # save_path = eval_path
 
     if not os.path.exists(save_path):
         os.makedirs(save_path)
         
-            
-    if classifiers is None:
-            classifiers, first_level_labels, second_level_labels = load_classifires(eval_path=eval_path,
-                                                                                    classifiers_path= classifiers_path,
-                                                                                    first_level_labels=first_level_labels,
-                                                                                    second_level_labels=second_level_labels,
-                                                                                    logger=logger,
-                                                                                    model_name=model_name)
-    test_dataset = load_all_datasets(test_set_path, second_level_labels)
-    predict_from_datasets(test_dataset, classifiers, logger, save_path, model_name, with_clf)
+    for model_name in model_names:
+        if classifiers is None:
+                classifiers, first_level_labels, second_level_labels = load_classifires(eval_path=eval_path,
+                                                                                        classifiers_path= classifiers_path,
+                                                                                        first_level_labels=first_level_labels,
+                                                                                        second_level_labels=second_level_labels,
+                                                                                        logger=logger,
+                                                                                        model_name=model_name)
+        test_dataset = load_all_datasets(test_set_path, second_level_labels)
+        predict_from_datasets(test_dataset, classifiers, logger, save_path, model_name, with_clf, ground_truth,ground_truth_path)
+        classifiers = None
 
     
 
@@ -122,16 +150,20 @@ def main(param, domain):
     
     classifiers_path = param['classifiers_path'].format(experiment_name=param['experiment_name'])    
     eval_path = param['eval_path'].format(experiment_name=param['experiment_name'])
-    model_name = param['model_name']
+    model_names = param['model_names']
     with_clf = param['with_clf']
+    ground_truth = param['ground_truth']
+    ground_truth_path = param['ground_truth_path']
     predict_2cls_lvl_flow(eval_path=eval_path,
                           classifiers_path=classifiers_path,
                           first_level_labels=param['first_level_labels'],
                           second_level_labels=param['second_level_labels'],
                           test_set_path=param['test_set_path'],
                           logger=logger,
-                          model_name=model_name,
-                          with_clf=with_clf
+                          model_names=model_names,
+                          with_clf=with_clf,
+                          ground_truth=ground_truth,
+                          ground_truth_path=ground_truth_path,
                           )
 
 

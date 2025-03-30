@@ -7,4 +7,4 @@ output_dir_name: 'ml_models'
 mapping_path: 'resources/appendices/2017_mapping.csv'
 error_analisys: True
 experimant_name: 'pipline_experiment'
-domain: 'drugs'
+domain: 'weapon'

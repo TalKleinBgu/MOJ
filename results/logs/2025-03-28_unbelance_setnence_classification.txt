@@ -1,0 +1,15 @@
+2025-03-28 12:42:05 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/drugs/stratify_sentences_50_40_10
+2025-03-28 12:42:06 - INFO - Starting training for label: CONFESSION
+2025-03-28 12:42:06 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-28 12:50:24 - ERROR - Error in label CONFESSION: CUDA out of memory. Tried to allocate 768.00 MiB. GPU 
+2025-03-28 12:50:24 - INFO - Starting training for label: GENERAL_CIRCUM
+2025-03-28 12:50:25 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-28 14:23:04 - INFO - Metrics for GENERAL_CIRCUM with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.839632277834525, 'precision': 0.6531165311653117, 'recall': 0.8925925925925926, 'f1': 0.7543035993740219, 'f2': 0.831608005521049, 'PRAUC': 0.8133199737042754, 'AUC': 0.8985738912396175, 'best_threshold': 5.810524726257427e-06}
+2025-03-28 14:23:07 - INFO - Starting training for model: dictabert
+2025-03-28 15:13:06 - INFO - Metrics for GENERAL_CIRCUM with model dictabert: {'accuracy': 0.9050051072522982, 'precision': 0.8083623693379791, 'recall': 0.8592592592592593, 'f1': 0.8330341113105925, 'f2': 0.8485735186539868, 'PRAUC': 0.8846402934805085, 'AUC': 0.9178394191088125, 'best_threshold': 0.999923586845398}
+2025-03-28 15:13:08 - INFO - Starting training for model: heBERT
+2025-03-28 16:07:21 - INFO - Metrics for GENERAL_CIRCUM with model heBERT: {'accuracy': 0.8855975485188968, 'precision': 0.7564935064935064, 'recall': 0.8629629629629629, 'f1': 0.8062283737024222, 'f2': 0.8393371757925072, 'PRAUC': 0.7350996179664198, 'AUC': 0.9000600741785509, 'best_threshold': 0.9999979734420776}
+2025-03-28 16:07:22 - INFO - Starting training for label: CIRCUM_OFFENSE
+2025-03-28 16:07:22 - ERROR - Error in label CIRCUM_OFFENSE: 'CIRCUM_OFFENSE'
+2025-03-28 16:07:22 - INFO - setfit training finished.

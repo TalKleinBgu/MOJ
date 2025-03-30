@@ -1,0 +1,17 @@
+2025-03-27 00:13:15 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/stratify_sentences_50_40_10
+2025-03-27 00:13:15 - INFO - Starting training for label: CIRCUM_OFFENSE
+2025-03-27 00:13:16 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-27 06:43:03 - INFO - Metrics for CIRCUM_OFFENSE with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.868071818891491, 'precision': 0.830820770519263, 'recall': 0.8794326241134752, 'f1': 0.8544358311800172, 'f2': 0.8692604276200491, 'PRAUC': 0.8903211904513015, 'AUC': 0.8992638258306378, 'best_threshold': 0.9996933937072754}
+2025-03-27 06:43:05 - INFO - Starting training for model: dictabert
+2025-03-27 10:08:17 - INFO - Metrics for CIRCUM_OFFENSE with model dictabert: {'accuracy': 0.8899297423887588, 'precision': 0.8484349258649094, 'recall': 0.9131205673758865, 'f1': 0.8795900939368061, 'f2': 0.899406217254628, 'PRAUC': 0.8762639799517791, 'AUC': 0.9288591649603846, 'best_threshold': 5.173660611035302e-05}
+2025-03-27 10:08:20 - INFO - Starting training for model: heBERT
+2025-03-27 13:59:17 - INFO - Metrics for CIRCUM_OFFENSE with model heBERT: {'accuracy': 0.8665105386416861, 'precision': 0.8226600985221675, 'recall': 0.8882978723404256, 'f1': 0.8542199488491049, 'f2': 0.8743455497382199, 'PRAUC': 0.8590506044825482, 'AUC': 0.9180972234586585, 'best_threshold': 3.2222814638771524e-07}
+2025-03-27 13:59:19 - INFO - Starting training for label: GENERAL_CIRCUM
+2025-03-27 13:59:19 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-27 15:47:46 - INFO - Metrics for GENERAL_CIRCUM with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.8946135831381733, 'precision': 0.6944444444444444, 'recall': 0.9090909090909091, 'f1': 0.7874015748031497, 'f2': 0.8561643835616438, 'PRAUC': 0.7264252557605156, 'AUC': 0.9222392915235857, 'best_threshold': 0.9999948740005493}
+2025-03-27 15:47:48 - INFO - Starting training for model: dictabert
+2025-03-27 16:41:57 - INFO - Metrics for GENERAL_CIRCUM with model dictabert: {'accuracy': 0.9211553473848556, 'precision': 0.7636363636363637, 'recall': 0.9163636363636364, 'f1': 0.8330578512396695, 'f2': 0.8811188811188811, 'PRAUC': 0.8541877609807451, 'AUC': 0.955089463220676, 'best_threshold': 0.9999598264694214}
+2025-03-27 16:42:00 - INFO - Starting training for model: heBERT
+2025-03-27 17:43:12 - INFO - Metrics for GENERAL_CIRCUM with model heBERT: {'accuracy': 0.9141295862607338, 'precision': 0.746268656716418, 'recall': 0.9090909090909091, 'f1': 0.819672131147541, 'f2': 0.8710801393728222, 'PRAUC': 0.7335893849640124, 'AUC': 0.9413229712633292, 'best_threshold': 0.9999997615814209}
+2025-03-27 17:43:15 - INFO - setfit training finished.

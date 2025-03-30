@@ -110,7 +110,7 @@ def run(params,domain_path,domain_path_model, tagger=False, date='', logger=None
             # Handle training with the SentenceTaggingModel
             elif params['setfit']:
                 # Get the current date for file organization
-                current_date = datetime.now() - timedelta(days=6)
+                current_date = datetime.now() - timedelta(days=3)
                 formatted_date = current_date.strftime("%m_%d")
                 
                 # Initialize the SentenceTaggingModel

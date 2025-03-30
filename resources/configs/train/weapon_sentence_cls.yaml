@@ -3,7 +3,7 @@ experiment_name: 'with_f2_try'
 username: tak
 
 # paths
-data_path: "/home/{username}/MOJ/resources/data/trainning/sentence_classification/weapon/stratify_sentences"
+data_path: "/home/{username}/MOJ/resources/data/trainning/sentence_classification/weapon/stratify_sentences_50_40_10"
 save_dir: '/home/{username}/MOJ/results'
 save_model_path: '/home/{username}/moj_models'
 
@@ -21,25 +21,25 @@ save_model: True #if False, save just the result by label
 
 #first level labels
 first_label_list:
+  - CIRCUM_OFFENSE
   # - CONFESSION
-  - GENERAL_CIRCUMs
+  # - GENERAL_CIRCUM
   # - PUNISHMENT
-  # - CIRCUM_OFFENSE
   # - reject
 
 
 #second level labels
 second_label_list: 
-  - CIR_STATUS_WEP
+  # - CIR_STATUS_WEP
   # - CIR_HELD_WAY_WEP
   # - CIR_PURPOSE
   # - CIR_AMMU_AMOUNT_WEP
   # - CIR_OBTAIN_WAY_WEP
   # # - CIR_BUYER_ID_WEP
   # - CIR_TYPE_WEP
-  # - CIR_MONEY_PAID_WEP
+  # # - CIR_MONEY_PAID_WEP
   # -  CIR_USE
-  #  CIR_PLANNING
+  # - CIR_PLANNING
   # - RESPO
   # - REGRET
 
@@ -54,7 +54,7 @@ ignore_labels:
 
 pretrained_model_list:
     #  - HeNLP/HeRo
-    #  - amberoad/bert-multilingual-passage-reranking-msmarco
+     - amberoad/bert-multilingual-passage-reranking-msmarco
      - dicta-il/dictabert
     #  - avichr/Legal-heBERT
      - avichr/heBERT

@@ -76,3 +76,104 @@ Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_
 Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/drugs/stratify_sentences_50_40_10
 2025-03-25 18:35:03 - INFO - Starting training for label: CONFESSION
 2025-03-25 18:35:03 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-25 18:42:50 - ERROR - Error in label CONFESSION: CUDA out of memory. Tried to allocate 96.00 MiB. GPU 
+2025-03-25 18:42:50 - INFO - Starting training for label: CIR_PUNISHMENT
+2025-03-25 18:42:50 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-25 18:52:49 - INFO - Metrics for CIR_PUNISHMENT with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.9264555669050051, 'precision': 0.44, 'recall': 0.9649122807017544, 'f1': 0.6043956043956044, 'f2': 0.7790368271954674, 'PRAUC': 0.8558888336548038, 'AUC': 0.9710868820641626, 'best_threshold': 0.9955722093582153}
+2025-03-25 18:52:54 - INFO - Starting training for model: dictabert
+2025-03-25 18:58:48 - INFO - Metrics for CIR_PUNISHMENT with model dictabert: {'accuracy': 0.923391215526047, 'precision': 0.4296875, 'recall': 0.9649122807017544, 'f1': 0.5945945945945946, 'f2': 0.7724719101123596, 'PRAUC': 0.8496629137088211, 'AUC': 0.978460250409103, 'best_threshold': 0.007767853792756796}
+2025-03-25 18:58:59 - INFO - Starting training for model: heBERT
+2025-03-25 19:05:18 - INFO - Metrics for CIR_PUNISHMENT with model heBERT: {'accuracy': 0.9427987742594485, 'precision': 0.5046728971962616, 'recall': 0.9473684210526315, 'f1': 0.6585365853658537, 'f2': 0.8059701492537313, 'PRAUC': 0.8452399924016841, 'AUC': 0.9752254823609999, 'best_threshold': 0.9333365559577942}
+2025-03-25 19:05:19 - INFO - Starting training for label: CIR_TYPE
+2025-03-25 19:05:19 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-25 19:14:16 - INFO - Metrics for CIR_TYPE with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.9713993871297242, 'precision': 0.6486486486486487, 'recall': 0.96, 'f1': 0.7741935483870968, 'f2': 0.8759124087591241, 'PRAUC': 0.7594446871280748, 'AUC': 0.987448869752422, 'best_threshold': 0.009674273431301117}
+2025-03-25 19:14:19 - INFO - Starting training for model: dictabert
+2025-03-25 19:19:41 - INFO - Metrics for CIR_TYPE with model dictabert: {'accuracy': 0.9417773237997957, 'precision': 0.4672897196261682, 'recall': 1.0, 'f1': 0.6369426751592356, 'f2': 0.8143322475570033, 'PRAUC': 0.8910104768505461, 'AUC': 0.9927018299246502, 'best_threshold': 0.8070701360702515}
+2025-03-25 19:19:44 - INFO - Starting training for model: heBERT
+2025-03-25 19:25:32 - INFO - Metrics for CIR_TYPE with model heBERT: {'accuracy': 0.9438202247191011, 'precision': 0.47474747474747475, 'recall': 0.94, 'f1': 0.6308724832214765, 'f2': 0.7859531772575251, 'PRAUC': 0.8099084901135685, 'AUC': 0.981205597416577, 'best_threshold': 0.02056359499692917}
+2025-03-25 19:25:36 - INFO - Starting training for label: CIR_AMOUNT
+2025-03-25 19:25:36 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-25 19:34:33 - INFO - Metrics for CIR_AMOUNT with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.9887640449438202, 'precision': 0.7674418604651163, 'recall': 0.9705882352941176, 'f1': 0.8571428571428571, 'f2': 0.9217877094972067, 'PRAUC': 0.8788030700498515, 'AUC': 0.9848428260192966, 'best_threshold': 0.9967189431190491}
+2025-03-25 19:34:37 - INFO - Starting training for model: dictabert
+2025-03-25 19:39:34 - INFO - Metrics for CIR_AMOUNT with model dictabert: {'accuracy': 0.9795709908069459, 'precision': 0.6346153846153846, 'recall': 0.9705882352941176, 'f1': 0.7674418604651163, 'f2': 0.8776595744680851, 'PRAUC': 0.8953321964958211, 'AUC': 0.9950980392156863, 'best_threshold': 0.9969344139099121}
+2025-03-25 19:39:37 - INFO - Starting training for model: heBERT
+2025-03-25 19:45:03 - INFO - Metrics for CIR_AMOUNT with model heBERT: {'accuracy': 0.9775280898876404, 'precision': 0.6111111111111112, 'recall': 0.9705882352941176, 'f1': 0.75, 'f2': 0.868421052631579, 'PRAUC': 0.9456761395610843, 'AUC': 0.9968565203859321, 'best_threshold': 0.9976558685302734}
+2025-03-25 19:45:04 - INFO - Starting training for label: CIR_ROLE
+2025-03-25 19:45:04 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-25 19:53:17 - INFO - Metrics for CIR_ROLE with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.9560776302349336, 'precision': 0.4117647058823529, 'recall': 0.9032258064516129, 'f1': 0.5656565656565656, 'f2': 0.7291666666666666, 'PRAUC': 0.5278400098940684, 'AUC': 0.9571253572886893, 'best_threshold': 0.9997103810310364}
+2025-03-25 19:53:20 - INFO - Starting training for model: dictabert
+2025-03-25 19:58:15 - INFO - Metrics for CIR_ROLE with model dictabert: {'accuracy': 0.9325842696629213, 'precision': 0.3118279569892473, 'recall': 0.9354838709677419, 'f1': 0.46774193548387094, 'f2': 0.6682027649769585, 'PRAUC': 0.6339521586471613, 'AUC': 0.9724717571798013, 'best_threshold': 0.9572936296463013}
+2025-03-25 19:58:19 - INFO - Starting training for model: heBERT
+2025-03-25 20:03:33 - INFO - Metrics for CIR_ROLE with model heBERT: {'accuracy': 0.9601634320735445, 'precision': 0.4393939393939394, 'recall': 0.9354838709677419, 'f1': 0.5979381443298969, 'f2': 0.7631578947368421, 'PRAUC': 0.7365330748154043, 'AUC': 0.9777800462773921, 'best_threshold': 0.9994876384735107}
+2025-03-25 20:03:34 - INFO - Starting training for label: CIR_EQ
+2025-03-25 20:03:35 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-25 20:10:14 - INFO - Metrics for CIR_EQ with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.933605720122574, 'precision': 0.1232876712328767, 'recall': 0.9, 'f1': 0.21686746987951808, 'f2': 0.39823008849557523, 'PRAUC': 0.3314640806873561, 'AUC': 0.9596491228070175, 'best_threshold': 0.7667187452316284}
+2025-03-25 20:10:18 - INFO - Starting training for model: dictabert
+2025-03-25 20:14:00 - INFO - Metrics for CIR_EQ with model dictabert: {'accuracy': 0.8682328907048008, 'precision': 0.06569343065693431, 'recall': 0.9, 'f1': 0.12244897959183673, 'f2': 0.2542372881355932, 'PRAUC': 0.3470943426322751, 'AUC': 0.9403508771929825, 'best_threshold': 0.5471293330192566}
+2025-03-25 20:14:05 - INFO - Starting training for model: heBERT
+2025-03-25 20:18:05 - INFO - Metrics for CIR_EQ with model heBERT: {'accuracy': 0.8855975485188968, 'precision': 0.08196721311475409, 'recall': 1.0, 'f1': 0.15151515151515152, 'f2': 0.30864197530864196, 'PRAUC': 0.4479381202634007, 'AUC': 0.9758513931888545, 'best_threshold': 0.4066917300224304}
+2025-03-25 20:18:08 - INFO - Starting training for label: REGRET
+2025-03-25 20:18:08 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-25 20:24:40 - INFO - Metrics for REGRET with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.8202247191011236, 'precision': 0.06451612903225806, 'recall': 0.8571428571428571, 'f1': 0.12, 'f2': 0.24793388429752067, 'PRAUC': 0.12075303882355283, 'AUC': 0.8644707623982235, 'best_threshold': 0.26534491777420044}
+2025-03-25 20:24:45 - INFO - Starting training for model: dictabert
+2025-03-25 20:28:35 - INFO - Metrics for REGRET with model dictabert: {'accuracy': 0.9662921348314607, 'precision': 0.28888888888888886, 'recall': 0.9285714285714286, 'f1': 0.4406779661016949, 'f2': 0.6435643564356436, 'PRAUC': 0.6624974591726028, 'AUC': 0.979940784603997, 'best_threshold': 0.5312444567680359}
+2025-03-25 20:28:39 - INFO - Starting training for model: heBERT
+2025-03-25 20:32:44 - INFO - Metrics for REGRET with model heBERT: {'accuracy': 0.958120531154239, 'precision': 0.24528301886792453, 'recall': 0.9285714285714286, 'f1': 0.3880597014925373, 'f2': 0.5963302752293578, 'PRAUC': 0.4505886086797912, 'AUC': 0.9737231680236861, 'best_threshold': 0.6427069306373596}
+2025-03-25 20:32:46 - INFO - Starting training for label: RESPO
+2025-03-25 20:32:46 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-25 20:39:53 - ERROR - Error in label RESPO: CUDA out of memory. Tried to allocate 768.00 MiB. GPU 
+2025-03-25 20:39:53 - INFO - setfit training finished.
+2025-03-25 21:56:30 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/drugs/stratify_sentences_60_32_8
+2025-03-25 21:56:30 - INFO - Starting training for label: CONFESSION
+2025-03-25 21:56:30 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-25 22:03:53 - INFO - Metrics for CONFESSION with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.9, 'precision': 0.24, 'recall': 0.9230769230769231, 'f1': 0.38095238095238093, 'f2': 0.5882352941176471, 'PRAUC': 0.6120795141206195, 'AUC': 0.9435829422566823, 'best_threshold': 0.009070963598787785}
+2025-03-25 22:03:56 - INFO - Starting training for model: dictabert
+2025-03-25 22:07:58 - INFO - Metrics for CONFESSION with model dictabert: {'accuracy': 0.9833333333333333, 'precision': 0.6666666666666666, 'recall': 1.0, 'f1': 0.8, 'f2': 0.9090909090909091, 'PRAUC': 0.7829376023662974, 'AUC': 0.9941848602326055, 'best_threshold': 0.9952720999717712}
+2025-03-25 22:08:02 - INFO - Starting training for model: heBERT
+2025-03-25 22:12:22 - INFO - Metrics for CONFESSION with model heBERT: {'accuracy': 0.9846153846153847, 'precision': 0.6842105263157895, 'recall': 1.0, 'f1': 0.8125, 'f2': 0.9154929577464789, 'PRAUC': 0.8565702156056493, 'AUC': 0.9954601101815956, 'best_threshold': 0.9926900267601013}
+2025-03-25 22:12:23 - INFO - Starting training for label: CIR_PUNISHMENT
+2025-03-25 22:12:23 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-25 22:21:20 - INFO - Metrics for CIR_PUNISHMENT with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.9243589743589744, 'precision': 0.43564356435643564, 'recall': 0.9565217391304348, 'f1': 0.5986394557823129, 'f2': 0.7719298245614035, 'PRAUC': 0.8699355672463671, 'AUC': 0.9689610235754058, 'best_threshold': 0.9906708002090454}
+2025-03-25 22:21:23 - INFO - Starting training for model: dictabert
+2025-03-25 22:26:27 - INFO - Metrics for CIR_PUNISHMENT with model dictabert: {'accuracy': 0.9628205128205128, 'precision': 0.6164383561643836, 'recall': 0.9782608695652174, 'f1': 0.7563025210084033, 'f2': 0.8754863813229572, 'PRAUC': 0.9405723309830639, 'AUC': 0.9941357659045136, 'best_threshold': 0.24457961320877075}
+2025-03-25 22:26:30 - INFO - Starting training for model: heBERT
+2025-03-25 22:31:52 - INFO - Metrics for CIR_PUNISHMENT with model heBERT: {'accuracy': 0.9782051282051282, 'precision': 0.7543859649122807, 'recall': 0.9347826086956522, 'f1': 0.8349514563106796, 'f2': 0.8921161825726142, 'PRAUC': 0.9129349662644468, 'AUC': 0.9773427319038028, 'best_threshold': 0.010789390653371811}
+2025-03-25 22:31:54 - INFO - Starting training for label: CIR_TYPE
+2025-03-25 22:31:54 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-25 22:40:13 - INFO - Metrics for CIR_TYPE with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.9448717948717948, 'precision': 0.475, 'recall': 0.9743589743589743, 'f1': 0.6386554621848739, 'f2': 0.8050847457627118, 'PRAUC': 0.876306244182005, 'AUC': 0.9793591473753418, 'best_threshold': 0.9997605681419373}
+2025-03-25 22:40:16 - INFO - Starting training for model: dictabert
+2025-03-25 22:45:09 - INFO - Metrics for CIR_TYPE with model dictabert: {'accuracy': 0.9397435897435897, 'precision': 0.45121951219512196, 'recall': 0.9487179487179487, 'f1': 0.6115702479338843, 'f2': 0.7773109243697479, 'PRAUC': 0.8456385573247197, 'AUC': 0.9846015433059967, 'best_threshold': 0.9992519021034241}
+2025-03-25 22:45:14 - INFO - Starting training for model: heBERT
+2025-03-25 22:50:26 - INFO - Metrics for CIR_TYPE with model heBERT: {'accuracy': 0.9538461538461539, 'precision': 0.5205479452054794, 'recall': 0.9743589743589743, 'f1': 0.6785714285714286, 'f2': 0.8296943231441049, 'PRAUC': 0.8625874302754833, 'AUC': 0.9900169556040002, 'best_threshold': 0.996138870716095}
+2025-03-25 22:50:27 - INFO - Starting training for label: CIR_AMOUNT
+2025-03-25 22:50:27 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-25 22:57:45 - INFO - Metrics for CIR_AMOUNT with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.9730769230769231, 'precision': 0.5625, 'recall': 1.0, 'f1': 0.72, 'f2': 0.8653846153846154, 'PRAUC': 0.9512579266323227, 'AUC': 0.99734395750332, 'best_threshold': 0.013421958312392235}
+2025-03-25 22:57:50 - INFO - Starting training for model: dictabert
+2025-03-25 23:01:55 - INFO - Metrics for CIR_AMOUNT with model dictabert: {'accuracy': 0.9384615384615385, 'precision': 0.36, 'recall': 1.0, 'f1': 0.5294117647058824, 'f2': 0.7377049180327869, 'PRAUC': 0.9008101489675135, 'AUC': 0.9940484973685505, 'best_threshold': 0.01401862595230341}
+2025-03-25 23:01:59 - INFO - Starting training for model: heBERT
+2025-03-25 23:06:25 - INFO - Metrics for CIR_AMOUNT with model heBERT: {'accuracy': 0.9807692307692307, 'precision': 0.6428571428571429, 'recall': 1.0, 'f1': 0.782608695652174, 'f2': 0.9, 'PRAUC': 0.9513183470671391, 'AUC': 0.9978850031970882, 'best_threshold': 0.18678602576255798}
+2025-03-25 23:06:26 - INFO - Starting training for label: CIR_ROLE
+2025-03-25 23:06:26 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-25 23:13:27 - INFO - Metrics for CIR_ROLE with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.9038461538461539, 'precision': 0.22826086956521738, 'recall': 0.84, 'f1': 0.358974358974359, 'f2': 0.546875, 'PRAUC': 0.36886871980539937, 'AUC': 0.898225165562914, 'best_threshold': 0.9989390969276428}
+2025-03-25 23:13:30 - INFO - Starting training for model: dictabert
+2025-03-25 23:17:18 - INFO - Metrics for CIR_ROLE with model dictabert: {'accuracy': 0.8974358974358975, 'precision': 0.23300970873786409, 'recall': 0.96, 'f1': 0.375, 'f2': 0.5911330049261084, 'PRAUC': 0.47918446440252543, 'AUC': 0.9437880794701986, 'best_threshold': 0.501542329788208}
+2025-03-25 23:17:22 - INFO - Starting training for model: heBERT
+2025-03-25 23:29:08 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/drugs/stratify_sentences_50_40_10
+2025-03-25 23:29:08 - INFO - Starting training for label: CONFESSION
+2025-03-25 23:29:09 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-25 23:36:52 - INFO - Metrics for CONFESSION with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.9284984678243106, 'precision': 0.30612244897959184, 'recall': 0.9375, 'f1': 0.46153846153846156, 'f2': 0.6637168141592921, 'PRAUC': 0.5940443136220486, 'AUC': 0.971917898627244, 'best_threshold': 0.996726393699646}
+2025-03-25 23:36:54 - INFO - Starting training for model: dictabert
+2025-03-25 23:41:21 - INFO - Metrics for CONFESSION with model dictabert: {'accuracy': 0.9908069458631257, 'precision': 0.7804878048780488, 'recall': 1.0, 'f1': 0.8767123287671232, 'f2': 0.9467455621301775, 'PRAUC': 0.8938438020062907, 'AUC': 0.9971620908130939, 'best_threshold': 0.9887370467185974}
+2025-03-25 23:41:24 - INFO - Starting training for model: heBERT
+2025-03-25 23:46:09 - INFO - Metrics for CONFESSION with model heBERT: {'accuracy': 0.9540347293156282, 'precision': 0.4155844155844156, 'recall': 1.0, 'f1': 0.5871559633027523, 'f2': 0.7804878048780488, 'PRAUC': 0.91024547853025, 'AUC': 0.9958421330517423, 'best_threshold': 0.6862106323242188}
+2025-03-25 23:46:12 - INFO - Starting training for label: CIR_PUNISHMENT
+2025-03-25 23:46:12 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-25 23:55:32 - INFO - Metrics for CIR_PUNISHMENT with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.9346271705822268, 'precision': 0.4700854700854701, 'recall': 0.9649122807017544, 'f1': 0.632183908045977, 'f2': 0.7971014492753623, 'PRAUC': 0.768298292614603, 'AUC': 0.9780606614149256, 'best_threshold': 0.9970345497131348}
+2025-03-25 23:55:35 - INFO - Starting training for model: dictabert
+2025-03-26 00:01:06 - INFO - Metrics for CIR_PUNISHMENT with model dictabert: {'accuracy': 0.9213483146067416, 'precision': 0.421875, 'recall': 0.9473684210526315, 'f1': 0.5837837837837838, 'f2': 0.7584269662921348, 'PRAUC': 0.8332190745717086, 'AUC': 0.9826844769189785, 'best_threshold': 0.9823541641235352}
+2025-03-26 00:01:10 - INFO - Starting training for model: heBERT
+2025-03-26 00:07:05 - INFO - Metrics for CIR_PUNISHMENT with model heBERT: {'accuracy': 0.9662921348314607, 'precision': 0.6538461538461539, 'recall': 0.8947368421052632, 'f1': 0.7555555555555555, 'f2': 0.8333333333333334, 'PRAUC': 0.8763759896203589, 'AUC': 0.9805247935456863, 'best_threshold': 0.9999017715454102}
+2025-03-26 00:07:07 - INFO - Starting training for label: CIR_TYPE
+2025-03-26 00:07:07 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
