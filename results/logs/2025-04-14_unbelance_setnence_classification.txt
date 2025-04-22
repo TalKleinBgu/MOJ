@@ -1,0 +1,57 @@
+2025-04-14 12:51:59 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/drugs/stratify_sentences_50_40_10
+2025-04-14 12:51:59 - INFO - Starting training for label: CONFESSION
+2025-04-14 12:52:03 - INFO - Starting training for model: dictabert
+2025-04-14 12:53:02 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/drugs/stratify_sentences_50_40_10
+2025-04-14 12:53:02 - INFO - Starting training for label: CONFESSION
+2025-04-14 12:53:02 - INFO - Starting training for model: dictabert
+2025-04-14 12:59:09 - INFO - Metrics for CONFESSION with model dictabert: {'accuracy': 0.9897854954034729, 'precision': 0.8235294117647058, 'recall': 0.875, 'f1': 0.8484848484848485, 'f2': 0.8641975308641975, 'PRAUC': 0.8429127950581398, 'AUC': 0.9951326557550159, 'best_threshold': 0.9997374415397644}
+2025-04-14 12:59:12 - INFO - Starting training for label: CIR_PUNISHMENT
+2025-04-14 12:59:12 - INFO - Starting training for model: dictabert
+2025-04-14 13:06:26 - INFO - Metrics for CIR_PUNISHMENT with model dictabert: {'accuracy': 0.9836567926455567, 'precision': 0.8727272727272727, 'recall': 0.8421052631578947, 'f1': 0.8571428571428571, 'f2': 0.8480565371024735, 'PRAUC': 0.8388423691881074, 'AUC': 0.9830650378658142, 'best_threshold': 0.9999115467071533}
+2025-04-14 13:06:37 - INFO - Starting training for label: GENERAL_CIRCUM
+2025-04-14 13:06:37 - INFO - Starting training for model: dictabert
+2025-04-14 14:13:41 - INFO - Metrics for GENERAL_CIRCUM with model dictabert: {'accuracy': 0.923391215526047, 'precision': 0.9012345679012346, 'recall': 0.8111111111111111, 'f1': 0.8538011695906432, 'f2': 0.8276643990929705, 'PRAUC': 0.8933332010195189, 'AUC': 0.9233140051193648, 'best_threshold': 0.9999949932098389}
+2025-04-14 14:13:44 - INFO - Starting training for label: CIRCUM_OFFENSE
+2025-04-14 14:13:44 - INFO - Starting training for model: dictabert
+2025-04-14 14:23:07 - INFO - Metrics for CIRCUM_OFFENSE with model dictabert: {'accuracy': 0.965270684371808, 'precision': 0.7857142857142857, 'recall': 0.7432432432432432, 'f1': 0.7638888888888888, 'f2': 0.7513661202185792, 'PRAUC': 0.8089493912614892, 'AUC': 0.9789980588323131, 'best_threshold': 0.9999511241912842}
+2025-04-14 14:23:09 - INFO - Starting training for label: CIR_TYPE
+2025-04-14 14:23:09 - INFO - Starting training for model: dictabert
+2025-04-14 14:30:53 - INFO - Metrics for CIR_TYPE with model dictabert: {'accuracy': 0.982635342185904, 'precision': 0.8367346938775511, 'recall': 0.82, 'f1': 0.8282828282828283, 'f2': 0.8232931726907631, 'PRAUC': 0.8335936011002792, 'AUC': 0.9916899892357374, 'best_threshold': 0.9994478821754456}
+2025-04-14 14:31:01 - INFO - Starting training for label: CIR_AMOUNT
+2025-04-14 14:31:01 - INFO - Starting training for model: dictabert
+2025-04-14 14:39:22 - INFO - Metrics for CIR_AMOUNT with model dictabert: {'accuracy': 0.9948927477017364, 'precision': 0.9142857142857143, 'recall': 0.9411764705882353, 'f1': 0.927536231884058, 'f2': 0.935672514619883, 'PRAUC': 0.9443112641194757, 'AUC': 0.9975101151571739, 'best_threshold': 0.9998313188552856}
+2025-04-14 14:39:26 - INFO - Starting training for label: CIR_ROLE
+2025-04-14 14:39:26 - INFO - Starting training for model: dictabert
+2025-04-14 14:45:47 - INFO - Metrics for CIR_ROLE with model dictabert: {'accuracy': 0.9713993871297242, 'precision': 0.5333333333333333, 'recall': 0.7741935483870968, 'f1': 0.631578947368421, 'f2': 0.7100591715976331, 'PRAUC': 0.587031722773297, 'AUC': 0.9744283380971825, 'best_threshold': 0.9994511008262634}
+2025-04-14 14:45:49 - INFO - Starting training for label: CIR_EQ
+2025-04-14 14:45:50 - INFO - Starting training for model: dictabert
+2025-04-14 14:52:01 - INFO - Metrics for CIR_EQ with model dictabert: {'accuracy': 0.9908069458631257, 'precision': 0.5384615384615384, 'recall': 0.7, 'f1': 0.6086956521739131, 'f2': 0.660377358490566, 'PRAUC': 0.5383862973181823, 'AUC': 0.9305469556243551, 'best_threshold': 0.9306731224060059}
+2025-04-14 14:52:03 - INFO - Starting training for label: REGRET
+2025-04-14 14:52:03 - INFO - Starting training for model: dictabert
+2025-04-14 14:58:18 - INFO - Metrics for REGRET with model dictabert: {'accuracy': 0.9897854954034729, 'precision': 0.5909090909090909, 'recall': 0.9285714285714286, 'f1': 0.7222222222222222, 'f2': 0.8333333333333334, 'PRAUC': 0.6775782968362017, 'AUC': 0.9916358253145818, 'best_threshold': 0.9832947850227356}
+2025-04-14 14:58:20 - INFO - Starting training for label: RESPO
+2025-04-14 14:58:20 - INFO - Starting training for model: dictabert
+2025-04-14 15:05:21 - INFO - Metrics for RESPO with model dictabert: {'accuracy': 0.9908069458631257, 'precision': 0.7575757575757576, 'recall': 0.9615384615384616, 'f1': 0.847457627118644, 'f2': 0.9124087591240876, 'PRAUC': 0.8999250523012133, 'AUC': 0.9702155137622084, 'best_threshold': 0.9988514184951782}
+2025-04-14 15:05:24 - INFO - setfit training finished.
+2025-04-14 15:05:54 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/drugs/stratify_sentences_50_40_10
+2025-04-14 15:05:54 - INFO - Starting training for label: CONFESSIONs
+2025-04-14 15:05:54 - ERROR - Error in label CONFESSIONs: 'CONFESSIONs'
+2025-04-14 15:05:54 - INFO - Starting training for label: CIR_EQ
+2025-04-14 15:05:55 - INFO - Starting training for model: dictabert
+2025-04-14 15:18:09 - INFO - Metrics for CIR_EQ with model dictabert: {'accuracy': 0.9948927477017364, 'precision': 0.8571428571428571, 'recall': 0.6, 'f1': 0.7058823529411765, 'f2': 0.6382978723404256, 'PRAUC': 0.6659918483680555, 'AUC': 0.958513931888545, 'best_threshold': 0.9821767807006836}
+2025-04-14 15:18:13 - INFO - Starting training for label: REGRET
+2025-04-14 15:18:13 - INFO - Starting training for model: dictabert
+2025-04-14 15:28:14 - INFO - Metrics for REGRET with model dictabert: {'accuracy': 0.9877425944841676, 'precision': 0.5416666666666666, 'recall': 0.9285714285714286, 'f1': 0.6842105263157895, 'f2': 0.8125, 'PRAUC': 0.6063078310675873, 'AUC': 0.9919319022945965, 'best_threshold': 0.9922290444374084}
+2025-04-14 15:28:17 - INFO - Starting training for label: RESPO
+2025-04-14 15:28:17 - INFO - Starting training for model: dictabert
+2025-04-14 15:40:37 - INFO - Metrics for RESPO with model dictabert: {'accuracy': 0.992849846782431, 'precision': 0.8518518518518519, 'recall': 0.8846153846153846, 'f1': 0.8679245283018868, 'f2': 0.8778625954198473, 'PRAUC': 0.896062611484735, 'AUC': 0.9766728549519735, 'best_threshold': 0.997979462146759}
+2025-04-14 15:40:39 - INFO - setfit training finished.
+2025-04-14 16:07:20 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/drugs/stratify_sentences_50_40_10
+2025-04-14 16:07:20 - INFO - Starting training for label: reject
+2025-04-14 16:07:20 - INFO - Starting training for model: dictabert
+2025-04-14 18:10:15 - INFO - Metrics for reject with model dictabert: {'accuracy': 0.8549540347293156, 'precision': 0.8777777777777778, 'recall': 0.8618181818181818, 'f1': 0.8697247706422019, 'f2': 0.864963503649635, 'PRAUC': 0.9264993807897084, 'AUC': 0.9167662640389913, 'best_threshold': 9.644884812587406e-06}
+2025-04-14 18:10:18 - INFO - setfit training finished.

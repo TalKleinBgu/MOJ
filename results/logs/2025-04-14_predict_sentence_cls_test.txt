@@ -1,0 +1,750 @@
+2025-04-14 12:39:12 - INFO - CIR_PUNISHMENT model successfully loaded!
+2025-04-14 12:40:02 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-04-14 12:41:30 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-04-14 12:42:10 - INFO - CIR_TYPE model successfully loaded!
+2025-04-14 12:42:23 - INFO - CIR_AMOUNT model successfully loaded!
+2025-04-14 12:42:48 - INFO - CIR_ROLE model successfully loaded!
+2025-04-14 12:43:30 - INFO - CIR_EQ model successfully loaded!
+2025-04-14 12:44:11 - INFO - REGRET model successfully loaded!
+2025-04-14 12:44:38 - INFO - RESPO model successfully loaded!
+2025-04-14 12:44:52 - INFO - CONFESSION model successfully loaded!
+2025-04-14 12:45:03 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-10-11-18588-3/sentence_predictions.csv
+2025-04-14 12:45:03 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-10-11-18588-3/sentence_probabilities.csv
+2025-04-14 12:45:03 - INFO - Finish predict case ME-10-11-18588-3
+2025-04-14 12:45:08 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-20-09-5778-327/sentence_predictions.csv
+2025-04-14 12:45:08 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-20-09-5778-327/sentence_probabilities.csv
+2025-04-14 12:45:09 - INFO - Finish predict case ME-20-09-5778-327
+2025-04-14 12:45:21 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-20-12-1338-335/sentence_predictions.csv
+2025-04-14 12:45:21 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-20-12-1338-335/sentence_probabilities.csv
+2025-04-14 12:45:21 - INFO - Finish predict case ME-20-12-1338-335
+2025-04-14 12:45:32 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-21-11-35998-405/sentence_predictions.csv
+2025-04-14 12:45:32 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-21-11-35998-405/sentence_probabilities.csv
+2025-04-14 12:45:32 - INFO - Finish predict case ME-21-11-35998-405
+2025-04-14 12:45:38 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-22-01-47042-277/sentence_predictions.csv
+2025-04-14 12:45:38 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-22-01-47042-277/sentence_probabilities.csv
+2025-04-14 12:45:38 - INFO - Finish predict case ME-22-01-47042-277
+2025-04-14 12:46:38 - INFO - CIR_PUNISHMENT model successfully loaded!
+2025-04-14 12:46:39 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-04-14 12:46:39 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-04-14 12:46:41 - INFO - CIR_TYPE model successfully loaded!
+2025-04-14 12:46:41 - INFO - CIR_AMOUNT model successfully loaded!
+2025-04-14 12:46:42 - INFO - CIR_ROLE model successfully loaded!
+2025-04-14 12:46:42 - INFO - CIR_EQ model successfully loaded!
+2025-04-14 12:46:43 - INFO - REGRET model successfully loaded!
+2025-04-14 12:46:44 - INFO - RESPO model successfully loaded!
+2025-04-14 12:46:45 - INFO - CONFESSION model successfully loaded!
+2025-04-14 12:46:51 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-10-11-18588-3/sentence_predictions.csv
+2025-04-14 12:46:51 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-10-11-18588-3/sentence_probabilities.csv
+2025-04-14 12:46:51 - INFO - Finish predict case ME-10-11-18588-3
+2025-04-14 12:46:57 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-20-09-5778-327/sentence_predictions.csv
+2025-04-14 12:46:57 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-20-09-5778-327/sentence_probabilities.csv
+2025-04-14 12:46:57 - INFO - Finish predict case ME-20-09-5778-327
+2025-04-14 12:47:10 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-20-12-1338-335/sentence_predictions.csv
+2025-04-14 12:47:10 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-20-12-1338-335/sentence_probabilities.csv
+2025-04-14 12:47:10 - INFO - Finish predict case ME-20-12-1338-335
+2025-04-14 12:47:22 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-21-11-35998-405/sentence_predictions.csv
+2025-04-14 12:47:22 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-21-11-35998-405/sentence_probabilities.csv
+2025-04-14 12:47:22 - INFO - Finish predict case ME-21-11-35998-405
+2025-04-14 12:47:29 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-22-01-47042-277/sentence_predictions.csv
+2025-04-14 12:47:29 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-22-01-47042-277/sentence_probabilities.csv
+2025-04-14 12:47:29 - INFO - Finish predict case ME-22-01-47042-277
+2025-04-14 12:47:43 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-22-03-60484-11/sentence_predictions.csv
+2025-04-14 12:47:43 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-22-03-60484-11/sentence_probabilities.csv
+2025-04-14 12:47:43 - INFO - Finish predict case ME-22-03-60484-11
+2025-04-14 12:47:48 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-22-04-7867-732/sentence_predictions.csv
+2025-04-14 12:47:48 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-22-04-7867-732/sentence_probabilities.csv
+2025-04-14 12:47:48 - INFO - Finish predict case ME-22-04-7867-732
+2025-04-14 12:47:58 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-22-06-54208-991/sentence_predictions.csv
+2025-04-14 12:47:58 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-22-06-54208-991/sentence_probabilities.csv
+2025-04-14 12:47:58 - INFO - Finish predict case ME-22-06-54208-991
+2025-04-14 12:48:14 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-22-07-32175-327/sentence_predictions.csv
+2025-04-14 12:48:14 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-22-07-32175-327/sentence_probabilities.csv
+2025-04-14 12:48:14 - INFO - Finish predict case ME-22-07-32175-327
+2025-04-14 12:48:22 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-22-07-53625-139/sentence_predictions.csv
+2025-04-14 12:48:22 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-22-07-53625-139/sentence_probabilities.csv
+2025-04-14 12:48:22 - INFO - Finish predict case ME-22-07-53625-139
+2025-04-14 12:48:31 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-22-08-15747-700/sentence_predictions.csv
+2025-04-14 12:48:31 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-22-08-15747-700/sentence_probabilities.csv
+2025-04-14 12:48:31 - INFO - Finish predict case ME-22-08-15747-700
+2025-04-14 12:48:38 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-22-11-1990-79/sentence_predictions.csv
+2025-04-14 12:48:38 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-22-11-1990-79/sentence_probabilities.csv
+2025-04-14 12:48:38 - INFO - Finish predict case ME-22-11-1990-79
+2025-04-14 12:48:48 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-22-12-47987-640/sentence_predictions.csv
+2025-04-14 12:48:48 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-22-12-47987-640/sentence_probabilities.csv
+2025-04-14 12:48:48 - INFO - Finish predict case ME-22-12-47987-640
+2025-04-14 12:48:55 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-23-01-46786-206/sentence_predictions.csv
+2025-04-14 12:48:55 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-23-01-46786-206/sentence_probabilities.csv
+2025-04-14 12:48:55 - INFO - Finish predict case ME-23-01-46786-206
+2025-04-14 12:49:06 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-23-01-53640-602/sentence_predictions.csv
+2025-04-14 12:49:06 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-23-01-53640-602/sentence_probabilities.csv
+2025-04-14 12:49:06 - INFO - Finish predict case ME-23-01-53640-602
+2025-04-14 12:49:19 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-23-04-8444-574/sentence_predictions.csv
+2025-04-14 12:49:19 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-23-04-8444-574/sentence_probabilities.csv
+2025-04-14 12:49:19 - INFO - Finish predict case ME-23-04-8444-574
+2025-04-14 12:49:24 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-23-05-49875-541/sentence_predictions.csv
+2025-04-14 12:49:24 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-23-05-49875-541/sentence_probabilities.csv
+2025-04-14 12:49:24 - INFO - Finish predict case ME-23-05-49875-541
+2025-04-14 12:49:36 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-23-05-52567-993/sentence_predictions.csv
+2025-04-14 12:49:36 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-23-05-52567-993/sentence_probabilities.csv
+2025-04-14 12:49:36 - INFO - Finish predict case ME-23-05-52567-993
+2025-04-14 12:49:48 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-23-06-15727-546/sentence_predictions.csv
+2025-04-14 12:49:48 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-23-06-15727-546/sentence_probabilities.csv
+2025-04-14 12:49:48 - INFO - Finish predict case ME-23-06-15727-546
+2025-04-14 15:42:18 - INFO - CIR_PUNISHMENT model successfully loaded!
+2025-04-14 15:42:19 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-04-14 15:42:28 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-04-14 15:42:28 - INFO - CIR_TYPE model successfully loaded!
+2025-04-14 15:42:29 - INFO - CIR_AMOUNT model successfully loaded!
+2025-04-14 15:42:29 - INFO - CIR_ROLE model successfully loaded!
+2025-04-14 15:42:39 - INFO - CIR_EQ model successfully loaded!
+2025-04-14 15:42:48 - INFO - REGRET model successfully loaded!
+2025-04-14 15:42:59 - INFO - RESPO model successfully loaded!
+2025-04-14 15:42:59 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:42:59 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:42:59 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:42:59 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:42:59 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:42:59 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:42:59 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:42:59 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:42:59 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:42:59 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:42:59 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:00 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:00 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:00 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:00 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:00 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:00 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:00 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:00 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:00 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:00 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:00 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:00 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:00 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:00 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:00 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:01 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:01 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:01 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:01 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:01 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:01 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:01 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:01 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:01 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:01 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:01 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:01 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:01 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:01 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:01 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:02 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:02 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:02 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:02 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:02 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:02 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:02 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:02 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:02 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:02 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:02 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:02 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:02 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:02 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:02 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:03 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:03 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:03 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:03 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:03 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:03 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:03 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:03 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:03 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:03 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:03 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:03 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:03 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:03 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:03 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:04 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:04 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:04 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:04 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:04 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:04 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:04 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:04 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:04 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:04 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:04 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:04 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:04 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:04 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:04 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:05 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:05 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:05 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-10-11-18588-3/sentence_predictions.csv
+2025-04-14 15:43:05 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-10-11-18588-3/sentence_probabilities.csv
+2025-04-14 15:43:05 - INFO - Finish predict case ME-10-11-18588-3
+2025-04-14 15:43:05 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:05 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:05 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:05 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:05 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:05 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:05 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:05 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:05 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:05 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:05 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:05 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:06 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:06 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:06 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:06 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:06 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:06 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:06 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:06 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:06 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:06 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:06 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:06 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:06 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:06 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:06 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:07 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:07 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:07 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:07 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:07 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:07 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:07 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:07 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:07 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:07 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:07 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:07 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:07 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:07 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:07 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:08 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:08 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:08 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:08 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:08 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:08 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:08 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:08 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:08 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:08 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:08 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:08 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:08 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:08 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:08 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:09 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:09 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:09 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:09 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:09 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:09 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:09 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:09 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:09 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:09 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:09 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:09 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:09 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:43:09 - ERROR - Error predicting for label CONFESSION: 'NoneType' object has no attribute 'predict_proba'
+2025-04-14 15:46:00 - INFO - CIR_PUNISHMENT model successfully loaded!
+2025-04-14 15:46:31 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-04-14 15:46:31 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-04-14 15:46:32 - INFO - CIR_TYPE model successfully loaded!
+2025-04-14 15:46:33 - INFO - CIR_AMOUNT model successfully loaded!
+2025-04-14 15:46:34 - INFO - CIR_ROLE model successfully loaded!
+2025-04-14 15:46:35 - INFO - CIR_EQ model successfully loaded!
+2025-04-14 15:46:35 - INFO - REGRET model successfully loaded!
+2025-04-14 15:46:36 - INFO - RESPO model successfully loaded!
+2025-04-14 15:55:50 - INFO - CIR_PUNISHMENT model successfully loaded!
+2025-04-14 15:56:00 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-04-14 15:56:06 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-04-14 15:56:17 - INFO - CIR_TYPE model successfully loaded!
+2025-04-14 15:56:27 - INFO - CIR_AMOUNT model successfully loaded!
+2025-04-14 15:56:39 - INFO - CIR_ROLE model successfully loaded!
+2025-04-14 15:56:50 - INFO - CIR_EQ model successfully loaded!
+2025-04-14 15:56:56 - INFO - REGRET model successfully loaded!
+2025-04-14 15:57:04 - INFO - RESPO model successfully loaded!
+2025-04-14 15:57:18 - INFO - CONFESSION model successfully loaded!
+2025-04-14 15:57:27 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-10-11-18588-3/sentence_predictions.csv
+2025-04-14 15:57:27 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-10-11-18588-3/sentence_probabilities.csv
+2025-04-14 15:57:27 - INFO - Finish predict case ME-10-11-18588-3
+2025-04-14 15:57:34 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-20-09-5778-327/sentence_predictions.csv
+2025-04-14 15:57:34 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-20-09-5778-327/sentence_probabilities.csv
+2025-04-14 15:57:34 - INFO - Finish predict case ME-20-09-5778-327
+2025-04-14 15:57:49 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-20-12-1338-335/sentence_predictions.csv
+2025-04-14 15:57:49 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-20-12-1338-335/sentence_probabilities.csv
+2025-04-14 15:57:49 - INFO - Finish predict case ME-20-12-1338-335
+2025-04-14 15:58:01 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-21-11-35998-405/sentence_predictions.csv
+2025-04-14 15:58:01 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-21-11-35998-405/sentence_probabilities.csv
+2025-04-14 15:58:01 - INFO - Finish predict case ME-21-11-35998-405
+2025-04-14 15:58:08 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-22-01-47042-277/sentence_predictions.csv
+2025-04-14 15:58:08 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-22-01-47042-277/sentence_probabilities.csv
+2025-04-14 15:58:08 - INFO - Finish predict case ME-22-01-47042-277
+2025-04-14 15:58:23 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-22-03-60484-11/sentence_predictions.csv
+2025-04-14 15:58:23 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-22-03-60484-11/sentence_probabilities.csv
+2025-04-14 15:58:23 - INFO - Finish predict case ME-22-03-60484-11
+2025-04-14 15:58:29 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-22-04-7867-732/sentence_predictions.csv
+2025-04-14 15:58:29 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-22-04-7867-732/sentence_probabilities.csv
+2025-04-14 15:58:29 - INFO - Finish predict case ME-22-04-7867-732
+2025-04-14 15:58:40 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-22-06-54208-991/sentence_predictions.csv
+2025-04-14 15:58:40 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-22-06-54208-991/sentence_probabilities.csv
+2025-04-14 15:58:40 - INFO - Finish predict case ME-22-06-54208-991
+2025-04-14 15:58:58 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-22-07-32175-327/sentence_predictions.csv
+2025-04-14 15:58:58 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-22-07-32175-327/sentence_probabilities.csv
+2025-04-14 15:58:58 - INFO - Finish predict case ME-22-07-32175-327
+2025-04-14 15:59:08 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-22-07-53625-139/sentence_predictions.csv
+2025-04-14 15:59:08 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-22-07-53625-139/sentence_probabilities.csv
+2025-04-14 15:59:08 - INFO - Finish predict case ME-22-07-53625-139
+2025-04-14 15:59:17 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-22-08-15747-700/sentence_predictions.csv
+2025-04-14 15:59:17 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-22-08-15747-700/sentence_probabilities.csv
+2025-04-14 15:59:17 - INFO - Finish predict case ME-22-08-15747-700
+2025-04-14 15:59:26 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-22-11-1990-79/sentence_predictions.csv
+2025-04-14 15:59:26 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-22-11-1990-79/sentence_probabilities.csv
+2025-04-14 15:59:26 - INFO - Finish predict case ME-22-11-1990-79
+2025-04-14 15:59:35 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-22-12-47987-640/sentence_predictions.csv
+2025-04-14 15:59:35 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-22-12-47987-640/sentence_probabilities.csv
+2025-04-14 15:59:35 - INFO - Finish predict case ME-22-12-47987-640
+2025-04-14 15:59:42 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-23-01-46786-206/sentence_predictions.csv
+2025-04-14 15:59:42 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-23-01-46786-206/sentence_probabilities.csv
+2025-04-14 15:59:42 - INFO - Finish predict case ME-23-01-46786-206
+2025-04-14 15:59:54 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-23-01-53640-602/sentence_predictions.csv
+2025-04-14 15:59:54 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-23-01-53640-602/sentence_probabilities.csv
+2025-04-14 15:59:54 - INFO - Finish predict case ME-23-01-53640-602
+2025-04-14 16:00:09 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-23-04-8444-574/sentence_predictions.csv
+2025-04-14 16:00:09 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-23-04-8444-574/sentence_probabilities.csv
+2025-04-14 16:00:09 - INFO - Finish predict case ME-23-04-8444-574
+2025-04-14 16:00:14 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-23-05-49875-541/sentence_predictions.csv
+2025-04-14 16:00:14 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-23-05-49875-541/sentence_probabilities.csv
+2025-04-14 16:00:14 - INFO - Finish predict case ME-23-05-49875-541
+2025-04-14 16:00:27 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-23-05-52567-993/sentence_predictions.csv
+2025-04-14 16:00:27 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-23-05-52567-993/sentence_probabilities.csv
+2025-04-14 16:00:27 - INFO - Finish predict case ME-23-05-52567-993
+2025-04-14 16:00:41 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-23-06-15727-546/sentence_predictions.csv
+2025-04-14 16:00:41 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-23-06-15727-546/sentence_probabilities.csv
+2025-04-14 16:00:41 - INFO - Finish predict case ME-23-06-15727-546
+2025-04-14 16:00:48 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-23-08-41833-827/sentence_predictions.csv
+2025-04-14 16:00:48 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-23-08-41833-827/sentence_probabilities.csv
+2025-04-14 16:00:48 - INFO - Finish predict case ME-23-08-41833-827
+2025-04-14 16:00:56 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-23-12-14553-571/sentence_predictions.csv
+2025-04-14 16:00:56 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-23-12-14553-571/sentence_probabilities.csv
+2025-04-14 16:00:56 - INFO - Finish predict case ME-23-12-14553-571
+2025-04-14 16:00:57 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-24-07-35088-529/sentence_predictions.csv
+2025-04-14 16:00:57 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-24-07-35088-529/sentence_probabilities.csv
+2025-04-14 16:00:57 - INFO - Finish predict case ME-24-07-35088-529
+2025-04-14 16:01:20 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-24-07-35088-627/sentence_predictions.csv
+2025-04-14 16:01:20 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-24-07-35088-627/sentence_probabilities.csv
+2025-04-14 16:01:20 - INFO - Finish predict case ME-24-07-35088-627
+2025-04-14 16:01:35 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-13-09-29504-694/sentence_predictions.csv
+2025-04-14 16:01:35 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-13-09-29504-694/sentence_probabilities.csv
+2025-04-14 16:01:35 - INFO - Finish predict case SH-13-09-29504-694
+2025-04-14 16:01:47 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-15-05-13336-101/sentence_predictions.csv
+2025-04-14 16:01:47 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-15-05-13336-101/sentence_probabilities.csv
+2025-04-14 16:01:47 - INFO - Finish predict case SH-15-05-13336-101
+2025-04-14 16:01:52 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-16-12-19437-616/sentence_predictions.csv
+2025-04-14 16:01:52 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-16-12-19437-616/sentence_probabilities.csv
+2025-04-14 16:01:52 - INFO - Finish predict case SH-16-12-19437-616
+2025-04-14 16:02:03 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-17-07-16759-919/sentence_predictions.csv
+2025-04-14 16:02:03 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-17-07-16759-919/sentence_probabilities.csv
+2025-04-14 16:02:03 - INFO - Finish predict case SH-17-07-16759-919
+2025-04-14 16:02:10 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-17-10-12320-80/sentence_predictions.csv
+2025-04-14 16:02:10 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-17-10-12320-80/sentence_probabilities.csv
+2025-04-14 16:02:10 - INFO - Finish predict case SH-17-10-12320-80
+2025-04-14 16:02:19 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-19-02-58269-573/sentence_predictions.csv
+2025-04-14 16:02:19 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-19-02-58269-573/sentence_probabilities.csv
+2025-04-14 16:02:19 - INFO - Finish predict case SH-19-02-58269-573
+2025-04-14 16:02:37 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-19-03-50607-561/sentence_predictions.csv
+2025-04-14 16:02:37 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-19-03-50607-561/sentence_probabilities.csv
+2025-04-14 16:02:37 - INFO - Finish predict case SH-19-03-50607-561
+2025-04-14 16:02:48 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-19-05-41247-961/sentence_predictions.csv
+2025-04-14 16:02:48 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-19-05-41247-961/sentence_probabilities.csv
+2025-04-14 16:02:48 - INFO - Finish predict case SH-19-05-41247-961
+2025-04-14 16:02:55 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-19-06-45102-509/sentence_predictions.csv
+2025-04-14 16:02:55 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-19-06-45102-509/sentence_probabilities.csv
+2025-04-14 16:02:55 - INFO - Finish predict case SH-19-06-45102-509
+2025-04-14 16:03:11 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-19-11-18218-11/sentence_predictions.csv
+2025-04-14 16:03:11 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-19-11-18218-11/sentence_probabilities.csv
+2025-04-14 16:03:11 - INFO - Finish predict case SH-19-11-18218-11
+2025-04-14 16:03:21 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-19-11-6047-641/sentence_predictions.csv
+2025-04-14 16:03:21 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-19-11-6047-641/sentence_probabilities.csv
+2025-04-14 16:03:21 - INFO - Finish predict case SH-19-11-6047-641
+2025-04-14 16:03:30 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-19-12-65763-975/sentence_predictions.csv
+2025-04-14 16:03:30 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-19-12-65763-975/sentence_probabilities.csv
+2025-04-14 16:03:30 - INFO - Finish predict case SH-19-12-65763-975
+2025-04-14 16:03:35 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-20-05-28746-251/sentence_predictions.csv
+2025-04-14 16:03:35 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-20-05-28746-251/sentence_probabilities.csv
+2025-04-14 16:03:35 - INFO - Finish predict case SH-20-05-28746-251
+2025-04-14 16:03:40 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-20-06-12380-808/sentence_predictions.csv
+2025-04-14 16:03:40 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-20-06-12380-808/sentence_probabilities.csv
+2025-04-14 16:03:40 - INFO - Finish predict case SH-20-06-12380-808
+2025-04-14 16:03:52 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-20-06-57459-683/sentence_predictions.csv
+2025-04-14 16:03:52 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-20-06-57459-683/sentence_probabilities.csv
+2025-04-14 16:03:52 - INFO - Finish predict case SH-20-06-57459-683
+2025-04-14 16:04:01 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-20-08-24302-570/sentence_predictions.csv
+2025-04-14 16:04:01 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-20-08-24302-570/sentence_probabilities.csv
+2025-04-14 16:04:01 - INFO - Finish predict case SH-20-08-24302-570
+2025-04-14 16:04:14 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-20-09-43084-871/sentence_predictions.csv
+2025-04-14 16:04:14 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-20-09-43084-871/sentence_probabilities.csv
+2025-04-14 16:04:14 - INFO - Finish predict case SH-20-09-43084-871
+2025-04-14 16:04:20 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-21-02-39690-282/sentence_predictions.csv
+2025-04-14 16:04:20 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-21-02-39690-282/sentence_probabilities.csv
+2025-04-14 16:04:20 - INFO - Finish predict case SH-21-02-39690-282
+2025-04-14 16:04:27 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-21-02-40908-370/sentence_predictions.csv
+2025-04-14 16:04:27 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-21-02-40908-370/sentence_probabilities.csv
+2025-04-14 16:04:27 - INFO - Finish predict case SH-21-02-40908-370
+2025-04-14 16:04:37 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-21-03-10393-815/sentence_predictions.csv
+2025-04-14 16:04:37 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-21-03-10393-815/sentence_probabilities.csv
+2025-04-14 16:04:37 - INFO - Finish predict case SH-21-03-10393-815
+2025-04-14 16:04:42 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-21-03-56850-36/sentence_predictions.csv
+2025-04-14 16:04:42 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-21-03-56850-36/sentence_probabilities.csv
+2025-04-14 16:04:42 - INFO - Finish predict case SH-21-03-56850-36
+2025-04-14 16:04:51 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-21-03-7171-604/sentence_predictions.csv
+2025-04-14 16:04:51 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-21-03-7171-604/sentence_probabilities.csv
+2025-04-14 16:04:51 - INFO - Finish predict case SH-21-03-7171-604
+2025-04-14 16:04:57 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-21-08-36546-752/sentence_predictions.csv
+2025-04-14 16:04:57 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-21-08-36546-752/sentence_probabilities.csv
+2025-04-14 16:04:57 - INFO - Finish predict case SH-21-08-36546-752
+2025-04-14 16:05:09 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-21-09-42879-201/sentence_predictions.csv
+2025-04-14 16:05:09 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-21-09-42879-201/sentence_probabilities.csv
+2025-04-14 16:05:09 - INFO - Finish predict case SH-21-09-42879-201
+2025-04-14 16:05:13 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-21-10-30884-544/sentence_predictions.csv
+2025-04-14 16:05:13 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-21-10-30884-544/sentence_probabilities.csv
+2025-04-14 16:05:13 - INFO - Finish predict case SH-21-10-30884-544
+2025-04-14 16:05:22 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-21-11-9851-17/sentence_predictions.csv
+2025-04-14 16:05:22 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-21-11-9851-17/sentence_probabilities.csv
+2025-04-14 16:05:22 - INFO - Finish predict case SH-21-11-9851-17
+2025-04-14 16:05:28 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-21-12-59578-330/sentence_predictions.csv
+2025-04-14 16:05:28 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-21-12-59578-330/sentence_probabilities.csv
+2025-04-14 16:05:28 - INFO - Finish predict case SH-21-12-59578-330
+2025-04-14 16:05:35 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-22-01-16014-223/sentence_predictions.csv
+2025-04-14 16:05:35 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-22-01-16014-223/sentence_probabilities.csv
+2025-04-14 16:05:35 - INFO - Finish predict case SH-22-01-16014-223
+2025-04-14 16:05:49 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-22-01-21142-171/sentence_predictions.csv
+2025-04-14 16:05:49 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-22-01-21142-171/sentence_probabilities.csv
+2025-04-14 16:05:49 - INFO - Finish predict case SH-22-01-21142-171
+2025-04-14 16:06:03 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-22-01-30506-413/sentence_predictions.csv
+2025-04-14 16:06:03 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-22-01-30506-413/sentence_probabilities.csv
+2025-04-14 16:06:03 - INFO - Finish predict case SH-22-01-30506-413
+2025-04-14 16:06:07 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-22-01-33898-590/sentence_predictions.csv
+2025-04-14 16:06:07 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-22-01-33898-590/sentence_probabilities.csv
+2025-04-14 16:06:07 - INFO - Finish predict case SH-22-01-33898-590
+2025-04-14 16:06:16 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-22-03-40650-599/sentence_predictions.csv
+2025-04-14 16:06:16 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-22-03-40650-599/sentence_probabilities.csv
+2025-04-14 16:06:16 - INFO - Finish predict case SH-22-03-40650-599
+2025-04-14 18:18:24 - INFO - CIR_PUNISHMENT model successfully loaded!
+2025-04-14 18:18:25 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-04-14 18:18:25 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-04-14 18:18:26 - INFO - CIR_TYPE model successfully loaded!
+2025-04-14 18:18:26 - INFO - CIR_AMOUNT model successfully loaded!
+2025-04-14 18:18:27 - INFO - CIR_ROLE model successfully loaded!
+2025-04-14 18:18:27 - INFO - CIR_EQ model successfully loaded!
+2025-04-14 18:18:28 - INFO - REGRET model successfully loaded!
+2025-04-14 18:18:29 - INFO - RESPO model successfully loaded!
+2025-04-14 18:18:29 - INFO - CONFESSION model successfully loaded!
+2025-04-14 18:18:37 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-10-11-18588-3/sentence_predictions.csv
+2025-04-14 18:18:37 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-10-11-18588-3/sentence_probabilities.csv
+2025-04-14 18:18:37 - INFO - Finish predict case ME-10-11-18588-3
+2025-04-14 18:18:43 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-20-09-5778-327/sentence_predictions.csv
+2025-04-14 18:18:43 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-20-09-5778-327/sentence_probabilities.csv
+2025-04-14 18:18:43 - INFO - Finish predict case ME-20-09-5778-327
+2025-04-14 18:18:58 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-20-12-1338-335/sentence_predictions.csv
+2025-04-14 18:18:58 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-20-12-1338-335/sentence_probabilities.csv
+2025-04-14 18:18:58 - INFO - Finish predict case ME-20-12-1338-335
+2025-04-14 18:19:09 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-21-11-35998-405/sentence_predictions.csv
+2025-04-14 18:19:09 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-21-11-35998-405/sentence_probabilities.csv
+2025-04-14 18:19:09 - INFO - Finish predict case ME-21-11-35998-405
+2025-04-14 18:19:16 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-22-01-47042-277/sentence_predictions.csv
+2025-04-14 18:19:16 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-22-01-47042-277/sentence_probabilities.csv
+2025-04-14 18:19:16 - INFO - Finish predict case ME-22-01-47042-277
+2025-04-14 18:19:32 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-22-03-60484-11/sentence_predictions.csv
+2025-04-14 18:19:32 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-22-03-60484-11/sentence_probabilities.csv
+2025-04-14 18:19:32 - INFO - Finish predict case ME-22-03-60484-11
+2025-04-14 18:19:38 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-22-04-7867-732/sentence_predictions.csv
+2025-04-14 18:19:38 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-22-04-7867-732/sentence_probabilities.csv
+2025-04-14 18:19:38 - INFO - Finish predict case ME-22-04-7867-732
+2025-04-14 18:19:49 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-22-06-54208-991/sentence_predictions.csv
+2025-04-14 18:19:49 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-22-06-54208-991/sentence_probabilities.csv
+2025-04-14 18:19:49 - INFO - Finish predict case ME-22-06-54208-991
+2025-04-14 18:20:06 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-22-07-32175-327/sentence_predictions.csv
+2025-04-14 18:20:06 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-22-07-32175-327/sentence_probabilities.csv
+2025-04-14 18:20:06 - INFO - Finish predict case ME-22-07-32175-327
+2025-04-14 18:20:16 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-22-07-53625-139/sentence_predictions.csv
+2025-04-14 18:20:16 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-22-07-53625-139/sentence_probabilities.csv
+2025-04-14 18:20:16 - INFO - Finish predict case ME-22-07-53625-139
+2025-04-14 18:20:25 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-22-08-15747-700/sentence_predictions.csv
+2025-04-14 18:20:25 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-22-08-15747-700/sentence_probabilities.csv
+2025-04-14 18:20:25 - INFO - Finish predict case ME-22-08-15747-700
+2025-04-14 18:20:34 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-22-11-1990-79/sentence_predictions.csv
+2025-04-14 18:20:34 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-22-11-1990-79/sentence_probabilities.csv
+2025-04-14 18:20:34 - INFO - Finish predict case ME-22-11-1990-79
+2025-04-14 18:20:43 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-22-12-47987-640/sentence_predictions.csv
+2025-04-14 18:20:43 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-22-12-47987-640/sentence_probabilities.csv
+2025-04-14 18:20:43 - INFO - Finish predict case ME-22-12-47987-640
+2025-04-14 18:20:50 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-23-01-46786-206/sentence_predictions.csv
+2025-04-14 18:20:50 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-23-01-46786-206/sentence_probabilities.csv
+2025-04-14 18:20:50 - INFO - Finish predict case ME-23-01-46786-206
+2025-04-14 18:21:01 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-23-01-53640-602/sentence_predictions.csv
+2025-04-14 18:21:01 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-23-01-53640-602/sentence_probabilities.csv
+2025-04-14 18:21:01 - INFO - Finish predict case ME-23-01-53640-602
+2025-04-14 18:21:16 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-23-04-8444-574/sentence_predictions.csv
+2025-04-14 18:21:16 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-23-04-8444-574/sentence_probabilities.csv
+2025-04-14 18:21:16 - INFO - Finish predict case ME-23-04-8444-574
+2025-04-14 18:21:21 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-23-05-49875-541/sentence_predictions.csv
+2025-04-14 18:21:21 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-23-05-49875-541/sentence_probabilities.csv
+2025-04-14 18:21:21 - INFO - Finish predict case ME-23-05-49875-541
+2025-04-14 18:21:35 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-23-05-52567-993/sentence_predictions.csv
+2025-04-14 18:21:35 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-23-05-52567-993/sentence_probabilities.csv
+2025-04-14 18:21:35 - INFO - Finish predict case ME-23-05-52567-993
+2025-04-14 18:22:00 - INFO - CIR_PUNISHMENT model successfully loaded!
+2025-04-14 18:22:01 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-04-14 18:22:08 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-04-14 18:22:08 - INFO - reject model successfully loaded!
+2025-04-14 18:22:09 - INFO - CIR_TYPE model successfully loaded!
+2025-04-14 18:22:09 - INFO - CIR_AMOUNT model successfully loaded!
+2025-04-14 18:22:11 - INFO - CIR_ROLE model successfully loaded!
+2025-04-14 18:22:11 - INFO - CIR_EQ model successfully loaded!
+2025-04-14 18:22:12 - INFO - REGRET model successfully loaded!
+2025-04-14 18:22:12 - INFO - RESPO model successfully loaded!
+2025-04-14 18:22:13 - INFO - CONFESSION model successfully loaded!
+2025-04-14 18:22:21 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-10-11-18588-3/sentence_predictions.csv
+2025-04-14 18:22:21 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-10-11-18588-3/sentence_probabilities.csv
+2025-04-14 18:22:21 - INFO - Finish predict case ME-10-11-18588-3
+2025-04-14 18:22:28 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-20-09-5778-327/sentence_predictions.csv
+2025-04-14 18:22:28 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-20-09-5778-327/sentence_probabilities.csv
+2025-04-14 18:22:28 - INFO - Finish predict case ME-20-09-5778-327
+2025-04-14 18:22:44 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-20-12-1338-335/sentence_predictions.csv
+2025-04-14 18:22:44 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-20-12-1338-335/sentence_probabilities.csv
+2025-04-14 18:22:44 - INFO - Finish predict case ME-20-12-1338-335
+2025-04-14 18:22:57 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-21-11-35998-405/sentence_predictions.csv
+2025-04-14 18:22:57 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-21-11-35998-405/sentence_probabilities.csv
+2025-04-14 18:22:57 - INFO - Finish predict case ME-21-11-35998-405
+2025-04-14 18:23:04 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-22-01-47042-277/sentence_predictions.csv
+2025-04-14 18:23:04 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-22-01-47042-277/sentence_probabilities.csv
+2025-04-14 18:23:04 - INFO - Finish predict case ME-22-01-47042-277
+2025-04-14 18:23:21 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-22-03-60484-11/sentence_predictions.csv
+2025-04-14 18:23:21 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-22-03-60484-11/sentence_probabilities.csv
+2025-04-14 18:23:21 - INFO - Finish predict case ME-22-03-60484-11
+2025-04-14 18:23:28 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-22-04-7867-732/sentence_predictions.csv
+2025-04-14 18:23:28 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-22-04-7867-732/sentence_probabilities.csv
+2025-04-14 18:23:28 - INFO - Finish predict case ME-22-04-7867-732
+2025-04-14 18:23:40 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-22-06-54208-991/sentence_predictions.csv
+2025-04-14 18:23:40 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-22-06-54208-991/sentence_probabilities.csv
+2025-04-14 18:23:40 - INFO - Finish predict case ME-22-06-54208-991
+2025-04-14 18:23:59 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-22-07-32175-327/sentence_predictions.csv
+2025-04-14 18:23:59 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-22-07-32175-327/sentence_probabilities.csv
+2025-04-14 18:23:59 - INFO - Finish predict case ME-22-07-32175-327
+2025-04-14 18:24:10 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-22-07-53625-139/sentence_predictions.csv
+2025-04-14 18:24:10 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-22-07-53625-139/sentence_probabilities.csv
+2025-04-14 18:24:10 - INFO - Finish predict case ME-22-07-53625-139
+2025-04-14 18:24:20 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-22-08-15747-700/sentence_predictions.csv
+2025-04-14 18:24:20 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-22-08-15747-700/sentence_probabilities.csv
+2025-04-14 18:24:20 - INFO - Finish predict case ME-22-08-15747-700
+2025-04-14 18:24:30 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-22-11-1990-79/sentence_predictions.csv
+2025-04-14 18:24:30 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-22-11-1990-79/sentence_probabilities.csv
+2025-04-14 18:24:30 - INFO - Finish predict case ME-22-11-1990-79
+2025-04-14 18:24:40 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-22-12-47987-640/sentence_predictions.csv
+2025-04-14 18:24:40 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-22-12-47987-640/sentence_probabilities.csv
+2025-04-14 18:24:40 - INFO - Finish predict case ME-22-12-47987-640
+2025-04-14 18:24:47 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-23-01-46786-206/sentence_predictions.csv
+2025-04-14 18:24:47 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-23-01-46786-206/sentence_probabilities.csv
+2025-04-14 18:24:47 - INFO - Finish predict case ME-23-01-46786-206
+2025-04-14 18:25:00 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-23-01-53640-602/sentence_predictions.csv
+2025-04-14 18:25:00 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-23-01-53640-602/sentence_probabilities.csv
+2025-04-14 18:25:00 - INFO - Finish predict case ME-23-01-53640-602
+2025-04-14 18:25:16 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-23-04-8444-574/sentence_predictions.csv
+2025-04-14 18:25:16 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-23-04-8444-574/sentence_probabilities.csv
+2025-04-14 18:25:16 - INFO - Finish predict case ME-23-04-8444-574
+2025-04-14 18:25:21 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-23-05-49875-541/sentence_predictions.csv
+2025-04-14 18:25:21 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-23-05-49875-541/sentence_probabilities.csv
+2025-04-14 18:25:21 - INFO - Finish predict case ME-23-05-49875-541
+2025-04-14 18:25:36 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-23-05-52567-993/sentence_predictions.csv
+2025-04-14 18:25:36 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-23-05-52567-993/sentence_probabilities.csv
+2025-04-14 18:25:36 - INFO - Finish predict case ME-23-05-52567-993
+2025-04-14 18:25:51 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-23-06-15727-546/sentence_predictions.csv
+2025-04-14 18:25:51 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-23-06-15727-546/sentence_probabilities.csv
+2025-04-14 18:25:51 - INFO - Finish predict case ME-23-06-15727-546
+2025-04-14 18:25:59 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-23-08-41833-827/sentence_predictions.csv
+2025-04-14 18:25:59 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-23-08-41833-827/sentence_probabilities.csv
+2025-04-14 18:25:59 - INFO - Finish predict case ME-23-08-41833-827
+2025-04-14 18:26:07 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-23-12-14553-571/sentence_predictions.csv
+2025-04-14 18:26:07 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-23-12-14553-571/sentence_probabilities.csv
+2025-04-14 18:26:07 - INFO - Finish predict case ME-23-12-14553-571
+2025-04-14 18:26:09 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-24-07-35088-529/sentence_predictions.csv
+2025-04-14 18:26:09 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-24-07-35088-529/sentence_probabilities.csv
+2025-04-14 18:26:09 - INFO - Finish predict case ME-24-07-35088-529
+2025-04-14 18:26:33 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-24-07-35088-627/sentence_predictions.csv
+2025-04-14 18:26:33 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-24-07-35088-627/sentence_probabilities.csv
+2025-04-14 18:26:33 - INFO - Finish predict case ME-24-07-35088-627
+2025-04-14 18:26:49 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-13-09-29504-694/sentence_predictions.csv
+2025-04-14 18:26:49 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-13-09-29504-694/sentence_probabilities.csv
+2025-04-14 18:26:49 - INFO - Finish predict case SH-13-09-29504-694
+2025-04-14 18:27:02 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-15-05-13336-101/sentence_predictions.csv
+2025-04-14 18:27:02 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-15-05-13336-101/sentence_probabilities.csv
+2025-04-14 18:27:02 - INFO - Finish predict case SH-15-05-13336-101
+2025-04-14 18:27:08 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-16-12-19437-616/sentence_predictions.csv
+2025-04-14 18:27:08 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-16-12-19437-616/sentence_probabilities.csv
+2025-04-14 18:27:08 - INFO - Finish predict case SH-16-12-19437-616
+2025-04-14 18:27:20 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-17-07-16759-919/sentence_predictions.csv
+2025-04-14 18:27:20 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-17-07-16759-919/sentence_probabilities.csv
+2025-04-14 18:27:20 - INFO - Finish predict case SH-17-07-16759-919
+2025-04-14 18:27:27 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-17-10-12320-80/sentence_predictions.csv
+2025-04-14 18:27:27 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-17-10-12320-80/sentence_probabilities.csv
+2025-04-14 18:27:27 - INFO - Finish predict case SH-17-10-12320-80
+2025-04-14 18:27:36 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-19-02-58269-573/sentence_predictions.csv
+2025-04-14 18:27:36 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-19-02-58269-573/sentence_probabilities.csv
+2025-04-14 18:27:37 - INFO - Finish predict case SH-19-02-58269-573
+2025-04-14 18:27:56 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-19-03-50607-561/sentence_predictions.csv
+2025-04-14 18:27:56 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-19-03-50607-561/sentence_probabilities.csv
+2025-04-14 18:27:56 - INFO - Finish predict case SH-19-03-50607-561
+2025-04-14 18:28:08 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-19-05-41247-961/sentence_predictions.csv
+2025-04-14 18:28:08 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-19-05-41247-961/sentence_probabilities.csv
+2025-04-14 18:28:08 - INFO - Finish predict case SH-19-05-41247-961
+2025-04-14 18:28:15 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-19-06-45102-509/sentence_predictions.csv
+2025-04-14 18:28:15 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-19-06-45102-509/sentence_probabilities.csv
+2025-04-14 18:28:15 - INFO - Finish predict case SH-19-06-45102-509
+2025-04-14 18:28:32 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-19-11-18218-11/sentence_predictions.csv
+2025-04-14 18:28:32 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-19-11-18218-11/sentence_probabilities.csv
+2025-04-14 18:28:32 - INFO - Finish predict case SH-19-11-18218-11
+2025-04-14 18:28:44 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-19-11-6047-641/sentence_predictions.csv
+2025-04-14 18:28:44 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-19-11-6047-641/sentence_probabilities.csv
+2025-04-14 18:28:44 - INFO - Finish predict case SH-19-11-6047-641
+2025-04-14 18:28:53 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-19-12-65763-975/sentence_predictions.csv
+2025-04-14 18:28:53 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-19-12-65763-975/sentence_probabilities.csv
+2025-04-14 18:28:53 - INFO - Finish predict case SH-19-12-65763-975
+2025-04-14 18:28:59 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-20-05-28746-251/sentence_predictions.csv
+2025-04-14 18:28:59 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-20-05-28746-251/sentence_probabilities.csv
+2025-04-14 18:28:59 - INFO - Finish predict case SH-20-05-28746-251
+2025-04-14 18:29:04 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-20-06-12380-808/sentence_predictions.csv
+2025-04-14 18:29:04 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-20-06-12380-808/sentence_probabilities.csv
+2025-04-14 18:29:04 - INFO - Finish predict case SH-20-06-12380-808
+2025-04-14 18:29:17 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-20-06-57459-683/sentence_predictions.csv
+2025-04-14 18:29:17 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-20-06-57459-683/sentence_probabilities.csv
+2025-04-14 18:29:17 - INFO - Finish predict case SH-20-06-57459-683
+2025-04-14 18:29:26 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-20-08-24302-570/sentence_predictions.csv
+2025-04-14 18:29:26 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-20-08-24302-570/sentence_probabilities.csv
+2025-04-14 18:29:26 - INFO - Finish predict case SH-20-08-24302-570
+2025-04-14 18:29:41 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-20-09-43084-871/sentence_predictions.csv
+2025-04-14 18:29:41 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-20-09-43084-871/sentence_probabilities.csv
+2025-04-14 18:29:41 - INFO - Finish predict case SH-20-09-43084-871
+2025-04-14 18:29:47 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-21-02-39690-282/sentence_predictions.csv
+2025-04-14 18:29:47 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-21-02-39690-282/sentence_probabilities.csv
+2025-04-14 18:29:47 - INFO - Finish predict case SH-21-02-39690-282
+2025-04-14 18:29:55 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-21-02-40908-370/sentence_predictions.csv
+2025-04-14 18:29:55 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-21-02-40908-370/sentence_probabilities.csv
+2025-04-14 18:29:55 - INFO - Finish predict case SH-21-02-40908-370
+2025-04-14 18:30:05 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-21-03-10393-815/sentence_predictions.csv
+2025-04-14 18:30:05 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-21-03-10393-815/sentence_probabilities.csv
+2025-04-14 18:30:05 - INFO - Finish predict case SH-21-03-10393-815
+2025-04-14 18:30:12 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-21-03-56850-36/sentence_predictions.csv
+2025-04-14 18:30:12 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-21-03-56850-36/sentence_probabilities.csv
+2025-04-14 18:30:12 - INFO - Finish predict case SH-21-03-56850-36
+2025-04-14 18:30:21 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-21-03-7171-604/sentence_predictions.csv
+2025-04-14 18:30:21 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-21-03-7171-604/sentence_probabilities.csv
+2025-04-14 18:30:21 - INFO - Finish predict case SH-21-03-7171-604
+2025-04-14 18:30:27 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-21-08-36546-752/sentence_predictions.csv
+2025-04-14 18:30:27 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-21-08-36546-752/sentence_probabilities.csv
+2025-04-14 18:30:27 - INFO - Finish predict case SH-21-08-36546-752
+2025-04-14 18:30:40 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-21-09-42879-201/sentence_predictions.csv
+2025-04-14 18:30:40 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-21-09-42879-201/sentence_probabilities.csv
+2025-04-14 18:30:40 - INFO - Finish predict case SH-21-09-42879-201
+2025-04-14 18:30:44 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-21-10-30884-544/sentence_predictions.csv
+2025-04-14 18:30:44 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-21-10-30884-544/sentence_probabilities.csv
+2025-04-14 18:30:44 - INFO - Finish predict case SH-21-10-30884-544
+2025-04-14 18:30:54 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-21-11-9851-17/sentence_predictions.csv
+2025-04-14 18:30:54 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-21-11-9851-17/sentence_probabilities.csv
+2025-04-14 18:30:54 - INFO - Finish predict case SH-21-11-9851-17
+2025-04-14 18:30:59 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-21-12-59578-330/sentence_predictions.csv
+2025-04-14 18:30:59 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-21-12-59578-330/sentence_probabilities.csv
+2025-04-14 18:30:59 - INFO - Finish predict case SH-21-12-59578-330
+2025-04-14 18:31:07 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-22-01-16014-223/sentence_predictions.csv
+2025-04-14 18:31:07 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-22-01-16014-223/sentence_probabilities.csv
+2025-04-14 18:31:07 - INFO - Finish predict case SH-22-01-16014-223
+2025-04-14 18:31:22 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-22-01-21142-171/sentence_predictions.csv
+2025-04-14 18:31:22 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-22-01-21142-171/sentence_probabilities.csv
+2025-04-14 18:31:22 - INFO - Finish predict case SH-22-01-21142-171
+2025-04-14 18:31:36 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-22-01-30506-413/sentence_predictions.csv
+2025-04-14 18:31:36 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-22-01-30506-413/sentence_probabilities.csv
+2025-04-14 18:31:36 - INFO - Finish predict case SH-22-01-30506-413
+2025-04-14 18:31:41 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-22-01-33898-590/sentence_predictions.csv
+2025-04-14 18:31:41 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-22-01-33898-590/sentence_probabilities.csv
+2025-04-14 18:31:41 - INFO - Finish predict case SH-22-01-33898-590
+2025-04-14 18:31:50 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-22-03-40650-599/sentence_predictions.csv
+2025-04-14 18:31:50 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-22-03-40650-599/sentence_probabilities.csv
+2025-04-14 18:31:50 - INFO - Finish predict case SH-22-03-40650-599
+2025-04-14 18:31:57 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-22-03-62924-190/sentence_predictions.csv
+2025-04-14 18:31:57 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-22-03-62924-190/sentence_probabilities.csv
+2025-04-14 18:31:57 - INFO - Finish predict case SH-22-03-62924-190
+2025-04-14 18:32:12 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-22-05-36033-112/sentence_predictions.csv
+2025-04-14 18:32:12 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-22-05-36033-112/sentence_probabilities.csv
+2025-04-14 18:32:12 - INFO - Finish predict case SH-22-05-36033-112
+2025-04-14 18:32:18 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-22-05-39259-133/sentence_predictions.csv
+2025-04-14 18:32:18 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-22-05-39259-133/sentence_probabilities.csv
+2025-04-14 18:32:18 - INFO - Finish predict case SH-22-05-39259-133
+2025-04-14 18:32:28 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-22-08-21724-809/sentence_predictions.csv
+2025-04-14 18:32:28 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-22-08-21724-809/sentence_probabilities.csv
+2025-04-14 18:32:28 - INFO - Finish predict case SH-22-08-21724-809
+2025-04-14 18:32:35 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-22-11-37606-732/sentence_predictions.csv
+2025-04-14 18:32:35 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-22-11-37606-732/sentence_probabilities.csv
+2025-04-14 18:32:35 - INFO - Finish predict case SH-22-11-37606-732
+2025-04-14 18:32:55 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-22-11-64232-785/sentence_predictions.csv
+2025-04-14 18:32:55 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-22-11-64232-785/sentence_probabilities.csv
+2025-04-14 18:32:55 - INFO - Finish predict case SH-22-11-64232-785
+2025-04-14 18:33:00 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-22-12-20664-221/sentence_predictions.csv
+2025-04-14 18:33:00 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-22-12-20664-221/sentence_probabilities.csv
+2025-04-14 18:33:00 - INFO - Finish predict case SH-22-12-20664-221
+2025-04-14 18:33:04 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-23-03-20257-157/sentence_predictions.csv
+2025-04-14 18:33:04 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-23-03-20257-157/sentence_probabilities.csv
+2025-04-14 18:33:04 - INFO - Finish predict case SH-23-03-20257-157
+2025-04-14 18:33:08 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-23-05-72468-401/sentence_predictions.csv
+2025-04-14 18:33:08 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-23-05-72468-401/sentence_probabilities.csv
+2025-04-14 18:33:08 - INFO - Finish predict case SH-23-05-72468-401
+2025-04-14 18:33:16 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-23-08-30009-79/sentence_predictions.csv
+2025-04-14 18:33:16 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-23-08-30009-79/sentence_probabilities.csv
+2025-04-14 18:33:16 - INFO - Finish predict case SH-23-08-30009-79
+2025-04-14 18:33:24 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-23-09-35299-260/sentence_predictions.csv
+2025-04-14 18:33:24 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-23-09-35299-260/sentence_probabilities.csv
+2025-04-14 18:33:24 - INFO - Finish predict case SH-23-09-35299-260
+2025-04-14 18:33:36 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-24-01-26596-264/sentence_predictions.csv
+2025-04-14 18:33:36 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-24-01-26596-264/sentence_probabilities.csv
+2025-04-14 18:33:36 - INFO - Finish predict case SH-24-01-26596-264
+2025-04-14 18:33:49 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-24-01-9804-702/sentence_predictions.csv
+2025-04-14 18:33:49 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-24-01-9804-702/sentence_probabilities.csv
+2025-04-14 18:33:49 - INFO - Finish predict case SH-24-01-9804-702
+2025-04-14 18:33:56 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-24-05-28565-553/sentence_predictions.csv
+2025-04-14 18:33:56 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-24-05-28565-553/sentence_probabilities.csv
+2025-04-14 18:33:56 - INFO - Finish predict case SH-24-05-28565-553
+2025-04-14 18:34:05 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/SH-24-05-46424-585/sentence_predictions.csv
+2025-04-14 18:34:05 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/SH-24-05-46424-585/sentence_probabilities.csv
+2025-04-14 18:34:05 - INFO - Finish predict case SH-24-05-46424-585
+2025-04-14 18:34:27 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-18-08-58591-978/sentence_predictions.csv
+2025-04-14 18:34:27 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-18-08-58591-978/sentence_probabilities.csv
+2025-04-14 18:34:27 - INFO - Finish predict case ME-18-08-58591-978
+2025-04-14 18:34:34 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-18-08-8864-290/sentence_predictions.csv
+2025-04-14 18:34:34 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-18-08-8864-290/sentence_probabilities.csv
+2025-04-14 18:34:34 - INFO - Finish predict case ME-18-08-8864-290
+2025-04-14 18:34:49 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-18-01-73652-357/sentence_predictions.csv
+2025-04-14 18:34:49 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-18-01-73652-357/sentence_probabilities.csv
+2025-04-14 18:34:49 - INFO - Finish predict case ME-18-01-73652-357
+2025-04-14 18:35:03 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-17-03-30876-747/sentence_predictions.csv
+2025-04-14 18:35:03 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-17-03-30876-747/sentence_probabilities.csv
+2025-04-14 18:35:03 - INFO - Finish predict case ME-17-03-30876-747
+2025-04-14 18:35:13 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-17-01-620-279/sentence_predictions.csv
+2025-04-14 18:35:13 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-17-01-620-279/sentence_probabilities.csv
+2025-04-14 18:35:13 - INFO - Finish predict case ME-17-01-620-279
+2025-04-14 18:35:22 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/drugs/ME-16-11-63255-338/sentence_predictions.csv
+2025-04-14 18:35:22 - INFO - Probabilities saved to /home/tak/MOJ/results/db/drugs/ME-16-11-63255-338/sentence_probabilities.csv
+2025-04-14 18:35:22 - INFO - Finish predict case ME-16-11-63255-338

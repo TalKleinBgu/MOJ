@@ -1,0 +1,49 @@
+2025-04-20 16:35:43 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/stratify_sentences_50_40_10
+2025-04-20 16:35:43 - INFO - Starting training for label: CIRCUM_OFFENSE
+2025-04-20 16:35:44 - INFO - Starting training for model: dictabert
+2025-04-20 17:27:26 - INFO - Metrics for CIRCUM_OFFENSE with model dictabert: {'accuracy': 0.9391100702576113, 'precision': 0.7283950617283951, 'recall': 0.9365079365079365, 'f1': 0.8194444444444444, 'f2': 0.8858858858858859, 'PRAUC': 0.7714057248688582, 'AUC': 0.9612768184196755, 'best_threshold': 0.9999960660934448}
+2025-04-20 17:27:29 - INFO - Starting training for label: GENERAL_CIRCUM
+2025-04-20 17:27:30 - INFO - Starting training for model: dictabert
+2025-04-20 19:02:27 - INFO - Metrics for GENERAL_CIRCUM with model dictabert: {'accuracy': 0.9078844652615145, 'precision': 0.7302052785923754, 'recall': 0.9054545454545454, 'f1': 0.8084415584415584, 'f2': 0.8639833448993754, 'PRAUC': 0.7552173633658362, 'AUC': 0.9350984999096332, 'best_threshold': 0.9999784231185913}
+2025-04-20 19:02:31 - INFO - Starting training for label: PUNISHMENT
+2025-04-20 19:02:31 - INFO - Starting training for model: dictabert
+2025-04-20 19:13:05 - INFO - Metrics for PUNISHMENT with model dictabert: {'accuracy': 0.9867291178766588, 'precision': 0.8148148148148148, 'recall': 0.8627450980392157, 'f1': 0.8380952380952381, 'f2': 0.8527131782945736, 'PRAUC': 0.8469606542849081, 'AUC': 0.9935756416387692, 'best_threshold': 0.9999886751174927}
+2025-04-20 19:13:08 - INFO - Starting training for label: CIR_STATUS_WEP
+2025-04-20 19:13:08 - INFO - Starting training for model: dictabert
+2025-04-20 19:23:51 - INFO - Metrics for CIR_STATUS_WEP with model dictabert: {'accuracy': 0.9804839968774395, 'precision': 0.72, 'recall': 0.7659574468085106, 'f1': 0.7422680412371134, 'f2': 0.7563025210084033, 'PRAUC': 0.7657770765007761, 'AUC': 0.9880513121142107, 'best_threshold': 0.9999933242797852}
+2025-04-20 19:23:56 - INFO - Starting training for label: CIR_HELD_WAY_WEP
+2025-04-20 19:23:56 - INFO - Starting training for model: dictabert
+2025-04-20 19:35:18 - INFO - Metrics for CIR_HELD_WAY_WEP with model dictabert: {'accuracy': 0.9750195160031225, 'precision': 0.68, 'recall': 0.68, 'f1': 0.68, 'f2': 0.68, 'PRAUC': 0.7122493844693809, 'AUC': 0.9796263200649877, 'best_threshold': 0.9999853372573853}
+2025-04-20 19:35:23 - INFO - Starting training for label: CIR_PURPOSE
+2025-04-20 19:35:23 - INFO - Starting training for model: dictabert
+2025-04-20 19:45:28 - INFO - Metrics for CIR_PURPOSE with model dictabert: {'accuracy': 0.9797033567525371, 'precision': 0.5666666666666667, 'recall': 0.5666666666666667, 'f1': 0.5666666666666667, 'f2': 0.5666666666666667, 'PRAUC': 0.46336945867460283, 'AUC': 0.9653610444977352, 'best_threshold': 0.9999685287475586}
+2025-04-20 19:45:32 - INFO - Starting training for label: CIR_AMMU_AMOUNT_WEP
+2025-04-20 19:45:32 - INFO - Starting training for model: dictabert
+2025-04-20 19:55:06 - INFO - Metrics for CIR_AMMU_AMOUNT_WEP with model dictabert: {'accuracy': 0.9804839968774395, 'precision': 0.6046511627906976, 'recall': 0.7647058823529411, 'f1': 0.6753246753246753, 'f2': 0.7262569832402235, 'PRAUC': 0.6797582058083939, 'AUC': 0.9689961790650503, 'best_threshold': 0.9999499320983887}
+2025-04-20 19:55:11 - INFO - Starting training for label: CIR_OBTAIN_WAY_WEP
+2025-04-20 19:55:11 - INFO - Starting training for model: dictabert
+2025-04-20 20:05:04 - INFO - Metrics for CIR_OBTAIN_WAY_WEP with model dictabert: {'accuracy': 0.9406713505074161, 'precision': 0.1111111111111111, 'recall': 0.4, 'f1': 0.17391304347826086, 'f2': 0.2631578947368421, 'PRAUC': 0.08702139955547235, 'AUC': 0.8963719270420301, 'best_threshold': 0.9999470710754395}
+2025-04-20 20:05:10 - INFO - Starting training for label: CIR_BUYER_ID_WEP
+2025-04-20 20:05:10 - ERROR - Error in label CIR_BUYER_ID_WEP: 'CIR_BUYER_ID_WEP'
+2025-04-20 20:05:10 - INFO - Starting training for label: CIR_TYPE_WEP
+2025-04-20 20:05:10 - INFO - Starting training for model: dictabert
+2025-04-20 20:23:44 - INFO - Metrics for CIR_TYPE_WEP with model dictabert: {'accuracy': 0.9875097580015613, 'precision': 0.875, 'recall': 0.9905660377358491, 'f1': 0.9292035398230089, 'f2': 0.9650735294117647, 'PRAUC': 0.9223947474699206, 'AUC': 0.9911200321156162, 'best_threshold': 0.999868631362915}
+2025-04-20 20:23:47 - INFO - Starting training for label: CIR_MONEY_PAID_WEP
+2025-04-20 20:23:47 - ERROR - Error in label CIR_MONEY_PAID_WEP: 'CIR_MONEY_PAID_WEP'
+2025-04-20 20:23:47 - INFO - Starting training for label: CIR_USE
+2025-04-20 20:23:47 - INFO - Starting training for model: dictabert
+2025-04-20 20:34:47 - INFO - Metrics for CIR_USE with model dictabert: {'accuracy': 0.960967993754879, 'precision': 0.49382716049382713, 'recall': 0.8163265306122449, 'f1': 0.6153846153846154, 'f2': 0.7220216606498195, 'PRAUC': 0.6285857108381918, 'AUC': 0.9776371587596078, 'best_threshold': 0.9999862909317017}
+2025-04-20 20:34:51 - INFO - Starting training for label: CIR_PLANNING
+2025-04-20 20:34:51 - INFO - Starting training for model: dictabert
+2025-04-20 20:47:10 - INFO - Metrics for CIR_PLANNING with model dictabert: {'accuracy': 0.9914129586260734, 'precision': 0.8181818181818182, 'recall': 0.5, 'f1': 0.6206896551724138, 'f2': 0.5421686746987951, 'PRAUC': 0.6536087440758135, 'AUC': 0.9877276326207443, 'best_threshold': 0.9994074106216431}
+2025-04-20 20:47:13 - INFO - Starting training for label: RESPO
+2025-04-20 20:47:13 - INFO - Starting training for model: dictabert
+2025-04-20 20:56:43 - INFO - Metrics for RESPO with model dictabert: {'accuracy': 0.9937548790007806, 'precision': 0.8709677419354839, 'recall': 0.8709677419354839, 'f1': 0.8709677419354839, 'f2': 0.8709677419354839, 'PRAUC': 0.9375761456815104, 'AUC': 0.9984387096774193, 'best_threshold': 0.9999912977218628}
+2025-04-20 20:56:46 - INFO - Starting training for label: REGRET
+2025-04-20 20:56:46 - INFO - Starting training for model: dictabert
+2025-04-20 21:05:45 - INFO - Metrics for REGRET with model dictabert: {'accuracy': 0.9859484777517564, 'precision': 0.53125, 'recall': 0.85, 'f1': 0.6538461538461539, 'f2': 0.7589285714285714, 'PRAUC': 0.6824910660884659, 'AUC': 0.9913560666137986, 'best_threshold': 0.9997811913490295}
+2025-04-20 21:05:48 - INFO - Starting training for label: CONFESSION
+2025-04-20 21:05:48 - INFO - Starting training for model: dictabert
+2025-04-20 21:21:24 - INFO - Metrics for CONFESSION with model dictabert: {'accuracy': 0.9921935987509758, 'precision': 0.8923076923076924, 'recall': 0.9508196721311475, 'f1': 0.9206349206349206, 'f2': 0.9385113268608414, 'PRAUC': 0.950749454628599, 'AUC': 0.9971311475409835, 'best_threshold': 0.9999973773956299}
+2025-04-20 21:21:27 - INFO - setfit training finished.

@@ -1,0 +1,120 @@
+2025-04-18 18:25:35 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/stratify_sentences_50_40_10_new
+2025-04-18 18:25:35 - INFO - Starting training for label: CIRCUM_OFFENSE
+2025-04-18 18:25:35 - ERROR - Error in label CIRCUM_OFFENSE: 'CIRCUM_OFFENSE'
+2025-04-18 18:25:35 - INFO - Starting training for label: GENERAL_CIRCUM
+2025-04-18 18:25:35 - INFO - Starting training for model: dictabert
+2025-04-18 18:32:48 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/stratify_sentences_50_40_10_new
+2025-04-18 18:32:48 - INFO - Starting training for label: CIRCUM_OFFENSE
+2025-04-18 18:32:48 - ERROR - Error in label CIRCUM_OFFENSE: 'CIRCUM_OFFENSE'
+2025-04-18 18:32:48 - INFO - Starting training for label: GENERAL_CIRCUM
+2025-04-18 18:32:48 - INFO - Starting training for model: dictabert
+2025-04-18 18:33:00 - ERROR - Error in label GENERAL_CIRCUM: CUDA error: an illegal instruction was encountered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1.
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2025-04-18 18:40:30 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/stratify_sentences_50_40_10_new
+2025-04-18 18:40:30 - INFO - Starting training for label: CIRCUM_OFFENSE
+2025-04-18 18:40:30 - INFO - Starting training for model: dictabert
+2025-04-18 18:40:37 - ERROR - Error in label CIRCUM_OFFENSE: CUDA error: CUBLAS_STATUS_EXECUTION_FAILED when calling cublasLtMatmul with transpose_mat1 1 transpose_mat2 0 m 768 n 16 k 768 mat1_ld 768 mat2_ld 42240 result_ld 768 abcType 0 computeType 68 scaleType 0
+2025-04-18 18:41:29 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/stratify_sentences_50_40_10_new
+2025-04-18 18:41:29 - INFO - Starting training for label: CIRCUM_OFFENSE
+2025-04-18 18:41:29 - INFO - Starting training for model: dictabert
+2025-04-18 18:41:34 - ERROR - Error in label CIRCUM_OFFENSE: CUDA error: CUBLAS_STATUS_EXECUTION_FAILED when calling cublasLtMatmul with transpose_mat1 1 transpose_mat2 0 m 768 n 16 k 768 mat1_ld 768 mat2_ld 42240 result_ld 768 abcType 0 computeType 68 scaleType 0
+2025-04-18 18:44:39 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/stratify_sentences_50_40_10_new
+2025-04-18 18:44:39 - INFO - Starting training for label: CIRCUM_OFFENSE
+2025-04-18 18:44:39 - INFO - Starting training for model: dictabert
+2025-04-18 18:46:29 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/stratify_sentences_50_40_10_new
+2025-04-18 18:46:29 - INFO - Starting training for label: CIRCUM_OFFENSE
+2025-04-18 18:46:30 - INFO - Starting training for model: dictabert
+2025-04-18 18:46:34 - ERROR - Error in label CIRCUM_OFFENSE: CUDA error: an illegal instruction was encountered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1.
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2025-04-18 18:48:29 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/stratify_sentences_50_40_10_new
+2025-04-18 18:48:29 - INFO - Starting training for label: PUNISHMENTS
+2025-04-18 18:48:29 - ERROR - Error in label PUNISHMENTS: 'PUNISHMENTS'
+2025-04-18 18:48:29 - INFO - Starting training for label: CIR_STATUS_WEP
+2025-04-18 18:48:29 - INFO - Starting training for model: dictabert
+2025-04-18 18:48:35 - ERROR - Error in label CIR_STATUS_WEP: CUDA error: CUBLAS_STATUS_EXECUTION_FAILED when calling cublasLtMatmul with transpose_mat1 1 transpose_mat2 0 m 768 n 16 k 768 mat1_ld 768 mat2_ld 39936 result_ld 768 abcType 0 computeType 68 scaleType 0
+2025-04-18 18:50:29 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/stratify_sentences_50_40_10
+2025-04-18 18:50:29 - INFO - Starting training for label: PUNISHMENT
+2025-04-18 18:50:29 - INFO - Starting training for model: dictabert
+2025-04-18 18:50:33 - ERROR - Error in label PUNISHMENT: CUDA error: CUBLAS_STATUS_EXECUTION_FAILED when calling cublasLtMatmul with transpose_mat1 1 transpose_mat2 0 m 768 n 16 k 768 mat1_ld 768 mat2_ld 89088 result_ld 768 abcType 0 computeType 68 scaleType 0
+2025-04-18 18:50:33 - INFO - Starting training for label: CIR_STATUS_WEP
+2025-04-18 18:50:33 - ERROR - Error in label CIR_STATUS_WEP: CUDA error: an illegal instruction was encountered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1.
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2025-04-18 18:52:29 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/stratify_sentences_50_40_10
+2025-04-18 18:52:29 - INFO - Starting training for label: PUNISHMENT
+2025-04-18 18:52:29 - INFO - Starting training for model: dictabert
+2025-04-18 18:52:32 - ERROR - Error in label PUNISHMENT: CUDA error: CUBLAS_STATUS_EXECUTION_FAILED when calling cublasLtMatmul with transpose_mat1 1 transpose_mat2 0 m 768 n 16 k 768 mat1_ld 768 mat2_ld 89088 result_ld 768 abcType 0 computeType 68 scaleType 0
+2025-04-18 18:52:32 - INFO - Starting training for label: CIR_STATUS_WEP
+2025-04-18 18:52:32 - ERROR - Error in label CIR_STATUS_WEP: CUDA error: an illegal instruction was encountered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1.
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2025-04-18 18:53:05 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/stratify_sentences_50_40_10
+2025-04-18 18:53:05 - INFO - Starting training for label: PUNISHMENT
+2025-04-18 18:53:05 - INFO - Starting training for model: dictabert
+2025-04-18 18:53:23 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/stratify_sentences_50_40_10_new
+2025-04-18 18:53:23 - INFO - Starting training for label: PUNISHMENT
+2025-04-18 18:53:23 - INFO - Starting training for model: dictabert
+2025-04-18 19:11:26 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/stratify_sentences_50_40_10_new
+2025-04-18 19:11:26 - INFO - Starting training for label: PUNISHMENT
+2025-04-18 19:11:26 - INFO - Starting training for model: dictabert
+2025-04-18 19:20:48 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/stratify_sentences_50_40_10_new
+2025-04-18 19:20:48 - INFO - Starting training for label: PUNISHMENT
+2025-04-18 19:20:48 - INFO - Starting training for model: dictabert
+2025-04-18 19:38:43 - INFO - Metrics for PUNISHMENT with model dictabert: {'accuracy': 0.9826478149100257, 'precision': 0.8148148148148148, 'recall': 0.8461538461538461, 'f1': 0.8301886792452831, 'f2': 0.8396946564885496, 'PRAUC': 0.8440223608745274, 'AUC': 0.9918592345858923, 'best_threshold': 0.9999842643737793}
+2025-04-18 19:38:48 - INFO - Starting training for label: CIR_STATUS_WEP
+2025-04-18 19:38:48 - INFO - Starting training for model: dictabert
+2025-04-18 19:58:22 - INFO - Metrics for CIR_STATUS_WEP with model dictabert: {'accuracy': 0.9582262210796915, 'precision': 0.45794392523364486, 'recall': 0.875, 'f1': 0.6012269938650306, 'f2': 0.7401812688821753, 'PRAUC': 0.5047013018329148, 'AUC': 0.9770952380952381, 'best_threshold': 0.9995030164718628}
+2025-04-18 19:58:24 - INFO - Starting training for label: CIR_HELD_WAY_WEP
+2025-04-18 19:58:25 - INFO - Starting training for model: dictabert
+2025-04-18 20:19:12 - INFO - Metrics for CIR_HELD_WAY_WEP with model dictabert: {'accuracy': 0.9652956298200515, 'precision': 0.5858585858585859, 'recall': 0.8169014084507042, 'f1': 0.6823529411764706, 'f2': 0.7571801566579635, 'PRAUC': 0.6874450987131114, 'AUC': 0.9619955422772323, 'best_threshold': 0.9999557733535767}
+2025-04-18 20:19:15 - INFO - Starting training for label: CIR_PURPOSE
+2025-04-18 20:19:15 - INFO - Starting training for model: dictabert
+2025-04-18 20:35:18 - INFO - Metrics for CIR_PURPOSE with model dictabert: {'accuracy': 0.9755784061696658, 'precision': 0.5526315789473685, 'recall': 0.5, 'f1': 0.525, 'f2': 0.5097087378640777, 'PRAUC': 0.5173244908700587, 'AUC': 0.9590960558595961, 'best_threshold': 0.9999916553497314}
+2025-04-18 20:35:20 - INFO - Starting training for label: CIR_AMMU_AMOUNT_WEP
+2025-04-18 20:35:20 - INFO - Starting training for model: dictabert
+2025-04-18 20:55:44 - INFO - Metrics for CIR_AMMU_AMOUNT_WEP with model dictabert: {'accuracy': 0.9730077120822622, 'precision': 0.676056338028169, 'recall': 0.7164179104477612, 'f1': 0.6956521739130435, 'f2': 0.7079646017699115, 'PRAUC': 0.6994307470314934, 'AUC': 0.9783737457774927, 'best_threshold': 0.9999932050704956}
+2025-04-18 20:55:47 - INFO - Starting training for label: CIR_OBTAIN_WAY_WEP
+2025-04-18 20:55:47 - INFO - Starting training for model: dictabert
+2025-04-18 21:10:55 - INFO - Metrics for CIR_OBTAIN_WAY_WEP with model dictabert: {'accuracy': 0.9595115681233933, 'precision': 0.1864406779661017, 'recall': 0.4230769230769231, 'f1': 0.25882352941176473, 'f2': 0.3374233128834356, 'PRAUC': 0.1643574015378302, 'AUC': 0.9295374560080443, 'best_threshold': 0.9999470710754395}
+2025-04-18 21:10:58 - INFO - Starting training for label: CIR_TYPE_WEP
+2025-04-18 21:10:58 - INFO - Starting training for model: dictabert
+2025-04-18 21:45:19 - INFO - Metrics for CIR_TYPE_WEP with model dictabert: {'accuracy': 0.968508997429306, 'precision': 0.783625730994152, 'recall': 0.9178082191780822, 'f1': 0.8454258675078864, 'f2': 0.8874172185430463, 'PRAUC': 0.771534499734683, 'AUC': 0.9731297969493831, 'best_threshold': 0.9999974966049194}
+2025-04-18 21:45:22 - INFO - Starting training for label: CIR_USE
+2025-04-18 21:45:22 - INFO - Starting training for model: dictabert
+2025-04-18 22:00:28 - INFO - Metrics for CIR_USE with model dictabert: {'accuracy': 0.9673590504451038, 'precision': 0.5714285714285714, 'recall': 0.8, 'f1': 0.6666666666666666, 'f2': 0.7407407407407407, 'PRAUC': 0.5702154199355121, 'AUC': 0.98169162623919, 'best_threshold': 0.9999961853027344}
+2025-04-18 22:00:30 - INFO - Starting training for label: CIR_PLANNING
+2025-04-18 22:00:30 - INFO - Starting training for model: dictabert
+2025-04-18 22:16:11 - INFO - Metrics for CIR_PLANNING with model dictabert: {'accuracy': 0.9897172236503856, 'precision': 0.8214285714285714, 'recall': 0.6764705882352942, 'f1': 0.7419354838709677, 'f2': 0.7012195121951219, 'PRAUC': 0.800939435695281, 'AUC': 0.9899513024657957, 'best_threshold': 0.9992902278900146}
+2025-04-18 22:16:14 - INFO - Starting training for label: RESPO
+2025-04-18 22:16:14 - INFO - Starting training for model: dictabert
+2025-04-18 22:31:07 - INFO - Metrics for RESPO with model dictabert: {'accuracy': 0.9826478149100257, 'precision': 0.65, 'recall': 0.8666666666666667, 'f1': 0.7428571428571429, 'f2': 0.8125, 'PRAUC': 0.6509209954529666, 'AUC': 0.9905140083829693, 'best_threshold': 0.9999693632125854}
+2025-04-18 22:31:09 - INFO - Starting training for label: REGRET
+2025-04-18 22:31:09 - INFO - Starting training for model: dictabert
+2025-04-18 22:45:42 - INFO - Metrics for REGRET with model dictabert: {'accuracy': 0.9877892030848329, 'precision': 0.7115384615384616, 'recall': 0.9024390243902439, 'f1': 0.7956989247311828, 'f2': 0.8564814814814815, 'PRAUC': 0.6893058173789467, 'AUC': 0.9936005795701522, 'best_threshold': 0.9999704360961914}
+2025-04-18 22:45:44 - INFO - Starting training for label: CONFESSION
+2025-04-18 22:45:44 - INFO - Starting training for model: dictabert
+2025-04-18 23:13:44 - INFO - Metrics for CONFESSION with model dictabert: {'accuracy': 0.9890745501285347, 'precision': 0.8738738738738738, 'recall': 0.97, 'f1': 0.919431279620853, 'f2': 0.949119373776908, 'PRAUC': 0.9343867013385561, 'AUC': 0.9965247252747252, 'best_threshold': 0.9999628067016602}
+2025-04-18 23:13:46 - INFO - setfit training finished.

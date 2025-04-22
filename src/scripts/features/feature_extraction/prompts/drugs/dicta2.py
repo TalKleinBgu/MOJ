@@ -87,6 +87,75 @@ class Dicta2Prompts():
         else:
             return self.dicta_response_parser(decoded[0], message)
     
+    def ask2extract_CONFESSION(self, text):
+        """
+        Constructs a prompt that asks if the defendant confessed. 
+        Expects an answer of "כן" (yes) or "לא" (no).
+
+        Args:
+            text (str): The text from which we want to extract a confession status.
+
+        Returns:
+            str: Either "כן" or "לא" as determined by the model.
+        """
+        message = [
+            {
+                "role": "user", 
+                "content": f"""
+                    "{text}"
+                    האם הנאשם הודה באשמה? ענה רק [כן, לא] בלבד
+                """
+            }
+        ]
+        answer = self.generate_answer(message)
+        return answer
+    
+    def ask2extract_RESPO(self, text):
+        """
+        Constructs a prompt that asks if the defendant confessed. 
+        Expects an answer of "כן" (yes) or "לא" (no).
+
+        Args:
+            text (str): The text from which we want to extract a confession status.
+
+        Returns:
+            str: Either "כן" or "לא" as determined by the model.
+        """
+        message = [
+            {
+                "role": "user", 
+                "content": f"""
+                    "{text}"
+                    האם הנאשם לקח אחריות על העבירה? ענה רק [כן, לא] בלבד
+                """
+            }
+        ]
+        answer = self.generate_answer(message)
+        return answer
+    
+    def ask2extract_REGRET(self, text):
+        """
+        Constructs a prompt that asks if the defendant confessed. 
+        Expects an answer of "כן" (yes) or "לא" (no).
+
+        Args:
+            text (str): The text from which we want to extract a confession status.
+
+        Returns:
+            str: Either "כן" or "לא" as determined by the model.
+        """
+        message = [
+            {
+                "role": "user", 
+                "content": f"""
+                    "{text}"
+                    האם הנאשם הביע חרטה על העבירה? ענה רק [כן, לא] בלבד
+                """
+            }
+        ]
+        answer = self.generate_answer(message)
+        return answer
+    
     def ask2extract_CIR_TYPE(self, text):
         """
         Asks what type of drug is described in the text.
@@ -127,12 +196,14 @@ class Dicta2Prompts():
                 "role": "user",
                 "content": f"""
                     אני הולך לשאול אותך שאלה על פי הטקסט הבא, ואז אתה תענה.
-                    הטקסט לבדיקה: "{text}"
 
                     השאלה:
                     מהי הכמות של הסמים המוזכרים בטקסט?
-                    ענה רק עם מספר ויחידה (למשל: [50 - גרם], [3 - טבליות]).
-                    אין צורך בהסברים נוספים, רק תשובה בפורמט המדויק.
+                    ענה רק בתבנית הבאה : [מספר - יחידה] בלי מילים נוספות.
+                    לדוגמה: [100 - גרם], [2 - קילוגרם], [3 - ליטר], [5 - קילוגרם], [10 - מ"ל], [1 - ק"ג].
+                    אין צורך בהסברים נוספים, רק תשובה בתבנית הרצויה.
+
+                     הטקסט לבדיקה: "{text}"
                 """
             }
         ]

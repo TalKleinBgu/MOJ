@@ -3,8 +3,7 @@ balance: true
 data_path: /home/{username}/MOJ/resources/data/trainning/sentence_classification/drugs/stratify_sentences_50_40_10
 experiment_name: with_f2_try
 first_label_list:
-- CONFESSION
-- CIRCUM_OFFENSE
+- reject
 generated_data: false
 ignore_labels:
 - 'Unnamed: 0'

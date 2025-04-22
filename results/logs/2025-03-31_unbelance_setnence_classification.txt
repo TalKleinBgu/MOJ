@@ -1,0 +1,197 @@
+2025-03-31 17:02:10 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/12cases_in_train
+2025-03-31 17:02:10 - INFO - Starting training for label: CIRCUM_OFFENSE
+2025-03-31 17:02:14 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-31 17:38:13 - INFO - Metrics for CIRCUM_OFFENSE with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.8669476219145094, 'precision': 0.5263157894736842, 'recall': 0.8677685950413223, 'f1': 0.6552262090483619, 'f2': 0.7681053401609363, 'PRAUC': 0.6699322763205365, 'AUC': 0.907316000675601, 'best_threshold': 2.6936657377518713e-05}
+2025-03-31 17:38:17 - INFO - Starting training for model: dictabert
+2025-03-31 17:55:28 - INFO - Metrics for CIRCUM_OFFENSE with model dictabert: {'accuracy': 0.9181216134858519, 'precision': 0.6625766871165644, 'recall': 0.8925619834710744, 'f1': 0.7605633802816901, 'f2': 0.8346213292117465, 'PRAUC': 0.7987545700554227, 'AUC': 0.9593532868566502, 'best_threshold': 0.0011183565948158503}
+2025-03-31 17:55:31 - INFO - Starting training for model: heBERT
+2025-03-31 18:14:20 - INFO - Metrics for CIRCUM_OFFENSE with model heBERT: {'accuracy': 0.8874172185430463, 'precision': 0.5718015665796344, 'recall': 0.9049586776859504, 'f1': 0.7008, 'f2': 0.8105107327905255, 'PRAUC': 0.6581597367497442, 'AUC': 0.9369376059266508, 'best_threshold': 0.004966792184859514}
+2025-03-31 18:14:22 - INFO - Starting training for label: GENERAL_CIRCUM
+2025-03-31 18:14:22 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-31 18:50:22 - INFO - Metrics for GENERAL_CIRCUM with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.9018663455749548, 'precision': 0.6010928961748634, 'recall': 0.9282700421940928, 'f1': 0.7296849087893864, 'f2': 0.837138508371385, 'PRAUC': 0.8324087921687463, 'AUC': 0.9468721850850992, 'best_threshold': 0.9999834299087524}
+2025-03-31 18:50:25 - INFO - Starting training for model: dictabert
+2025-03-31 19:09:22 - INFO - Metrics for GENERAL_CIRCUM with model dictabert: {'accuracy': 0.9446116797110174, 'precision': 0.7287066246056783, 'recall': 0.9746835443037974, 'f1': 0.8339350180505415, 'f2': 0.9130434782608695, 'PRAUC': 0.8124068228816693, 'AUC': 0.9747413241359694, 'best_threshold': 0.40687188506126404}
+2025-03-31 19:09:26 - INFO - Starting training for model: heBERT
+2025-03-31 19:30:40 - INFO - Metrics for GENERAL_CIRCUM with model heBERT: {'accuracy': 0.9373871161950632, 'precision': 0.7097791798107256, 'recall': 0.9493670886075949, 'f1': 0.8122743682310469, 'f2': 0.8893280632411067, 'PRAUC': 0.7875443247180752, 'AUC': 0.9650461646043712, 'best_threshold': 0.9999988079071045}
+2025-03-31 19:30:41 - INFO - Starting training for label: PUNISHMENT
+2025-03-31 19:30:42 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-31 19:32:57 - ERROR - Error in label PUNISHMENT: CUDA out of memory. Tried to allocate 96.00 MiB. GPU 
+2025-03-31 19:32:57 - INFO - Starting training for label: CIR_STATUS_WEP
+2025-03-31 19:32:58 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-31 19:35:05 - ERROR - Error in label CIR_STATUS_WEP: CUDA out of memory. Tried to allocate 768.00 MiB. GPU 
+2025-03-31 19:35:05 - INFO - Starting training for label: CIR_HELD_WAY_WEP
+2025-03-31 19:35:06 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-31 19:38:09 - INFO - Metrics for CIR_HELD_WAY_WEP with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.8549066827212523, 'precision': 0.2138157894736842, 'recall': 0.9701492537313433, 'f1': 0.3504043126684636, 'f2': 0.5681818181818182, 'PRAUC': 0.5389758067179531, 'AUC': 0.9556171463885091, 'best_threshold': 0.016217805445194244}
+2025-03-31 19:38:11 - INFO - Starting training for model: dictabert
+2025-03-31 19:40:02 - ERROR - Error in label CIR_HELD_WAY_WEP: CUDA out of memory. Tried to allocate 768.00 MiB. GPU 
+2025-03-31 19:40:02 - INFO - Starting training for label: CIR_PURPOSE
+2025-03-31 19:40:02 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-31 19:43:03 - INFO - Metrics for CIR_PURPOSE with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.8868151715833835, 'precision': 0.09359605911330049, 'recall': 0.8260869565217391, 'f1': 0.168141592920354, 'f2': 0.3220338983050847, 'PRAUC': 0.1755401687834817, 'AUC': 0.8919413919413919, 'best_threshold': 0.9969640374183655}
+2025-03-31 19:43:06 - INFO - Starting training for model: dictabert
+2025-03-31 19:44:40 - ERROR - Error in label CIR_PURPOSE: CUDA out of memory. Tried to allocate 96.00 MiB. GPU 
+2025-03-31 19:44:40 - INFO - Starting training for label: CIR_AMMU_AMOUNT_WEP
+2025-03-31 19:44:40 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-31 19:46:21 - INFO - Metrics for CIR_AMMU_AMOUNT_WEP with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.8838049367850692, 'precision': 0.20920502092050208, 'recall': 0.9259259259259259, 'f1': 0.3412969283276451, 'f2': 0.5494505494505495, 'PRAUC': 0.47079950150123706, 'AUC': 0.9459309963354767, 'best_threshold': 0.6764516830444336}
+2025-03-31 19:46:23 - INFO - Starting training for model: dictabert
+2025-03-31 19:47:27 - INFO - Metrics for CIR_AMMU_AMOUNT_WEP with model dictabert: {'accuracy': 0.8223961468994582, 'precision': 0.1466275659824047, 'recall': 0.9259259259259259, 'f1': 0.25316455696202533, 'f2': 0.4488330341113106, 'PRAUC': 0.36075658427253204, 'AUC': 0.936366360137362, 'best_threshold': 0.46798309683799744}
+2025-03-31 19:47:29 - INFO - Starting training for model: heBERT
+2025-03-31 19:48:39 - INFO - Metrics for CIR_AMMU_AMOUNT_WEP with model heBERT: {'accuracy': 0.8826008428657435, 'precision': 0.20253164556962025, 'recall': 0.8888888888888888, 'f1': 0.32989690721649484, 'f2': 0.5298013245033113, 'PRAUC': 0.4850779512600879, 'AUC': 0.94151743529466, 'best_threshold': 0.6607329845428467}
+2025-03-31 19:48:40 - INFO - Starting training for label: CIR_OBTAIN_WAY_WEP
+2025-03-31 19:48:40 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-31 19:50:14 - INFO - Metrics for CIR_OBTAIN_WAY_WEP with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.715833835039133, 'precision': 0.024844720496894408, 'recall': 0.9230769230769231, 'f1': 0.04838709677419355, 'f2': 0.11214953271028037, 'PRAUC': 0.11753558662928082, 'AUC': 0.8321975354742345, 'best_threshold': 0.22483672201633453}
+2025-03-31 19:50:16 - INFO - Starting training for model: dictabert
+2025-03-31 19:51:19 - INFO - Metrics for CIR_OBTAIN_WAY_WEP with model dictabert: {'accuracy': 0.868151715833835, 'precision': 0.05217391304347826, 'recall': 0.9230769230769231, 'f1': 0.09876543209876543, 'f2': 0.2127659574468085, 'PRAUC': 0.06450540466552866, 'AUC': 0.8751400298730396, 'best_threshold': 0.7072169184684753}
+2025-03-31 19:51:21 - INFO - Starting training for model: heBERT
+2025-03-31 19:52:21 - INFO - Metrics for CIR_OBTAIN_WAY_WEP with model heBERT: {'accuracy': 0.8151715833835039, 'precision': 0.03773584905660377, 'recall': 0.9230769230769231, 'f1': 0.07250755287009064, 'f2': 0.16216216216216217, 'PRAUC': 0.05318619721126871, 'AUC': 0.8715926064227035, 'best_threshold': 0.5475013256072998}
+2025-03-31 19:52:22 - INFO - Starting training for label: CIR_TYPE_WEP
+2025-03-31 19:52:22 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-31 20:03:18 - INFO - Metrics for CIR_TYPE_WEP with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.9325707405177603, 'precision': 0.5579399141630901, 'recall': 0.935251798561151, 'f1': 0.6989247311827957, 'f2': 0.8238276299112801, 'PRAUC': 0.8135493574348728, 'AUC': 0.9671083107233005, 'best_threshold': 0.0009907475905492902}
+2025-03-31 20:03:20 - INFO - Starting training for model: dictabert
+2025-03-31 20:09:26 - INFO - Metrics for CIR_TYPE_WEP with model dictabert: {'accuracy': 0.9446116797110174, 'precision': 0.6053811659192825, 'recall': 0.9712230215827338, 'f1': 0.7458563535911602, 'f2': 0.8664955070603337, 'PRAUC': 0.8821959109812721, 'AUC': 0.9843541723782603, 'best_threshold': 0.002781980438157916}
+2025-03-31 20:09:29 - INFO - Starting training for model: heBERT
+2025-03-31 20:15:59 - ERROR - Error in label CIR_TYPE_WEP: CUDA out of memory. Tried to allocate 768.00 MiB. GPU 
+2025-03-31 20:15:59 - INFO - Starting training for label: CIR_USE
+2025-03-31 20:15:59 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-31 20:18:19 - INFO - Metrics for CIR_USE with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.8002904865649964, 'precision': 0.15625, 'recall': 0.9090909090909091, 'f1': 0.26666666666666666, 'f2': 0.46296296296296297, 'PRAUC': 0.21908801783266216, 'AUC': 0.9033007839361847, 'best_threshold': 0.7506689429283142}
+2025-03-31 20:18:22 - INFO - Starting training for model: dictabert
+2025-03-31 20:19:45 - ERROR - Error in label CIR_USE: CUDA out of memory. Tried to allocate 96.00 MiB. GPU 
+2025-03-31 20:19:45 - INFO - Starting training for label: CIR_PLANNING
+2025-03-31 20:19:46 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-31 20:19:54 - ERROR - Error in label CIR_PLANNING: list index out of range
+2025-03-31 20:19:54 - INFO - Starting training for label: RESPO
+2025-03-31 20:19:54 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-31 20:22:23 - INFO - Metrics for RESPO with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.9717037928958459, 'precision': 0.4470588235294118, 'recall': 1.0, 'f1': 0.6178861788617886, 'f2': 0.8016877637130801, 'PRAUC': 0.8802830070594981, 'AUC': 0.9963355709050815, 'best_threshold': 0.1995411068201065}
+2025-03-31 20:22:24 - INFO - Starting training for model: dictabert
+2025-03-31 20:23:42 - ERROR - Error in label RESPO: CUDA out of memory. Tried to allocate 96.00 MiB. GPU 
+2025-03-31 20:23:42 - INFO - Starting training for label: REGRET
+2025-03-31 20:23:42 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-31 20:25:38 - INFO - Metrics for REGRET with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.8856110776640578, 'precision': 0.07881773399014778, 'recall': 0.8421052631578947, 'f1': 0.14414414414414414, 'f2': 0.2867383512544803, 'PRAUC': 0.2361368260298288, 'AUC': 0.8687415859991025, 'best_threshold': 0.8380189538002014}
+2025-03-31 20:25:44 - INFO - Starting training for model: dictabert
+2025-03-31 20:26:48 - INFO - Metrics for REGRET with model dictabert: {'accuracy': 0.9494280553883203, 'precision': 0.1717171717171717, 'recall': 0.8947368421052632, 'f1': 0.288135593220339, 'f2': 0.4857142857142857, 'PRAUC': 0.5919601724085384, 'AUC': 0.9377203666901724, 'best_threshold': 0.37047550082206726}
+2025-03-31 20:26:51 - INFO - Starting training for model: heBERT
+2025-03-31 20:27:59 - INFO - Metrics for REGRET with model heBERT: {'accuracy': 0.9638771824202288, 'precision': 0.22666666666666666, 'recall': 0.8947368421052632, 'f1': 0.3617021276595745, 'f2': 0.5629139072847682, 'PRAUC': 0.5739847612024132, 'AUC': 0.9217257516507468, 'best_threshold': 0.5813194513320923}
+2025-03-31 20:28:01 - INFO - Starting training for label: CONFESSION
+2025-03-31 20:28:01 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-31 20:34:20 - INFO - Metrics for CONFESSION with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.9698976520168573, 'precision': 0.6126126126126126, 'recall': 0.9066666666666666, 'f1': 0.7311827956989247, 'f2': 0.8272506082725061, 'PRAUC': 0.7187965384359446, 'AUC': 0.9801345102984448, 'best_threshold': 0.23052403330802917}
+2025-03-31 20:34:22 - INFO - Starting training for model: dictabert
+2025-03-31 20:37:32 - INFO - Metrics for CONFESSION with model dictabert: {'accuracy': 0.9879590608067429, 'precision': 0.7956989247311828, 'recall': 0.9866666666666667, 'f1': 0.8809523809523809, 'f2': 0.9414758269720102, 'PRAUC': 0.9146286237074877, 'AUC': 0.9962883564522909, 'best_threshold': 0.991083025932312}
+2025-03-31 20:37:36 - INFO - Starting training for model: heBERT
+2025-03-31 20:41:08 - INFO - Metrics for CONFESSION with model heBERT: {'accuracy': 0.9650812763395545, 'precision': 0.5639097744360902, 'recall': 1.0, 'f1': 0.7211538461538461, 'f2': 0.8660508083140878, 'PRAUC': 0.9273728264629313, 'AUC': 0.996691887347625, 'best_threshold': 0.0008056628284975886}
+2025-03-31 20:41:09 - INFO - setfit training finished.
+2025-03-31 20:41:43 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/12cases_in_train
+2025-03-31 20:41:43 - INFO - Starting training for label: PUNISHMENT
+2025-03-31 20:41:44 - INFO - Starting training for model: dictabert
+2025-03-31 20:43:12 - ERROR - Error in label PUNISHMENT: CUDA out of memory. Tried to allocate 768.00 MiB. GPU 
+2025-03-31 20:43:12 - INFO - Starting training for label: CIR_STATUS_WEP
+2025-03-31 20:43:12 - INFO - Starting training for model: dictabert
+2025-03-31 20:44:22 - ERROR - Error in label CIR_STATUS_WEP: CUDA out of memory. Tried to allocate 768.00 MiB. GPU 
+2025-03-31 20:44:22 - INFO - Starting training for label: CIR_HELD_WAY_WEP
+2025-03-31 20:44:22 - INFO - Starting training for model: dictabert
+2025-03-31 20:46:04 - ERROR - Error in label CIR_HELD_WAY_WEP: CUDA out of memory. Tried to allocate 768.00 MiB. GPU 
+2025-03-31 20:46:04 - INFO - Starting training for label: CIR_PURPOSE
+2025-03-31 20:46:04 - INFO - Starting training for model: dictabert
+2025-03-31 20:47:32 - ERROR - Error in label CIR_PURPOSE: CUDA out of memory. Tried to allocate 768.00 MiB. GPU 
+2025-03-31 20:47:32 - INFO - Starting training for label: CIR_AMMU_AMOUNT_WEP
+2025-03-31 20:47:32 - INFO - Starting training for model: dictabert
+2025-03-31 20:48:32 - ERROR - Error in label CIR_AMMU_AMOUNT_WEP: CUDA out of memory. Tried to allocate 696.00 MiB. GPU 
+2025-03-31 20:48:32 - INFO - Starting training for label: CIR_OBTAIN_WAY_WEP
+2025-03-31 20:48:32 - INFO - Starting training for model: dictabert
+2025-03-31 20:49:27 - ERROR - Error in label CIR_OBTAIN_WAY_WEP: CUDA out of memory. Tried to allocate 696.00 MiB. GPU 
+2025-03-31 20:49:27 - INFO - Starting training for label: CIR_TYPE_WEP
+2025-03-31 20:49:27 - INFO - Starting training for model: dictabert
+2025-03-31 20:55:05 - ERROR - Error in label CIR_TYPE_WEP: CUDA out of memory. Tried to allocate 768.00 MiB. GPU 
+2025-03-31 20:55:05 - INFO - Starting training for label: CIR_USE
+2025-03-31 20:55:05 - INFO - Starting training for model: dictabert
+2025-03-31 20:56:24 - ERROR - Error in label CIR_USE: CUDA out of memory. Tried to allocate 768.00 MiB. GPU 
+2025-03-31 20:56:24 - INFO - Starting training for label: CIR_PLANNING
+2025-03-31 20:56:24 - INFO - Starting training for model: dictabert
+2025-03-31 20:56:29 - ERROR - Error in label CIR_PLANNING: list index out of range
+2025-03-31 20:56:29 - INFO - Starting training for label: RESPO
+2025-03-31 20:56:29 - INFO - Starting training for model: dictabert
+2025-03-31 20:57:41 - ERROR - Error in label RESPO: CUDA out of memory. Tried to allocate 768.00 MiB. GPU 
+2025-03-31 20:57:41 - INFO - Starting training for label: REGRET
+2025-03-31 20:57:41 - INFO - Starting training for model: dictabert
+2025-03-31 20:58:39 - ERROR - Error in label REGRET: CUDA out of memory. Tried to allocate 624.00 MiB. GPU 
+2025-03-31 20:58:39 - INFO - Starting training for label: CONFESSION
+2025-03-31 20:58:39 - INFO - Starting training for model: dictabert
+2025-03-31 21:01:34 - ERROR - Error in label CONFESSION: CUDA out of memory. Tried to allocate 768.00 MiB. GPU 
+2025-03-31 21:01:34 - INFO - setfit training finished.
+2025-03-31 21:36:36 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/12cases_in_train
+2025-03-31 21:36:36 - INFO - Starting training for label: PUNISHMENT
+2025-03-31 21:36:36 - INFO - Starting training for model: dictabert
+2025-03-31 21:38:05 - INFO - Metrics for PUNISHMENT with model dictabert: {'accuracy': 0.9729078868151716, 'precision': 0.5567010309278351, 'recall': 0.9642857142857143, 'f1': 0.7058823529411765, 'f2': 0.8411214953271028, 'PRAUC': 0.7999881857720876, 'AUC': 0.9862483311081441, 'best_threshold': 0.9646046161651611}
+2025-03-31 21:38:07 - INFO - Starting training for label: CIR_STATUS_WEP
+2025-03-31 21:38:07 - INFO - Starting training for model: dictabert
+2025-03-31 21:39:17 - ERROR - Error in label CIR_STATUS_WEP: CUDA out of memory. Tried to allocate 96.00 MiB. GPU 
+2025-03-31 21:39:17 - INFO - Starting training for label: CIR_HELD_WAY_WEP
+2025-03-31 21:39:17 - INFO - Starting training for model: dictabert
+2025-03-31 21:41:05 - INFO - Metrics for CIR_HELD_WAY_WEP with model dictabert: {'accuracy': 0.9440096327513546, 'precision': 0.4144736842105263, 'recall': 0.9402985074626866, 'f1': 0.5753424657534246, 'f2': 0.75, 'PRAUC': 0.6558916178026968, 'AUC': 0.9773076274836607, 'best_threshold': 0.9917205572128296}
+2025-03-31 21:41:08 - INFO - Starting training for label: CIR_PURPOSE
+2025-03-31 21:41:08 - INFO - Starting training for model: dictabert
+2025-03-31 21:42:36 - ERROR - Error in label CIR_PURPOSE: CUDA out of memory. Tried to allocate 384.00 MiB. GPU 
+2025-03-31 21:42:36 - INFO - Starting training for label: CIR_AMMU_AMOUNT_WEP
+2025-03-31 21:42:36 - INFO - Starting training for model: dictabert
+2025-03-31 21:43:41 - INFO - Metrics for CIR_AMMU_AMOUNT_WEP with model dictabert: {'accuracy': 0.8904274533413606, 'precision': 0.2168141592920354, 'recall': 0.9074074074074074, 'f1': 0.35, 'f2': 0.5542986425339367, 'PRAUC': 0.4413916797944806, 'AUC': 0.94163267187536, 'best_threshold': 0.5894978642463684}
+2025-03-31 21:43:44 - INFO - Starting training for label: CIR_OBTAIN_WAY_WEP
+2025-03-31 21:43:44 - INFO - Starting training for model: dictabert
+2025-03-31 21:44:44 - INFO - Metrics for CIR_OBTAIN_WAY_WEP with model dictabert: {'accuracy': 0.8946417820590006, 'precision': 0.06451612903225806, 'recall': 0.9230769230769231, 'f1': 0.12060301507537688, 'f2': 0.25210084033613445, 'PRAUC': 0.11098401210243083, 'AUC': 0.8913368185212847, 'best_threshold': 0.8095431327819824}
+2025-03-31 21:44:46 - INFO - Starting training for label: CIR_TYPE_WEP
+2025-03-31 21:44:46 - INFO - Starting training for model: dictabert
+2025-03-31 21:49:17 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/12cases_in_train
+2025-03-31 21:49:17 - INFO - Starting training for label: PUNISHMENTS
+2025-03-31 21:49:17 - ERROR - Error in label PUNISHMENTS: 'PUNISHMENTS'
+2025-03-31 21:49:17 - INFO - Starting training for label: CIR_STATUS_WEP
+2025-03-31 21:49:17 - INFO - Starting training for model: dictabert
+2025-03-31 21:50:27 - ERROR - Error in label CIR_TYPE_WEP: checkpoints/step_410 is not a local folder and is not a valid model identifier listed on 'https://huggingface.co/models'
+If this is a private repository, make sure to pass a token having permission to this repo either by logging in with `huggingface-cli login` or by passing `token=<your_token>`
+2025-03-31 21:50:27 - INFO - Starting training for label: CIR_USE
+2025-03-31 21:50:28 - INFO - Starting training for model: dictabert
+2025-03-31 21:50:30 - ERROR - Error in label CIR_STATUS_WEP: checkpoints/step_52 is not a local folder and is not a valid model identifier listed on 'https://huggingface.co/models'
+If this is a private repository, make sure to pass a token having permission to this repo either by logging in with `huggingface-cli login` or by passing `token=<your_token>`
+2025-03-31 21:50:30 - INFO - Starting training for label: CIR_PURPOSE
+2025-03-31 21:50:30 - INFO - Starting training for model: dictabert
+2025-03-31 21:51:50 - INFO - Metrics for CIR_USE with model dictabert: {'accuracy': 0.896877269426289, 'precision': 0.27461139896373055, 'recall': 0.9636363636363636, 'f1': 0.4274193548387097, 'f2': 0.6416464891041163, 'PRAUC': 0.602212146980126, 'AUC': 0.9732223903177004, 'best_threshold': 0.9929044842720032}
+2025-03-31 21:51:52 - INFO - Starting training for label: CIR_PLANNING
+2025-03-31 21:51:52 - INFO - Starting training for model: dictabert
+2025-03-31 21:51:57 - ERROR - Error in label CIR_PLANNING: list index out of range
+2025-03-31 21:51:57 - INFO - Starting training for label: RESPO
+2025-03-31 21:51:57 - INFO - Starting training for model: dictabert
+2025-03-31 21:52:01 - ERROR - Error in label CIR_PURPOSE: CUDA out of memory. Tried to allocate 768.00 MiB. GPU 
+2025-03-31 21:52:01 - INFO - Starting training for label: CIR_USE
+2025-03-31 21:52:02 - INFO - Starting training for model: dictabert
+2025-03-31 21:53:12 - INFO - Metrics for RESPO with model dictabert: {'accuracy': 0.9524382901866345, 'precision': 0.3247863247863248, 'recall': 1.0, 'f1': 0.49032258064516127, 'f2': 0.7063197026022305, 'PRAUC': 0.6967505674377549, 'AUC': 0.9906929986704284, 'best_threshold': 0.9874869585037231}
+2025-03-31 21:53:14 - INFO - Starting training for label: REGRET
+2025-03-31 21:53:15 - INFO - Starting training for model: dictabert
+2025-03-31 21:54:16 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/12cases_in_train
+2025-03-31 21:54:16 - INFO - Starting training for label: PUNISHMENTS
+2025-03-31 21:54:16 - ERROR - Error in label PUNISHMENTS: 'PUNISHMENTS'
+2025-03-31 21:54:16 - INFO - Starting training for label: CIR_STATUS_WEP
+2025-03-31 21:54:16 - INFO - Starting training for model: dictabert
+2025-03-31 21:55:31 - INFO - Metrics for CIR_STATUS_WEP with model dictabert: {'accuracy': 0.893437688139675, 'precision': 0.26556016597510373, 'recall': 1.0, 'f1': 0.419672131147541, 'f2': 0.6438631790744467, 'PRAUC': 0.5291637594102401, 'AUC': 0.9712742642454604, 'best_threshold': 0.9091116786003113}
+2025-03-31 21:55:34 - INFO - Starting training for label: CIR_PURPOSE
+2025-03-31 21:55:34 - INFO - Starting training for model: dictabert
+2025-03-31 21:57:00 - ERROR - Error in label CIR_PURPOSE: CUDA out of memory. Tried to allocate 768.00 MiB. GPU 
+2025-03-31 21:57:00 - INFO - Starting training for label: CIR_USE
+2025-03-31 21:57:01 - INFO - Starting training for model: dictabert
+2025-03-31 21:58:23 - INFO - Metrics for CIR_USE with model dictabert: {'accuracy': 0.888162672476398, 'precision': 0.25853658536585367, 'recall': 0.9636363636363636, 'f1': 0.4076923076923077, 'f2': 0.6235294117647059, 'PRAUC': 0.5462556505723422, 'AUC': 0.9700453857791226, 'best_threshold': 0.9800264835357666}
+2025-03-31 21:58:25 - INFO - Starting training for label: CIR_PLANNING
+2025-03-31 21:58:26 - INFO - Starting training for model: dictabert
+2025-03-31 21:58:30 - ERROR - Error in label CIR_PLANNING: list index out of range
+2025-03-31 21:58:30 - INFO - Starting training for label: RESPO
+2025-03-31 21:58:30 - INFO - Starting training for model: dictabert
+2025-03-31 21:59:43 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/12cases_in_train
+2025-03-31 21:59:43 - INFO - Starting training for label: PUNISHMENTS
+2025-03-31 21:59:43 - ERROR - Error in label PUNISHMENTS: 'PUNISHMENTS'
+2025-03-31 21:59:43 - INFO - Starting training for label: CIR_PURPOSE
+2025-03-31 21:59:44 - INFO - Starting training for model: dictabert
+2025-03-31 22:01:29 - INFO - Metrics for CIR_PURPOSE with model dictabert: {'accuracy': 0.9391932570740518, 'precision': 0.1694915254237288, 'recall': 0.8695652173913043, 'f1': 0.28368794326241137, 'f2': 0.47619047619047616, 'PRAUC': 0.24079741091591725, 'AUC': 0.9590433720868502, 'best_threshold': 0.9929942488670349}
+2025-03-31 22:01:31 - INFO - Starting training for label: CIR_PLANNING
+2025-03-31 22:01:31 - INFO - Starting training for model: dictabert
+2025-03-31 22:01:36 - ERROR - Error in label CIR_PLANNING: list index out of range
+2025-03-31 22:01:36 - INFO - setfit training finished.

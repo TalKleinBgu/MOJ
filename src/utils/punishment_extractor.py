@@ -8,6 +8,13 @@ def extract_two_numbers(string):
     words = string.split()  # Split the string into words
     numbers = []
     for i in range(len(words)):
+        if words[i][0] =='ל':
+            #check if ther is words[i][1]
+            if len(words[i]) > 1:
+                #check if words[i][1] is digit
+                n = words[i][1]
+                if n.isdigit():
+                    words[i] = n
         if len(words[i]) > 1 and '-' in words[i]:
             numbers_ = words[i].split('-')
             # delete '' from the list
@@ -25,15 +32,30 @@ def extract_two_numbers(string):
             elif len(numbers_) == 0:
                 pass
             else:
-                if words[i+1] =='שנות':
-                    # numbers[0] = numbers_[0]*12
-                    numbers.append(int(numbers_[0])*12)
+                if i+1 < len(words):
+                    if words[i+1] =='שנות':
+                        if numbers != []:
+                            numbers[0] = int(numbers[0])*12
+                            numbers.append(int(numbers_[0])*12)
+                        else:
+                            numbers.append(int(numbers_[0])*12)
+                # check if there is word[i+2]
+                elif i+2 < len(words):
+                    if words[i+2] == 'שנות' or words[i+2] == 'שנים':
+                        if numbers != []:
+                            numbers[0] = int(numbers[0])*12
+                            numbers.append(int(numbers_[0])*12)
+                        else:
+                            numbers.append(int(numbers_[0])*12)
                 else:
                     numbers.append(int(numbers_[0]))
         if words[i].isdigit():
-            if words[i-1] == 'בן' or 'סעיף' in words[i-1] or words[i-1] == 'תיקון' or words[i+1] == 'מהצדדים':
-                continue
             number = int(words[i])
+            try:
+                if words[i-1] == 'בן' or 'סעיף' in words[i-1] or words[i-1] == 'תיקון' or words[i+1] == 'מהצדדים':
+                    continue
+            except:
+                number = int(words[i])
             
             next_words = " ".join(words[i+1:i+3])  # Get the next two words after the number
             if next_words.split()[0].isdigit():
@@ -41,18 +63,20 @@ def extract_two_numbers(string):
                 next_words = " ".join(words[i+2:i+4])
                 #dekete the next word
                 words[i+1] = ''
-            if 'שנות מאסר' in next_words or 'שנים' in next_words:
+            if 'שנות מאסר' in next_words or 'שנים' in next_words or 'שנה' in next_words:
                 number *= 12
             
             else:
                 cleaned_words = [word.strip() for word in words if word.strip()]
 
                 next_words_2 = " ".join(cleaned_words[i+1:i+4])
-                if next_words_2 != '':
-                    next_word = next_words_2.split()[0]
-                    if next_word =='עד' or next_word == 'בין' or next_word == '-': 
-                        if next_words_2.split()[2] == 'שנות':
-                            number *= 12
+                next_word = next_words_2.split()[0]
+                # print(type(next_word))
+                if next_word.strip() in ['עד', 'בין', '-'] or not next_word.strip().isalpha():
+                    if len(next_words_2.split()) > 1 and next_words_2.split()[1] == 'שנות':
+                        number *= 12
+                    elif len(next_words_2.split()) > 2 and next_words_2.split()[2] == 'שנות':
+                        number *= 12
                 elif 'חודשי מאסר' not in next_words:
                     # If none of the options are found, it's multiplied by 1
                     pass
@@ -95,6 +119,8 @@ def punishment_range_extract(txt):
     punishment_range = extract_two_numbers(txt)
     if punishment_range:
         return punishment_range
+    else:
+        return None
     # Role 2: else
     indexes = get_indexs(pattern, txt)
 
@@ -225,14 +251,42 @@ def check_numbers_match(string1, string2):  # TODO fix it, doesnt work well!
         return False
 
 
-def replace_words_with_numbers(input_string,
-                               number_dict):  # TODO fix it, doesnt work so well, Think about the right split!
+# def replace_words_with_numbers(input_string,
+#                                number_dict):  # TODO fix it, doesnt work so well, Think about the right split!
+#     """
+#        replacing words with thier corresponding number, with the dict at the top of the file here
+#         """
+#     words = re.split(r'\s|,|\.|ל', input_string)
+#     # words = input_string.split()
+#     for i, word in enumerate(words):
+#         if word in number_dict:
+#             words[i] = str(number_dict[word])
+#     return ' '.join(words)
+def replace_words_with_numbers(input_string, number_dict):
     """
-       replacing words with thier corresponding number, with the dict at the top of the file here
-        """
-    words = re.split(r'\s|,|\.|ל', input_string)
-    # words = input_string.split()
-    for i, word in enumerate(words):
-        if word in number_dict:
-            words[i] = str(number_dict[word])
-    return ' '.join(words)
+    Replace words representing numbers (including floats) with their corresponding numeric values using a dictionary.
+
+    Args:
+        input_string (str): The input string containing words to be replaced.
+        number_dict (dict): A dictionary mapping number words to their numeric values.
+
+    Returns:
+        str: A string with words replaced by their numeric values.
+    """
+    # Pattern to match words or phrases representing numbers, including "point" for floats.
+    pattern = r'(?:' + '|'.join(map(re.escape, number_dict.keys())) + r')(?:\s+point\s+(?:' + '|'.join(map(re.escape, number_dict.keys())) + '))?'
+
+    def replace_match(match):
+        """Replace matched number words with their corresponding numeric value."""
+        parts = match.group(0).split()
+        if 'point' in parts:
+            # Handle floats (e.g., "ten point five").
+            integer_part = number_dict.get(parts[0], parts[0])
+            decimal_part = number_dict.get(parts[2], parts[2])
+            return str(float(f"{integer_part}.{decimal_part}"))
+        else:
+            # Handle whole numbers.
+            return str(number_dict.get(match.group(0), match.group(0)))
+
+    # Use regex to find and replace matches in the input string.
+    return re.sub(pattern, replace_match, input_string)

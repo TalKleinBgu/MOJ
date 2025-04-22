@@ -13,6 +13,7 @@ sys.path.insert(0, pred_sentencing_path)
 from utils.files import setup_logger, config_parser, load_all_datasets, save_json
 from utils.errors.predict_sentence_cls import *
 from utils.sentence_classification import load_classifires
+from sklearn.metrics import precision_recall_curve, average_precision_score, fbeta_score, roc_curve
 
 from scripts.sentence_classification.predict_sentence_cls.setfit_postprocessor import SetFitPostProcessor
 from scripts.sentence_classification.setfit_version import compute_metrics
@@ -77,7 +78,7 @@ def predict_from_datasets(datasets_dict, classifiers,first_level_labels, second_
 def predict_2cls_lvl_flow(db_path:str = None, test_set_path:str = None, classifiers:dict = None, classifiers_path:str = None, 
                           logger:logging.Logger = None, first_level_labels:list = None,
                           second_level_labels:list = None, threshold:object = None, tagged_path: str = None,
-                          eval_path:str = None, experimant_name:str = ''):
+                          eval_path:str = None, experimant_name:str = '',model_name:str = ''):
 
                                                                                     
     """
@@ -99,6 +100,7 @@ def predict_2cls_lvl_flow(db_path:str = None, test_set_path:str = None, classifi
                                                                                     classifiers_path= classifiers_path,
                                                                                     first_level_labels=first_level_labels,
                                                                                     second_level_labels=second_level_labels,
+                                                                                    model_name=model_name,
                                                                                     logger=logger)
     cases = os.listdir(db_path)
     for case in cases:
@@ -124,6 +126,7 @@ def main(param, domain):
                         classifiers_path=classifiers_path,
                         first_level_labels=param['first_level_labels'],
                         second_level_labels=param['second_level_labels'],
+                        model_name=param['model_name'],
                         logger=logger
                         )        
 

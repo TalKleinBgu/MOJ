@@ -1,0 +1,8 @@
+2025-04-06 14:37:43 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/12cases_in_train
+2025-04-06 14:37:43 - INFO - Starting training for label: CIRCUM_OFFENSE
+2025-04-06 14:37:43 - INFO - Starting training for model: dictabert
+2025-04-06 14:38:26 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/12cases_in_train
+2025-04-06 14:38:26 - INFO - Starting training for label: CIRCUM_OFFENSE
+2025-04-06 14:38:26 - INFO - Starting training for model: dictabert

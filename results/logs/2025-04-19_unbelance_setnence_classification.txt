@@ -1,0 +1,9 @@
+2025-04-19 12:03:39 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/stratify_sentences_50_40_10_new
+2025-04-19 12:03:39 - INFO - Starting training for label: CIRCUM_OFFENSE
+2025-04-19 12:03:39 - INFO - Starting training for model: dictabert
+2025-04-19 13:53:13 - INFO - Metrics for CIRCUM_OFFENSE with model dictabert: {'accuracy': 0.9428020565552699, 'precision': 0.8016304347826086, 'recall': 0.9485530546623794, 'f1': 0.8689248895434463, 'f2': 0.9150124069478908, 'PRAUC': 0.8243255994450143, 'AUC': 0.9641369335864358, 'best_threshold': 0.999997615814209}
+2025-04-19 13:53:18 - INFO - Starting training for label: GENERAL_CIRCUM
+2025-04-19 13:53:18 - INFO - Starting training for model: dictabert
+2025-04-19 14:46:52 - INFO - Metrics for GENERAL_CIRCUM with model dictabert: {'accuracy': 0.9370179948586118, 'precision': 0.75, 'recall': 0.7932692307692307, 'f1': 0.7710280373831776, 'f2': 0.7842205323193916, 'PRAUC': 0.8143580888396003, 'AUC': 0.9635054068705775, 'best_threshold': 0.9957625269889832}
+2025-04-19 14:46:55 - INFO - setfit training finished.

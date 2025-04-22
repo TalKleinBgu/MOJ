@@ -1,9 +1,9 @@
 # Most important is to change the experiment name!!'
-experiment_name: 'with_f2_try'
+experiment_name: 'more_cases'
 username: tak
 
 # paths
-data_path: "/home/{username}/MOJ/resources/data/trainning/sentence_classification/drugs/stratify_sentences_50_40_10"
+data_path: "/home/{username}/MOJ/resources/data/trainning/sentence_classification/drugs/stratify_sentences_50_40_10_new"
 save_dir: '/home/{username}/MOJ/results'
 save_model_path: '/home/{username}/moj_models'
 
@@ -20,20 +20,21 @@ balance: True # balance the train set
 save_model: True #if False, save just the result by label 
 
 first_label_list:
-  - CONFESSION
-  # - CIR_PUNISHMENT
+  - CIR_PUNISHMENT
   # - GENERAL_CIRCUM
-  - CIRCUM_OFFENSE
+  # - CIRCUM_OFFENSE
   # - reject
 
 #second level labels
 second_label_list: 
-  # - CIR_TYPE
-  # - CIR_AMOUNT
-  # - CIR_ROLE
-  # - CIR_EQ
-  # - REGRET
-  # - RESPO
+  - CIR_TYPE
+  - CIR_AMOUNT
+  - CIR_ROLE
+  - CIR_EQ
+  - REGRET
+  - RESPO
+  - CONFESSION
+
 
 
 #labels to ignore
@@ -44,10 +45,10 @@ ignore_labels:
 
 pretrained_model_list:
   # - HeNLP/HeRo
-  - amberoad/bert-multilingual-passage-reranking-msmarco
+  # - amberoad/bert-multilingual-passage-reranking-msmarco
   - dicta-il/dictabert
   # - avichr/Legal-heBERT
-  - avichr/heBERT
+  # - avichr/heBERT
   # - onlplab/alephbert-base
   
 
@@ -59,7 +60,7 @@ training_args:
     - 0.000005
   head_learning_rate: 0.002
   l2_weight: 0.01
-  num_epochs: 3
+  num_epochs: 5
   end_to_end: True
   evaluation_strategy: "epoch"
   save_strategy: "epoch"

@@ -1,0 +1,194 @@
+2025-04-01 19:26:07 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/12cases_in_train
+2025-04-01 19:26:07 - INFO - Starting training for label: CIRCUM_OFFENSE
+2025-04-01 19:26:07 - INFO - Starting training for model: dictabert
+2025-04-01 19:29:02 - INFO - Metrics for CIRCUM_OFFENSE with model dictabert: {'accuracy': 0.9102950030102348, 'precision': 0.6317280453257791, 'recall': 0.9214876033057852, 'f1': 0.7495798319327731, 'f2': 0.8440575321725965, 'PRAUC': 0.8278177142479789, 'AUC': 0.9618037961781957, 'best_threshold': 0.08708522468805313}
+2025-04-01 19:29:06 - INFO - Starting training for label: CIR_STATUS_WEP
+2025-04-01 19:29:06 - INFO - Starting training for model: dictabert
+2025-04-01 19:29:52 - INFO - Metrics for CIR_STATUS_WEP with model dictabert: {'accuracy': 0.8970499698976521, 'precision': 0.2703862660944206, 'recall': 0.984375, 'f1': 0.42424242424242425, 'f2': 0.6441717791411042, 'PRAUC': 0.5702039683038959, 'AUC': 0.9724385566687539, 'best_threshold': 0.7474383115768433}
+2025-04-01 19:29:55 - INFO - Starting training for label: CIR_HELD_WAY_WEP
+2025-04-01 19:29:55 - INFO - Starting training for model: dictabert
+2025-04-01 19:30:50 - INFO - Metrics for CIR_HELD_WAY_WEP with model dictabert: {'accuracy': 0.9283564118001204, 'precision': 0.3539325842696629, 'recall': 0.9402985074626866, 'f1': 0.5142857142857142, 'f2': 0.7062780269058296, 'PRAUC': 0.6528520917843653, 'AUC': 0.9750182587688908, 'best_threshold': 0.49099937081336975}
+2025-04-01 19:30:53 - INFO - Starting training for label: CIR_PURPOSE
+2025-04-01 19:30:53 - INFO - Starting training for model: dictabert
+2025-04-01 19:31:52 - INFO - Metrics for CIR_PURPOSE with model dictabert: {'accuracy': 0.9614689945815773, 'precision': 0.24050632911392406, 'recall': 0.8260869565217391, 'f1': 0.37254901960784315, 'f2': 0.5555555555555556, 'PRAUC': 0.2899062411118449, 'AUC': 0.961790624834103, 'best_threshold': 0.9997699856758118}
+2025-04-01 19:31:56 - INFO - Starting training for label: CIR_AMMU_AMOUNT_WEP
+2025-04-01 19:31:56 - INFO - Starting training for model: dictabert
+2025-04-01 19:32:46 - INFO - Metrics for CIR_AMMU_AMOUNT_WEP with model dictabert: {'accuracy': 0.8711619506321493, 'precision': 0.18503937007874016, 'recall': 0.8703703703703703, 'f1': 0.3051948051948052, 'f2': 0.5, 'PRAUC': 0.5129828779569183, 'AUC': 0.9394489386710918, 'best_threshold': 0.6785342693328857}
+2025-04-01 19:32:53 - INFO - Starting training for label: CIR_OBTAIN_WAY_WEP
+2025-04-01 19:32:53 - INFO - Starting training for model: dictabert
+2025-04-01 19:34:02 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/12cases_in_train
+2025-04-01 19:34:02 - INFO - Starting training for label: CIRCUM_OFFENSE
+2025-04-01 19:34:03 - INFO - Starting training for model: dictabert
+2025-04-01 19:36:38 - INFO - Metrics for CIRCUM_OFFENSE with model dictabert: {'accuracy': 0.9331727874774233, 'precision': 0.7381818181818182, 'recall': 0.8388429752066116, 'f1': 0.7852998065764023, 'f2': 0.8165728077232502, 'PRAUC': 0.8209719863099766, 'AUC': 0.9592717488162424, 'best_threshold': 0.9997778534889221}
+2025-04-01 19:36:41 - INFO - Starting training for label: CIR_STATUS_WEP
+2025-04-01 19:36:41 - INFO - Starting training for model: dictabert
+2025-04-01 19:37:26 - INFO - Metrics for CIR_STATUS_WEP with model dictabert: {'accuracy': 0.9536423841059603, 'precision': 0.4434782608695652, 'recall': 0.796875, 'f1': 0.5698324022346368, 'f2': 0.6873315363881402, 'PRAUC': 0.5702039683038959, 'AUC': 0.9724385566687539, 'best_threshold': 0.9985737800598145}
+2025-04-01 19:37:29 - INFO - Starting training for label: CIR_HELD_WAY_WEP
+2025-04-01 19:37:30 - INFO - Starting training for model: dictabert
+2025-04-01 19:38:26 - INFO - Metrics for CIR_HELD_WAY_WEP with model dictabert: {'accuracy': 0.962673088500903, 'precision': 0.5252525252525253, 'recall': 0.7761194029850746, 'f1': 0.6265060240963856, 'f2': 0.7084468664850136, 'PRAUC': 0.6528520917843653, 'AUC': 0.9750182587688908, 'best_threshold': 0.9917507767677307}
+2025-04-01 19:38:30 - INFO - Starting training for label: CIR_PURPOSE
+2025-04-01 19:38:30 - INFO - Starting training for model: dictabert
+2025-04-01 19:39:29 - INFO - Metrics for CIR_PURPOSE with model dictabert: {'accuracy': 0.9819385912101144, 'precision': 0.3939393939393939, 'recall': 0.5652173913043478, 'f1': 0.4642857142857143, 'f2': 0.52, 'PRAUC': 0.2899062411118449, 'AUC': 0.961790624834103, 'best_threshold': 0.9999253749847412}
+2025-04-01 19:39:33 - INFO - Starting training for label: CIR_AMMU_AMOUNT_WEP
+2025-04-01 19:39:33 - INFO - Starting training for model: dictabert
+2025-04-01 19:40:24 - INFO - Metrics for CIR_AMMU_AMOUNT_WEP with model dictabert: {'accuracy': 0.9674894641782059, 'precision': 0.5, 'recall': 0.5740740740740741, 'f1': 0.5344827586206896, 'f2': 0.5575539568345323, 'PRAUC': 0.5129828779569183, 'AUC': 0.9394489386710918, 'best_threshold': 0.9999738931655884}
+2025-04-01 19:40:29 - INFO - Starting training for label: CIR_OBTAIN_WAY_WEP
+2025-04-01 19:40:29 - INFO - Starting training for model: dictabert
+2025-04-01 19:41:35 - INFO - Metrics for CIR_OBTAIN_WAY_WEP with model dictabert: {'accuracy': 0.9512341962673089, 'precision': 0.08536585365853659, 'recall': 0.5384615384615384, 'f1': 0.14736842105263157, 'f2': 0.26119402985074625, 'PRAUC': 0.061399717823982895, 'AUC': 0.8679284914115012, 'best_threshold': 0.9999488592147827}
+2025-04-01 19:41:40 - INFO - Starting training for label: CIR_BUYER_ID_WEP
+2025-04-01 19:41:41 - INFO - Starting training for model: dictabert
+2025-04-01 19:41:42 - ERROR - Error in label CIR_BUYER_ID_WEP: list index out of range
+2025-04-01 19:41:42 - INFO - Starting training for label: CIR_TYPE_WEP
+2025-04-01 19:41:42 - INFO - Starting training for model: dictabert
+2025-04-01 19:43:27 - INFO - Metrics for CIR_TYPE_WEP with model dictabert: {'accuracy': 0.9777242624924745, 'precision': 0.8493150684931506, 'recall': 0.8920863309352518, 'f1': 0.8701754385964913, 'f2': 0.8831908831908832, 'PRAUC': 0.8938435777899428, 'AUC': 0.9834466198394766, 'best_threshold': 0.9999452829360962}
+2025-04-01 19:43:30 - INFO - Starting training for label: CIR_MONEY_PAID_WEP
+2025-04-01 19:43:30 - INFO - Starting training for model: dictabert
+2025-04-01 19:43:32 - ERROR - Error in label CIR_MONEY_PAID_WEP: list index out of range
+2025-04-01 19:43:32 - INFO - Starting training for label: CIR_USE
+2025-04-01 19:43:32 - INFO - Starting training for model: dictabert
+2025-04-01 19:44:21 - INFO - Metrics for CIR_USE with model dictabert: {'accuracy': 0.9687726942628904, 'precision': 0.6304347826086957, 'recall': 0.5272727272727272, 'f1': 0.5742574257425742, 'f2': 0.5451127819548872, 'PRAUC': 0.5630292041936499, 'AUC': 0.9674941548617797, 'best_threshold': 0.999984622001648}
+2025-04-01 19:44:25 - INFO - Starting training for label: CIR_PLANNING
+2025-04-01 19:44:25 - INFO - Starting training for model: dictabert
+2025-04-01 19:44:28 - ERROR - Error in label CIR_PLANNING: list index out of range
+2025-04-01 19:44:28 - INFO - setfit training finished.
+2025-04-01 19:54:38 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/12cases_in_train
+2025-04-01 19:54:38 - INFO - Starting training for label: CIRCUM_OFFENSE
+2025-04-01 19:54:38 - INFO - Starting training for model: dictabert
+2025-04-01 19:57:17 - INFO - Metrics for CIRCUM_OFFENSE with model dictabert: {'accuracy': 0.9277543648404576, 'precision': 0.7103448275862069, 'recall': 0.8512396694214877, 'f1': 0.7744360902255639, 'f2': 0.8187599364069952, 'PRAUC': 0.8292464106044529, 'AUC': 0.9577909597609771, 'best_threshold': 0.9997740387916565}
+2025-04-01 19:57:20 - INFO - Starting training for label: CIR_STATUS_WEP
+2025-04-01 19:57:20 - INFO - Starting training for model: dictabert
+2025-04-01 20:04:42 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/12cases_in_train
+2025-04-01 20:04:42 - INFO - Starting training for label: CIRCUM_OFFENSE
+2025-04-01 20:04:42 - INFO - Starting training for model: dictabert
+2025-04-01 20:06:44 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/12cases_in_train
+2025-04-01 20:06:44 - INFO - Starting training for label: reject
+2025-04-01 20:06:44 - INFO - Starting training for model: dictabert
+2025-04-01 20:13:04 - INFO - Metrics for reject with model dictabert: {'accuracy': 0.8663455749548464, 'precision': 0.902818270165209, 'recall': 0.8839200761179828, 'f1': 0.8932692307692308, 'f2': 0.8876361551691191, 'PRAUC': 0.9545396353813063, 'AUC': 0.9147002854424358, 'best_threshold': 0.005895373411476612}
+2025-04-01 20:13:07 - INFO - Starting training for label: CIR_STATUS_WEPs
+2025-04-01 20:13:08 - ERROR - Error in label CIR_STATUS_WEPs: 'CIR_STATUS_WEPs'
+2025-04-01 20:13:08 - INFO - setfit training finished.
+2025-04-01 20:27:59 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/stratify_sentences_50_40_10
+2025-04-01 20:27:59 - INFO - Starting training for label: CIRCUM_OFFENSE
+2025-04-01 20:28:00 - INFO - Starting training for model: dictabert
+2025-04-01 20:32:15 - INFO - Metrics for CIRCUM_OFFENSE with model dictabert: {'accuracy': 0.9508196721311475, 'precision': 0.8028846153846154, 'recall': 0.8835978835978836, 'f1': 0.8413098236775819, 'f2': 0.8661825726141079, 'PRAUC': 0.8715546357456326, 'AUC': 0.9791266934124075, 'best_threshold': 0.9999898672103882}
+2025-04-01 20:32:20 - INFO - Starting training for label: reject
+2025-04-01 20:32:20 - INFO - Starting training for model: dictabert
+2025-04-01 20:43:21 - INFO - Metrics for reject with model dictabert: {'accuracy': 0.8899297423887588, 'precision': 0.9287833827893175, 'recall': 0.8706536856745479, 'f1': 0.8987796123474515, 'f2': 0.8816901408450705, 'PRAUC': 0.9558569174014172, 'AUC': 0.947658620365375, 'best_threshold': 0.9537367820739746}
+2025-04-01 20:43:24 - INFO - Starting training for label: CIR_STATUS_WEP
+2025-04-01 20:43:24 - INFO - Starting training for model: dictabert
+2025-04-01 20:44:59 - INFO - Metrics for CIR_STATUS_WEP with model dictabert: {'accuracy': 0.9828259172521467, 'precision': 0.7659574468085106, 'recall': 0.7659574468085106, 'f1': 0.7659574468085106, 'f2': 0.7659574468085106, 'PRAUC': 0.8107551063275636, 'AUC': 0.9891806614021174, 'best_threshold': 0.9998705387115479}
+2025-04-01 20:45:02 - INFO - Starting training for label: CIR_HELD_WAY_WEP
+2025-04-01 20:45:02 - INFO - Starting training for model: dictabert
+2025-04-01 20:46:32 - INFO - Metrics for CIR_HELD_WAY_WEP with model dictabert: {'accuracy': 0.9711163153786104, 'precision': 0.5970149253731343, 'recall': 0.8, 'f1': 0.6837606837606838, 'f2': 0.7490636704119851, 'PRAUC': 0.6576201401364099, 'AUC': 0.9785702680747359, 'best_threshold': 0.9998040795326233}
+2025-04-01 20:46:35 - INFO - Starting training for label: CIR_PURPOSE
+2025-04-01 20:46:35 - INFO - Starting training for model: dictabert
+2025-04-01 20:47:58 - INFO - Metrics for CIR_PURPOSE with model dictabert: {'accuracy': 0.9812646370023419, 'precision': 0.625, 'recall': 0.5, 'f1': 0.5555555555555556, 'f2': 0.5208333333333334, 'PRAUC': 0.4710457927145618, 'AUC': 0.9662669864108713, 'best_threshold': 0.9999057054519653}
+2025-04-01 20:48:02 - INFO - Starting training for label: CIR_AMMU_AMOUNT_WEP
+2025-04-01 20:48:02 - INFO - Starting training for model: dictabert
+2025-04-01 20:49:36 - INFO - Metrics for CIR_AMMU_AMOUNT_WEP with model dictabert: {'accuracy': 0.9765807962529274, 'precision': 0.5357142857142857, 'recall': 0.8823529411764706, 'f1': 0.6666666666666666, 'f2': 0.78125, 'PRAUC': 0.6493006907089226, 'AUC': 0.9694678994292182, 'best_threshold': 0.9999266862869263}
+2025-04-01 20:49:39 - INFO - Starting training for label: CIR_OBTAIN_WAY_WEP
+2025-04-01 20:49:39 - INFO - Starting training for model: dictabert
+2025-04-01 20:51:13 - INFO - Metrics for CIR_OBTAIN_WAY_WEP with model dictabert: {'accuracy': 0.9812646370023419, 'precision': 0.3333333333333333, 'recall': 0.2, 'f1': 0.25, 'f2': 0.21739130434782608, 'PRAUC': 0.13938219731329368, 'AUC': 0.9035487708168121, 'best_threshold': 0.9999823570251465}
+2025-04-01 20:51:16 - INFO - Starting training for label: CIR_BUYER_ID_WEP
+2025-04-01 20:51:16 - ERROR - Error in label CIR_BUYER_ID_WEP: 'CIR_BUYER_ID_WEP'
+2025-04-01 20:51:16 - INFO - Starting training for label: CIR_TYPE_WEP
+2025-04-01 20:51:16 - INFO - Starting training for model: dictabert
+2025-04-01 20:53:39 - INFO - Metrics for CIR_TYPE_WEP with model dictabert: {'accuracy': 0.9867291178766588, 'precision': 0.8803418803418803, 'recall': 0.9716981132075472, 'f1': 0.9237668161434978, 'f2': 0.9519408502772643, 'PRAUC': 0.9107545879276578, 'AUC': 0.9946647932557205, 'best_threshold': 0.9999974966049194}
+2025-04-01 20:53:45 - INFO - Starting training for label: CIR_MONEY_PAID_WEP
+2025-04-01 20:53:45 - ERROR - Error in label CIR_MONEY_PAID_WEP: 'CIR_MONEY_PAID_WEP'
+2025-04-01 20:53:45 - INFO - Starting training for label: CIR_USE
+2025-04-01 20:53:45 - INFO - Starting training for model: dictabert
+2025-04-01 20:55:01 - INFO - Metrics for CIR_USE with model dictabert: {'accuracy': 0.9726775956284153, 'precision': 0.6296296296296297, 'recall': 0.6938775510204082, 'f1': 0.6601941747572816, 'f2': 0.68, 'PRAUC': 0.7380390965243036, 'AUC': 0.9826398091704214, 'best_threshold': 0.9999839067459106}
+2025-04-01 20:55:05 - INFO - Starting training for label: CIR_PLANNING
+2025-04-01 20:55:05 - INFO - Starting training for model: dictabert
+2025-04-01 20:56:53 - INFO - Metrics for CIR_PLANNING with model dictabert: {'accuracy': 0.9882903981264637, 'precision': 0.56, 'recall': 0.7777777777777778, 'f1': 0.6511627906976745, 'f2': 0.7216494845360825, 'PRAUC': 0.7407954400224932, 'AUC': 0.9912905779889153, 'best_threshold': 0.9996433258056641}
+2025-04-01 20:56:57 - INFO - setfit training finished.
+2025-04-01 23:19:50 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/12cases_in_train
+2025-04-01 23:19:50 - INFO - Starting training for label: CIRCUM_OFFENSE
+2025-04-01 23:19:50 - INFO - Starting training for model: dictabert
+2025-04-01 23:20:08 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/12cases_in_train
+2025-04-01 23:20:08 - INFO - Starting training for label: CIRCUM_OFFENSE
+2025-04-01 23:20:08 - INFO - Starting training for model: dictabert
+2025-04-01 23:30:46 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/12cases_in_train
+2025-04-01 23:30:46 - INFO - Starting training for label: CIRCUM_OFFENSE
+2025-04-01 23:30:47 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-04-02 00:26:00 - INFO - Metrics for CIRCUM_OFFENSE with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.909692956050572, 'precision': 0.6932773109243697, 'recall': 0.6818181818181818, 'f1': 0.6875, 'f2': 0.6840796019900498, 'PRAUC': 0.7439774870221011, 'AUC': 0.9095481045317679, 'best_threshold': 0.999764621257782}
+2025-04-02 00:26:04 - INFO - Starting training for model: dictabert
+2025-04-02 00:54:43 - INFO - Metrics for CIRCUM_OFFENSE with model dictabert: {'accuracy': 0.9193257074051776, 'precision': 0.6788079470198676, 'recall': 0.8471074380165289, 'f1': 0.7536764705882353, 'f2': 0.8070866141732284, 'PRAUC': 0.7688043110026025, 'AUC': 0.9487868304416449, 'best_threshold': 0.9999639987945557}
+2025-04-02 00:54:46 - INFO - Starting training for model: heBERT
+2025-04-02 01:55:35 - INFO - Metrics for CIRCUM_OFFENSE with model heBERT: {'accuracy': 0.8651414810355208, 'precision': 0.5211267605633803, 'recall': 0.9173553719008265, 'f1': 0.6646706586826348, 'f2': 0.7962697274031564, 'PRAUC': 0.5094336883612052, 'AUC': 0.9019650667738309, 'best_threshold': 0.9999997615814209}
+2025-04-02 01:55:37 - INFO - Starting training for label: reject
+2025-04-02 01:55:37 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-04-02 06:22:17 - INFO - Metrics for reject with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.7910897049969897, 'precision': 0.7918739635157546, 'recall': 0.9086584205518554, 'f1': 0.8462560921577315, 'f2': 0.8826247689463955, 'PRAUC': 0.9066105545296499, 'AUC': 0.8649896273650388, 'best_threshold': 0.00018825478036887944}
+2025-04-02 06:22:19 - INFO - Starting training for model: dictabert
+2025-04-02 09:13:19 - INFO - Metrics for reject with model dictabert: {'accuracy': 0.8127633955448526, 'precision': 0.8211805555555556, 'recall': 0.9000951474785919, 'f1': 0.8588288697231049, 'f2': 0.8831217326362958, 'PRAUC': 0.9302554570112072, 'AUC': 0.8883904478170673, 'best_threshold': 0.001430239761248231}
+2025-04-02 09:13:22 - INFO - Starting training for model: heBERT
+2025-04-02 13:19:30 - INFO - Metrics for reject with model heBERT: {'accuracy': 0.7615894039735099, 'precision': 0.7801539777587682, 'recall': 0.8677450047573739, 'f1': 0.8216216216216217, 'f2': 0.8486878838637633, 'PRAUC': 0.885628633111768, 'AUC': 0.829207156338226, 'best_threshold': 0.0015173843130469322}
+2025-04-02 13:19:32 - INFO - Starting training for label: CIR_STATUS_WEP
+2025-04-02 13:19:32 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-04-02 13:22:53 - INFO - Metrics for CIR_STATUS_WEP with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.9205298013245033, 'precision': 0.25, 'recall': 0.53125, 'f1': 0.34, 'f2': 0.4336734693877551, 'PRAUC': 0.27183286051421013, 'AUC': 0.8728817705072011, 'best_threshold': 0.9999854564666748}
+2025-04-02 13:22:56 - INFO - Starting training for model: dictabert
+2025-04-02 13:25:15 - INFO - Metrics for CIR_STATUS_WEP with model dictabert: {'accuracy': 0.9620710415412402, 'precision': 0.5068493150684932, 'recall': 0.578125, 'f1': 0.5401459854014599, 'f2': 0.5623100303951368, 'PRAUC': 0.5656102938048229, 'AUC': 0.9697039370695053, 'best_threshold': 0.9999428987503052}
+2025-04-02 13:25:19 - INFO - Starting training for model: heBERT
+2025-04-02 13:28:25 - INFO - Metrics for CIR_STATUS_WEP with model heBERT: {'accuracy': 0.9608669476219145, 'precision': 0.49206349206349204, 'recall': 0.484375, 'f1': 0.4881889763779528, 'f2': 0.48589341692789967, 'PRAUC': 0.41881531579436343, 'AUC': 0.9557764558547276, 'best_threshold': 0.9999818801879883}
+2025-04-02 13:28:28 - INFO - Starting training for label: CIR_HELD_WAY_WEP
+2025-04-02 13:28:28 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-04-02 13:32:58 - INFO - Metrics for CIR_HELD_WAY_WEP with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.9536423841059603, 'precision': 0.4528301886792453, 'recall': 0.7164179104477612, 'f1': 0.5549132947976878, 'f2': 0.6417112299465241, 'PRAUC': 0.4590566298558036, 'AUC': 0.9407058184610199, 'best_threshold': 0.9999983310699463}
+2025-04-02 13:33:01 - INFO - Starting training for model: dictabert
+2025-04-02 13:37:00 - INFO - Metrics for CIR_HELD_WAY_WEP with model dictabert: {'accuracy': 0.9650812763395545, 'precision': 0.5517241379310345, 'recall': 0.7164179104477612, 'f1': 0.6233766233766234, 'f2': 0.676056338028169, 'PRAUC': 0.6600976859816171, 'AUC': 0.9739601865203469, 'best_threshold': 0.9999926090240479}
+2025-04-02 13:37:09 - INFO - Starting training for model: heBERT
+2025-04-02 13:40:25 - INFO - Metrics for CIR_HELD_WAY_WEP with model heBERT: {'accuracy': 0.9692956050571945, 'precision': 0.6025641025641025, 'recall': 0.7014925373134329, 'f1': 0.6482758620689655, 'f2': 0.6791907514450867, 'PRAUC': 0.650045299411407, 'AUC': 0.9737354632109215, 'best_threshold': 0.9999963045120239}
+2025-04-02 13:40:28 - INFO - Starting training for label: CIR_PURPOSE
+2025-04-02 13:40:29 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-04-02 13:47:28 - INFO - Metrics for CIR_PURPOSE with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.9596628537025887, 'precision': 0.14516129032258066, 'recall': 0.391304347826087, 'f1': 0.21176470588235294, 'f2': 0.2922077922077922, 'PRAUC': 0.129053189152814, 'AUC': 0.9152864044168393, 'best_threshold': 0.9999984502792358}
+2025-04-02 13:47:32 - INFO - Starting training for model: dictabert
+2025-04-02 13:53:50 - INFO - Metrics for CIR_PURPOSE with model dictabert: {'accuracy': 0.983744732089103, 'precision': 0.4375, 'recall': 0.6086956521739131, 'f1': 0.509090909090909, 'f2': 0.5645161290322581, 'PRAUC': 0.4071672268012799, 'AUC': 0.9733503211764081, 'best_threshold': 0.9999988079071045}
+2025-04-02 13:53:56 - INFO - Starting training for model: heBERT
+2025-04-02 13:57:09 - INFO - Metrics for CIR_PURPOSE with model heBERT: {'accuracy': 0.9692956050571945, 'precision': 0.23076923076923078, 'recall': 0.5217391304347826, 'f1': 0.32, 'f2': 0.4166666666666667, 'PRAUC': 0.18589793419366427, 'AUC': 0.9534028773159208, 'best_threshold': 1.0}
+2025-04-02 13:57:12 - INFO - Starting training for label: CIR_AMMU_AMOUNT_WEP
+2025-04-02 13:57:12 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-04-02 14:01:26 - INFO - Metrics for CIR_AMMU_AMOUNT_WEP with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.9765201685731487, 'precision': 0.6363636363636364, 'recall': 0.6481481481481481, 'f1': 0.6422018348623854, 'f2': 0.6457564575645757, 'PRAUC': 0.5806077628661082, 'AUC': 0.9571780866118141, 'best_threshold': 0.9999984502792358}
+2025-04-02 14:01:37 - INFO - Starting training for model: dictabert
+2025-04-02 14:04:56 - INFO - Metrics for CIR_AMMU_AMOUNT_WEP with model dictabert: {'accuracy': 0.9723058398555088, 'precision': 0.5588235294117647, 'recall': 0.7037037037037037, 'f1': 0.6229508196721312, 'f2': 0.6690140845070423, 'PRAUC': 0.5705087391309993, 'AUC': 0.9644207057088202, 'best_threshold': 0.9999127388000488}
+2025-04-02 14:04:59 - INFO - Starting training for model: heBERT
+2025-04-02 14:07:17 - INFO - Metrics for CIR_AMMU_AMOUNT_WEP with model heBERT: {'accuracy': 0.9686935580975317, 'precision': 0.5131578947368421, 'recall': 0.7222222222222222, 'f1': 0.6, 'f2': 0.6678082191780822, 'PRAUC': 0.6212169648301191, 'AUC': 0.9681370854364009, 'best_threshold': 0.9999939203262329}
+2025-04-02 14:07:20 - INFO - Starting training for label: CIR_OBTAIN_WAY_WEP
+2025-04-02 14:07:20 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-04-02 14:13:43 - INFO - Metrics for CIR_OBTAIN_WAY_WEP with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.9891631547260686, 'precision': 0.14285714285714285, 'recall': 0.07692307692307693, 'f1': 0.1, 'f2': 0.0847457627118644, 'PRAUC': 0.030010507321569933, 'AUC': 0.7511202389843167, 'best_threshold': 0.999991774559021}
+2025-04-02 14:13:53 - INFO - Starting training for model: dictabert
+2025-04-02 14:16:55 - INFO - Metrics for CIR_OBTAIN_WAY_WEP with model dictabert: {'accuracy': 0.9686935580975317, 'precision': 0.0851063829787234, 'recall': 0.3076923076923077, 'f1': 0.13333333333333333, 'f2': 0.20202020202020202, 'PRAUC': 0.069374548686089, 'AUC': 0.8852221807318895, 'best_threshold': 0.9996768236160278}
+2025-04-02 14:17:01 - INFO - Starting training for model: heBERT
+2025-04-02 14:19:15 - INFO - Metrics for CIR_OBTAIN_WAY_WEP with model heBERT: {'accuracy': 0.9813365442504516, 'precision': 0.125, 'recall': 0.23076923076923078, 'f1': 0.16216216216216217, 'f2': 0.19736842105263158, 'PRAUC': 0.07294405603258663, 'AUC': 0.8843119865571323, 'best_threshold': 0.9999990463256836}
+2025-04-02 14:19:24 - INFO - Starting training for label: CIR_BUYER_ID_WEP
+2025-04-02 14:19:25 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-04-02 14:19:30 - ERROR - Error in label CIR_BUYER_ID_WEP: list index out of range
+2025-04-02 14:19:30 - INFO - Starting training for label: CIR_TYPE_WEP
+2025-04-02 14:19:30 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-04-02 14:42:37 - INFO - Metrics for CIR_TYPE_WEP with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.937989163154726, 'precision': 0.6125, 'recall': 0.7050359712230215, 'f1': 0.6555183946488294, 'f2': 0.6843575418994413, 'PRAUC': 0.5271125240353032, 'AUC': 0.839644447385587, 'best_threshold': 0.9999970197677612}
+2025-04-02 14:42:40 - INFO - Starting training for model: dictabert
+2025-04-02 14:52:38 - INFO - Metrics for CIR_TYPE_WEP with model dictabert: {'accuracy': 0.9717037928958459, 'precision': 0.8285714285714286, 'recall': 0.8345323741007195, 'f1': 0.8315412186379928, 'f2': 0.8333333333333334, 'PRAUC': 0.8918546559697013, 'AUC': 0.9829692093893874, 'best_threshold': 0.9999654293060303}
+2025-04-02 14:52:41 - INFO - Starting training for model: heBERT
+2025-04-02 15:04:33 - INFO - Metrics for CIR_TYPE_WEP with model heBERT: {'accuracy': 0.9397953040337146, 'precision': 0.5898617511520737, 'recall': 0.920863309352518, 'f1': 0.7191011235955056, 'f2': 0.8279430789133247, 'PRAUC': 0.5778865008037725, 'AUC': 0.9600605980393083, 'best_threshold': 1.0}
+2025-04-02 15:04:34 - INFO - Starting training for label: CIR_MONEY_PAID_WEP
+2025-04-02 15:04:34 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-04-02 15:04:37 - ERROR - Error in label CIR_MONEY_PAID_WEP: list index out of range
+2025-04-02 15:04:37 - INFO - Starting training for label: CIR_USE
+2025-04-02 15:04:37 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-04-02 15:08:41 - INFO - Metrics for CIR_USE with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.9186637618010167, 'precision': 0.2755905511811024, 'recall': 0.6363636363636364, 'f1': 0.38461538461538464, 'f2': 0.5043227665706052, 'PRAUC': 0.25047683120280456, 'AUC': 0.8983702379315087, 'best_threshold': 0.9999948740005493}
+2025-04-02 15:08:44 - INFO - Starting training for model: dictabert
+2025-04-02 15:11:30 - INFO - Metrics for CIR_USE with model dictabert: {'accuracy': 0.9753086419753086, 'precision': 0.7441860465116279, 'recall': 0.5818181818181818, 'f1': 0.6530612244897959, 'f2': 0.6083650190114068, 'PRAUC': 0.6519950875601077, 'AUC': 0.9677829734561959, 'best_threshold': 0.99998939037323}
+2025-04-02 15:11:35 - INFO - Starting training for model: heBERT
+2025-04-02 15:14:20 - INFO - Metrics for CIR_USE with model heBERT: {'accuracy': 0.9687726942628904, 'precision': 0.6071428571428571, 'recall': 0.6181818181818182, 'f1': 0.6126126126126126, 'f2': 0.6159420289855072, 'PRAUC': 0.5094118315600442, 'AUC': 0.965802503094485, 'best_threshold': 1.0}
+2025-04-02 15:14:21 - INFO - Starting training for label: CIR_PLANNING
+2025-04-02 15:14:21 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-04-02 15:14:30 - ERROR - Error in label CIR_PLANNING: list index out of range
+2025-04-02 15:14:30 - INFO - setfit training finished.

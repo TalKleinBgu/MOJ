@@ -1,5 +1,5 @@
 # Most important is to change the experiment name!!'
-experiment_name: 'with_f2_try'
+experiment_name: 'regular_cases'
 username: tak
 
 # paths
@@ -22,26 +22,27 @@ save_model: True #if False, save just the result by label
 #first level labels
 first_label_list:
   - CIRCUM_OFFENSE
-  # - CONFESSION
-  # - GENERAL_CIRCUM
-  # - PUNISHMENT
+  - GENERAL_CIRCUM
+  - PUNISHMENT
   # - reject
 
 
 #second level labels
 second_label_list: 
-  # - CIR_STATUS_WEP
-  # - CIR_HELD_WAY_WEP
-  # - CIR_PURPOSE
-  # - CIR_AMMU_AMOUNT_WEP
-  # - CIR_OBTAIN_WAY_WEP
-  # # - CIR_BUYER_ID_WEP
-  # - CIR_TYPE_WEP
-  # # - CIR_MONEY_PAID_WEP
-  # -  CIR_USE
-  # - CIR_PLANNING
-  # - RESPO
-  # - REGRET
+  - CIR_STATUS_WEP
+  - CIR_HELD_WAY_WEP
+  - CIR_PURPOSE
+  - CIR_AMMU_AMOUNT_WEP
+  - CIR_OBTAIN_WAY_WEP
+  - CIR_BUYER_ID_WEP
+  - CIR_TYPE_WEP
+  - CIR_MONEY_PAID_WEP
+  - CIR_USE
+  - CIR_PLANNING
+  - RESPO
+  - REGRET
+  - CONFESSION
+
 
 
 #labels to ignore
@@ -49,35 +50,32 @@ ignore_labels:
   - "Unnamed: 0"
   - verdict
   - text
-  - CIR_BUYER_ID_WEP
+
 
 
 pretrained_model_list:
     #  - HeNLP/HeRo
-     - amberoad/bert-multilingual-passage-reranking-msmarco
+    #  - amberoad/bert-multilingual-passage-reranking-msmarco
      - dicta-il/dictabert
     #  - avichr/Legal-heBERT
-     - avichr/heBERT
+    #  - avichr/heBERT
     #  - onlplab/alephbert-base
   
 
 # training arguments
 training_args:
-  batch_size: 64
+  batch_size: 16
   body_learning_rate:
     - 0.00002
     - 0.000005
   head_learning_rate: 0.002
   l2_weight: 0.01
-  num_epochs: 3 
+  num_epochs: 5 
   end_to_end: True
   evaluation_strategy: "epoch"
   save_strategy: "epoch"
   eval_steps: 3
   load_best_model_at_end: True
-
-
-
 
 
 

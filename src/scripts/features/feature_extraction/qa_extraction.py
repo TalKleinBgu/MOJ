@@ -87,7 +87,7 @@ class QA_Extractor:
 
         # Construct full path to the CSV file with sentence predictions
         # data_path_csv = os.path.join(data_path, 'sentence_predictions.csv')
-        data_path_csv = os.path.join(data_path, 'sentence_tagging.csv')
+        data_path_csv = os.path.join(data_path, 'sentence_predictions.csv')
 
         # Instantiate the prompt class depending on self.model / self.tokenizer / self.api_key
         if self.model is None:
@@ -131,10 +131,11 @@ class QA_Extractor:
                     continue
                 else:
                     # If column is 'PUNISHMENT', handle multiple sub-features
-                    if column == 'PUNISHMENT':
+                    if column == 'CIR_PUNISHMENT':
+                        column_1 = 'PUNISHMENT'
                         options = ['ACTUAL', 'SUSPENDED', 'FINE']
                         for option in options:
-                            func_name = f'ask2extract_{column}_{option}'
+                            func_name = f'ask2extract_{column_1}_{option}'
                             # Check if the dynamic prompts class has a method for this sub-feature
                             if hasattr(dp, func_name):
                                 func = getattr(dp, func_name)
@@ -148,7 +149,7 @@ class QA_Extractor:
                                 elif isinstance(answers, str):
                                     features_set.append(answers)
                                 # Store extracted sub-feature in a column name like PUNISHMENT_ACTUAL
-                                name_column = f'{column}_{option}'
+                                name_column = f'{column_1}_{option}'
                                 dict_lables[name_column] = features_set
                     else:
                         # Otherwise, form a function name for the column

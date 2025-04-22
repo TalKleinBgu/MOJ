@@ -1,0 +1,10 @@
+2025-03-30 11:07:45 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/drugs/stratify_sentences_50_40_10
+2025-03-30 11:07:45 - INFO - Starting training for label: reject
+2025-03-30 11:07:45 - INFO - Starting training for model: bert-multilingual-passage-reranking-msmarco
+2025-03-30 14:57:31 - INFO - Metrics for reject with model bert-multilingual-passage-reranking-msmarco: {'accuracy': 0.8488253319713994, 'precision': 0.8736059479553904, 'recall': 0.8545454545454545, 'f1': 0.8639705882352942, 'f2': 0.8582907231555881, 'PRAUC': 0.8724027994358234, 'AUC': 0.8512375503284594, 'best_threshold': 2.956801381515106e-06}
+2025-03-30 14:57:34 - INFO - Starting training for model: dictabert
+2025-03-30 16:57:54 - INFO - Metrics for reject with model dictabert: {'accuracy': 0.8600612870275791, 'precision': 0.8903591682419659, 'recall': 0.8563636363636363, 'f1': 0.8730305838739574, 'f2': 0.862953462806889, 'PRAUC': 0.8979308594940213, 'AUC': 0.8864335664335664, 'best_threshold': 0.9968361854553223}
+2025-03-30 16:57:59 - INFO - Starting training for model: heBERT
+2025-03-30 19:12:57 - INFO - Metrics for reject with model heBERT: {'accuracy': 0.8386108273748724, 'precision': 0.8670411985018727, 'recall': 0.8418181818181818, 'f1': 0.8542435424354243, 'f2': 0.8467446964155084, 'PRAUC': 0.8940252755812848, 'AUC': 0.887014197923289, 'best_threshold': 2.9622034602994063e-08}
+2025-03-30 19:12:58 - INFO - setfit training finished.

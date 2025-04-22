@@ -1,0 +1,25 @@
+2025-04-22 08:18:15 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/drugs/stratify_sentences_50_40_10_new
+2025-04-22 08:18:15 - INFO - Starting training for label: CIR_PUNISHMENT
+2025-04-22 08:18:15 - INFO - Starting training for model: dictabert
+2025-04-22 08:26:33 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/drugs/stratify_sentences_50_40_10_new
+2025-04-22 08:26:33 - INFO - Starting training for label: CIR_PUNISHMENT
+2025-04-22 08:26:33 - INFO - Starting training for model: dictabert
+2025-04-22 08:31:43 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/drugs/stratify_sentences_50_40_10_new
+2025-04-22 08:31:43 - INFO - Starting training for label: CIR_PUNISHMENT
+2025-04-22 08:31:43 - INFO - Starting training for model: dictabert
+2025-04-22 08:37:27 - ERROR - Error in label CIR_PUNISHMENT: list index out of range
+2025-04-22 08:37:28 - INFO - Starting training for label: GENERAL_CIRCUM
+2025-04-22 08:37:28 - INFO - Starting training for model: dictabert
+2025-04-22 09:08:41 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/drugs/stratify_sentences_50_40_10_new
+2025-04-22 09:08:41 - INFO - Starting training for label: CIR_PUNISHMENT
+2025-04-22 09:08:41 - INFO - Starting training for model: dictabert
+2025-04-22 09:13:59 - ERROR - Error in label CIR_PUNISHMENT: list index out of range
+2025-04-22 09:13:59 - INFO - Starting training for label: CIR_TYPE
+2025-04-22 09:13:59 - INFO - Starting training for model: dictabert
+2025-04-22 09:26:56 - ERROR - Error in label CIR_TYPE: list index out of range
+2025-04-22 09:26:57 - INFO - Starting training for label: CIR_AMOUNT
+2025-04-22 09:26:57 - INFO - Starting training for model: dictabert

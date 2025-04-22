@@ -1,25 +1,25 @@
-experiment_name: '03_26_with_f2_try'
+experiment_name: '04_17_more_cases'
 model_names: 
   # - bert-multilingual-passage-reranking-msmarco
-  # - dictabert
-  - heBERT
+  - dictabert
+  # - heBERT
 
 with_clf : True
 ground_truth : False
 ground_truth_path: /home/tak/MOJ/resources/data/tagging/weapon/gt/sentence_tagging.csv
+threshold_method: F1
 
 classifiers_path: /sise/home/tak/moj_models/weapon/{experiment_name}/
 eval_path : /home/tak/MOJ/results/evaluations/weapon/sentence_classification/{experiment_name}
-test_set_path: /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/stratify_sentences_50_40_10
+test_set_path: /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/stratify_sentences_50_40_10_new
 db_path: /home/tak/MOJ/results/db/weapon
 result_path: 'results'
 
 first_level_labels:
-  # - PUNISHMENT
+  # - PUNISHMENTstKlein2127!
   # - GENERAL_CIRCUM
   - CIRCUM_OFFENSE
   # - reject
-  # - CONFESSION
   # - REGRET
 
   
@@ -34,3 +34,6 @@ second_level_labels:
   - CIR_PLANNING
   # - RESPO
   # - REGRET
+  # - CONFESSION
+
+  

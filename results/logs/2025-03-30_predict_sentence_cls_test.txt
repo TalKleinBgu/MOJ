@@ -1,0 +1,946 @@
+2025-03-30 10:49:53 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 10:50:03 - INFO - CIR_STATUS_WEP model successfully loaded!
+2025-03-30 10:50:12 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2025-03-30 10:50:20 - INFO - CIR_PURPOSE model successfully loaded!
+2025-03-30 10:50:31 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2025-03-30 10:50:41 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2025-03-30 10:50:50 - INFO - CIR_TYPE_WEP model successfully loaded!
+2025-03-30 10:51:01 - INFO - CIR_USE model successfully loaded!
+2025-03-30 10:51:10 - INFO - CIR_PLANNING model successfully loaded!
+2025-03-30 11:00:50 - INFO - CONFESSION model successfully loaded!
+2025-03-30 11:01:09 - INFO - CIR_PUNISHMENT model successfully loaded!
+2025-03-30 11:01:27 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 11:01:35 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 11:01:49 - INFO - CIR_TYPE model successfully loaded!
+2025-03-30 11:01:58 - INFO - CIR_AMOUNT model successfully loaded!
+2025-03-30 11:02:11 - INFO - CIR_ROLE model successfully loaded!
+2025-03-30 11:02:23 - INFO - CIR_EQ model successfully loaded!
+2025-03-30 11:02:35 - INFO - REGRET model successfully loaded!
+2025-03-30 11:02:47 - INFO - RESPO model successfully loaded!
+2025-03-30 11:02:48 - INFO - Metrics to CIR_TYPE is: {'accuracy': 0.9489274770173647, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'f2': 0.0, 'PRAUC': 0.05107252298263534, 'AUC': 0.5}
+2025-03-30 11:02:48 - INFO - Metrics to CIR_AMOUNT is: {'accuracy': 0.965270684371808, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'f2': 0.0, 'PRAUC': 0.03472931562819203, 'AUC': 0.5}
+2025-03-30 11:02:48 - INFO - Metrics to CIR_ROLE is: {'accuracy': 0.9683350357507661, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'f2': 0.0, 'PRAUC': 0.031664964249233915, 'AUC': 0.5}
+2025-03-30 11:02:48 - INFO - Metrics to CIR_EQ is: {'accuracy': 0.9897854954034729, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'f2': 0.0, 'PRAUC': 0.010214504596527068, 'AUC': 0.5}
+2025-03-30 11:02:48 - INFO - Metrics to REGRET is: {'accuracy': 0.9856996935648621, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'f2': 0.0, 'PRAUC': 0.014300306435137897, 'AUC': 0.5}
+2025-03-30 11:02:49 - INFO - Metrics to RESPO is: {'accuracy': 0.9734422880490297, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'f2': 0.0, 'PRAUC': 0.026557711950970377, 'AUC': 0.5}
+2025-03-30 11:03:00 - INFO - CONFESSION model successfully loaded!
+2025-03-30 11:03:33 - INFO - CONFESSION model successfully loaded!
+2025-03-30 11:03:33 - INFO - CIR_PUNISHMENT model successfully loaded!
+2025-03-30 11:03:34 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 11:03:34 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 11:03:35 - INFO - CIR_TYPE model successfully loaded!
+2025-03-30 11:03:35 - INFO - CIR_AMOUNT model successfully loaded!
+2025-03-30 11:03:36 - INFO - CIR_ROLE model successfully loaded!
+2025-03-30 11:03:36 - INFO - CIR_EQ model successfully loaded!
+2025-03-30 11:03:37 - INFO - REGRET model successfully loaded!
+2025-03-30 11:03:38 - INFO - RESPO model successfully loaded!
+2025-03-30 11:03:38 - INFO - Metrics to CIR_TYPE is: {'accuracy': 0.9489274770173647, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'f2': 0.0, 'PRAUC': 0.05107252298263534, 'AUC': 0.5}
+2025-03-30 11:03:38 - INFO - Metrics to CIR_AMOUNT is: {'accuracy': 0.965270684371808, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'f2': 0.0, 'PRAUC': 0.03472931562819203, 'AUC': 0.5}
+2025-03-30 11:03:38 - INFO - Metrics to CIR_ROLE is: {'accuracy': 0.9683350357507661, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'f2': 0.0, 'PRAUC': 0.031664964249233915, 'AUC': 0.5}
+2025-03-30 11:03:38 - INFO - Metrics to CIR_EQ is: {'accuracy': 0.9897854954034729, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'f2': 0.0, 'PRAUC': 0.010214504596527068, 'AUC': 0.5}
+2025-03-30 11:03:38 - INFO - Metrics to REGRET is: {'accuracy': 0.9856996935648621, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'f2': 0.0, 'PRAUC': 0.014300306435137897, 'AUC': 0.5}
+2025-03-30 11:03:38 - INFO - Metrics to RESPO is: {'accuracy': 0.9734422880490297, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'f2': 0.0, 'PRAUC': 0.026557711950970377, 'AUC': 0.5}
+2025-03-30 11:03:39 - INFO - CONFESSION model successfully loaded!
+2025-03-30 11:03:45 - INFO - CIR_PUNISHMENT model successfully loaded!
+2025-03-30 11:05:10 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 11:05:11 - INFO - CIR_TYPE model successfully loaded!
+2025-03-30 11:05:12 - INFO - CIR_AMOUNT model successfully loaded!
+2025-03-30 11:05:12 - INFO - CIR_ROLE model successfully loaded!
+2025-03-30 11:05:13 - INFO - CIR_EQ model successfully loaded!
+2025-03-30 11:05:14 - INFO - REGRET model successfully loaded!
+2025-03-30 11:05:14 - INFO - RESPO model successfully loaded!
+2025-03-30 11:05:15 - INFO - Metrics to CIR_TYPE is: {'accuracy': 0.9489274770173647, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'f2': 0.0, 'PRAUC': 0.05107252298263534, 'AUC': 0.5}
+2025-03-30 11:05:15 - INFO - Metrics to CIR_AMOUNT is: {'accuracy': 0.965270684371808, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'f2': 0.0, 'PRAUC': 0.03472931562819203, 'AUC': 0.5}
+2025-03-30 11:05:15 - INFO - Metrics to CIR_ROLE is: {'accuracy': 0.9683350357507661, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'f2': 0.0, 'PRAUC': 0.031664964249233915, 'AUC': 0.5}
+2025-03-30 11:05:15 - INFO - Metrics to CIR_EQ is: {'accuracy': 0.9897854954034729, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'f2': 0.0, 'PRAUC': 0.010214504596527068, 'AUC': 0.5}
+2025-03-30 11:05:15 - INFO - Metrics to REGRET is: {'accuracy': 0.9856996935648621, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'f2': 0.0, 'PRAUC': 0.014300306435137897, 'AUC': 0.5}
+2025-03-30 11:05:15 - INFO - Metrics to RESPO is: {'accuracy': 0.9734422880490297, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'f2': 0.0, 'PRAUC': 0.026557711950970377, 'AUC': 0.5}
+2025-03-30 11:05:39 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 11:05:39 - INFO - CIR_TYPE model successfully loaded!
+2025-03-30 11:05:40 - INFO - CIR_AMOUNT model successfully loaded!
+2025-03-30 11:05:41 - INFO - CIR_ROLE model successfully loaded!
+2025-03-30 11:05:42 - INFO - CIR_EQ model successfully loaded!
+2025-03-30 11:05:42 - INFO - REGRET model successfully loaded!
+2025-03-30 11:05:43 - INFO - RESPO model successfully loaded!
+2025-03-30 11:06:15 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 11:06:16 - INFO - CIR_TYPE model successfully loaded!
+2025-03-30 11:06:16 - INFO - CIR_AMOUNT model successfully loaded!
+2025-03-30 11:06:17 - INFO - CIR_ROLE model successfully loaded!
+2025-03-30 11:06:18 - INFO - CIR_EQ model successfully loaded!
+2025-03-30 11:06:18 - INFO - REGRET model successfully loaded!
+2025-03-30 11:06:19 - INFO - RESPO model successfully loaded!
+2025-03-30 13:18:29 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 13:18:30 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 13:18:31 - INFO - CIR_TYPE model successfully loaded!
+2025-03-30 13:18:31 - INFO - CIR_AMOUNT model successfully loaded!
+2025-03-30 13:18:32 - INFO - CIR_ROLE model successfully loaded!
+2025-03-30 13:18:32 - INFO - CIR_EQ model successfully loaded!
+2025-03-30 13:18:33 - INFO - REGRET model successfully loaded!
+2025-03-30 13:18:33 - INFO - RESPO model successfully loaded!
+2025-03-30 13:18:43 - INFO - Metrics to CIR_TYPE is: {'accuracy': 0.9591419816138917, 'precision': 0.5609756097560976, 'recall': 0.92, 'f1': 0.696969696969697, 'f2': 0.8156028368794326, 'PRAUC': 0.7949546252837664, 'AUC': 0.9872874058127018}
+2025-03-30 13:18:52 - INFO - Metrics to CIR_AMOUNT is: {'accuracy': 0.9673135852911133, 'precision': 0.5151515151515151, 'recall': 1.0, 'f1': 0.68, 'f2': 0.8415841584158416, 'PRAUC': 0.9405129463156309, 'AUC': 0.9973544973544974}
+2025-03-30 13:19:01 - INFO - Metrics to CIR_ROLE is: {'accuracy': 0.8794688457609806, 'precision': 0.1958041958041958, 'recall': 0.9032258064516129, 'f1': 0.3218390804597701, 'f2': 0.5243445692883895, 'PRAUC': 0.25811464028903175, 'AUC': 0.8968626650333469}
+2025-03-30 13:19:10 - INFO - Metrics to CIR_EQ is: {'accuracy': 0.95097037793667, 'precision': 0.16071428571428573, 'recall': 0.9, 'f1': 0.2727272727272727, 'f2': 0.46875, 'PRAUC': 0.19093383879835263, 'AUC': 0.975438596491228}
+2025-03-30 13:19:20 - INFO - Metrics to REGRET is: {'accuracy': 0.9356486210418795, 'precision': 0.1111111111111111, 'recall': 0.5, 'f1': 0.18181818181818182, 'f2': 0.29411764705882354, 'PRAUC': 0.19472146768757956, 'AUC': 0.6927461139896374}
+2025-03-30 13:19:30 - INFO - Metrics to RESPO is: {'accuracy': 0.9724208375893769, 'precision': 0.48148148148148145, 'recall': 0.5, 'f1': 0.49056603773584906, 'f2': 0.4961832061068702, 'PRAUC': 0.4016053443019735, 'AUC': 0.6594357898135443}
+2025-03-30 13:19:37 - INFO - Metrics to CONFESSION is: {'accuracy': 0.9673135852911133, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'f2': 0.0, 'PRAUC': 0.03268641470888662, 'AUC': 0.5}
+2025-03-30 13:53:25 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 13:53:44 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 13:54:08 - INFO - CIR_TYPE model successfully loaded!
+2025-03-30 13:54:36 - INFO - CIR_AMOUNT model successfully loaded!
+2025-03-30 13:55:06 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 13:55:07 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 13:55:46 - INFO - REGRET model successfully loaded!
+2025-03-30 13:56:28 - INFO - RESPO model successfully loaded!
+2025-03-30 13:56:36 - INFO - Metrics to REGRET is: {'accuracy': 0.9856996935648621, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'f2': 0.0, 'PRAUC': 0.014300306435137897, 'AUC': 0.5}
+2025-03-30 13:56:44 - INFO - Metrics to RESPO is: {'accuracy': 0.9734422880490297, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'f2': 0.0, 'PRAUC': 0.026557711950970377, 'AUC': 0.5}
+2025-03-30 13:57:03 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 13:57:04 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 13:57:04 - INFO - REGRET model successfully loaded!
+2025-03-30 13:57:05 - INFO - RESPO model successfully loaded!
+2025-03-30 13:57:14 - INFO - Metrics to REGRET is: {'accuracy': 0.9734422880490297, 'precision': 0.3125, 'recall': 0.7142857142857143, 'f1': 0.43478260869565216, 'f2': 0.5681818181818182, 'PRAUC': 0.505348428101237, 'AUC': 0.811621021465581}
+2025-03-30 13:57:24 - INFO - Metrics to RESPO is: {'accuracy': 0.9468845760980592, 'precision': 0.24, 'recall': 0.46153846153846156, 'f1': 0.3157894736842105, 'f2': 0.38961038961038963, 'PRAUC': 0.40762152769753557, 'AUC': 0.6492856566308823}
+2025-03-30 13:57:32 - INFO - Metrics to CONFESSION is: {'accuracy': 0.9673135852911133, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'f2': 0.0, 'PRAUC': 0.03268641470888662, 'AUC': 0.5}
+2025-03-30 14:00:38 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 14:00:39 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 14:00:40 - INFO - REGRET model successfully loaded!
+2025-03-30 14:00:40 - INFO - RESPO model successfully loaded!
+2025-03-30 14:00:51 - INFO - Metrics to REGRET is: {'accuracy': 0.9734422880490297, 'precision': 0.3125, 'recall': 0.7142857142857143, 'f1': 0.43478260869565216, 'f2': 0.5681818181818182, 'PRAUC': 0.505348428101237, 'AUC': 0.811621021465581}
+2025-03-30 14:01:00 - INFO - Metrics to RESPO is: {'accuracy': 0.9468845760980592, 'precision': 0.24, 'recall': 0.46153846153846156, 'f1': 0.3157894736842105, 'f2': 0.38961038961038963, 'PRAUC': 0.40762152769753557, 'AUC': 0.6492856566308823}
+2025-03-30 14:01:08 - INFO - Metrics to CONFESSION is: {'accuracy': 0.9673135852911133, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'f2': 0.0, 'PRAUC': 0.03268641470888662, 'AUC': 0.5}
+2025-03-30 14:21:00 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 14:21:18 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 14:21:41 - INFO - REGRET model successfully loaded!
+2025-03-30 14:22:01 - INFO - RESPO model successfully loaded!
+2025-03-30 14:22:29 - INFO - Metrics to REGRET is: {'accuracy': 0.9734422880490297, 'precision': 0.3125, 'recall': 0.7142857142857143, 'f1': 0.43478260869565216, 'f2': 0.5681818181818182, 'PRAUC': 0.505348428101237, 'AUC': 0.811621021465581}
+2025-03-30 14:22:43 - INFO - Metrics to RESPO is: {'accuracy': 0.9468845760980592, 'precision': 0.24, 'recall': 0.46153846153846156, 'f1': 0.3157894736842105, 'f2': 0.38961038961038963, 'PRAUC': 0.40762152769753557, 'AUC': 0.6492856566308823}
+2025-03-30 14:27:40 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 14:28:08 - INFO - CONFESSION model successfully loaded!
+2025-03-30 14:28:21 - INFO - Metrics to CONFESSION is: {'accuracy': 0.9591419816138917, 'precision': 0.3181818181818182, 'recall': 0.21875, 'f1': 0.25925925925925924, 'f2': 0.23333333333333334, 'PRAUC': 0.20583929179434796, 'AUC': 0.48945683738120377}
+2025-03-30 14:30:01 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 14:30:56 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 14:32:38 - INFO - RESPO model successfully loaded!
+2025-03-30 14:34:18 - INFO - REGRET model successfully loaded!
+2025-03-30 14:35:35 - INFO - CONFESSION model successfully loaded!
+2025-03-30 14:35:52 - INFO - Metrics to RESPO is: {'accuracy': 0.975800156128025, 'precision': 0.5, 'recall': 0.6451612903225806, 'f1': 0.5633802816901409, 'f2': 0.6097560975609756, 'PRAUC': 0.5767333603309054, 'AUC': 0.7654709677419355}
+2025-03-30 14:36:09 - INFO - Metrics to REGRET is: {'accuracy': 0.9320843091334895, 'precision': 0.14736842105263157, 'recall': 0.7, 'f1': 0.24347826086956523, 'f2': 0.4, 'PRAUC': 0.44496660103599883, 'AUC': 0.8273195876288659}
+2025-03-30 14:36:27 - INFO - Metrics to CONFESSION is: {'accuracy': 0.9359875097580016, 'precision': 0.3384615384615385, 'recall': 0.36065573770491804, 'f1': 0.3492063492063492, 'f2': 0.3559870550161812, 'PRAUC': 0.3859990805108411, 'AUC': 0.5785675893576995}
+2025-03-30 15:03:52 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 15:03:53 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 15:05:09 - INFO - CIR_TYPE model successfully loaded!
+2025-03-30 15:05:53 - INFO - CIR_AMOUNT model successfully loaded!
+2025-03-30 15:06:38 - INFO - CIR_ROLE model successfully loaded!
+2025-03-30 15:07:37 - INFO - CIR_EQ model successfully loaded!
+2025-03-30 15:07:37 - INFO - REGRET model successfully loaded!
+2025-03-30 15:07:38 - INFO - RESPO model successfully loaded!
+2025-03-30 15:07:39 - INFO - CONFESSION model successfully loaded!
+2025-03-30 15:11:03 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 15:11:03 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 15:11:04 - INFO - CIR_TYPE model successfully loaded!
+2025-03-30 15:11:05 - INFO - CIR_AMOUNT model successfully loaded!
+2025-03-30 15:11:06 - INFO - CIR_ROLE model successfully loaded!
+2025-03-30 15:11:06 - INFO - CIR_EQ model successfully loaded!
+2025-03-30 15:11:07 - INFO - REGRET model successfully loaded!
+2025-03-30 15:11:08 - INFO - RESPO model successfully loaded!
+2025-03-30 15:11:09 - INFO - CONFESSION model successfully loaded!
+2025-03-30 15:51:50 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 15:52:01 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 15:52:02 - INFO - CIR_TYPE model successfully loaded!
+2025-03-30 15:52:03 - INFO - CIR_AMOUNT model successfully loaded!
+2025-03-30 15:52:09 - INFO - CIR_ROLE model successfully loaded!
+2025-03-30 15:52:09 - INFO - CIR_EQ model successfully loaded!
+2025-03-30 15:52:10 - INFO - REGRET model successfully loaded!
+2025-03-30 15:52:11 - INFO - RESPO model successfully loaded!
+2025-03-30 15:52:12 - INFO - CONFESSION model successfully loaded!
+2025-03-30 15:54:38 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 15:54:39 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 15:54:40 - INFO - CIR_TYPE model successfully loaded!
+2025-03-30 15:54:41 - INFO - CIR_AMOUNT model successfully loaded!
+2025-03-30 15:54:41 - INFO - CIR_ROLE model successfully loaded!
+2025-03-30 15:54:42 - INFO - CIR_EQ model successfully loaded!
+2025-03-30 15:54:43 - INFO - REGRET model successfully loaded!
+2025-03-30 15:54:43 - INFO - RESPO model successfully loaded!
+2025-03-30 15:54:44 - INFO - CONFESSION model successfully loaded!
+2025-03-30 15:57:41 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 15:57:42 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 15:57:43 - INFO - CIR_TYPE model successfully loaded!
+2025-03-30 15:57:43 - INFO - CIR_AMOUNT model successfully loaded!
+2025-03-30 15:57:44 - INFO - CIR_ROLE model successfully loaded!
+2025-03-30 15:57:45 - INFO - CIR_EQ model successfully loaded!
+2025-03-30 15:57:46 - INFO - REGRET model successfully loaded!
+2025-03-30 15:57:47 - INFO - RESPO model successfully loaded!
+2025-03-30 15:57:47 - INFO - CONFESSION model successfully loaded!
+2025-03-30 15:58:17 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 15:58:17 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 15:58:18 - INFO - CIR_TYPE model successfully loaded!
+2025-03-30 15:58:19 - INFO - CIR_AMOUNT model successfully loaded!
+2025-03-30 15:58:20 - INFO - CIR_ROLE model successfully loaded!
+2025-03-30 15:58:20 - INFO - CIR_EQ model successfully loaded!
+2025-03-30 15:58:21 - INFO - REGRET model successfully loaded!
+2025-03-30 15:58:22 - INFO - RESPO model successfully loaded!
+2025-03-30 15:58:22 - INFO - CONFESSION model successfully loaded!
+2025-03-30 15:59:37 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 15:59:38 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 15:59:39 - INFO - CIR_TYPE model successfully loaded!
+2025-03-30 15:59:40 - INFO - CIR_AMOUNT model successfully loaded!
+2025-03-30 15:59:40 - INFO - CIR_ROLE model successfully loaded!
+2025-03-30 15:59:41 - INFO - CIR_EQ model successfully loaded!
+2025-03-30 15:59:42 - INFO - REGRET model successfully loaded!
+2025-03-30 15:59:43 - INFO - RESPO model successfully loaded!
+2025-03-30 15:59:43 - INFO - CONFESSION model successfully loaded!
+2025-03-30 16:00:22 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.7242083758937692, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'f2': 0.0, 'PRAUC': 0.27579162410623087, 'AUC': 0.5}
+2025-03-30 16:01:05 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 16:01:06 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 16:01:07 - INFO - CIR_TYPE model successfully loaded!
+2025-03-30 16:01:08 - INFO - CIR_AMOUNT model successfully loaded!
+2025-03-30 16:01:09 - INFO - CIR_ROLE model successfully loaded!
+2025-03-30 16:01:09 - INFO - CIR_EQ model successfully loaded!
+2025-03-30 16:01:10 - INFO - REGRET model successfully loaded!
+2025-03-30 16:01:11 - INFO - RESPO model successfully loaded!
+2025-03-30 16:01:11 - INFO - CONFESSION model successfully loaded!
+2025-03-30 16:04:25 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 16:04:26 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 16:04:26 - INFO - CIR_TYPE model successfully loaded!
+2025-03-30 16:04:27 - INFO - CIR_AMOUNT model successfully loaded!
+2025-03-30 16:04:28 - INFO - CIR_ROLE model successfully loaded!
+2025-03-30 16:04:29 - INFO - CIR_EQ model successfully loaded!
+2025-03-30 16:04:29 - INFO - REGRET model successfully loaded!
+2025-03-30 16:04:30 - INFO - RESPO model successfully loaded!
+2025-03-30 16:04:31 - INFO - CONFESSION model successfully loaded!
+2025-03-30 16:06:19 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 16:06:19 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 16:06:20 - INFO - CIR_TYPE model successfully loaded!
+2025-03-30 16:06:20 - INFO - CIR_AMOUNT model successfully loaded!
+2025-03-30 16:06:21 - INFO - CIR_ROLE model successfully loaded!
+2025-03-30 16:06:22 - INFO - CIR_EQ model successfully loaded!
+2025-03-30 16:06:22 - INFO - REGRET model successfully loaded!
+2025-03-30 16:06:23 - INFO - RESPO model successfully loaded!
+2025-03-30 16:06:24 - INFO - CONFESSION model successfully loaded!
+2025-03-30 16:06:55 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.7242083758937692, 'precision': 0.5, 'recall': 0.003703703703703704, 'f1': 0.007352941176470588, 'f2': 0.0046210720887245845, 'PRAUC': 0.27940516273849614, 'AUC': 0.4545421302826098}
+2025-03-30 16:07:31 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 16:07:32 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 16:07:33 - INFO - CIR_TYPE model successfully loaded!
+2025-03-30 16:07:33 - INFO - CIR_AMOUNT model successfully loaded!
+2025-03-30 16:07:34 - INFO - CIR_ROLE model successfully loaded!
+2025-03-30 16:07:35 - INFO - CIR_EQ model successfully loaded!
+2025-03-30 16:07:35 - INFO - REGRET model successfully loaded!
+2025-03-30 16:08:08 - INFO - RESPO model successfully loaded!
+2025-03-30 16:08:09 - INFO - CONFESSION model successfully loaded!
+2025-03-30 16:08:41 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.7242083758937692, 'precision': 0.5, 'recall': 0.003703703703703704, 'f1': 0.007352941176470588, 'f2': 0.0046210720887245845, 'PRAUC': 0.27940516273849614, 'AUC': 0.4545421302826098}
+2025-03-30 16:09:52 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 16:09:53 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 16:09:54 - INFO - CIR_TYPE model successfully loaded!
+2025-03-30 16:10:11 - INFO - CIR_AMOUNT model successfully loaded!
+2025-03-30 16:10:12 - INFO - CIR_ROLE model successfully loaded!
+2025-03-30 16:10:12 - INFO - CIR_EQ model successfully loaded!
+2025-03-30 16:10:13 - INFO - REGRET model successfully loaded!
+2025-03-30 16:10:14 - INFO - RESPO model successfully loaded!
+2025-03-30 16:10:15 - INFO - CONFESSION model successfully loaded!
+2025-03-30 16:10:47 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.7242083758937692, 'precision': 0.5, 'recall': 0.003703703703703704, 'f1': 0.007352941176470588, 'f2': 0.0046210720887245845, 'PRAUC': 0.27940516273849614, 'AUC': 0.4545421302826098}
+2025-03-30 16:12:37 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 16:12:38 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 16:12:39 - INFO - CIR_TYPE model successfully loaded!
+2025-03-30 16:12:40 - INFO - CIR_AMOUNT model successfully loaded!
+2025-03-30 16:12:40 - INFO - CIR_ROLE model successfully loaded!
+2025-03-30 16:12:41 - INFO - CIR_EQ model successfully loaded!
+2025-03-30 16:12:42 - INFO - REGRET model successfully loaded!
+2025-03-30 16:12:42 - INFO - RESPO model successfully loaded!
+2025-03-30 16:12:43 - INFO - CONFESSION model successfully loaded!
+2025-03-30 16:13:15 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.7242083758937692, 'precision': 0.5, 'recall': 0.003703703703703704, 'f1': 0.007352941176470588, 'f2': 0.0046210720887245845, 'PRAUC': 0.27940516273849614, 'AUC': 0.4545421302826098}
+2025-03-30 16:14:16 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 16:14:16 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 16:14:17 - INFO - CIR_TYPE model successfully loaded!
+2025-03-30 16:14:18 - INFO - CIR_AMOUNT model successfully loaded!
+2025-03-30 16:14:18 - INFO - CIR_ROLE model successfully loaded!
+2025-03-30 16:14:19 - INFO - CIR_EQ model successfully loaded!
+2025-03-30 16:14:20 - INFO - REGRET model successfully loaded!
+2025-03-30 16:14:20 - INFO - RESPO model successfully loaded!
+2025-03-30 16:14:21 - INFO - CONFESSION model successfully loaded!
+2025-03-30 16:14:42 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.906026557711951, 'precision': 0.8133802816901409, 'recall': 0.8555555555555555, 'f1': 0.8339350180505415, 'f2': 0.8467741935483871, 'PRAUC': 0.8846402934805084, 'AUC': 0.9178394191088126}
+2025-03-30 16:17:20 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 16:17:20 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 16:17:21 - INFO - CIR_TYPE model successfully loaded!
+2025-03-30 16:17:21 - INFO - CIR_AMOUNT model successfully loaded!
+2025-03-30 16:17:22 - INFO - CIR_ROLE model successfully loaded!
+2025-03-30 16:17:23 - INFO - CIR_EQ model successfully loaded!
+2025-03-30 16:17:23 - INFO - REGRET model successfully loaded!
+2025-03-30 16:17:24 - INFO - RESPO model successfully loaded!
+2025-03-30 16:17:25 - INFO - CONFESSION model successfully loaded!
+2025-03-30 16:17:46 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.9050051072522982, 'precision': 0.8083623693379791, 'recall': 0.8592592592592593, 'f1': 0.8330341113105925, 'f2': 0.8485735186539868, 'PRAUC': 0.8846402934805084, 'AUC': 0.9178394191088126}
+2025-03-30 16:19:36 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 16:19:37 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 16:19:49 - INFO - CIR_TYPE model successfully loaded!
+2025-03-30 16:19:50 - INFO - CIR_AMOUNT model successfully loaded!
+2025-03-30 16:19:51 - INFO - CIR_ROLE model successfully loaded!
+2025-03-30 16:19:51 - INFO - CIR_EQ model successfully loaded!
+2025-03-30 16:19:52 - INFO - REGRET model successfully loaded!
+2025-03-30 16:19:53 - INFO - RESPO model successfully loaded!
+2025-03-30 16:19:53 - INFO - CONFESSION model successfully loaded!
+2025-03-30 16:21:44 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.7242083758937692, 'precision': 0.5, 'recall': 0.003703703703703704, 'f1': 0.007352941176470588, 'f2': 0.0046210720887245845, 'PRAUC': 0.27940516273849614, 'AUC': 0.4545421302826098}
+2025-03-30 16:22:02 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 16:22:03 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 16:22:04 - INFO - CIR_TYPE model successfully loaded!
+2025-03-30 16:22:04 - INFO - CIR_AMOUNT model successfully loaded!
+2025-03-30 16:22:05 - INFO - CIR_ROLE model successfully loaded!
+2025-03-30 16:22:06 - INFO - CIR_EQ model successfully loaded!
+2025-03-30 16:22:06 - INFO - REGRET model successfully loaded!
+2025-03-30 16:22:07 - INFO - RESPO model successfully loaded!
+2025-03-30 16:22:08 - INFO - CONFESSION model successfully loaded!
+2025-03-30 16:22:42 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.7323799795709908, 'precision': 0.6538461538461539, 'recall': 0.06296296296296296, 'f1': 0.11486486486486487, 'f2': 0.07685352622061482, 'PRAUC': 0.3186793937219239, 'AUC': 0.4218356579428511}
+2025-03-30 16:23:24 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 16:23:25 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 16:23:26 - INFO - CIR_TYPE model successfully loaded!
+2025-03-30 16:23:26 - INFO - CIR_AMOUNT model successfully loaded!
+2025-03-30 16:23:27 - INFO - CIR_ROLE model successfully loaded!
+2025-03-30 16:23:27 - INFO - CIR_EQ model successfully loaded!
+2025-03-30 16:23:28 - INFO - REGRET model successfully loaded!
+2025-03-30 16:23:29 - INFO - RESPO model successfully loaded!
+2025-03-30 16:23:29 - INFO - CONFESSION model successfully loaded!
+2025-03-30 16:25:42 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 16:25:43 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 16:25:44 - INFO - CIR_TYPE model successfully loaded!
+2025-03-30 16:25:44 - INFO - CIR_AMOUNT model successfully loaded!
+2025-03-30 16:25:45 - INFO - CIR_ROLE model successfully loaded!
+2025-03-30 16:25:46 - INFO - CIR_EQ model successfully loaded!
+2025-03-30 16:25:46 - INFO - REGRET model successfully loaded!
+2025-03-30 16:25:47 - INFO - RESPO model successfully loaded!
+2025-03-30 16:25:48 - INFO - CONFESSION model successfully loaded!
+2025-03-30 16:27:56 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.7323799795709908, 'precision': 0.6538461538461539, 'recall': 0.06296296296296296, 'f1': 0.11486486486486487, 'f2': 0.07685352622061482, 'PRAUC': 0.3186793937219239, 'AUC': 0.4218356579428511}
+2025-03-30 16:29:22 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 16:29:22 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 16:29:23 - INFO - CIR_TYPE model successfully loaded!
+2025-03-30 16:29:24 - INFO - CIR_AMOUNT model successfully loaded!
+2025-03-30 16:29:25 - INFO - CIR_ROLE model successfully loaded!
+2025-03-30 16:29:25 - INFO - CIR_EQ model successfully loaded!
+2025-03-30 16:29:26 - INFO - REGRET model successfully loaded!
+2025-03-30 16:29:26 - INFO - RESPO model successfully loaded!
+2025-03-30 16:29:27 - INFO - CONFESSION model successfully loaded!
+2025-03-30 16:30:00 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.7293156281920327, 'precision': 0.5862068965517241, 'recall': 0.06296296296296296, 'f1': 0.11371237458193979, 'f2': 0.07664562669071236, 'PRAUC': 0.3186793937219239, 'AUC': 0.4218356579428511}
+2025-03-30 16:31:44 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 16:31:45 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 16:31:46 - INFO - CIR_TYPE model successfully loaded!
+2025-03-30 16:31:46 - INFO - CIR_AMOUNT model successfully loaded!
+2025-03-30 16:31:47 - INFO - CIR_ROLE model successfully loaded!
+2025-03-30 16:31:48 - INFO - CIR_EQ model successfully loaded!
+2025-03-30 16:31:48 - INFO - REGRET model successfully loaded!
+2025-03-30 16:31:49 - INFO - RESPO model successfully loaded!
+2025-03-30 16:31:50 - INFO - CONFESSION model successfully loaded!
+2025-03-30 16:32:23 - INFO - Metrics to CIR_TYPE is: {'accuracy': 0.8355464759959143, 'precision': 0.23696682464454977, 'recall': 1.0, 'f1': 0.3831417624521073, 'f2': 0.6082725060827251, 'PRAUC': 0.8182113990045589, 'AUC': 0.9846932185145318}
+2025-03-30 16:33:51 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 16:33:52 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 16:33:52 - INFO - CIR_TYPE model successfully loaded!
+2025-03-30 16:33:53 - INFO - CIR_AMOUNT model successfully loaded!
+2025-03-30 16:33:54 - INFO - CIR_ROLE model successfully loaded!
+2025-03-30 16:33:54 - INFO - CIR_EQ model successfully loaded!
+2025-03-30 16:33:55 - INFO - REGRET model successfully loaded!
+2025-03-30 16:33:56 - INFO - RESPO model successfully loaded!
+2025-03-30 16:33:56 - INFO - CONFESSION model successfully loaded!
+2025-03-30 16:34:59 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 16:35:00 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 16:35:00 - INFO - CIR_TYPE model successfully loaded!
+2025-03-30 16:35:01 - INFO - CIR_AMOUNT model successfully loaded!
+2025-03-30 16:35:02 - INFO - CIR_ROLE model successfully loaded!
+2025-03-30 16:35:02 - INFO - CIR_EQ model successfully loaded!
+2025-03-30 16:35:03 - INFO - REGRET model successfully loaded!
+2025-03-30 16:35:04 - INFO - RESPO model successfully loaded!
+2025-03-30 16:35:04 - INFO - CONFESSION model successfully loaded!
+2025-03-30 16:35:25 - INFO - Metrics to CIR_TYPE is: {'accuracy': 0.05107252298263534, 'precision': 0.05107252298263534, 'recall': 1.0, 'f1': 0.09718172983479106, 'f2': 0.21204410517387617, 'PRAUC': 0.8111111174981677, 'AUC': 0.9721420882669537}
+2025-03-30 16:36:21 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 16:36:22 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 16:36:23 - INFO - CIR_TYPE model successfully loaded!
+2025-03-30 16:36:23 - INFO - CIR_AMOUNT model successfully loaded!
+2025-03-30 16:36:25 - INFO - CIR_ROLE model successfully loaded!
+2025-03-30 16:36:25 - INFO - CIR_EQ model successfully loaded!
+2025-03-30 16:36:26 - INFO - REGRET model successfully loaded!
+2025-03-30 16:36:27 - INFO - RESPO model successfully loaded!
+2025-03-30 16:36:27 - INFO - CONFESSION model successfully loaded!
+2025-03-30 16:36:48 - INFO - Metrics to CIR_TYPE is: {'accuracy': 0.916241062308478, 'precision': 0.375, 'recall': 0.96, 'f1': 0.5393258426966292, 'f2': 0.7317073170731707, 'PRAUC': 0.8111111174981677, 'AUC': 0.9721420882669537}
+2025-03-30 16:38:11 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 16:38:11 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 16:38:12 - INFO - CIR_TYPE model successfully loaded!
+2025-03-30 16:38:13 - INFO - CIR_AMOUNT model successfully loaded!
+2025-03-30 16:38:13 - INFO - CIR_ROLE model successfully loaded!
+2025-03-30 16:38:14 - INFO - CIR_EQ model successfully loaded!
+2025-03-30 16:38:15 - INFO - REGRET model successfully loaded!
+2025-03-30 16:38:16 - INFO - RESPO model successfully loaded!
+2025-03-30 16:38:16 - INFO - CONFESSION model successfully loaded!
+2025-03-30 16:38:49 - INFO - Metrics to CIR_TYPE is: {'accuracy': 0.923391215526047, 'precision': 0.39669421487603307, 'recall': 0.96, 'f1': 0.5614035087719298, 'f2': 0.7476635514018691, 'PRAUC': 0.8182113990045589, 'AUC': 0.9846932185145318}
+2025-03-30 16:39:32 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 16:39:32 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 16:39:33 - INFO - CIR_TYPE model successfully loaded!
+2025-03-30 16:39:34 - INFO - CIR_AMOUNT model successfully loaded!
+2025-03-30 16:39:34 - INFO - CIR_ROLE model successfully loaded!
+2025-03-30 16:39:35 - INFO - CIR_EQ model successfully loaded!
+2025-03-30 16:39:36 - INFO - REGRET model successfully loaded!
+2025-03-30 16:39:36 - INFO - RESPO model successfully loaded!
+2025-03-30 16:39:37 - INFO - CONFESSION model successfully loaded!
+2025-03-30 16:40:09 - INFO - Metrics to CIR_TYPE is: {'accuracy': 0.982635342185904, 'precision': 0.9024390243902439, 'recall': 0.74, 'f1': 0.8131868131868132, 'f2': 0.7676348547717843, 'PRAUC': 0.7508265453969682, 'AUC': 0.913799784714747}
+2025-03-30 16:40:46 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 16:40:47 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 16:40:48 - INFO - CIR_TYPE model successfully loaded!
+2025-03-30 16:40:48 - INFO - CIR_AMOUNT model successfully loaded!
+2025-03-30 16:40:49 - INFO - CIR_ROLE model successfully loaded!
+2025-03-30 16:40:50 - INFO - CIR_EQ model successfully loaded!
+2025-03-30 16:40:50 - INFO - REGRET model successfully loaded!
+2025-03-30 16:40:51 - INFO - RESPO model successfully loaded!
+2025-03-30 16:40:51 - INFO - CONFESSION model successfully loaded!
+2025-03-30 16:41:23 - INFO - Metrics to CIR_TYPE is: {'accuracy': 0.982635342185904, 'precision': 0.9024390243902439, 'recall': 0.74, 'f1': 0.8131868131868132, 'f2': 0.7676348547717843, 'PRAUC': 0.7508265453969682, 'AUC': 0.913799784714747}
+2025-03-30 16:41:44 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 16:41:45 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 16:41:46 - INFO - CIR_TYPE model successfully loaded!
+2025-03-30 16:41:46 - INFO - CIR_AMOUNT model successfully loaded!
+2025-03-30 16:41:47 - INFO - CIR_ROLE model successfully loaded!
+2025-03-30 16:41:47 - INFO - CIR_EQ model successfully loaded!
+2025-03-30 16:41:48 - INFO - REGRET model successfully loaded!
+2025-03-30 16:41:49 - INFO - RESPO model successfully loaded!
+2025-03-30 16:41:49 - INFO - CONFESSION model successfully loaded!
+2025-03-30 16:42:21 - INFO - Metrics to CIR_TYPE is: {'accuracy': 0.982635342185904, 'precision': 0.9024390243902439, 'recall': 0.74, 'f1': 0.8131868131868132, 'f2': 0.7676348547717843, 'PRAUC': 0.7508265453969682, 'AUC': 0.913799784714747}
+2025-03-30 16:42:42 - INFO - Metrics to CIR_AMOUNT is: {'accuracy': 0.9908069458631257, 'precision': 0.8378378378378378, 'recall': 0.9117647058823529, 'f1': 0.8732394366197183, 'f2': 0.8959537572254336, 'PRAUC': 0.8197792959110414, 'AUC': 0.9815126050420169}
+2025-03-30 16:43:03 - INFO - Metrics to CIR_ROLE is: {'accuracy': 0.965270684371808, 'precision': 0.4634146341463415, 'recall': 0.6129032258064516, 'f1': 0.5277777777777778, 'f2': 0.5757575757575758, 'PRAUC': 0.3889978878875441, 'AUC': 0.8674288825370899}
+2025-03-30 16:43:24 - INFO - Metrics to CIR_EQ is: {'accuracy': 0.992849846782431, 'precision': 0.8, 'recall': 0.4, 'f1': 0.5333333333333333, 'f2': 0.4444444444444444, 'PRAUC': 0.5883127421891466, 'AUC': 0.8884416924664603}
+2025-03-30 16:43:47 - INFO - Metrics to REGRET is: {'accuracy': 0.9887640449438202, 'precision': 0.6363636363636364, 'recall': 0.5, 'f1': 0.56, 'f2': 0.5223880597014925, 'PRAUC': 0.5389800705508804, 'AUC': 0.8140636565507032}
+2025-03-30 16:44:10 - INFO - Metrics to RESPO is: {'accuracy': 0.9795709908069459, 'precision': 0.75, 'recall': 0.34615384615384615, 'f1': 0.47368421052631576, 'f2': 0.3879310344827586, 'PRAUC': 0.36394455222811223, 'AUC': 0.6279360723222214}
+2025-03-30 16:44:34 - INFO - Metrics to CONFESSION is: {'accuracy': 0.9693564862104188, 'precision': 0.6, 'recall': 0.1875, 'f1': 0.2857142857142857, 'f2': 0.21739130434782608, 'PRAUC': 0.17023330718906562, 'AUC': 0.4742278247096093}
+2025-03-30 16:46:01 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 16:46:02 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 16:46:03 - INFO - CIR_TYPE model successfully loaded!
+2025-03-30 16:46:04 - INFO - CIR_AMOUNT model successfully loaded!
+2025-03-30 16:46:04 - INFO - CIR_ROLE model successfully loaded!
+2025-03-30 16:46:05 - INFO - CIR_EQ model successfully loaded!
+2025-03-30 16:46:05 - INFO - REGRET model successfully loaded!
+2025-03-30 16:46:06 - INFO - RESPO model successfully loaded!
+2025-03-30 16:46:07 - INFO - CONFESSION model successfully loaded!
+2025-03-30 16:46:39 - INFO - Metrics to CIR_TYPE is: {'accuracy': 0.9785495403472931, 'precision': 0.7636363636363637, 'recall': 0.84, 'f1': 0.8, 'f2': 0.8235294117647058, 'PRAUC': 0.7653302193080289, 'AUC': 0.9219913885898816}
+2025-03-30 16:47:01 - INFO - Metrics to CIR_AMOUNT is: {'accuracy': 0.9908069458631257, 'precision': 0.8378378378378378, 'recall': 0.9117647058823529, 'f1': 0.8732394366197183, 'f2': 0.8959537572254336, 'PRAUC': 0.8184610639116006, 'AUC': 0.9810301898537193}
+2025-03-30 16:47:22 - INFO - Metrics to CIR_ROLE is: {'accuracy': 0.9601634320735445, 'precision': 0.42857142857142855, 'recall': 0.7741935483870968, 'f1': 0.5517241379310345, 'f2': 0.6666666666666666, 'PRAUC': 0.4743498309137725, 'AUC': 0.9303627330883354}
+2025-03-30 16:47:43 - INFO - Metrics to CIR_EQ is: {'accuracy': 0.9948927477017364, 'precision': 0.8571428571428571, 'recall': 0.6, 'f1': 0.7058823529411765, 'f2': 0.6382978723404256, 'PRAUC': 0.6439196442199154, 'AUC': 0.9389576883384932}
+2025-03-30 16:48:06 - INFO - Metrics to REGRET is: {'accuracy': 0.9856996935648621, 'precision': 0.5, 'recall': 0.7142857142857143, 'f1': 0.5882352941176471, 'f2': 0.6578947368421053, 'PRAUC': 0.5053484281012371, 'AUC': 0.8131014063656551}
+2025-03-30 16:48:31 - INFO - Metrics to RESPO is: {'accuracy': 0.9765066394279878, 'precision': 0.5714285714285714, 'recall': 0.46153846153846156, 'f1': 0.5106382978723404, 'f2': 0.48, 'PRAUC': 0.4076215276975357, 'AUC': 0.6521107434014044}
+2025-03-30 16:48:55 - INFO - Metrics to CONFESSION is: {'accuracy': 0.9693564862104188, 'precision': 0.5833333333333334, 'recall': 0.21875, 'f1': 0.3181818181818182, 'f2': 0.25, 'PRAUC': 0.20583929179434796, 'AUC': 0.4935817053854276}
+2025-03-30 16:50:52 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 16:50:52 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 16:50:53 - INFO - RESPO model successfully loaded!
+2025-03-30 16:50:54 - INFO - REGRET model successfully loaded!
+2025-03-30 16:50:54 - INFO - CONFESSION model successfully loaded!
+2025-03-30 16:51:32 - INFO - Metrics to RESPO is: {'accuracy': 0.9843871975019516, 'precision': 0.7894736842105263, 'recall': 0.4838709677419355, 'f1': 0.6, 'f2': 0.5244755244755245, 'PRAUC': 0.5445758615720724, 'AUC': 0.7566451612903224}
+2025-03-30 16:52:03 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 16:52:03 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 16:53:54 - INFO - CIR_STATUS_WEP model successfully loaded!
+2025-03-30 16:55:39 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2025-03-30 16:56:57 - INFO - CIR_PURPOSE model successfully loaded!
+2025-03-30 16:58:29 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2025-03-30 16:59:33 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2025-03-30 17:03:13 - INFO - CIR_TYPE_WEP model successfully loaded!
+2025-03-30 17:06:08 - INFO - CIR_USE model successfully loaded!
+2025-03-30 17:08:51 - INFO - CIR_PLANNING model successfully loaded!
+2025-03-30 17:08:51 - INFO - RESPO model successfully loaded!
+2025-03-30 17:08:52 - INFO - REGRET model successfully loaded!
+2025-03-30 17:08:52 - INFO - CONFESSION model successfully loaded!
+2025-03-30 17:09:42 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.9773614363778298, 'precision': 0.6607142857142857, 'recall': 0.7872340425531915, 'f1': 0.7184466019417476, 'f2': 0.7581967213114754, 'PRAUC': 0.6577220016025289, 'AUC': 0.9767405772612849}
+2025-03-30 17:10:12 - INFO - Metrics to CIR_HELD_WAY_WEP is: {'accuracy': 0.9773614363778298, 'precision': 0.723404255319149, 'recall': 0.68, 'f1': 0.7010309278350515, 'f2': 0.6882591093117408, 'PRAUC': 0.6866029929853229, 'AUC': 0.975808285946385}
+2025-03-30 17:10:41 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.9718969555035128, 'precision': 0.4166666666666667, 'recall': 0.5, 'f1': 0.45454545454545453, 'f2': 0.4807692307692308, 'PRAUC': 0.3235321079958507, 'AUC': 0.8657873701039169}
+2025-03-30 17:11:10 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9836065573770492, 'precision': 0.6666666666666666, 'recall': 0.7647058823529411, 'f1': 0.7123287671232876, 'f2': 0.7428571428571429, 'PRAUC': 0.707296974062062, 'AUC': 0.9874522383131279}
+2025-03-30 17:11:39 - INFO - Metrics to CIR_OBTAIN_WAY_WEP is: {'accuracy': 0.9562841530054644, 'precision': 0.16666666666666666, 'recall': 0.45, 'f1': 0.24324324324324326, 'f2': 0.3358208955223881, 'PRAUC': 0.21854218631494923, 'AUC': 0.8953211736716891}
+2025-03-30 17:12:10 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.9867291178766588, 'precision': 0.8938053097345132, 'recall': 0.9528301886792453, 'f1': 0.9223744292237442, 'f2': 0.9404096834264432, 'PRAUC': 0.8803566253088515, 'AUC': 0.9797149739060619}
+2025-03-30 17:12:39 - INFO - Metrics to CIR_USE is: {'accuracy': 0.9734582357533177, 'precision': 0.6415094339622641, 'recall': 0.6938775510204082, 'f1': 0.6666666666666666, 'f2': 0.6827309236947792, 'PRAUC': 0.6542263834059722, 'AUC': 0.9627617280678504}
+2025-03-30 17:13:08 - INFO - Metrics to CIR_PLANNING is: {'accuracy': 0.9898516783762685, 'precision': 0.6470588235294118, 'recall': 0.6111111111111112, 'f1': 0.6285714285714286, 'f2': 0.6179775280898876, 'PRAUC': 0.6451785225868263, 'AUC': 0.9270695874021289}
+2025-03-30 17:13:38 - INFO - Metrics to RESPO is: {'accuracy': 0.9843871975019516, 'precision': 0.7894736842105263, 'recall': 0.4838709677419355, 'f1': 0.6, 'f2': 0.5244755244755245, 'PRAUC': 0.5445758615720724, 'AUC': 0.7566451612903224}
+2025-03-30 17:14:08 - INFO - Metrics to REGRET is: {'accuracy': 0.9882903981264637, 'precision': 0.7777777777777778, 'recall': 0.35, 'f1': 0.4827586206896552, 'f2': 0.39325842696629215, 'PRAUC': 0.4083004253142749, 'AUC': 0.8048374306106264}
+2025-03-30 17:14:38 - INFO - Metrics to CONFESSION is: {'accuracy': 0.9633099141295862, 'precision': 0.8888888888888888, 'recall': 0.26229508196721313, 'f1': 0.4050632911392405, 'f2': 0.3053435114503817, 'PRAUC': 0.30646803443839427, 'AUC': 0.5467213114754099}
+2025-03-30 17:15:33 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 17:15:34 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 17:15:34 - INFO - CIR_STATUS_WEP model successfully loaded!
+2025-03-30 17:15:35 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2025-03-30 17:15:36 - INFO - CIR_PURPOSE model successfully loaded!
+2025-03-30 17:15:36 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2025-03-30 17:15:37 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2025-03-30 17:15:38 - INFO - CIR_TYPE_WEP model successfully loaded!
+2025-03-30 17:15:38 - INFO - CIR_USE model successfully loaded!
+2025-03-30 17:15:39 - INFO - CIR_PLANNING model successfully loaded!
+2025-03-30 17:15:40 - INFO - RESPO model successfully loaded!
+2025-03-30 17:15:40 - INFO - REGRET model successfully loaded!
+2025-03-30 17:15:41 - INFO - CONFESSION model successfully loaded!
+2025-03-30 17:16:31 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.9656518345042935, 'precision': 0.5176470588235295, 'recall': 0.9361702127659575, 'f1': 0.6666666666666666, 'f2': 0.8058608058608059, 'PRAUC': 0.6586047908345213, 'AUC': 0.9872754232904583}
+2025-03-30 17:17:01 - INFO - Metrics to CIR_HELD_WAY_WEP is: {'accuracy': 0.9664324746291959, 'precision': 0.5411764705882353, 'recall': 0.92, 'f1': 0.6814814814814815, 'f2': 0.8070175438596491, 'PRAUC': 0.6671884041595402, 'AUC': 0.9858651502843218}
+2025-03-30 17:17:30 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.9687743950039032, 'precision': 0.391304347826087, 'recall': 0.6, 'f1': 0.47368421052631576, 'f2': 0.5421686746987951, 'PRAUC': 0.36384340022143025, 'AUC': 0.91609379163336}
+2025-03-30 17:17:59 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9773614363778298, 'precision': 0.5454545454545454, 'recall': 0.8823529411764706, 'f1': 0.6741573033707865, 'f2': 0.7853403141361257, 'PRAUC': 0.7062382433089993, 'AUC': 0.9861078352752488}
+2025-03-30 17:18:28 - INFO - Metrics to CIR_OBTAIN_WAY_WEP is: {'accuracy': 0.9352068696330992, 'precision': 0.14606741573033707, 'recall': 0.65, 'f1': 0.23853211009174313, 'f2': 0.38461538461538464, 'PRAUC': 0.22157141154756999, 'AUC': 0.9321173671689136}
+2025-03-30 17:18:58 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.985167837626854, 'precision': 0.859504132231405, 'recall': 0.9811320754716981, 'f1': 0.9162995594713657, 'f2': 0.9541284403669725, 'PRAUC': 0.888993949889301, 'AUC': 0.9933560818948214}
+2025-03-30 17:19:27 - INFO - Metrics to CIR_USE is: {'accuracy': 0.9601873536299765, 'precision': 0.4888888888888889, 'recall': 0.8979591836734694, 'f1': 0.6330935251798561, 'f2': 0.7692307692307693, 'PRAUC': 0.6761857230445728, 'AUC': 0.9843625761993109}
+2025-03-30 17:19:56 - INFO - Metrics to CIR_PLANNING is: {'accuracy': 0.9765807962529274, 'precision': 0.35, 'recall': 0.7777777777777778, 'f1': 0.4827586206896552, 'f2': 0.625, 'PRAUC': 0.6774679987860798, 'AUC': 0.986715932084103}
+2025-03-30 17:20:26 - INFO - Metrics to RESPO is: {'accuracy': 0.9804839968774395, 'precision': 0.59375, 'recall': 0.6129032258064516, 'f1': 0.6031746031746031, 'f2': 0.6089743589743589, 'PRAUC': 0.5767333603309054, 'AUC': 0.7678838709677419}
+2025-03-30 17:20:56 - INFO - Metrics to REGRET is: {'accuracy': 0.9843871975019516, 'precision': 0.5, 'recall': 0.55, 'f1': 0.5238095238095238, 'f2': 0.5392156862745098, 'PRAUC': 0.4452285836741803, 'AUC': 0.8291237113402061}
+2025-03-30 17:21:27 - INFO - Metrics to CONFESSION is: {'accuracy': 0.9648711943793911, 'precision': 0.8076923076923077, 'recall': 0.3442622950819672, 'f1': 0.4827586206896552, 'f2': 0.3888888888888889, 'PRAUC': 0.37014797734308563, 'AUC': 0.5720639613007256}
+2025-03-30 17:22:14 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 17:22:15 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 17:22:16 - INFO - CIR_STATUS_WEP model successfully loaded!
+2025-03-30 17:22:16 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2025-03-30 17:22:17 - INFO - CIR_PURPOSE model successfully loaded!
+2025-03-30 17:22:18 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2025-03-30 17:22:18 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2025-03-30 17:22:19 - INFO - CIR_TYPE_WEP model successfully loaded!
+2025-03-30 17:22:20 - INFO - CIR_USE model successfully loaded!
+2025-03-30 17:22:20 - INFO - CIR_PLANNING model successfully loaded!
+2025-03-30 17:22:21 - INFO - RESPO model successfully loaded!
+2025-03-30 17:22:22 - INFO - REGRET model successfully loaded!
+2025-03-30 17:22:22 - INFO - CONFESSION model successfully loaded!
+2025-03-30 17:22:56 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.9656518345042935, 'precision': 0.5176470588235295, 'recall': 0.9361702127659575, 'f1': 0.6666666666666666, 'f2': 0.8058608058608059, 'PRAUC': 0.6578740757868445, 'AUC': 0.9871202455257078}
+2025-03-30 17:23:10 - INFO - Metrics to CIR_HELD_WAY_WEP is: {'accuracy': 0.960967993754879, 'precision': 0.5, 'recall': 0.92, 'f1': 0.647887323943662, 'f2': 0.7876712328767124, 'PRAUC': 0.6568219156752498, 'AUC': 0.9838505280259952}
+2025-03-30 17:23:23 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.9679937548790007, 'precision': 0.3829787234042553, 'recall': 0.6, 'f1': 0.4675324675324675, 'f2': 0.5389221556886228, 'PRAUC': 0.3657180610008738, 'AUC': 0.9589661604050094}
+2025-03-30 17:23:37 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9773614363778298, 'precision': 0.5454545454545454, 'recall': 0.8823529411764706, 'f1': 0.6741573033707865, 'f2': 0.7853403141361257, 'PRAUC': 0.7036778059998823, 'AUC': 0.9730883532242087}
+2025-03-30 17:23:50 - INFO - Metrics to CIR_OBTAIN_WAY_WEP is: {'accuracy': 0.9328649492583919, 'precision': 0.14130434782608695, 'recall': 0.65, 'f1': 0.23214285714285715, 'f2': 0.37790697674418605, 'PRAUC': 0.21392784717566346, 'AUC': 0.9057097541633624}
+2025-03-30 17:24:04 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.985167837626854, 'precision': 0.859504132231405, 'recall': 0.9811320754716981, 'f1': 0.9162995594713657, 'f2': 0.9541284403669725, 'PRAUC': 0.8886092023749796, 'AUC': 0.9932195905258931}
+2025-03-30 17:24:18 - INFO - Metrics to CIR_USE is: {'accuracy': 0.9562841530054644, 'precision': 0.4631578947368421, 'recall': 0.8979591836734694, 'f1': 0.6111111111111112, 'f2': 0.7560137457044673, 'PRAUC': 0.6670195851949003, 'AUC': 0.9825072886297377}
+2025-03-30 17:24:31 - INFO - Metrics to CIR_PLANNING is: {'accuracy': 0.970335675253708, 'precision': 0.2916666666666667, 'recall': 0.7777777777777778, 'f1': 0.42424242424242425, 'f2': 0.5833333333333334, 'PRAUC': 0.4613169192604217, 'AUC': 0.9777425881938947}
+2025-03-30 17:24:45 - INFO - Metrics to RESPO is: {'accuracy': 0.9882903981264637, 'precision': 0.6818181818181818, 'recall': 0.967741935483871, 'f1': 0.8, 'f2': 0.8928571428571429, 'PRAUC': 0.9283418255302531, 'AUC': 0.9977548387096774}
+2025-03-30 17:24:58 - INFO - Metrics to REGRET is: {'accuracy': 0.9836065573770492, 'precision': 0.48484848484848486, 'recall': 0.8, 'f1': 0.6037735849056604, 'f2': 0.7079646017699115, 'PRAUC': 0.5877236358844383, 'AUC': 0.9871134020618556}
+2025-03-30 17:25:12 - INFO - Metrics to CONFESSION is: {'accuracy': 0.990632318501171, 'precision': 0.8450704225352113, 'recall': 0.9836065573770492, 'f1': 0.9090909090909091, 'f2': 0.9523809523809523, 'PRAUC': 0.9781090809077421, 'AUC': 0.9985958075786079}
+2025-03-30 18:10:50 - INFO - PUNISHMENT model successfully loaded!
+2025-03-30 18:10:51 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 18:10:51 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 18:10:52 - INFO - CIR_STATUS_WEP model successfully loaded!
+2025-03-30 18:10:53 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2025-03-30 18:10:53 - INFO - CIR_PURPOSE model successfully loaded!
+2025-03-30 18:10:54 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2025-03-30 18:10:55 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2025-03-30 18:10:55 - INFO - CIR_TYPE_WEP model successfully loaded!
+2025-03-30 18:10:56 - INFO - CIR_USE model successfully loaded!
+2025-03-30 18:10:57 - INFO - CIR_PLANNING model successfully loaded!
+2025-03-30 18:10:57 - INFO - RESPO model successfully loaded!
+2025-03-30 18:10:58 - INFO - REGRET model successfully loaded!
+2025-03-30 18:10:59 - INFO - CONFESSION model successfully loaded!
+2025-03-30 18:11:34 - INFO - Metrics to PUNISHMENT is: {'accuracy': 0.9742388758782201, 'precision': 0.6323529411764706, 'recall': 0.8431372549019608, 'f1': 0.7226890756302521, 'f2': 0.7904411764705882, 'PRAUC': 0.7358024151455415, 'AUC': 0.9863860991551092}
+2025-03-30 18:11:48 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.892271662763466, 'precision': 0.6743002544529262, 'recall': 0.9636363636363636, 'f1': 0.7934131736526946, 'f2': 0.8874748827863362, 'PRAUC': 0.8541877609807451, 'AUC': 0.955089463220676}
+2025-03-30 18:12:02 - INFO - Metrics to CIRCUM_OFFENSE is: {'accuracy': 0.9164715066354411, 'precision': 0.6413793103448275, 'recall': 0.9841269841269841, 'f1': 0.7766179540709812, 'f2': 0.8891013384321224, 'PRAUC': 0.8706040746986472, 'AUC': 0.9782036746322461}
+2025-03-30 18:12:16 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.9656518345042935, 'precision': 0.5176470588235295, 'recall': 0.9361702127659575, 'f1': 0.6666666666666666, 'f2': 0.8058608058608059, 'PRAUC': 0.6578740757868445, 'AUC': 0.9871202455257078}
+2025-03-30 18:12:30 - INFO - Metrics to CIR_HELD_WAY_WEP is: {'accuracy': 0.960967993754879, 'precision': 0.5, 'recall': 0.92, 'f1': 0.647887323943662, 'f2': 0.7876712328767124, 'PRAUC': 0.6568219156752498, 'AUC': 0.9838505280259952}
+2025-03-30 18:12:45 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.9679937548790007, 'precision': 0.3829787234042553, 'recall': 0.6, 'f1': 0.4675324675324675, 'f2': 0.5389221556886228, 'PRAUC': 0.3657180610008738, 'AUC': 0.9589661604050094}
+2025-03-30 18:12:59 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9773614363778298, 'precision': 0.5454545454545454, 'recall': 0.8823529411764706, 'f1': 0.6741573033707865, 'f2': 0.7853403141361257, 'PRAUC': 0.7036778059998823, 'AUC': 0.9730883532242087}
+2025-03-30 18:13:13 - INFO - Metrics to CIR_OBTAIN_WAY_WEP is: {'accuracy': 0.9328649492583919, 'precision': 0.14130434782608695, 'recall': 0.65, 'f1': 0.23214285714285715, 'f2': 0.37790697674418605, 'PRAUC': 0.21392784717566346, 'AUC': 0.9057097541633624}
+2025-03-30 18:13:27 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.985167837626854, 'precision': 0.859504132231405, 'recall': 0.9811320754716981, 'f1': 0.9162995594713657, 'f2': 0.9541284403669725, 'PRAUC': 0.8886092023749796, 'AUC': 0.9932195905258931}
+2025-03-30 18:13:40 - INFO - Metrics to CIR_USE is: {'accuracy': 0.9562841530054644, 'precision': 0.4631578947368421, 'recall': 0.8979591836734694, 'f1': 0.6111111111111112, 'f2': 0.7560137457044673, 'PRAUC': 0.6670195851949003, 'AUC': 0.9825072886297377}
+2025-03-30 18:13:54 - INFO - Metrics to CIR_PLANNING is: {'accuracy': 0.970335675253708, 'precision': 0.2916666666666667, 'recall': 0.7777777777777778, 'f1': 0.42424242424242425, 'f2': 0.5833333333333334, 'PRAUC': 0.4613169192604217, 'AUC': 0.9777425881938947}
+2025-03-30 18:14:07 - INFO - Metrics to RESPO is: {'accuracy': 0.9882903981264637, 'precision': 0.6818181818181818, 'recall': 0.967741935483871, 'f1': 0.8, 'f2': 0.8928571428571429, 'PRAUC': 0.9283418255302531, 'AUC': 0.9977548387096774}
+2025-03-30 18:14:20 - INFO - Metrics to REGRET is: {'accuracy': 0.9836065573770492, 'precision': 0.48484848484848486, 'recall': 0.8, 'f1': 0.6037735849056604, 'f2': 0.7079646017699115, 'PRAUC': 0.5877236358844383, 'AUC': 0.9871134020618556}
+2025-03-30 18:14:33 - INFO - Metrics to CONFESSION is: {'accuracy': 0.990632318501171, 'precision': 0.8450704225352113, 'recall': 0.9836065573770492, 'f1': 0.9090909090909091, 'f2': 0.9523809523809523, 'PRAUC': 0.9781090809077421, 'AUC': 0.9985958075786079}
+2025-03-30 18:16:00 - INFO - PUNISHMENT model successfully loaded!
+2025-03-30 18:16:01 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 18:16:01 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 18:16:02 - INFO - CIR_STATUS_WEP model successfully loaded!
+2025-03-30 18:16:03 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2025-03-30 18:16:03 - INFO - CIR_PURPOSE model successfully loaded!
+2025-03-30 18:16:04 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2025-03-30 18:16:05 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2025-03-30 18:16:05 - INFO - CIR_TYPE_WEP model successfully loaded!
+2025-03-30 18:16:06 - INFO - CIR_USE model successfully loaded!
+2025-03-30 18:16:07 - INFO - CIR_PLANNING model successfully loaded!
+2025-03-30 18:16:08 - INFO - RESPO model successfully loaded!
+2025-03-30 18:16:09 - INFO - REGRET model successfully loaded!
+2025-03-30 18:16:10 - INFO - CONFESSION model successfully loaded!
+2025-03-30 18:16:46 - INFO - Metrics to PUNISHMENT is: {'accuracy': 0.9789227166276346, 'precision': 0.74, 'recall': 0.7254901960784313, 'f1': 0.7326732673267327, 'f2': 0.7283464566929134, 'PRAUC': 0.7358024151455415, 'AUC': 0.9863860991551092}
+2025-03-30 18:17:00 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.9211553473848556, 'precision': 0.7636363636363637, 'recall': 0.9163636363636364, 'f1': 0.8330578512396695, 'f2': 0.8811188811188811, 'PRAUC': 0.8541877609807451, 'AUC': 0.955089463220676}
+2025-03-30 18:17:13 - INFO - Metrics to CIRCUM_OFFENSE is: {'accuracy': 0.9461358313817331, 'precision': 0.7678571428571429, 'recall': 0.91005291005291, 'f1': 0.8329297820823245, 'f2': 0.8775510204081632, 'PRAUC': 0.8706040746986472, 'AUC': 0.9782036746322461}
+2025-03-30 18:17:27 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.975800156128025, 'precision': 0.6379310344827587, 'recall': 0.7872340425531915, 'f1': 0.7047619047619048, 'f2': 0.7520325203252033, 'PRAUC': 0.6578740757868445, 'AUC': 0.9871202455257078}
+2025-03-30 18:17:42 - INFO - Metrics to CIR_HELD_WAY_WEP is: {'accuracy': 0.9765807962529274, 'precision': 0.7083333333333334, 'recall': 0.68, 'f1': 0.6938775510204082, 'f2': 0.6854838709677419, 'PRAUC': 0.6568219156752498, 'AUC': 0.9838505280259952}
+2025-03-30 18:17:55 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.9718969555035128, 'precision': 0.425, 'recall': 0.5666666666666667, 'f1': 0.4857142857142857, 'f2': 0.53125, 'PRAUC': 0.3657180610008738, 'AUC': 0.9589661604050094}
+2025-03-30 18:18:09 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9836065573770492, 'precision': 0.6666666666666666, 'recall': 0.7647058823529411, 'f1': 0.7123287671232876, 'f2': 0.7428571428571429, 'PRAUC': 0.7036778059998823, 'AUC': 0.9730883532242087}
+2025-03-30 18:18:22 - INFO - Metrics to CIR_OBTAIN_WAY_WEP is: {'accuracy': 0.9547228727556596, 'precision': 0.16071428571428573, 'recall': 0.45, 'f1': 0.23684210526315788, 'f2': 0.33088235294117646, 'PRAUC': 0.21392784717566346, 'AUC': 0.9057097541633624}
+2025-03-30 18:18:36 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.9859484777517564, 'precision': 0.8859649122807017, 'recall': 0.9528301886792453, 'f1': 0.9181818181818182, 'f2': 0.9386617100371747, 'PRAUC': 0.8886092023749796, 'AUC': 0.9932195905258931}
+2025-03-30 18:18:49 - INFO - Metrics to CIR_USE is: {'accuracy': 0.9726775956284153, 'precision': 0.625, 'recall': 0.7142857142857143, 'f1': 0.6666666666666666, 'f2': 0.6944444444444444, 'PRAUC': 0.6670195851949003, 'AUC': 0.9825072886297377}
+2025-03-30 18:19:03 - INFO - Metrics to CIR_PLANNING is: {'accuracy': 0.985167837626854, 'precision': 0.48, 'recall': 0.6666666666666666, 'f1': 0.5581395348837209, 'f2': 0.6185567010309279, 'PRAUC': 0.4613169192604217, 'AUC': 0.9777425881938947}
+2025-03-30 18:19:16 - INFO - Metrics to RESPO is: {'accuracy': 0.9929742388758782, 'precision': 0.8666666666666667, 'recall': 0.8387096774193549, 'f1': 0.8524590163934426, 'f2': 0.8441558441558441, 'PRAUC': 0.9283418255302531, 'AUC': 0.9977548387096774}
+2025-03-30 18:19:30 - INFO - Metrics to REGRET is: {'accuracy': 0.9882903981264637, 'precision': 0.6190476190476191, 'recall': 0.65, 'f1': 0.6341463414634146, 'f2': 0.6435643564356436, 'PRAUC': 0.5877236358844383, 'AUC': 0.9871134020618556}
+2025-03-30 18:19:43 - INFO - Metrics to CONFESSION is: {'accuracy': 0.9937548790007806, 'precision': 0.9206349206349206, 'recall': 0.9508196721311475, 'f1': 0.9354838709677419, 'f2': 0.9446254071661238, 'PRAUC': 0.9781090809077421, 'AUC': 0.9985958075786079}
+2025-03-30 18:20:18 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 18:20:18 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 18:20:19 - INFO - CIR_STATUS_WEP model successfully loaded!
+2025-03-30 18:20:20 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2025-03-30 18:20:20 - INFO - CIR_PURPOSE model successfully loaded!
+2025-03-30 18:20:21 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2025-03-30 18:20:21 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2025-03-30 18:20:22 - INFO - CIR_TYPE_WEP model successfully loaded!
+2025-03-30 18:20:23 - INFO - CIR_USE model successfully loaded!
+2025-03-30 18:20:24 - INFO - CIR_PLANNING model successfully loaded!
+2025-03-30 18:20:25 - INFO - RESPO model successfully loaded!
+2025-03-30 18:20:25 - INFO - REGRET model successfully loaded!
+2025-03-30 18:20:26 - INFO - CONFESSION model successfully loaded!
+2025-03-30 18:21:17 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.9211553473848556, 'precision': 0.7636363636363637, 'recall': 0.9163636363636364, 'f1': 0.8330578512396695, 'f2': 0.8811188811188811, 'PRAUC': 0.8238135358361329, 'AUC': 0.9337701066329298}
+2025-03-30 18:21:46 - INFO - Metrics to CIRCUM_OFFENSE is: {'accuracy': 0.9461358313817331, 'precision': 0.7678571428571429, 'recall': 0.91005291005291, 'f1': 0.8329297820823245, 'f2': 0.8775510204081632, 'PRAUC': 0.8258114391132172, 'AUC': 0.940653041843518}
+2025-03-30 18:22:15 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.9773614363778298, 'precision': 0.6607142857142857, 'recall': 0.7872340425531915, 'f1': 0.7184466019417476, 'f2': 0.7581967213114754, 'PRAUC': 0.6577220016025289, 'AUC': 0.9767405772612849}
+2025-03-30 18:22:44 - INFO - Metrics to CIR_HELD_WAY_WEP is: {'accuracy': 0.9773614363778298, 'precision': 0.723404255319149, 'recall': 0.68, 'f1': 0.7010309278350515, 'f2': 0.6882591093117408, 'PRAUC': 0.6866029929853229, 'AUC': 0.975808285946385}
+2025-03-30 18:23:13 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.9718969555035128, 'precision': 0.4166666666666667, 'recall': 0.5, 'f1': 0.45454545454545453, 'f2': 0.4807692307692308, 'PRAUC': 0.3235321079958507, 'AUC': 0.8657873701039169}
+2025-03-30 18:23:42 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9836065573770492, 'precision': 0.6666666666666666, 'recall': 0.7647058823529411, 'f1': 0.7123287671232876, 'f2': 0.7428571428571429, 'PRAUC': 0.707296974062062, 'AUC': 0.9874522383131279}
+2025-03-30 18:24:11 - INFO - Metrics to CIR_OBTAIN_WAY_WEP is: {'accuracy': 0.9562841530054644, 'precision': 0.16666666666666666, 'recall': 0.45, 'f1': 0.24324324324324326, 'f2': 0.3358208955223881, 'PRAUC': 0.21854218631494923, 'AUC': 0.8953211736716891}
+2025-03-30 18:24:39 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.9867291178766588, 'precision': 0.8938053097345132, 'recall': 0.9528301886792453, 'f1': 0.9223744292237442, 'f2': 0.9404096834264432, 'PRAUC': 0.8803566253088515, 'AUC': 0.9797149739060619}
+2025-03-30 18:25:08 - INFO - Metrics to CIR_USE is: {'accuracy': 0.9734582357533177, 'precision': 0.6415094339622641, 'recall': 0.6938775510204082, 'f1': 0.6666666666666666, 'f2': 0.6827309236947792, 'PRAUC': 0.6542263834059722, 'AUC': 0.9627617280678504}
+2025-03-30 18:25:36 - INFO - Metrics to CIR_PLANNING is: {'accuracy': 0.9898516783762685, 'precision': 0.6470588235294118, 'recall': 0.6111111111111112, 'f1': 0.6285714285714286, 'f2': 0.6179775280898876, 'PRAUC': 0.6451785225868263, 'AUC': 0.9270695874021289}
+2025-03-30 18:26:06 - INFO - Metrics to RESPO is: {'accuracy': 0.9843871975019516, 'precision': 0.7894736842105263, 'recall': 0.4838709677419355, 'f1': 0.6, 'f2': 0.5244755244755245, 'PRAUC': 0.5445758615720724, 'AUC': 0.7566451612903224}
+2025-03-30 18:26:36 - INFO - Metrics to REGRET is: {'accuracy': 0.9882903981264637, 'precision': 0.7777777777777778, 'recall': 0.35, 'f1': 0.4827586206896552, 'f2': 0.39325842696629215, 'PRAUC': 0.4083004253142749, 'AUC': 0.8048374306106264}
+2025-03-30 18:27:06 - INFO - Metrics to CONFESSION is: {'accuracy': 0.9633099141295862, 'precision': 0.8888888888888888, 'recall': 0.26229508196721313, 'f1': 0.4050632911392405, 'f2': 0.3053435114503817, 'PRAUC': 0.30646803443839427, 'AUC': 0.5467213114754099}
+2025-03-30 18:27:32 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 18:27:32 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 18:27:33 - INFO - CIR_STATUS_WEP model successfully loaded!
+2025-03-30 18:27:33 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2025-03-30 18:27:34 - INFO - CIR_PURPOSE model successfully loaded!
+2025-03-30 18:27:35 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2025-03-30 18:27:35 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2025-03-30 18:27:36 - INFO - CIR_TYPE_WEP model successfully loaded!
+2025-03-30 18:27:37 - INFO - CIR_USE model successfully loaded!
+2025-03-30 18:27:37 - INFO - CIR_PLANNING model successfully loaded!
+2025-03-30 18:27:38 - INFO - RESPO model successfully loaded!
+2025-03-30 18:27:39 - INFO - REGRET model successfully loaded!
+2025-03-30 18:27:39 - INFO - CONFESSION model successfully loaded!
+2025-03-30 18:28:30 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.892271662763466, 'precision': 0.6743002544529262, 'recall': 0.9636363636363636, 'f1': 0.7934131736526946, 'f2': 0.8874748827863362, 'PRAUC': 0.84693820940704, 'AUC': 0.9531953732152539}
+2025-03-30 18:28:58 - INFO - Metrics to CIRCUM_OFFENSE is: {'accuracy': 0.9164715066354411, 'precision': 0.6413793103448275, 'recall': 0.9841269841269841, 'f1': 0.7766179540709812, 'f2': 0.8891013384321224, 'PRAUC': 0.8658060144903755, 'AUC': 0.9734698722793961}
+2025-03-30 18:29:27 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.9656518345042935, 'precision': 0.5176470588235295, 'recall': 0.9361702127659575, 'f1': 0.6666666666666666, 'f2': 0.8058608058608059, 'PRAUC': 0.6586047908345213, 'AUC': 0.9872754232904583}
+2025-03-30 18:29:56 - INFO - Metrics to CIR_HELD_WAY_WEP is: {'accuracy': 0.9664324746291959, 'precision': 0.5411764705882353, 'recall': 0.92, 'f1': 0.6814814814814815, 'f2': 0.8070175438596491, 'PRAUC': 0.6671884041595402, 'AUC': 0.9858651502843218}
+2025-03-30 18:30:25 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.9687743950039032, 'precision': 0.391304347826087, 'recall': 0.6, 'f1': 0.47368421052631576, 'f2': 0.5421686746987951, 'PRAUC': 0.36384340022143025, 'AUC': 0.91609379163336}
+2025-03-30 18:30:54 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9773614363778298, 'precision': 0.5454545454545454, 'recall': 0.8823529411764706, 'f1': 0.6741573033707865, 'f2': 0.7853403141361257, 'PRAUC': 0.7062382433089993, 'AUC': 0.9861078352752488}
+2025-03-30 18:31:22 - INFO - Metrics to CIR_OBTAIN_WAY_WEP is: {'accuracy': 0.9352068696330992, 'precision': 0.14606741573033707, 'recall': 0.65, 'f1': 0.23853211009174313, 'f2': 0.38461538461538464, 'PRAUC': 0.22157141154756999, 'AUC': 0.9321173671689136}
+2025-03-30 18:31:51 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.985167837626854, 'precision': 0.859504132231405, 'recall': 0.9811320754716981, 'f1': 0.9162995594713657, 'f2': 0.9541284403669725, 'PRAUC': 0.888993949889301, 'AUC': 0.9933560818948214}
+2025-03-30 18:32:20 - INFO - Metrics to CIR_USE is: {'accuracy': 0.9601873536299765, 'precision': 0.4888888888888889, 'recall': 0.8979591836734694, 'f1': 0.6330935251798561, 'f2': 0.7692307692307693, 'PRAUC': 0.6761857230445728, 'AUC': 0.9843625761993109}
+2025-03-30 18:32:49 - INFO - Metrics to CIR_PLANNING is: {'accuracy': 0.9765807962529274, 'precision': 0.35, 'recall': 0.7777777777777778, 'f1': 0.4827586206896552, 'f2': 0.625, 'PRAUC': 0.6774679987860798, 'AUC': 0.986715932084103}
+2025-03-30 18:33:19 - INFO - Metrics to RESPO is: {'accuracy': 0.9804839968774395, 'precision': 0.59375, 'recall': 0.6129032258064516, 'f1': 0.6031746031746031, 'f2': 0.6089743589743589, 'PRAUC': 0.5767333603309054, 'AUC': 0.7678838709677419}
+2025-03-30 18:33:48 - INFO - Metrics to REGRET is: {'accuracy': 0.9843871975019516, 'precision': 0.5, 'recall': 0.55, 'f1': 0.5238095238095238, 'f2': 0.5392156862745098, 'PRAUC': 0.4452285836741803, 'AUC': 0.8291237113402061}
+2025-03-30 18:34:18 - INFO - Metrics to CONFESSION is: {'accuracy': 0.9648711943793911, 'precision': 0.8076923076923077, 'recall': 0.3442622950819672, 'f1': 0.4827586206896552, 'f2': 0.3888888888888889, 'PRAUC': 0.37014797734308563, 'AUC': 0.5720639613007256}
+2025-03-30 18:35:45 - INFO - PUNISHMENT model successfully loaded!
+2025-03-30 18:35:46 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 18:35:47 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 18:35:48 - INFO - CIR_STATUS_WEP model successfully loaded!
+2025-03-30 18:35:48 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2025-03-30 18:35:49 - INFO - CIR_PURPOSE model successfully loaded!
+2025-03-30 18:35:50 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2025-03-30 18:35:50 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2025-03-30 18:35:51 - INFO - CIR_TYPE_WEP model successfully loaded!
+2025-03-30 18:35:52 - INFO - CIR_USE model successfully loaded!
+2025-03-30 18:35:52 - INFO - CIR_PLANNING model successfully loaded!
+2025-03-30 18:35:53 - INFO - RESPO model successfully loaded!
+2025-03-30 18:35:54 - INFO - REGRET model successfully loaded!
+2025-03-30 18:35:54 - INFO - CONFESSION model successfully loaded!
+2025-03-30 18:36:19 - INFO - Metrics to PUNISHMENT is: {'accuracy': 0.9890710382513661, 'precision': 1.0, 'recall': 0.7254901960784313, 'f1': 0.8409090909090909, 'f2': 0.7676348547717843, 'PRAUC': 0.8305551728888277, 'AUC': 0.9117647058823529}
+2025-03-30 18:36:22 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.9172521467603435, 'precision': 0.9470899470899471, 'recall': 0.6509090909090909, 'f1': 0.771551724137931, 'f2': 0.6943366951124903, 'PRAUC': 0.719087361486245, 'AUC': 0.8270666907645039}
+2025-03-30 18:36:26 - INFO - Metrics to CIRCUM_OFFENSE is: {'accuracy': 0.9843871975019516, 'precision': 1.0, 'recall': 0.8941798941798942, 'f1': 0.9441340782122905, 'f2': 0.9135135135135135, 'PRAUC': 0.9233237921762512, 'AUC': 0.9548617167664786}
+2025-03-30 18:36:26 - INFO - Metrics to REGRET is: {'accuracy': 0.9968774395003903, 'precision': 1.0, 'recall': 0.8, 'f1': 0.8888888888888888, 'f2': 0.8333333333333334, 'PRAUC': 1.0000000000000002, 'AUC': 1.0}
+2025-03-30 18:36:28 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.9929742388758782, 'precision': 1.0, 'recall': 0.8085106382978723, 'f1': 0.8941176470588236, 'f2': 0.8407079646017699, 'PRAUC': 0.8770242662813296, 'AUC': 0.9361702127659575}
+2025-03-30 18:36:29 - INFO - Metrics to CIR_HELD_WAY_WEP is: {'accuracy': 0.9937548790007806, 'precision': 1.0, 'recall': 0.84, 'f1': 0.9130434782608695, 'f2': 0.8677685950413223, 'PRAUC': 0.9231225604996098, 'AUC': 0.96}
+2025-03-30 18:36:30 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.9890710382513661, 'precision': 1.0, 'recall': 0.5333333333333333, 'f1': 0.6956521739130435, 'f2': 0.5882352941176471, 'PRAUC': 0.8372365339578455, 'AUC': 0.9166666666666667}
+2025-03-30 18:36:31 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.994535519125683, 'precision': 0.9354838709677419, 'recall': 0.8529411764705882, 'f1': 0.8923076923076924, 'f2': 0.8682634730538922, 'PRAUC': 0.939156845995945, 'AUC': 0.9845865371008067}
+2025-03-30 18:36:32 - INFO - Metrics to CIR_OBTAIN_WAY_WEP is: {'accuracy': 0.990632318501171, 'precision': 0.9, 'recall': 0.45, 'f1': 0.6, 'f2': 0.5, 'PRAUC': 0.6742088990244728, 'AUC': 0.8494448850118953}
+2025-03-30 18:36:34 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.9976580796252927, 'precision': 1.0, 'recall': 0.9716981132075472, 'f1': 0.9856459330143541, 'f2': 0.9772296015180265, 'PRAUC': 0.9913466778607515, 'AUC': 0.9952830188679245}
+2025-03-30 18:36:35 - INFO - Metrics to CIR_USE is: {'accuracy': 0.9859484777517564, 'precision': 1.0, 'recall': 0.6326530612244898, 'f1': 0.775, 'f2': 0.6828193832599119, 'PRAUC': 0.744842199174752, 'AUC': 0.8673469387755102}
+2025-03-30 18:36:38 - INFO - Metrics to CIR_PLANNING is: {'accuracy': 0.9953161592505855, 'precision': 0.9285714285714286, 'recall': 0.7222222222222222, 'f1': 0.8125, 'f2': 0.7558139534883721, 'PRAUC': 0.9316947650341254, 'AUC': 0.9720242808128793}
+2025-03-30 18:36:40 - INFO - Metrics to RESPO is: {'accuracy': 0.9984387197501952, 'precision': 1.0, 'recall': 0.9354838709677419, 'f1': 0.9666666666666667, 'f2': 0.9477124183006536, 'PRAUC': 0.9685225756087732, 'AUC': 0.9838709677419355}
+2025-03-30 18:36:44 - INFO - Metrics to CONFESSION is: {'accuracy': 0.9992193598750976, 'precision': 1.0, 'recall': 0.9836065573770492, 'f1': 0.9917355371900827, 'f2': 0.9868421052631579, 'PRAUC': 1.0, 'AUC': 1.0}
+2025-03-30 18:38:13 - INFO - PUNISHMENT model successfully loaded!
+2025-03-30 18:38:13 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 18:38:14 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 18:38:15 - INFO - CIR_STATUS_WEP model successfully loaded!
+2025-03-30 18:38:15 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2025-03-30 18:38:16 - INFO - CIR_PURPOSE model successfully loaded!
+2025-03-30 18:38:17 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2025-03-30 18:38:17 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2025-03-30 18:38:18 - INFO - CIR_TYPE_WEP model successfully loaded!
+2025-03-30 18:38:18 - INFO - CIR_USE model successfully loaded!
+2025-03-30 18:38:19 - INFO - CIR_PLANNING model successfully loaded!
+2025-03-30 18:38:20 - INFO - RESPO model successfully loaded!
+2025-03-30 18:38:20 - INFO - REGRET model successfully loaded!
+2025-03-30 18:38:21 - INFO - CONFESSION model successfully loaded!
+2025-03-30 18:38:46 - INFO - Metrics to PUNISHMENT is: {'accuracy': 0.985167837626854, 'precision': 1.0, 'recall': 0.6274509803921569, 'f1': 0.7710843373493976, 'f2': 0.6779661016949152, 'PRAUC': 0.8305551728888277, 'AUC': 0.9117647058823529}
+2025-03-30 18:38:49 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.9149102263856362, 'precision': 0.9510869565217391, 'recall': 0.6363636363636364, 'f1': 0.7625272331154684, 'f2': 0.6814641744548287, 'PRAUC': 0.719087361486245, 'AUC': 0.8270666907645039}
+2025-03-30 18:38:51 - INFO - Metrics to CIRCUM_OFFENSE is: {'accuracy': 0.9750195160031225, 'precision': 1.0, 'recall': 0.8306878306878307, 'f1': 0.9075144508670521, 'f2': 0.859802847754655, 'PRAUC': 0.9233237921762512, 'AUC': 0.9548617167664786}
+2025-03-30 18:38:52 - INFO - Metrics to REGRET is: {'accuracy': 0.994535519125683, 'precision': 1.0, 'recall': 0.65, 'f1': 0.7878787878787878, 'f2': 0.6989247311827957, 'PRAUC': 1.0000000000000002, 'AUC': 1.0}
+2025-03-30 18:38:53 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.9875097580015613, 'precision': 1.0, 'recall': 0.6595744680851063, 'f1': 0.7948717948717948, 'f2': 0.7077625570776256, 'PRAUC': 0.8770242662813296, 'AUC': 0.9361702127659575}
+2025-03-30 18:38:54 - INFO - Metrics to CIR_HELD_WAY_WEP is: {'accuracy': 0.9843871975019516, 'precision': 1.0, 'recall': 0.6, 'f1': 0.75, 'f2': 0.6521739130434783, 'PRAUC': 0.9231225604996098, 'AUC': 0.96}
+2025-03-30 18:38:55 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.9882903981264637, 'precision': 1.0, 'recall': 0.5, 'f1': 0.6666666666666666, 'f2': 0.5555555555555556, 'PRAUC': 0.8372365339578455, 'AUC': 0.9166666666666667}
+2025-03-30 18:38:56 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9914129586260734, 'precision': 0.9259259259259259, 'recall': 0.7352941176470589, 'f1': 0.819672131147541, 'f2': 0.7668711656441718, 'PRAUC': 0.939156845995945, 'AUC': 0.9845865371008067}
+2025-03-30 18:38:57 - INFO - Metrics to CIR_OBTAIN_WAY_WEP is: {'accuracy': 0.9898516783762685, 'precision': 1.0, 'recall': 0.35, 'f1': 0.5185185185185185, 'f2': 0.40229885057471265, 'PRAUC': 0.6742088990244728, 'AUC': 0.8494448850118953}
+2025-03-30 18:38:59 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.9953161592505855, 'precision': 1.0, 'recall': 0.9433962264150944, 'f1': 0.970873786407767, 'f2': 0.9541984732824428, 'PRAUC': 0.9913466778607515, 'AUC': 0.9952830188679245}
+2025-03-30 18:39:00 - INFO - Metrics to CIR_USE is: {'accuracy': 0.9828259172521467, 'precision': 1.0, 'recall': 0.5510204081632653, 'f1': 0.7105263157894737, 'f2': 0.6053811659192825, 'PRAUC': 0.744842199174752, 'AUC': 0.8673469387755102}
+2025-03-30 18:39:01 - INFO - Metrics to CIR_PLANNING is: {'accuracy': 0.994535519125683, 'precision': 1.0, 'recall': 0.6111111111111112, 'f1': 0.7586206896551724, 'f2': 0.6626506024096386, 'PRAUC': 0.9316947650341254, 'AUC': 0.9720242808128793}
+2025-03-30 18:39:02 - INFO - Metrics to RESPO is: {'accuracy': 0.9953161592505855, 'precision': 1.0, 'recall': 0.8064516129032258, 'f1': 0.8928571428571429, 'f2': 0.8389261744966443, 'PRAUC': 0.9685225756087732, 'AUC': 0.9838709677419355}
+2025-03-30 18:39:04 - INFO - Metrics to CONFESSION is: {'accuracy': 0.9976580796252927, 'precision': 1.0, 'recall': 0.9508196721311475, 'f1': 0.9747899159663865, 'f2': 0.9602649006622517, 'PRAUC': 1.0, 'AUC': 1.0}
+2025-03-30 20:11:07 - INFO - PUNISHMENT model successfully loaded!
+2025-03-30 20:11:56 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 20:12:42 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 20:13:26 - INFO - CIR_STATUS_WEP model successfully loaded!
+2025-03-30 20:14:29 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2025-03-30 20:15:13 - INFO - CIR_PURPOSE model successfully loaded!
+2025-03-30 20:16:12 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2025-03-30 20:16:54 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2025-03-30 20:17:31 - INFO - CIR_TYPE_WEP model successfully loaded!
+2025-03-30 20:18:04 - INFO - CIR_USE model successfully loaded!
+2025-03-30 20:18:38 - INFO - CIR_PLANNING model successfully loaded!
+2025-03-30 20:19:24 - INFO - RESPO model successfully loaded!
+2025-03-30 20:20:01 - INFO - REGRET model successfully loaded!
+2025-03-30 20:20:40 - INFO - CONFESSION model successfully loaded!
+2025-03-30 20:21:27 - INFO - Metrics to PUNISHMENT is: {'accuracy': 0.9929742388758782, 'precision': 1.0, 'recall': 0.8235294117647058, 'f1': 0.9032258064516129, 'f2': 0.8536585365853658, 'PRAUC': 0.8305551728888277, 'AUC': 0.9117647058823529}
+2025-03-30 20:21:30 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.9164715066354411, 'precision': 0.9615384615384616, 'recall': 0.6363636363636364, 'f1': 0.7658643326039387, 'f2': 0.6825273010920437, 'PRAUC': 0.7092571222017522, 'AUC': 0.8268516175673234}
+2025-03-30 20:21:32 - INFO - Metrics to CIRCUM_OFFENSE is: {'accuracy': 0.9789227166276346, 'precision': 1.0, 'recall': 0.8571428571428571, 'f1': 0.9230769230769231, 'f2': 0.8823529411764706, 'PRAUC': 0.9223700673280502, 'AUC': 0.9547115142353237}
+2025-03-30 20:21:33 - INFO - Metrics to REGRET is: {'accuracy': 0.9984387197501952, 'precision': 1.0, 'recall': 0.9, 'f1': 0.9473684210526315, 'f2': 0.9183673469387755, 'PRAUC': 1.0000000000000002, 'AUC': 1.0}
+2025-03-30 20:21:35 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.9875097580015613, 'precision': 1.0, 'recall': 0.6595744680851063, 'f1': 0.7948717948717948, 'f2': 0.7077625570776256, 'PRAUC': 0.8770242662813296, 'AUC': 0.9361702127659575}
+2025-03-30 20:21:36 - INFO - Metrics to CIR_HELD_WAY_WEP is: {'accuracy': 0.9882903981264637, 'precision': 1.0, 'recall': 0.7, 'f1': 0.8235294117647058, 'f2': 0.7446808510638298, 'PRAUC': 0.9231225604996098, 'AUC': 0.96}
+2025-03-30 20:21:37 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.9898516783762685, 'precision': 1.0, 'recall': 0.5666666666666667, 'f1': 0.723404255319149, 'f2': 0.6204379562043796, 'PRAUC': 0.8372365339578455, 'AUC': 0.9166666666666667}
+2025-03-30 20:21:38 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9937548790007806, 'precision': 0.9333333333333333, 'recall': 0.8235294117647058, 'f1': 0.875, 'f2': 0.8433734939759037, 'PRAUC': 0.9504903950325535, 'AUC': 0.984775225246474}
+2025-03-30 20:21:39 - INFO - Metrics to CIR_OBTAIN_WAY_WEP is: {'accuracy': 0.990632318501171, 'precision': 1.0, 'recall': 0.4, 'f1': 0.5714285714285714, 'f2': 0.45454545454545453, 'PRAUC': 0.6939329249984988, 'AUC': 0.8496431403647898}
+2025-03-30 20:21:40 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.9953161592505855, 'precision': 1.0, 'recall': 0.9433962264150944, 'f1': 0.970873786407767, 'f2': 0.9541984732824428, 'PRAUC': 0.9913466778607515, 'AUC': 0.9952830188679245}
+2025-03-30 20:21:41 - INFO - Metrics to CIR_USE is: {'accuracy': 0.9859484777517564, 'precision': 1.0, 'recall': 0.6326530612244898, 'f1': 0.775, 'f2': 0.6828193832599119, 'PRAUC': 0.744842199174752, 'AUC': 0.8673469387755102}
+2025-03-30 20:21:42 - INFO - Metrics to CIR_PLANNING is: {'accuracy': 0.9929742388758782, 'precision': 0.9090909090909091, 'recall': 0.5555555555555556, 'f1': 0.6896551724137931, 'f2': 0.6024096385542169, 'PRAUC': 0.9020444770505042, 'AUC': 0.9717603589337555}
+2025-03-30 20:21:43 - INFO - Metrics to RESPO is: {'accuracy': 0.9992193598750976, 'precision': 1.0, 'recall': 0.967741935483871, 'f1': 0.9836065573770492, 'f2': 0.974025974025974, 'PRAUC': 0.9685225756087732, 'AUC': 0.9838709677419355}
+2025-03-30 20:21:45 - INFO - Metrics to CONFESSION is: {'accuracy': 0.9960967993754879, 'precision': 1.0, 'recall': 0.9180327868852459, 'f1': 0.9572649572649573, 'f2': 0.9333333333333333, 'PRAUC': 1.0, 'AUC': 1.0}
+2025-03-30 20:22:16 - INFO - PUNISHMENT model successfully loaded!
+2025-03-30 20:22:40 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 20:23:06 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 20:23:30 - INFO - CIR_STATUS_WEP model successfully loaded!
+2025-03-30 20:23:50 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2025-03-30 20:24:09 - INFO - CIR_PURPOSE model successfully loaded!
+2025-03-30 20:24:36 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2025-03-30 20:24:58 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2025-03-30 20:25:23 - INFO - CIR_TYPE_WEP model successfully loaded!
+2025-03-30 20:25:51 - INFO - CIR_USE model successfully loaded!
+2025-03-30 20:26:24 - INFO - CIR_PLANNING model successfully loaded!
+2025-03-30 20:27:16 - INFO - RESPO model successfully loaded!
+2025-03-30 20:27:48 - INFO - REGRET model successfully loaded!
+2025-03-30 20:28:15 - INFO - CONFESSION model successfully loaded!
+2025-03-30 20:28:43 - INFO - Metrics to PUNISHMENT is: {'accuracy': 0.9921935987509758, 'precision': 1.0, 'recall': 0.803921568627451, 'f1': 0.8913043478260869, 'f2': 0.8367346938775511, 'PRAUC': 0.8305551728888277, 'AUC': 0.9117647058823529}
+2025-03-30 20:28:46 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.9141295862607338, 'precision': 0.9508196721311475, 'recall': 0.6327272727272727, 'f1': 0.759825327510917, 'f2': 0.6780982073265783, 'PRAUC': 0.7016972288658112, 'AUC': 0.8259461413338154}
+2025-03-30 20:28:48 - INFO - Metrics to CIRCUM_OFFENSE is: {'accuracy': 0.975800156128025, 'precision': 1.0, 'recall': 0.8359788359788359, 'f1': 0.9106628242074928, 'f2': 0.8643326039387309, 'PRAUC': 0.9231107152853877, 'AUC': 0.9548278000658953}
+2025-03-30 20:28:49 - INFO - Metrics to REGRET is: {'accuracy': 0.9992193598750976, 'precision': 1.0, 'recall': 0.95, 'f1': 0.9743589743589743, 'f2': 0.9595959595959596, 'PRAUC': 1.0000000000000002, 'AUC': 1.0}
+2025-03-30 20:28:50 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.9859484777517564, 'precision': 1.0, 'recall': 0.6170212765957447, 'f1': 0.7631578947368421, 'f2': 0.6682027649769585, 'PRAUC': 0.8770242662813296, 'AUC': 0.9361702127659575}
+2025-03-30 20:28:52 - INFO - Metrics to CIR_HELD_WAY_WEP is: {'accuracy': 0.9921935987509758, 'precision': 1.0, 'recall': 0.8, 'f1': 0.8888888888888888, 'f2': 0.8333333333333334, 'PRAUC': 0.9231225604996098, 'AUC': 0.96}
+2025-03-30 20:28:53 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.9898516783762685, 'precision': 1.0, 'recall': 0.5666666666666667, 'f1': 0.723404255319149, 'f2': 0.6204379562043796, 'PRAUC': 0.8372365339578455, 'AUC': 0.9166666666666667}
+2025-03-30 20:28:54 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.994535519125683, 'precision': 0.9354838709677419, 'recall': 0.8529411764705882, 'f1': 0.8923076923076924, 'f2': 0.8682634730538922, 'PRAUC': 0.9349257563268757, 'AUC': 0.9845157790461815}
+2025-03-30 20:28:55 - INFO - Metrics to CIR_OBTAIN_WAY_WEP is: {'accuracy': 0.990632318501171, 'precision': 0.9, 'recall': 0.45, 'f1': 0.6, 'f2': 0.5, 'PRAUC': 0.6137723910879649, 'AUC': 0.8492466296590008}
+2025-03-30 20:28:57 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.9953161592505855, 'precision': 1.0, 'recall': 0.9433962264150944, 'f1': 0.970873786407767, 'f2': 0.9541984732824428, 'PRAUC': 0.9913466778607515, 'AUC': 0.9952830188679245}
+2025-03-30 20:28:58 - INFO - Metrics to CIR_USE is: {'accuracy': 0.9875097580015613, 'precision': 1.0, 'recall': 0.673469387755102, 'f1': 0.8048780487804879, 'f2': 0.7205240174672489, 'PRAUC': 0.744842199174752, 'AUC': 0.8673469387755102}
+2025-03-30 20:28:59 - INFO - Metrics to CIR_PLANNING is: {'accuracy': 0.994535519125683, 'precision': 1.0, 'recall': 0.6111111111111112, 'f1': 0.7586206896551724, 'f2': 0.6626506024096386, 'PRAUC': 0.9277265110658715, 'AUC': 0.9719802938330253}
+2025-03-30 20:29:00 - INFO - Metrics to RESPO is: {'accuracy': 0.9984387197501952, 'precision': 1.0, 'recall': 0.9354838709677419, 'f1': 0.9666666666666667, 'f2': 0.9477124183006536, 'PRAUC': 0.9685225756087734, 'AUC': 0.9838709677419355}
+2025-03-30 20:29:01 - INFO - Metrics to CONFESSION is: {'accuracy': 0.9960967993754879, 'precision': 1.0, 'recall': 0.9180327868852459, 'f1': 0.9572649572649573, 'f2': 0.9333333333333333, 'PRAUC': 1.0, 'AUC': 1.0}
+2025-03-30 20:31:30 - INFO - PUNISHMENT model successfully loaded!
+2025-03-30 20:31:55 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 20:32:12 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 20:32:13 - INFO - CIR_STATUS_WEP model successfully loaded!
+2025-03-30 20:32:15 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2025-03-30 20:32:16 - INFO - CIR_PURPOSE model successfully loaded!
+2025-03-30 20:32:17 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2025-03-30 20:32:18 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2025-03-30 20:32:19 - INFO - CIR_TYPE_WEP model successfully loaded!
+2025-03-30 20:32:21 - INFO - CIR_USE model successfully loaded!
+2025-03-30 20:32:22 - INFO - CIR_PLANNING model successfully loaded!
+2025-03-30 20:32:24 - INFO - RESPO model successfully loaded!
+2025-03-30 20:32:28 - INFO - REGRET model successfully loaded!
+2025-03-30 20:32:31 - INFO - CONFESSION model successfully loaded!
+2025-03-30 20:33:15 - INFO - Metrics to PUNISHMENT is: {'accuracy': 0.9898516783762685, 'precision': 1.0, 'recall': 0.7450980392156863, 'f1': 0.8539325842696629, 'f2': 0.7851239669421488, 'PRAUC': 0.8305551728888277, 'AUC': 0.9117647058823529}
+2025-03-30 20:33:17 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.9156908665105387, 'precision': 0.9664804469273743, 'recall': 0.6290909090909091, 'f1': 0.762114537444934, 'f2': 0.6763096168881939, 'PRAUC': 0.7092571222017522, 'AUC': 0.8268516175673234}
+2025-03-30 20:33:20 - INFO - Metrics to CIRCUM_OFFENSE is: {'accuracy': 0.9679937548790007, 'precision': 1.0, 'recall': 0.783068783068783, 'f1': 0.8783382789317508, 'f2': 0.8185840707964602, 'PRAUC': 0.9223700673280502, 'AUC': 0.9547115142353237}
+2025-03-30 20:33:21 - INFO - Metrics to REGRET is: {'accuracy': 0.994535519125683, 'precision': 1.0, 'recall': 0.65, 'f1': 0.7878787878787878, 'f2': 0.6989247311827957, 'PRAUC': 1.0000000000000002, 'AUC': 1.0}
+2025-03-30 20:33:22 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.9859484777517564, 'precision': 1.0, 'recall': 0.6170212765957447, 'f1': 0.7631578947368421, 'f2': 0.6682027649769585, 'PRAUC': 0.8770242662813296, 'AUC': 0.9361702127659575}
+2025-03-30 20:33:23 - INFO - Metrics to CIR_HELD_WAY_WEP is: {'accuracy': 0.9812646370023419, 'precision': 1.0, 'recall': 0.52, 'f1': 0.6842105263157895, 'f2': 0.5752212389380531, 'PRAUC': 0.9231225604996098, 'AUC': 0.96}
+2025-03-30 20:33:24 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.9843871975019516, 'precision': 1.0, 'recall': 0.3333333333333333, 'f1': 0.5, 'f2': 0.38461538461538464, 'PRAUC': 0.8372365339578455, 'AUC': 0.9166666666666667}
+2025-03-30 20:33:25 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9898516783762685, 'precision': 1.0, 'recall': 0.6176470588235294, 'f1': 0.7636363636363637, 'f2': 0.6687898089171974, 'PRAUC': 0.9504903950325535, 'AUC': 0.984775225246474}
+2025-03-30 20:33:26 - INFO - Metrics to CIR_OBTAIN_WAY_WEP is: {'accuracy': 0.9875097580015613, 'precision': 1.0, 'recall': 0.2, 'f1': 0.3333333333333333, 'f2': 0.23809523809523808, 'PRAUC': 0.6939329249984988, 'AUC': 0.8496431403647898}
+2025-03-30 20:33:28 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.9953161592505855, 'precision': 1.0, 'recall': 0.9433962264150944, 'f1': 0.970873786407767, 'f2': 0.9541984732824428, 'PRAUC': 0.9913466778607515, 'AUC': 0.9952830188679245}
+2025-03-30 20:33:29 - INFO - Metrics to CIR_USE is: {'accuracy': 0.9836065573770492, 'precision': 1.0, 'recall': 0.5714285714285714, 'f1': 0.7272727272727273, 'f2': 0.625, 'PRAUC': 0.744842199174752, 'AUC': 0.8673469387755102}
+2025-03-30 20:33:30 - INFO - Metrics to CIR_PLANNING is: {'accuracy': 0.9914129586260734, 'precision': 1.0, 'recall': 0.3888888888888889, 'f1': 0.56, 'f2': 0.4430379746835443, 'PRAUC': 0.9020444770505042, 'AUC': 0.9717603589337555}
+2025-03-30 20:33:31 - INFO - Metrics to RESPO is: {'accuracy': 0.9992193598750976, 'precision': 1.0, 'recall': 0.967741935483871, 'f1': 0.9836065573770492, 'f2': 0.974025974025974, 'PRAUC': 0.9685225756087732, 'AUC': 0.9838709677419355}
+2025-03-30 20:33:32 - INFO - Metrics to CONFESSION is: {'accuracy': 0.9937548790007806, 'precision': 1.0, 'recall': 0.8688524590163934, 'f1': 0.9298245614035088, 'f2': 0.8922558922558923, 'PRAUC': 1.0, 'AUC': 1.0}
+2025-03-30 20:33:33 - INFO - PUNISHMENT model successfully loaded!
+2025-03-30 20:33:33 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 20:33:34 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 20:33:34 - INFO - CIR_STATUS_WEP model successfully loaded!
+2025-03-30 20:33:35 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2025-03-30 20:33:35 - INFO - CIR_PURPOSE model successfully loaded!
+2025-03-30 20:33:36 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2025-03-30 20:33:36 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2025-03-30 20:33:37 - INFO - CIR_TYPE_WEP model successfully loaded!
+2025-03-30 20:33:37 - INFO - CIR_USE model successfully loaded!
+2025-03-30 20:33:38 - INFO - CIR_PLANNING model successfully loaded!
+2025-03-30 20:33:39 - INFO - RESPO model successfully loaded!
+2025-03-30 20:33:40 - INFO - REGRET model successfully loaded!
+2025-03-30 20:33:41 - INFO - CONFESSION model successfully loaded!
+2025-03-30 20:34:09 - INFO - Metrics to PUNISHMENT is: {'accuracy': 0.9898516783762685, 'precision': 1.0, 'recall': 0.7450980392156863, 'f1': 0.8539325842696629, 'f2': 0.7851239669421488, 'PRAUC': 0.8305551728888277, 'AUC': 0.9117647058823529}
+2025-03-30 20:34:12 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.9133489461358314, 'precision': 0.9505494505494505, 'recall': 0.6290909090909091, 'f1': 0.7571115973741794, 'f2': 0.6747269890795632, 'PRAUC': 0.7016972288658112, 'AUC': 0.8259461413338154}
+2025-03-30 20:34:15 - INFO - Metrics to CIRCUM_OFFENSE is: {'accuracy': 0.9695550351288056, 'precision': 1.0, 'recall': 0.7936507936507936, 'f1': 0.8849557522123894, 'f2': 0.8278145695364238, 'PRAUC': 0.9231107152853877, 'AUC': 0.9548278000658953}
+2025-03-30 20:34:15 - INFO - Metrics to REGRET is: {'accuracy': 0.9976580796252927, 'precision': 1.0, 'recall': 0.85, 'f1': 0.918918918918919, 'f2': 0.8762886597938144, 'PRAUC': 1.0000000000000002, 'AUC': 1.0}
+2025-03-30 20:34:17 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.985167837626854, 'precision': 1.0, 'recall': 0.5957446808510638, 'f1': 0.7466666666666667, 'f2': 0.6481481481481481, 'PRAUC': 0.8770242662813296, 'AUC': 0.9361702127659575}
+2025-03-30 20:34:18 - INFO - Metrics to CIR_HELD_WAY_WEP is: {'accuracy': 0.985167837626854, 'precision': 1.0, 'recall': 0.62, 'f1': 0.7654320987654321, 'f2': 0.670995670995671, 'PRAUC': 0.9231225604996098, 'AUC': 0.96}
+2025-03-30 20:34:19 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.9898516783762685, 'precision': 1.0, 'recall': 0.5666666666666667, 'f1': 0.723404255319149, 'f2': 0.6204379562043796, 'PRAUC': 0.8372365339578455, 'AUC': 0.9166666666666667}
+2025-03-30 20:34:20 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.990632318501171, 'precision': 0.9230769230769231, 'recall': 0.7058823529411765, 'f1': 0.8, 'f2': 0.7407407407407407, 'PRAUC': 0.9349257563268757, 'AUC': 0.9845157790461815}
+2025-03-30 20:34:21 - INFO - Metrics to CIR_OBTAIN_WAY_WEP is: {'accuracy': 0.990632318501171, 'precision': 0.9, 'recall': 0.45, 'f1': 0.6, 'f2': 0.5, 'PRAUC': 0.6137723910879649, 'AUC': 0.8492466296590008}
+2025-03-30 20:34:23 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.9953161592505855, 'precision': 1.0, 'recall': 0.9433962264150944, 'f1': 0.970873786407767, 'f2': 0.9541984732824428, 'PRAUC': 0.9913466778607515, 'AUC': 0.9952830188679245}
+2025-03-30 20:34:24 - INFO - Metrics to CIR_USE is: {'accuracy': 0.9836065573770492, 'precision': 1.0, 'recall': 0.5714285714285714, 'f1': 0.7272727272727273, 'f2': 0.625, 'PRAUC': 0.744842199174752, 'AUC': 0.8673469387755102}
+2025-03-30 20:34:25 - INFO - Metrics to CIR_PLANNING is: {'accuracy': 0.9937548790007806, 'precision': 1.0, 'recall': 0.5555555555555556, 'f1': 0.7142857142857143, 'f2': 0.6097560975609756, 'PRAUC': 0.9277265110658715, 'AUC': 0.9719802938330253}
+2025-03-30 20:34:26 - INFO - Metrics to RESPO is: {'accuracy': 0.9984387197501952, 'precision': 1.0, 'recall': 0.9354838709677419, 'f1': 0.9666666666666667, 'f2': 0.9477124183006536, 'PRAUC': 0.9685225756087734, 'AUC': 0.9838709677419355}
+2025-03-30 20:34:27 - INFO - Metrics to CONFESSION is: {'accuracy': 0.9960967993754879, 'precision': 1.0, 'recall': 0.9180327868852459, 'f1': 0.9572649572649573, 'f2': 0.9333333333333333, 'PRAUC': 1.0, 'AUC': 1.0}
+2025-03-30 20:35:03 - INFO - PUNISHMENT model successfully loaded!
+2025-03-30 20:35:04 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 20:35:05 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 20:35:05 - INFO - CIR_STATUS_WEP model successfully loaded!
+2025-03-30 20:35:06 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2025-03-30 20:35:07 - INFO - CIR_PURPOSE model successfully loaded!
+2025-03-30 20:35:07 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2025-03-30 20:35:08 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2025-03-30 20:35:08 - INFO - CIR_TYPE_WEP model successfully loaded!
+2025-03-30 20:35:09 - INFO - CIR_USE model successfully loaded!
+2025-03-30 20:35:10 - INFO - CIR_PLANNING model successfully loaded!
+2025-03-30 20:35:11 - INFO - RESPO model successfully loaded!
+2025-03-30 20:35:11 - INFO - REGRET model successfully loaded!
+2025-03-30 20:35:12 - INFO - CONFESSION model successfully loaded!
+2025-03-30 20:36:22 - INFO - Metrics to PUNISHMENT is: {'accuracy': 0.9570647931303669, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'f2': 0.0, 'PRAUC': 0.03981264637002342, 'AUC': 0.37479674796747964}
+2025-03-30 20:36:51 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.8946135831381733, 'precision': 0.6944444444444444, 'recall': 0.9090909090909091, 'f1': 0.7874015748031497, 'f2': 0.8561643835616438, 'PRAUC': 0.7043100428353691, 'AUC': 0.9103488161937467}
+2025-03-30 20:37:20 - INFO - Metrics to CIRCUM_OFFENSE is: {'accuracy': 0.8899297423887588, 'precision': 0.577922077922078, 'recall': 0.9417989417989417, 'f1': 0.716297786720322, 'f2': 0.8364661654135338, 'PRAUC': 0.6493148192106916, 'AUC': 0.9320793844603369}
+2025-03-30 20:37:50 - INFO - Metrics to REGRET is: {'accuracy': 0.9750195160031225, 'precision': 0.35714285714285715, 'recall': 0.75, 'f1': 0.4838709677419355, 'f2': 0.6147540983606558, 'PRAUC': 0.40298496386900756, 'AUC': 0.8350118953211737}
+2025-03-30 20:38:18 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.9679937548790007, 'precision': 0.5441176470588235, 'recall': 0.7872340425531915, 'f1': 0.6434782608695652, 'f2': 0.72265625, 'PRAUC': 0.5900742071985409, 'AUC': 0.9747577502672505}
+2025-03-30 20:38:47 - INFO - Metrics to CIR_HELD_WAY_WEP is: {'accuracy': 0.9523809523809523, 'precision': 0.43820224719101125, 'recall': 0.78, 'f1': 0.5611510791366906, 'f2': 0.6747404844290658, 'PRAUC': 0.515521007525574, 'AUC': 0.9550446791226643}
+2025-03-30 20:39:17 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.9508196721311475, 'precision': 0.2608695652173913, 'recall': 0.6, 'f1': 0.36363636363636365, 'f2': 0.47619047619047616, 'PRAUC': 0.23507281901099022, 'AUC': 0.8660005329070077}
+2025-03-30 20:39:46 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9742388758782201, 'precision': 0.5087719298245614, 'recall': 0.8529411764705882, 'f1': 0.6373626373626373, 'f2': 0.7512953367875648, 'PRAUC': 0.6017486546956359, 'AUC': 0.9680409453276099}
+2025-03-30 20:40:15 - INFO - Metrics to CIR_OBTAIN_WAY_WEP is: {'accuracy': 0.9492583918813428, 'precision': 0.14285714285714285, 'recall': 0.45, 'f1': 0.21686746987951808, 'f2': 0.3146853146853147, 'PRAUC': 0.14783712988847234, 'AUC': 0.8805709754163362}
+2025-03-30 20:40:44 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.9773614363778298, 'precision': 0.808, 'recall': 0.9528301886792453, 'f1': 0.8744588744588745, 'f2': 0.9198542805100182, 'PRAUC': 0.8424737443422369, 'AUC': 0.990726615816941}
+2025-03-30 20:41:13 - INFO - Metrics to CIR_USE is: {'accuracy': 0.9359875097580016, 'precision': 0.358974358974359, 'recall': 0.8571428571428571, 'f1': 0.5060240963855421, 'f2': 0.670926517571885, 'PRAUC': 0.36850899380879953, 'AUC': 0.9606745295520807}
+2025-03-30 20:41:41 - INFO - Metrics to CIR_PLANNING is: {'accuracy': 0.9750195160031225, 'precision': 0.28125, 'recall': 0.5, 'f1': 0.36, 'f2': 0.4326923076923077, 'PRAUC': 0.37192137094343525, 'AUC': 0.8735374329198557}
+2025-03-30 20:42:12 - INFO - Metrics to RESPO is: {'accuracy': 0.9875097580015613, 'precision': 0.8260869565217391, 'recall': 0.6129032258064516, 'f1': 0.7037037037037037, 'f2': 0.6462585034013606, 'PRAUC': 0.5731560796181404, 'AUC': 0.7529806451612903}
+2025-03-30 20:42:41 - INFO - Metrics to CONFESSION is: {'accuracy': 0.9594067135050741, 'precision': 0.6551724137931034, 'recall': 0.3114754098360656, 'f1': 0.4222222222222222, 'f2': 0.34798534798534797, 'PRAUC': 0.3148324718705318, 'AUC': 0.569403386186509}
+2025-03-30 20:42:41 - INFO - PUNISHMENT model successfully loaded!
+2025-03-30 20:42:42 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 20:42:43 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 20:47:17 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 20:47:18 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 20:47:20 - INFO - CIR_STATUS_WEP model successfully loaded!
+2025-03-30 20:47:20 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2025-03-30 20:47:21 - INFO - CIR_PURPOSE model successfully loaded!
+2025-03-30 20:47:22 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2025-03-30 20:47:23 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2025-03-30 20:47:23 - INFO - CIR_TYPE_WEP model successfully loaded!
+2025-03-30 20:47:24 - INFO - CIR_USE model successfully loaded!
+2025-03-30 20:47:25 - INFO - CIR_PLANNING model successfully loaded!
+2025-03-30 20:47:27 - INFO - RESPO model successfully loaded!
+2025-03-30 20:47:27 - INFO - REGRET model successfully loaded!
+2025-03-30 20:47:28 - INFO - CONFESSION model successfully loaded!
+2025-03-30 20:48:30 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 20:48:31 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 20:48:32 - INFO - CIR_STATUS_WEP model successfully loaded!
+2025-03-30 20:48:33 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2025-03-30 20:48:34 - INFO - CIR_PURPOSE model successfully loaded!
+2025-03-30 20:48:35 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2025-03-30 20:48:37 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2025-03-30 20:48:37 - INFO - CIR_TYPE_WEP model successfully loaded!
+2025-03-30 20:48:39 - INFO - CIR_USE model successfully loaded!
+2025-03-30 20:48:40 - INFO - CIR_PLANNING model successfully loaded!
+2025-03-30 20:48:42 - INFO - RESPO model successfully loaded!
+2025-03-30 20:48:44 - INFO - REGRET model successfully loaded!
+2025-03-30 20:48:45 - INFO - CONFESSION model successfully loaded!
+2025-03-30 20:49:52 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.8946135831381733, 'precision': 0.6944444444444444, 'recall': 0.9090909090909091, 'f1': 0.7874015748031497, 'f2': 0.8561643835616438, 'PRAUC': 0.7043100428353691, 'AUC': 0.9103488161937467}
+2025-03-30 20:50:23 - INFO - Metrics to CIRCUM_OFFENSE is: {'accuracy': 0.8899297423887588, 'precision': 0.577922077922078, 'recall': 0.9417989417989417, 'f1': 0.716297786720322, 'f2': 0.8364661654135338, 'PRAUC': 0.6493148192106916, 'AUC': 0.9320793844603369}
+2025-03-30 20:50:54 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.9679937548790007, 'precision': 0.5441176470588235, 'recall': 0.7872340425531915, 'f1': 0.6434782608695652, 'f2': 0.72265625, 'PRAUC': 0.5900742071985409, 'AUC': 0.9747577502672505}
+2025-03-30 20:51:24 - INFO - Metrics to CIR_HELD_WAY_WEP is: {'accuracy': 0.9523809523809523, 'precision': 0.43820224719101125, 'recall': 0.78, 'f1': 0.5611510791366906, 'f2': 0.6747404844290658, 'PRAUC': 0.515521007525574, 'AUC': 0.9550446791226643}
+2025-03-30 20:51:54 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.9508196721311475, 'precision': 0.2608695652173913, 'recall': 0.6, 'f1': 0.36363636363636365, 'f2': 0.47619047619047616, 'PRAUC': 0.23507281901099022, 'AUC': 0.8660005329070077}
+2025-03-30 20:52:26 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9742388758782201, 'precision': 0.5087719298245614, 'recall': 0.8529411764705882, 'f1': 0.6373626373626373, 'f2': 0.7512953367875648, 'PRAUC': 0.6017486546956359, 'AUC': 0.9680409453276099}
+2025-03-30 20:52:58 - INFO - Metrics to CIR_OBTAIN_WAY_WEP is: {'accuracy': 0.9492583918813428, 'precision': 0.14285714285714285, 'recall': 0.45, 'f1': 0.21686746987951808, 'f2': 0.3146853146853147, 'PRAUC': 0.14783712988847234, 'AUC': 0.8805709754163362}
+2025-03-30 20:53:28 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.9773614363778298, 'precision': 0.808, 'recall': 0.9528301886792453, 'f1': 0.8744588744588745, 'f2': 0.9198542805100182, 'PRAUC': 0.8424737443422369, 'AUC': 0.990726615816941}
+2025-03-30 20:54:00 - INFO - Metrics to CIR_USE is: {'accuracy': 0.9359875097580016, 'precision': 0.358974358974359, 'recall': 0.8571428571428571, 'f1': 0.5060240963855421, 'f2': 0.670926517571885, 'PRAUC': 0.36850899380879953, 'AUC': 0.9606745295520807}
+2025-03-30 20:54:32 - INFO - Metrics to CIR_PLANNING is: {'accuracy': 0.9750195160031225, 'precision': 0.28125, 'recall': 0.5, 'f1': 0.36, 'f2': 0.4326923076923077, 'PRAUC': 0.37192137094343525, 'AUC': 0.8735374329198557}
+2025-03-30 20:55:04 - INFO - Metrics to RESPO is: {'accuracy': 0.9875097580015613, 'precision': 0.8260869565217391, 'recall': 0.6129032258064516, 'f1': 0.7037037037037037, 'f2': 0.6462585034013606, 'PRAUC': 0.5731560796181404, 'AUC': 0.7529806451612903}
+2025-03-30 20:55:34 - INFO - Metrics to REGRET is: {'accuracy': 0.9750195160031225, 'precision': 0.35714285714285715, 'recall': 0.75, 'f1': 0.4838709677419355, 'f2': 0.6147540983606558, 'PRAUC': 0.40298496386900756, 'AUC': 0.8350118953211737}
+2025-03-30 20:56:05 - INFO - Metrics to CONFESSION is: {'accuracy': 0.9594067135050741, 'precision': 0.6551724137931034, 'recall': 0.3114754098360656, 'f1': 0.4222222222222222, 'f2': 0.34798534798534797, 'PRAUC': 0.3148324718705318, 'AUC': 0.569403386186509}
+2025-03-30 20:56:06 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 20:56:07 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 20:56:07 - INFO - CIR_STATUS_WEP model successfully loaded!
+2025-03-30 20:56:08 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2025-03-30 22:36:43 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 22:36:46 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 22:36:47 - INFO - CIR_STATUS_WEP model successfully loaded!
+2025-03-30 22:36:48 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2025-03-30 22:36:48 - INFO - CIR_PURPOSE model successfully loaded!
+2025-03-30 22:36:51 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2025-03-30 22:36:52 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2025-03-30 22:36:52 - INFO - CIR_TYPE_WEP model successfully loaded!
+2025-03-30 22:36:53 - INFO - CIR_USE model successfully loaded!
+2025-03-30 22:36:56 - INFO - CIR_PLANNING model successfully loaded!
+2025-03-30 22:36:56 - INFO - RESPO model successfully loaded!
+2025-03-30 22:36:57 - INFO - REGRET model successfully loaded!
+2025-03-30 22:36:58 - INFO - CONFESSION model successfully loaded!
+2025-03-30 22:37:58 - INFO - PUNISHMENT model successfully loaded!
+2025-03-30 22:38:01 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 22:38:01 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 22:38:04 - INFO - CIR_STATUS_WEP model successfully loaded!
+2025-03-30 22:38:05 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2025-03-30 22:38:06 - INFO - CIR_PURPOSE model successfully loaded!
+2025-03-30 22:38:06 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2025-03-30 22:38:07 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2025-03-30 22:38:08 - INFO - CIR_TYPE_WEP model successfully loaded!
+2025-03-30 22:38:09 - INFO - CIR_USE model successfully loaded!
+2025-03-30 22:38:09 - INFO - CIR_PLANNING model successfully loaded!
+2025-03-30 22:38:10 - INFO - RESPO model successfully loaded!
+2025-03-30 22:38:10 - INFO - REGRET model successfully loaded!
+2025-03-30 22:38:11 - INFO - CONFESSION model successfully loaded!
+2025-03-30 22:39:04 - INFO - Metrics to PUNISHMENT is: {'accuracy': 0.9617486338797814, 'precision': 0.5104166666666666, 'recall': 0.9607843137254902, 'f1': 0.6666666666666666, 'f2': 0.8166666666666667, 'PRAUC': 0.8338328758540364, 'AUC': 0.9880918220946915}
+2025-03-30 22:39:18 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.8946135831381733, 'precision': 0.6944444444444444, 'recall': 0.9090909090909091, 'f1': 0.7874015748031497, 'f2': 0.8561643835616438, 'PRAUC': 0.7264252557605156, 'AUC': 0.9222392915235857}
+2025-03-30 22:39:31 - INFO - Metrics to CIRCUM_OFFENSE is: {'accuracy': 0.8899297423887588, 'precision': 0.577922077922078, 'recall': 0.9417989417989417, 'f1': 0.716297786720322, 'f2': 0.8364661654135338, 'PRAUC': 0.6556045471111343, 'AUC': 0.9320260867879915}
+2025-03-30 22:39:44 - INFO - Metrics to REGRET is: {'accuracy': 0.9578454332552693, 'precision': 0.2571428571428571, 'recall': 0.9, 'f1': 0.4, 'f2': 0.6, 'PRAUC': 0.37992311884939334, 'AUC': 0.9746629659000793}
+2025-03-30 22:39:58 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.9656518345042935, 'precision': 0.5211267605633803, 'recall': 0.7872340425531915, 'f1': 0.6271186440677966, 'f2': 0.7142857142857143, 'PRAUC': 0.5756090791974187, 'AUC': 0.9638780647608538}
+2025-03-30 22:40:11 - INFO - Metrics to CIR_HELD_WAY_WEP is: {'accuracy': 0.9430132708821234, 'precision': 0.38613861386138615, 'recall': 0.78, 'f1': 0.5165562913907285, 'f2': 0.6478405315614618, 'PRAUC': 0.47738159827517096, 'AUC': 0.8984240454914704}
+2025-03-30 22:40:25 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.927400468384075, 'precision': 0.18811881188118812, 'recall': 0.6333333333333333, 'f1': 0.2900763358778626, 'f2': 0.4298642533936652, 'PRAUC': 0.18613744067436033, 'AUC': 0.8686917132960298}
+2025-03-30 22:40:38 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9734582357533177, 'precision': 0.5, 'recall': 0.8529411764705882, 'f1': 0.6304347826086957, 'f2': 0.7474226804123711, 'PRAUC': 0.5968162862296751, 'AUC': 0.9739846219161281}
+2025-03-30 22:40:52 - INFO - Metrics to CIR_OBTAIN_WAY_WEP is: {'accuracy': 0.9453551912568307, 'precision': 0.1323529411764706, 'recall': 0.45, 'f1': 0.20454545454545456, 'f2': 0.30405405405405406, 'PRAUC': 0.13960341120709943, 'AUC': 0.8928231562252181}
+2025-03-30 22:41:05 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.9742388758782201, 'precision': 0.7829457364341085, 'recall': 0.9528301886792453, 'f1': 0.8595744680851064, 'f2': 0.9132007233273056, 'PRAUC': 0.8253493377817331, 'AUC': 0.9888759534323565}
+2025-03-30 22:41:19 - INFO - Metrics to CIR_USE is: {'accuracy': 0.9156908665105387, 'precision': 0.2937062937062937, 'recall': 0.8571428571428571, 'f1': 0.4375, 'f2': 0.6194690265486725, 'PRAUC': 0.33175794472993275, 'AUC': 0.9494765438642989}
+2025-03-30 22:41:32 - INFO - Metrics to CIR_PLANNING is: {'accuracy': 0.9664324746291959, 'precision': 0.23404255319148937, 'recall': 0.6111111111111112, 'f1': 0.3384615384615385, 'f2': 0.46218487394957986, 'PRAUC': 0.3709002207428604, 'AUC': 0.9264537696841735}
+2025-03-30 22:41:46 - INFO - Metrics to RESPO is: {'accuracy': 0.994535519125683, 'precision': 0.8157894736842105, 'recall': 1.0, 'f1': 0.8985507246376812, 'f2': 0.9567901234567902, 'PRAUC': 0.9144222443739769, 'AUC': 0.9980645161290322}
+2025-03-30 22:42:00 - INFO - Metrics to CONFESSION is: {'accuracy': 0.9765807962529274, 'precision': 0.691358024691358, 'recall': 0.9180327868852459, 'f1': 0.7887323943661971, 'f2': 0.8615384615384616, 'PRAUC': 0.8718976617032262, 'AUC': 0.9923273313625369}
+2025-03-30 22:42:02 - INFO - PUNISHMENT model successfully loaded!
+2025-03-30 22:42:02 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 22:42:03 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 22:46:03 - INFO - PUNISHMENT model successfully loaded!
+2025-03-30 22:46:04 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 22:46:04 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 22:46:05 - INFO - CIR_STATUS_WEP model successfully loaded!
+2025-03-30 22:46:06 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2025-03-30 22:46:06 - INFO - CIR_PURPOSE model successfully loaded!
+2025-03-30 22:46:07 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2025-03-30 22:46:08 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2025-03-30 22:46:09 - INFO - CIR_TYPE_WEP model successfully loaded!
+2025-03-30 22:46:09 - INFO - CIR_USE model successfully loaded!
+2025-03-30 22:46:13 - INFO - CIR_PLANNING model successfully loaded!
+2025-03-30 22:46:13 - INFO - RESPO model successfully loaded!
+2025-03-30 22:46:14 - INFO - REGRET model successfully loaded!
+2025-03-30 22:46:15 - INFO - CONFESSION model successfully loaded!
+2025-03-30 22:46:54 - INFO - Metrics to PUNISHMENT is: {'accuracy': 0.985167837626854, 'precision': 0.7580645161290323, 'recall': 0.9215686274509803, 'f1': 0.831858407079646, 'f2': 0.8834586466165414, 'PRAUC': 0.927506022805337, 'AUC': 0.994579945799458}
+2025-03-30 22:47:07 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.9117876658860266, 'precision': 0.7382352941176471, 'recall': 0.9127272727272727, 'f1': 0.816260162601626, 'f2': 0.8715277777777778, 'PRAUC': 0.7335893849640124, 'AUC': 0.9413229712633292}
+2025-03-30 22:47:20 - INFO - Metrics to CIRCUM_OFFENSE is: {'accuracy': 0.9164715066354411, 'precision': 0.6541353383458647, 'recall': 0.9206349206349206, 'f1': 0.7648351648351648, 'f2': 0.8512720156555773, 'PRAUC': 0.7113287295498377, 'AUC': 0.9548084190941334}
+2025-03-30 22:47:33 - INFO - Metrics to CIR_STATUS_WEP is: {'accuracy': 0.9797033567525371, 'precision': 0.7142857142857143, 'recall': 0.7446808510638298, 'f1': 0.7291666666666666, 'f2': 0.7383966244725738, 'PRAUC': 0.6788884881992021, 'AUC': 0.9795423980137246}
+2025-03-30 22:47:46 - INFO - Metrics to CIR_HELD_WAY_WEP is: {'accuracy': 0.936768149882904, 'precision': 0.3697478991596639, 'recall': 0.88, 'f1': 0.5207100591715976, 'f2': 0.6896551724137931, 'PRAUC': 0.5710003523671209, 'AUC': 0.9748497156783102}
+2025-03-30 22:47:58 - INFO - Metrics to CIR_PURPOSE is: {'accuracy': 0.942232630757221, 'precision': 0.2441860465116279, 'recall': 0.7, 'f1': 0.3620689655172414, 'f2': 0.5097087378640777, 'PRAUC': 0.23743444825043303, 'AUC': 0.9241939781508127}
+2025-03-30 22:48:11 - INFO - Metrics to CIR_AMMU_AMOUNT_WEP is: {'accuracy': 0.9820452771272443, 'precision': 0.6122448979591837, 'recall': 0.8823529411764706, 'f1': 0.7228915662650602, 'f2': 0.8108108108108109, 'PRAUC': 0.7188230429100861, 'AUC': 0.9774753526109723}
+2025-03-30 22:48:24 - INFO - Metrics to CIR_OBTAIN_WAY_WEP is: {'accuracy': 0.9406713505074161, 'precision': 0.15853658536585366, 'recall': 0.65, 'f1': 0.2549019607843137, 'f2': 0.4012345679012346, 'PRAUC': 0.21660158035211532, 'AUC': 0.9415939730372719}
+2025-03-30 22:48:37 - INFO - Metrics to CIR_TYPE_WEP is: {'accuracy': 0.9789227166276346, 'precision': 0.8211382113821138, 'recall': 0.9528301886792453, 'f1': 0.8820960698689956, 'f2': 0.923217550274223, 'PRAUC': 0.8090844583128434, 'AUC': 0.9847129666800483}
+2025-03-30 22:48:50 - INFO - Metrics to CIR_USE is: {'accuracy': 0.936768149882904, 'precision': 0.3709677419354839, 'recall': 0.9387755102040817, 'f1': 0.5317919075144508, 'f2': 0.71875, 'PRAUC': 0.5283458860543414, 'AUC': 0.9754008746355686}
+2025-03-30 22:49:03 - INFO - Metrics to CIR_PLANNING is: {'accuracy': 0.9633099141295862, 'precision': 0.22641509433962265, 'recall': 0.6666666666666666, 'f1': 0.3380281690140845, 'f2': 0.48, 'PRAUC': 0.20110553014730462, 'AUC': 0.9388580980029911}
+2025-03-30 22:49:16 - INFO - Metrics to RESPO is: {'accuracy': 0.9968774395003903, 'precision': 0.9090909090909091, 'recall': 0.967741935483871, 'f1': 0.9375, 'f2': 0.9554140127388535, 'PRAUC': 0.9588093242508259, 'AUC': 0.9990967741935484}
+2025-03-30 22:49:29 - INFO - Metrics to REGRET is: {'accuracy': 0.9836065573770492, 'precision': 0.48717948717948717, 'recall': 0.95, 'f1': 0.6440677966101694, 'f2': 0.7983193277310925, 'PRAUC': 0.5086682212941053, 'AUC': 0.9888183980967487}
+2025-03-30 22:49:41 - INFO - Metrics to CONFESSION is: {'accuracy': 0.9914129586260734, 'precision': 0.9032258064516129, 'recall': 0.9180327868852459, 'f1': 0.9105691056910569, 'f2': 0.9150326797385621, 'PRAUC': 0.9302664045985878, 'AUC': 0.9964660037624296}
+2025-03-30 23:04:04 - INFO - PUNISHMENT model successfully loaded!
+2025-03-30 23:04:19 - INFO - CONFESSION model successfully loaded!
+2025-03-30 23:04:53 - INFO - PUNISHMENT model successfully loaded!
+2025-03-30 23:05:07 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 23:05:08 - INFO - CONFESSION model successfully loaded!
+2025-03-30 23:05:42 - INFO - Metrics to PUNISHMENT is: {'accuracy': 0.9594067135050741, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'f2': 0.0, 'PRAUC': 0.03981264637002342, 'AUC': 0.38211382113821135}
+2025-03-30 23:06:11 - INFO - Metrics to CIRCUM_OFFENSE is: {'accuracy': 0.9164715066354411, 'precision': 0.6413793103448275, 'recall': 0.9841269841269841, 'f1': 0.7766179540709812, 'f2': 0.8891013384321224, 'PRAUC': 0.8658060144903755, 'AUC': 0.9734698722793961}
+2025-03-30 23:10:55 - INFO - CIR_PUNISHMENT model successfully loaded!
+2025-03-30 23:11:14 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-03-30 23:11:28 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-03-30 23:11:43 - INFO - CIR_TYPE model successfully loaded!
+2025-03-30 23:12:02 - INFO - CIR_AMOUNT model successfully loaded!
+2025-03-30 23:12:22 - INFO - CIR_ROLE model successfully loaded!
+2025-03-30 23:12:41 - INFO - CIR_EQ model successfully loaded!
+2025-03-30 23:12:58 - INFO - REGRET model successfully loaded!
+2025-03-30 23:13:12 - INFO - RESPO model successfully loaded!
+2025-03-30 23:13:27 - INFO - CONFESSION model successfully loaded!
+2025-03-30 23:13:51 - INFO - Metrics to CIR_PUNISHMENT is: {'accuracy': 0.9673135852911133, 'precision': 0.6666666666666666, 'recall': 0.8771929824561403, 'f1': 0.7575757575757576, 'f2': 0.8250825082508251, 'PRAUC': 0.7919486018371367, 'AUC': 0.9624386345473227}
+2025-03-30 23:14:02 - INFO - Metrics to GENERAL_CIRCUM is: {'accuracy': 0.9050051072522982, 'precision': 0.8083623693379791, 'recall': 0.8592592592592593, 'f1': 0.8330341113105925, 'f2': 0.8485735186539868, 'PRAUC': 0.8846402934805084, 'AUC': 0.9178394191088126}
+2025-03-30 23:14:12 - INFO - Metrics to CIRCUM_OFFENSE is: {'accuracy': 0.9499489274770173, 'precision': 0.6237623762376238, 'recall': 0.8513513513513513, 'f1': 0.72, 'f2': 0.7934508816120907, 'PRAUC': 0.7989976748811694, 'AUC': 0.9726817978199194}
+2025-03-30 23:14:23 - INFO - Metrics to CIR_TYPE is: {'accuracy': 0.9785495403472931, 'precision': 0.7543859649122807, 'recall': 0.86, 'f1': 0.8037383177570093, 'f2': 0.8365758754863813, 'PRAUC': 0.8111111174981677, 'AUC': 0.9721420882669537}
+2025-03-30 23:14:33 - INFO - Metrics to CIR_AMOUNT is: {'accuracy': 0.9908069458631257, 'precision': 0.8378378378378378, 'recall': 0.9117647058823529, 'f1': 0.8732394366197183, 'f2': 0.8959537572254336, 'PRAUC': 0.8281923016239908, 'AUC': 0.9949579831932773}
+2025-03-30 23:14:43 - INFO - Metrics to CIR_ROLE is: {'accuracy': 0.95097037793667, 'precision': 0.373134328358209, 'recall': 0.8064516129032258, 'f1': 0.5102040816326531, 'f2': 0.6544502617801047, 'PRAUC': 0.47036227569773825, 'AUC': 0.9643732135565537}
+2025-03-30 23:14:54 - INFO - Metrics to CIR_EQ is: {'accuracy': 0.9836567926455567, 'precision': 0.3333333333333333, 'recall': 0.6, 'f1': 0.42857142857142855, 'f2': 0.5172413793103449, 'PRAUC': 0.318292589763178, 'AUC': 0.9575851393188854}
+2025-03-30 23:15:04 - INFO - Metrics to REGRET is: {'accuracy': 0.9805924412665986, 'precision': 0.41935483870967744, 'recall': 0.9285714285714286, 'f1': 0.5777777777777777, 'f2': 0.7471264367816092, 'PRAUC': 0.645920787946251, 'AUC': 0.9910436713545521}
+2025-03-30 23:15:15 - INFO - Metrics to RESPO is: {'accuracy': 0.9856996935648621, 'precision': 0.6875, 'recall': 0.8461538461538461, 'f1': 0.7586206896551724, 'f2': 0.8088235294117647, 'PRAUC': 0.8078124834686407, 'AUC': 0.958148357413835}
+2025-03-30 23:15:26 - INFO - Metrics to CONFESSION is: {'accuracy': 0.9867211440245148, 'precision': 0.7209302325581395, 'recall': 0.96875, 'f1': 0.8266666666666667, 'f2': 0.9064327485380117, 'PRAUC': 0.8276308988443292, 'AUC': 0.994324181626188}

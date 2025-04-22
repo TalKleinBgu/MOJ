@@ -1,0 +1,367 @@
+{
+    "os": "Linux-5.14.0-503.21.1.el9_5.x86_64-x86_64-with-glibc2.34",
+    "python": "3.12.9",
+    "heartbeatAt": "2025-04-06T11:38:38.884842",
+    "startedAt": "2025-04-06T11:38:38.735522",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/home/tak/MOJ/src/flows/train/train_sentence_cls.py",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/TalKleinBgu/MOJ.git",
+        "commit": "e1efb7c5f0e7b8ea6a460a7889e3de89396b2161"
+    },
+    "email": "tak@post.bgu.ac.il",
+    "root": "/sise/home/tak/MOJ",
+    "host": "ise-6000-07",
+    "username": "tak",
+    "executable": "/home/tak/.conda/envs/tal_env_new/bin/python",
+    "cpu_count": 32,
+    "cpu_count_logical": 64,
+    "cpu_freq": {
+        "current": 3344.6433125,
+        "min": 1500.0,
+        "max": 3200.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3917.479,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3910.821,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3917.495,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1796.094,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3871.188,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3903.925,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3917.503,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3910.297,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3130.504,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3912.014,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3915.923,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3914.472,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3909.437,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3913.677,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3915.168,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3915.096,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1500.0,
+            "max": 3200.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 801.9246520996094,
+            "used": 23.77777099609375
+        }
+    },
+    "gpu": "NVIDIA RTX 6000 Ada Generation",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA RTX 6000 Ada Generation",
+            "memory_total": 51527024640
+        }
+    ],
+    "memory": {
+        "total": 503.2229804992676
+    }
+}
