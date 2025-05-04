@@ -105,8 +105,12 @@ def predict_2cls_lvl_flow(db_path:str = None, test_set_path:str = None, classifi
     cases = os.listdir(db_path)
     for case in cases:
         case_dir_path = os.path.join(db_path, case)
-
         test_set_path = os.path.join(case_dir_path, 'preprocessing.csv')
+        prob = os.path.join(case_dir_path, 'sentence_probabilities.csv')
+        if os.path.exists(prob):
+            logger.info(f"Probabilities already exist for case {case}, skipping prediction.")
+            continue
+
         save_path = case_dir_path
         test_dataset = pd.read_csv(test_set_path)
         # test_dataset = load_all_datasets(test_set_path, second_level_labels)

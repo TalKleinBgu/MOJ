@@ -1,0 +1,39 @@
+experiment_name: '04_19_regular_cases'
+model_names: 
+  # - bert-multilingual-passage-reranking-msmarco
+  - dictabert
+  # - heBERT
+model_name: dictabert
+
+with_clf : False
+ground_truth : False
+ground_truth_path: /home/tak/MOJ/resources/data/tagging/weapon/gt/sentence_tagging.csv
+threshold_method: F1
+
+classifiers_path: /sise/home/tak/moj_models/weapon/{experiment_name}/
+eval_path : /home/tak/MOJ/results/evaluations/weapon/sentence_classification/{experiment_name}
+test_set_path: /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/stratify_sentences_50_40_10_new
+db_path: /home/tak/MOJ/results/db/weapon_docx
+result_path: '/home/tak/MOJ/results'
+
+first_level_labels:
+  - PUNISHMENT
+  - GENERAL_CIRCUM
+  - CIRCUM_OFFENSE
+  - reject
+
+  
+second_level_labels:
+  - CIR_STATUS_WEP
+  - CIR_HELD_WAY_WEP
+  - CIR_PURPOSE
+  - CIR_AMMU_AMOUNT_WEP
+  - CIR_OBTAIN_WAY_WEP
+  - CIR_TYPE_WEP
+  - CIR_USE
+  - CIR_PLANNING
+  - RESPO
+  - REGRET
+  - CONFESSION
+
+  

@@ -1,9 +1,9 @@
 # Most important is to change the experiment name!!'
-experiment_name: 'regular_cases'
+experiment_name: 'experiment_1'
 username: tak
 
 # paths
-data_path: "/home/{username}/MOJ/resources/data/trainning/sentence_classification/weapon/stratify_sentences_50_40_10"
+data_path: "/home/{username}/MOJ/resources/data/trainning/sentence_classification/weapon/experiment_1"
 save_dir: '/home/{username}/MOJ/results'
 save_model_path: '/home/{username}/moj_models'
 
@@ -17,14 +17,16 @@ models_to_train:
 generated_data: False
 setfit: True
 balance: True # balance the train set
-save_model: True #if False, save just the result by label 
+save_model: False #if False, save just the result by label 
 
 #first level labels
 first_label_list:
-  - CIRCUM_OFFENSE
+  - CIRCUM_OFFENCE
   - GENERAL_CIRCUM
   - PUNISHMENT
-  # - reject
+  - reject
+  - CONFESSION
+
 
 
 #second level labels
@@ -34,14 +36,11 @@ second_label_list:
   - CIR_PURPOSE
   - CIR_AMMU_AMOUNT_WEP
   - CIR_OBTAIN_WAY_WEP
-  - CIR_BUYER_ID_WEP
   - CIR_TYPE_WEP
-  - CIR_MONEY_PAID_WEP
   - CIR_USE
   - CIR_PLANNING
   - RESPO
   - REGRET
-  - CONFESSION
 
 
 

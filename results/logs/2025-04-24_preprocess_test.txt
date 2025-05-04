@@ -1,0 +1,1353 @@
+2025-04-24 10:38:46 - INFO - Start Preprocessing flow!
+2025-04-24 10:39:23 - INFO - Finish to process ME-11-03-35646-783 case and save in MOJ/results/db/weapon_docx/ME-11-03-35646-783
+2025-04-24 10:39:46 - INFO - Finish to process ME-11-05-34337-22 case and save in MOJ/results/db/weapon_docx/ME-11-05-34337-22
+2025-04-24 10:40:08 - INFO - Finish to process ME-11-12-30634-727 case and save in MOJ/results/db/weapon_docx/ME-11-12-30634-727
+2025-04-24 10:40:19 - INFO - Finish to process ME-12-04-30672-625 case and save in MOJ/results/db/weapon_docx/ME-12-04-30672-625
+2025-04-24 10:40:28 - INFO - Finish to process ME-12-05-20524-44 case and save in MOJ/results/db/weapon_docx/ME-12-05-20524-44
+2025-04-24 10:41:01 - INFO - Finish to process ME-11-04-4986-44 case and save in MOJ/results/db/weapon_docx/ME-11-04-4986-44
+2025-04-24 10:41:45 - INFO - Finish to process ME-11-07-22343-883 case and save in MOJ/results/db/weapon_docx/ME-11-07-22343-883
+2025-04-24 10:42:08 - INFO - Finish to process ME-11-11-48367-888 case and save in MOJ/results/db/weapon_docx/ME-11-11-48367-888
+2025-04-24 10:42:29 - INFO - Finish to process ME-12-05-34610-705 case and save in MOJ/results/db/weapon_docx/ME-12-05-34610-705
+2025-04-24 10:42:38 - INFO - Finish to process ME-12-05-8398-532 case and save in MOJ/results/db/weapon_docx/ME-12-05-8398-532
+2025-04-24 10:43:05 - INFO - Finish to process ME-12-06-35192-220 case and save in MOJ/results/db/weapon_docx/ME-12-06-35192-220
+2025-04-24 10:43:23 - INFO - Finish to process ME-12-06-44357-260 case and save in MOJ/results/db/weapon_docx/ME-12-06-44357-260
+2025-04-24 10:43:37 - INFO - Finish to process ME-12-07-42885-722 case and save in MOJ/results/db/weapon_docx/ME-12-07-42885-722
+2025-04-24 10:43:48 - INFO - Finish to process ME-12-07-8450-137 case and save in MOJ/results/db/weapon_docx/ME-12-07-8450-137
+2025-04-24 10:43:57 - INFO - Finish to process ME-12-07-18907-33 case and save in MOJ/results/db/weapon_docx/ME-12-07-18907-33
+2025-04-24 10:45:18 - INFO - Finish to process ME-12-09-30016-33 case and save in MOJ/results/db/weapon_docx/ME-12-09-30016-33
+2025-04-24 10:45:24 - INFO - Finish to process ME-12-09-31580-738 case and save in MOJ/results/db/weapon_docx/ME-12-09-31580-738
+2025-04-24 10:45:32 - INFO - Finish to process ME-12-11-1567-721 case and save in MOJ/results/db/weapon_docx/ME-12-11-1567-721
+2025-04-24 10:45:40 - INFO - Finish to process ME-12-09-51207-971 case and save in MOJ/results/db/weapon_docx/ME-12-09-51207-971
+2025-04-24 10:46:08 - INFO - Finish to process ME-12-11-182-509 case and save in MOJ/results/db/weapon_docx/ME-12-11-182-509
+2025-04-24 10:46:17 - INFO - Finish to process ME-12-11-2582-956 case and save in MOJ/results/db/weapon_docx/ME-12-11-2582-956
+2025-04-24 10:46:32 - INFO - Finish to process ME-12-11-41805-267 case and save in MOJ/results/db/weapon_docx/ME-12-11-41805-267
+2025-04-24 10:46:39 - INFO - Finish to process ME-12-11-5948-739 case and save in MOJ/results/db/weapon_docx/ME-12-11-5948-739
+2025-04-24 10:46:52 - INFO - Finish to process ME-12-12-39974-33 case and save in MOJ/results/db/weapon_docx/ME-12-12-39974-33
+2025-04-24 10:47:09 - INFO - Finish to process ME-12-12-25581-44 case and save in MOJ/results/db/weapon_docx/ME-12-12-25581-44
+2025-04-24 10:48:11 - INFO - Finish to process ME-13-01-51122-11 case and save in MOJ/results/db/weapon_docx/ME-13-01-51122-11
+2025-04-24 10:48:26 - INFO - Finish to process ME-13-01-59967-314 case and save in MOJ/results/db/weapon_docx/ME-13-01-59967-314
+2025-04-24 10:48:54 - INFO - Finish to process ME-13-02-15741-44 case and save in MOJ/results/db/weapon_docx/ME-13-02-15741-44
+2025-04-24 10:49:04 - INFO - Finish to process ME-13-02-28360-614 case and save in MOJ/results/db/weapon_docx/ME-13-02-28360-614
+2025-04-24 10:49:15 - INFO - Finish to process ME-13-02-55800-445 case and save in MOJ/results/db/weapon_docx/ME-13-02-55800-445
+2025-04-24 10:49:24 - INFO - Finish to process ME-13-03-33546-203 case and save in MOJ/results/db/weapon_docx/ME-13-03-33546-203
+2025-04-24 10:49:44 - INFO - Finish to process ME-13-02-35702-146 case and save in MOJ/results/db/weapon_docx/ME-13-02-35702-146
+2025-04-24 10:49:51 - INFO - Finish to process ME-13-02-45550-468 case and save in MOJ/results/db/weapon_docx/ME-13-02-45550-468
+2025-04-24 10:49:59 - INFO - Finish to process ME-13-02-49989-350 case and save in MOJ/results/db/weapon_docx/ME-13-02-49989-350
+2025-04-24 10:50:01 - INFO - Finish to process ME-13-03-45208-291 case and save in MOJ/results/db/weapon_docx/ME-13-03-45208-291
+2025-04-24 10:50:12 - INFO - Finish to process ME-13-03-49858-434 case and save in MOJ/results/db/weapon_docx/ME-13-03-49858-434
+2025-04-24 10:50:20 - INFO - Finish to process ME-13-04-12122-17 case and save in MOJ/results/db/weapon_docx/ME-13-04-12122-17
+2025-04-24 10:50:27 - INFO - Finish to process ME-13-04-1578-917 case and save in MOJ/results/db/weapon_docx/ME-13-04-1578-917
+2025-04-24 10:51:17 - INFO - Finish to process ME-13-04-29375-778 case and save in MOJ/results/db/weapon_docx/ME-13-04-29375-778
+2025-04-24 10:52:11 - INFO - Finish to process ME-13-04-35007-454 case and save in MOJ/results/db/weapon_docx/ME-13-04-35007-454
+2025-04-24 10:52:34 - INFO - Finish to process ME-13-05-44826-671 case and save in MOJ/results/db/weapon_docx/ME-13-05-44826-671
+2025-04-24 10:53:49 - INFO - Finish to process ME-13-05-27782-294 case and save in MOJ/results/db/weapon_docx/ME-13-05-27782-294
+2025-04-24 10:54:03 - INFO - Finish to process ME-13-05-31862-296 case and save in MOJ/results/db/weapon_docx/ME-13-05-31862-296
+2025-04-24 10:54:21 - INFO - Finish to process ME-13-05-37701-859 case and save in MOJ/results/db/weapon_docx/ME-13-05-37701-859
+2025-04-24 10:54:37 - INFO - Finish to process ME-13-06-15376-329 case and save in MOJ/results/db/weapon_docx/ME-13-06-15376-329
+2025-04-24 10:54:40 - INFO - Finish to process ME-13-06-18799-733 case and save in MOJ/results/db/weapon_docx/ME-13-06-18799-733
+2025-04-24 10:54:56 - INFO - Finish to process ME-13-06-24207-220 case and save in MOJ/results/db/weapon_docx/ME-13-06-24207-220
+2025-04-24 10:55:06 - INFO - Finish to process ME-13-06-44877-875 case and save in MOJ/results/db/weapon_docx/ME-13-06-44877-875
+2025-04-24 10:55:15 - INFO - Finish to process ME-13-06-9162-922 case and save in MOJ/results/db/weapon_docx/ME-13-06-9162-922
+2025-04-24 10:55:24 - INFO - Finish to process ME-13-07-13281-688 case and save in MOJ/results/db/weapon_docx/ME-13-07-13281-688
+2025-04-24 10:55:32 - INFO - Finish to process ME-13-07-26088-948 case and save in MOJ/results/db/weapon_docx/ME-13-07-26088-948
+2025-04-24 10:55:47 - INFO - Finish to process ME-13-07-26801-940 case and save in MOJ/results/db/weapon_docx/ME-13-07-26801-940
+2025-04-24 10:56:04 - INFO - Finish to process ME-13-07-34594-537 case and save in MOJ/results/db/weapon_docx/ME-13-07-34594-537
+2025-04-24 10:56:10 - INFO - Finish to process ME-13-07-51198-464 case and save in MOJ/results/db/weapon_docx/ME-13-07-51198-464
+2025-04-24 10:56:18 - INFO - Finish to process ME-13-08-18402-852 case and save in MOJ/results/db/weapon_docx/ME-13-08-18402-852
+2025-04-24 10:56:29 - INFO - Finish to process ME-13-08-23475-957 case and save in MOJ/results/db/weapon_docx/ME-13-08-23475-957
+2025-04-24 10:56:38 - INFO - Finish to process ME-13-08-26481-975 case and save in MOJ/results/db/weapon_docx/ME-13-08-26481-975
+2025-04-24 10:58:38 - INFO - Finish to process ME-13-08-30145-360 case and save in MOJ/results/db/weapon_docx/ME-13-08-30145-360
+2025-04-24 10:58:42 - INFO - Finish to process ME-13-08-35298-188 case and save in MOJ/results/db/weapon_docx/ME-13-08-35298-188
+2025-04-24 10:58:50 - INFO - Finish to process ME-13-10-14308-198 case and save in MOJ/results/db/weapon_docx/ME-13-10-14308-198
+2025-04-24 10:58:59 - INFO - Finish to process ME-13-10-28139-807 case and save in MOJ/results/db/weapon_docx/ME-13-10-28139-807
+2025-04-24 10:59:12 - INFO - Finish to process ME-13-09-13822-835 case and save in MOJ/results/db/weapon_docx/ME-13-09-13822-835
+2025-04-24 10:59:19 - INFO - Finish to process ME-13-09-26637-143 case and save in MOJ/results/db/weapon_docx/ME-13-09-26637-143
+2025-04-24 10:59:31 - INFO - Finish to process ME-13-09-40272-806 case and save in MOJ/results/db/weapon_docx/ME-13-09-40272-806
+2025-04-24 10:59:41 - INFO - Finish to process ME-13-10-3622-529 case and save in MOJ/results/db/weapon_docx/ME-13-10-3622-529
+2025-04-24 10:59:48 - INFO - Finish to process ME-13-10-53169-537 case and save in MOJ/results/db/weapon_docx/ME-13-10-53169-537
+2025-04-24 11:00:11 - INFO - Finish to process ME-13-10-57914-857 case and save in MOJ/results/db/weapon_docx/ME-13-10-57914-857
+2025-04-24 11:00:29 - INFO - Finish to process ME-13-10-63535-22 case and save in MOJ/results/db/weapon_docx/ME-13-10-63535-22
+2025-04-24 11:00:49 - INFO - Finish to process ME-13-11-39183-8 case and save in MOJ/results/db/weapon_docx/ME-13-11-39183-8
+2025-04-24 11:01:01 - INFO - Finish to process ME-13-11-8725-513 case and save in MOJ/results/db/weapon_docx/ME-13-11-8725-513
+2025-04-24 11:01:06 - INFO - Finish to process ME-13-12-1390-955 case and save in MOJ/results/db/weapon_docx/ME-13-12-1390-955
+2025-04-24 11:01:16 - INFO - Finish to process ME-13-12-29671-109 case and save in MOJ/results/db/weapon_docx/ME-13-12-29671-109
+2025-04-24 11:01:31 - INFO - Finish to process ME-13-11-39234-971 case and save in MOJ/results/db/weapon_docx/ME-13-11-39234-971
+2025-04-24 11:01:38 - INFO - Finish to process ME-13-11-45971-432 case and save in MOJ/results/db/weapon_docx/ME-13-11-45971-432
+2025-04-24 11:01:47 - INFO - Finish to process ME-13-11-5388-53 case and save in MOJ/results/db/weapon_docx/ME-13-11-5388-53
+2025-04-24 11:02:27 - INFO - Finish to process ME-13-12-3531-392 case and save in MOJ/results/db/weapon_docx/ME-13-12-3531-392
+2025-04-24 11:02:34 - INFO - Finish to process ME-13-12-52815-924 case and save in MOJ/results/db/weapon_docx/ME-13-12-52815-924
+2025-04-24 11:02:43 - INFO - Finish to process ME-14-01-3006-904 case and save in MOJ/results/db/weapon_docx/ME-14-01-3006-904
+2025-04-24 11:02:53 - INFO - Finish to process ME-14-02-23537-939 case and save in MOJ/results/db/weapon_docx/ME-14-02-23537-939
+2025-04-24 11:03:06 - INFO - Finish to process ME-14-02-26521-341 case and save in MOJ/results/db/weapon_docx/ME-14-02-26521-341
+2025-04-24 11:03:20 - INFO - Finish to process ME-14-02-2811-624 case and save in MOJ/results/db/weapon_docx/ME-14-02-2811-624
+2025-04-24 11:03:29 - INFO - Finish to process ME-14-02-3451-569 case and save in MOJ/results/db/weapon_docx/ME-14-02-3451-569
+2025-04-24 11:03:45 - INFO - Finish to process ME-14-02-51828-88 case and save in MOJ/results/db/weapon_docx/ME-14-02-51828-88
+2025-04-24 11:03:54 - INFO - Finish to process ME-14-02-55664-152 case and save in MOJ/results/db/weapon_docx/ME-14-02-55664-152
+2025-04-24 11:04:09 - INFO - Finish to process ME-14-02-8718-22 case and save in MOJ/results/db/weapon_docx/ME-14-02-8718-22
+2025-04-24 11:04:19 - INFO - Finish to process ME-14-03-17809-721 case and save in MOJ/results/db/weapon_docx/ME-14-03-17809-721
+2025-04-24 11:04:25 - INFO - Finish to process ME-14-03-20722-602 case and save in MOJ/results/db/weapon_docx/ME-14-03-20722-602
+2025-04-24 11:06:30 - INFO - Finish to process ME-14-03-23513-83 case and save in MOJ/results/db/weapon_docx/ME-14-03-23513-83
+2025-04-24 11:06:41 - INFO - Finish to process ME-14-03-30974-468 case and save in MOJ/results/db/weapon_docx/ME-14-03-30974-468
+2025-04-24 11:07:06 - INFO - Finish to process ME-14-05-1847-984 case and save in MOJ/results/db/weapon_docx/ME-14-05-1847-984
+2025-04-24 11:07:13 - INFO - Finish to process ME-14-03-48488-922 case and save in MOJ/results/db/weapon_docx/ME-14-03-48488-922
+2025-04-24 11:07:18 - INFO - Finish to process ME-14-03-6604-274 case and save in MOJ/results/db/weapon_docx/ME-14-03-6604-274
+2025-04-24 11:07:22 - INFO - Finish to process ME-14-05-10788-272 case and save in MOJ/results/db/weapon_docx/ME-14-05-10788-272
+2025-04-24 11:07:28 - INFO - Finish to process ME-14-06-43990-121 case and save in MOJ/results/db/weapon_docx/ME-14-06-43990-121
+2025-04-24 11:07:55 - INFO - Finish to process ME-14-05-40111-33 case and save in MOJ/results/db/weapon_docx/ME-14-05-40111-33
+2025-04-24 11:08:01 - INFO - Finish to process ME-14-07-21297-506 case and save in MOJ/results/db/weapon_docx/ME-14-07-21297-506
+2025-04-24 11:08:12 - INFO - Finish to process ME-14-05-7658-33 case and save in MOJ/results/db/weapon_docx/ME-14-05-7658-33
+2025-04-24 11:08:26 - INFO - Finish to process ME-14-06-34514-154 case and save in MOJ/results/db/weapon_docx/ME-14-06-34514-154
+2025-04-24 11:08:36 - INFO - Finish to process ME-14-07-13179-197 case and save in MOJ/results/db/weapon_docx/ME-14-07-13179-197
+2025-04-24 11:09:13 - INFO - Finish to process ME-14-07-59422-24 case and save in MOJ/results/db/weapon_docx/ME-14-07-59422-24
+2025-04-24 11:09:43 - INFO - Finish to process ME-14-07-60820-441 case and save in MOJ/results/db/weapon_docx/ME-14-07-60820-441
+2025-04-24 11:09:50 - INFO - Finish to process ME-14-07-6089-605 case and save in MOJ/results/db/weapon_docx/ME-14-07-6089-605
+2025-04-24 11:10:02 - INFO - Finish to process ME-14-07-28889-461 case and save in MOJ/results/db/weapon_docx/ME-14-07-28889-461
+2025-04-24 11:10:19 - INFO - Finish to process ME-14-07-31467-694 case and save in MOJ/results/db/weapon_docx/ME-14-07-31467-694
+2025-04-24 11:10:36 - INFO - Finish to process ME-14-07-5795-799 case and save in MOJ/results/db/weapon_docx/ME-14-07-5795-799
+2025-04-24 11:10:46 - INFO - Finish to process ME-14-07-6136-478 case and save in MOJ/results/db/weapon_docx/ME-14-07-6136-478
+2025-04-24 11:11:13 - INFO - Finish to process ME-14-07-793-33 case and save in MOJ/results/db/weapon_docx/ME-14-07-793-33
+2025-04-24 11:11:33 - INFO - Finish to process ME-14-08-33458-807 case and save in MOJ/results/db/weapon_docx/ME-14-08-33458-807
+2025-04-24 11:11:57 - INFO - Finish to process ME-14-08-41271-51 case and save in MOJ/results/db/weapon_docx/ME-14-08-41271-51
+2025-04-24 11:12:18 - INFO - Finish to process ME-14-08-41294-699 case and save in MOJ/results/db/weapon_docx/ME-14-08-41294-699
+2025-04-24 11:13:49 - INFO - Finish to process ME-14-09-54272-333 case and save in MOJ/results/db/weapon_docx/ME-14-09-54272-333
+2025-04-24 11:13:56 - INFO - Finish to process ME-14-08-998-718 case and save in MOJ/results/db/weapon_docx/ME-14-08-998-718
+2025-04-24 11:14:04 - INFO - Finish to process ME-14-09-41562-307 case and save in MOJ/results/db/weapon_docx/ME-14-09-41562-307
+2025-04-24 11:14:15 - INFO - Finish to process ME-14-09-51186-880 case and save in MOJ/results/db/weapon_docx/ME-14-09-51186-880
+2025-04-24 11:14:27 - INFO - Finish to process ME-14-10-16446-49 case and save in MOJ/results/db/weapon_docx/ME-14-10-16446-49
+2025-04-24 11:14:37 - INFO - Finish to process ME-14-10-31218-522 case and save in MOJ/results/db/weapon_docx/ME-14-10-31218-522
+2025-04-24 11:14:44 - INFO - Finish to process ME-14-10-51094-951 case and save in MOJ/results/db/weapon_docx/ME-14-10-51094-951
+2025-04-24 11:14:50 - INFO - Finish to process ME-14-10-16506-319 case and save in MOJ/results/db/weapon_docx/ME-14-10-16506-319
+2025-04-24 11:15:07 - INFO - Finish to process ME-14-10-18510-163 case and save in MOJ/results/db/weapon_docx/ME-14-10-18510-163
+2025-04-24 11:15:09 - INFO - Finish to process ME-14-10-41611-742 case and save in MOJ/results/db/weapon_docx/ME-14-10-41611-742
+2025-04-24 11:15:15 - INFO - Finish to process ME-14-11-12154-982 case and save in MOJ/results/db/weapon_docx/ME-14-11-12154-982
+2025-04-24 11:15:25 - INFO - Finish to process ME-14-11-9693-472 case and save in MOJ/results/db/weapon_docx/ME-14-11-9693-472
+2025-04-24 11:15:31 - INFO - Finish to process ME-14-12-12154-562 case and save in MOJ/results/db/weapon_docx/ME-14-12-12154-562
+2025-04-24 11:15:45 - INFO - Finish to process ME-14-11-21296-821 case and save in MOJ/results/db/weapon_docx/ME-14-11-21296-821
+2025-04-24 11:16:16 - INFO - Finish to process ME-14-11-43709-307 case and save in MOJ/results/db/weapon_docx/ME-14-11-43709-307
+2025-04-24 11:16:34 - INFO - Finish to process ME-14-11-7498-539 case and save in MOJ/results/db/weapon_docx/ME-14-11-7498-539
+2025-04-24 11:16:48 - INFO - Finish to process ME-15-01-17919-189 case and save in MOJ/results/db/weapon_docx/ME-15-01-17919-189
+2025-04-24 11:16:52 - INFO - Finish to process ME-14-12-23786-458 case and save in MOJ/results/db/weapon_docx/ME-14-12-23786-458
+2025-04-24 11:17:05 - INFO - Finish to process ME-14-12-6904-57 case and save in MOJ/results/db/weapon_docx/ME-14-12-6904-57
+2025-04-24 11:18:11 - INFO - Finish to process ME-15-01-16193-472 case and save in MOJ/results/db/weapon_docx/ME-15-01-16193-472
+2025-04-24 11:18:27 - INFO - Finish to process ME-15-01-18013-927 case and save in MOJ/results/db/weapon_docx/ME-15-01-18013-927
+2025-04-24 11:18:42 - INFO - Finish to process ME-15-01-27277-623 case and save in MOJ/results/db/weapon_docx/ME-15-01-27277-623
+2025-04-24 11:19:09 - INFO - Finish to process ME-15-01-33508-80 case and save in MOJ/results/db/weapon_docx/ME-15-01-33508-80
+2025-04-24 11:19:21 - INFO - Finish to process ME-15-01-34344-500 case and save in MOJ/results/db/weapon_docx/ME-15-01-34344-500
+2025-04-24 11:19:33 - INFO - Finish to process ME-15-01-3728-385 case and save in MOJ/results/db/weapon_docx/ME-15-01-3728-385
+2025-04-24 11:19:46 - INFO - Finish to process ME-15-01-39731-957 case and save in MOJ/results/db/weapon_docx/ME-15-01-39731-957
+2025-04-24 11:20:05 - INFO - Finish to process ME-15-01-56149-930 case and save in MOJ/results/db/weapon_docx/ME-15-01-56149-930
+2025-04-24 11:20:23 - INFO - Finish to process ME-15-01-7317-22 case and save in MOJ/results/db/weapon_docx/ME-15-01-7317-22
+2025-04-24 11:20:31 - INFO - Finish to process ME-15-02-13142-307 case and save in MOJ/results/db/weapon_docx/ME-15-02-13142-307
+2025-04-24 11:20:38 - INFO - Finish to process ME-15-02-24181-673 case and save in MOJ/results/db/weapon_docx/ME-15-02-24181-673
+2025-04-24 11:20:41 - INFO - Finish to process ME-15-02-35815-840 case and save in MOJ/results/db/weapon_docx/ME-15-02-35815-840
+2025-04-24 11:20:43 - INFO - Finish to process ME-15-02-42458-402 case and save in MOJ/results/db/weapon_docx/ME-15-02-42458-402
+2025-04-24 11:20:58 - INFO - Finish to process ME-15-02-51145-367 case and save in MOJ/results/db/weapon_docx/ME-15-02-51145-367
+2025-04-24 11:21:13 - INFO - Finish to process ME-15-02-52009-890 case and save in MOJ/results/db/weapon_docx/ME-15-02-52009-890
+2025-04-24 11:21:29 - INFO - Finish to process ME-15-02-52101-685 case and save in MOJ/results/db/weapon_docx/ME-15-02-52101-685
+2025-04-24 11:21:36 - INFO - Finish to process ME-15-02-9111-399 case and save in MOJ/results/db/weapon_docx/ME-15-02-9111-399
+2025-04-24 11:21:54 - INFO - Finish to process ME-15-03-21009-467 case and save in MOJ/results/db/weapon_docx/ME-15-03-21009-467
+2025-04-24 11:22:05 - INFO - Finish to process ME-15-03-29911-554 case and save in MOJ/results/db/weapon_docx/ME-15-03-29911-554
+2025-04-24 11:22:21 - INFO - Finish to process ME-15-03-29243-973 case and save in MOJ/results/db/weapon_docx/ME-15-03-29243-973
+2025-04-24 11:22:23 - INFO - Finish to process ME-15-04-53797-462 case and save in MOJ/results/db/weapon_docx/ME-15-04-53797-462
+2025-04-24 11:22:37 - INFO - Finish to process ME-15-04-13785-202 case and save in MOJ/results/db/weapon_docx/ME-15-04-13785-202
+2025-04-24 11:23:01 - INFO - Finish to process ME-15-03-57965-135 case and save in MOJ/results/db/weapon_docx/ME-15-03-57965-135
+2025-04-24 11:23:32 - INFO - Finish to process ME-15-04-46577-963 case and save in MOJ/results/db/weapon_docx/ME-15-04-46577-963
+2025-04-24 11:23:43 - INFO - Finish to process ME-15-05-1647-648 case and save in MOJ/results/db/weapon_docx/ME-15-05-1647-648
+2025-04-24 11:24:07 - INFO - Finish to process ME-15-04-24163-248 case and save in MOJ/results/db/weapon_docx/ME-15-04-24163-248
+2025-04-24 11:24:15 - INFO - Finish to process ME-15-05-27135-334 case and save in MOJ/results/db/weapon_docx/ME-15-05-27135-334
+2025-04-24 11:24:25 - INFO - Finish to process ME-15-05-29649-218 case and save in MOJ/results/db/weapon_docx/ME-15-05-29649-218
+2025-04-24 11:24:36 - INFO - Finish to process ME-15-05-36381-295 case and save in MOJ/results/db/weapon_docx/ME-15-05-36381-295
+2025-04-24 11:24:45 - INFO - Finish to process ME-15-05-45095-860 case and save in MOJ/results/db/weapon_docx/ME-15-05-45095-860
+2025-04-24 11:24:56 - INFO - Finish to process ME-15-05-45597-767 case and save in MOJ/results/db/weapon_docx/ME-15-05-45597-767
+2025-04-24 11:25:27 - INFO - Finish to process ME-15-05-57220-310 case and save in MOJ/results/db/weapon_docx/ME-15-05-57220-310
+2025-04-24 11:25:37 - INFO - Finish to process ME-15-06-12109-344 case and save in MOJ/results/db/weapon_docx/ME-15-06-12109-344
+2025-04-24 11:26:05 - INFO - Finish to process ME-15-06-23851-781 case and save in MOJ/results/db/weapon_docx/ME-15-06-23851-781
+2025-04-24 11:26:17 - INFO - Finish to process ME-15-06-10549-413 case and save in MOJ/results/db/weapon_docx/ME-15-06-10549-413
+2025-04-24 11:26:24 - INFO - Finish to process ME-15-06-3510-106 case and save in MOJ/results/db/weapon_docx/ME-15-06-3510-106
+2025-04-24 11:26:33 - INFO - Finish to process ME-15-07-32685-274 case and save in MOJ/results/db/weapon_docx/ME-15-07-32685-274
+2025-04-24 11:26:39 - INFO - Finish to process ME-15-07-36091-858 case and save in MOJ/results/db/weapon_docx/ME-15-07-36091-858
+2025-04-24 11:26:58 - INFO - Finish to process ME-15-07-47548-478 case and save in MOJ/results/db/weapon_docx/ME-15-07-47548-478
+2025-04-24 11:27:26 - INFO - Finish to process ME-15-07-52626-96 case and save in MOJ/results/db/weapon_docx/ME-15-07-52626-96
+2025-04-24 11:27:35 - INFO - Finish to process ME-15-08-41886-56 case and save in MOJ/results/db/weapon_docx/ME-15-08-41886-56
+2025-04-24 11:27:51 - INFO - Finish to process ME-15-08-44579-251 case and save in MOJ/results/db/weapon_docx/ME-15-08-44579-251
+2025-04-24 11:28:12 - INFO - Finish to process ME-15-07-57474-570 case and save in MOJ/results/db/weapon_docx/ME-15-07-57474-570
+2025-04-24 11:28:16 - INFO - Finish to process ME-15-08-13153-79 case and save in MOJ/results/db/weapon_docx/ME-15-08-13153-79
+2025-04-24 11:28:19 - INFO - Finish to process ME-15-08-34916-597 case and save in MOJ/results/db/weapon_docx/ME-15-08-34916-597
+2025-04-24 11:28:30 - INFO - Finish to process ME-15-08-53084-239 case and save in MOJ/results/db/weapon_docx/ME-15-08-53084-239
+2025-04-24 11:28:54 - INFO - Finish to process ME-15-08-54962-361 case and save in MOJ/results/db/weapon_docx/ME-15-08-54962-361
+2025-04-24 11:29:00 - INFO - Finish to process ME-15-08-8192-986 case and save in MOJ/results/db/weapon_docx/ME-15-08-8192-986
+2025-04-24 11:29:16 - INFO - Finish to process ME-15-09-21279-829 case and save in MOJ/results/db/weapon_docx/ME-15-09-21279-829
+2025-04-24 11:29:27 - INFO - Finish to process ME-15-09-24510-335 case and save in MOJ/results/db/weapon_docx/ME-15-09-24510-335
+2025-04-24 11:29:35 - INFO - Finish to process ME-15-09-36328-768 case and save in MOJ/results/db/weapon_docx/ME-15-09-36328-768
+2025-04-24 11:30:39 - INFO - Finish to process ME-15-09-40313-52 case and save in MOJ/results/db/weapon_docx/ME-15-09-40313-52
+2025-04-24 11:30:57 - INFO - Finish to process ME-15-10-273-650 case and save in MOJ/results/db/weapon_docx/ME-15-10-273-650
+2025-04-24 11:31:12 - INFO - Finish to process ME-15-09-40450-667 case and save in MOJ/results/db/weapon_docx/ME-15-09-40450-667
+2025-04-24 11:31:22 - INFO - Finish to process ME-15-09-40834-111 case and save in MOJ/results/db/weapon_docx/ME-15-09-40834-111
+2025-04-24 11:31:47 - INFO - Finish to process ME-15-10-11362-496 case and save in MOJ/results/db/weapon_docx/ME-15-10-11362-496
+2025-04-24 11:31:53 - INFO - Finish to process ME-15-11-12761-94 case and save in MOJ/results/db/weapon_docx/ME-15-11-12761-94
+2025-04-24 11:32:05 - INFO - Finish to process ME-15-11-13864-999 case and save in MOJ/results/db/weapon_docx/ME-15-11-13864-999
+2025-04-24 11:32:17 - INFO - Finish to process ME-15-11-20811-403 case and save in MOJ/results/db/weapon_docx/ME-15-11-20811-403
+2025-04-24 11:32:29 - INFO - Finish to process ME-15-11-27584-269 case and save in MOJ/results/db/weapon_docx/ME-15-11-27584-269
+2025-04-24 11:32:35 - INFO - Finish to process ME-15-11-42743-945 case and save in MOJ/results/db/weapon_docx/ME-15-11-42743-945
+2025-04-24 11:32:49 - INFO - Finish to process ME-15-11-27685-385 case and save in MOJ/results/db/weapon_docx/ME-15-11-27685-385
+2025-04-24 11:33:00 - INFO - Finish to process ME-15-11-3068-620 case and save in MOJ/results/db/weapon_docx/ME-15-11-3068-620
+2025-04-24 11:33:18 - INFO - Finish to process ME-15-11-32819-130 case and save in MOJ/results/db/weapon_docx/ME-15-11-32819-130
+2025-04-24 11:33:38 - INFO - Finish to process ME-15-11-43110-948 case and save in MOJ/results/db/weapon_docx/ME-15-11-43110-948
+2025-04-24 11:33:44 - INFO - Finish to process ME-15-11-45432-364 case and save in MOJ/results/db/weapon_docx/ME-15-11-45432-364
+2025-04-24 11:34:07 - INFO - Finish to process ME-15-11-45441-351 case and save in MOJ/results/db/weapon_docx/ME-15-11-45441-351
+2025-04-24 11:34:26 - INFO - Finish to process ME-15-11-45465-294 case and save in MOJ/results/db/weapon_docx/ME-15-11-45465-294
+2025-04-24 11:34:38 - INFO - Finish to process ME-15-11-64689-724 case and save in MOJ/results/db/weapon_docx/ME-15-11-64689-724
+2025-04-24 11:34:51 - INFO - Finish to process ME-15-11-65677-894 case and save in MOJ/results/db/weapon_docx/ME-15-11-65677-894
+2025-04-24 11:35:27 - INFO - Finish to process ME-15-11-46183-219 case and save in MOJ/results/db/weapon_docx/ME-15-11-46183-219
+2025-04-24 11:35:52 - INFO - Finish to process ME-15-12-18488-686 case and save in MOJ/results/db/weapon_docx/ME-15-12-18488-686
+2025-04-24 11:35:57 - INFO - Finish to process ME-15-12-35695-730 case and save in MOJ/results/db/weapon_docx/ME-15-12-35695-730
+2025-04-24 11:36:10 - INFO - Finish to process ME-15-12-39071-113 case and save in MOJ/results/db/weapon_docx/ME-15-12-39071-113
+2025-04-24 11:36:17 - INFO - Finish to process ME-15-12-39950-22-A case and save in MOJ/results/db/weapon_docx/ME-15-12-39950-22-A
+2025-04-24 11:36:27 - INFO - Finish to process ME-15-12-53715-747 case and save in MOJ/results/db/weapon_docx/ME-15-12-53715-747
+2025-04-24 11:36:38 - INFO - Finish to process ME-15-12-57218-328 case and save in MOJ/results/db/weapon_docx/ME-15-12-57218-328
+2025-04-24 11:36:49 - INFO - Finish to process ME-16-01-189-123 case and save in MOJ/results/db/weapon_docx/ME-16-01-189-123
+2025-04-24 11:37:16 - INFO - Finish to process ME-16-01-31498-921 case and save in MOJ/results/db/weapon_docx/ME-16-01-31498-921
+2025-04-24 11:37:26 - INFO - Finish to process ME-16-01-3686-941 case and save in MOJ/results/db/weapon_docx/ME-16-01-3686-941
+2025-04-24 11:37:40 - INFO - Finish to process ME-16-01-3772-806 case and save in MOJ/results/db/weapon_docx/ME-16-01-3772-806
+2025-04-24 11:38:11 - INFO - Finish to process ME-16-01-58697-845 case and save in MOJ/results/db/weapon_docx/ME-16-01-58697-845
+2025-04-24 11:38:27 - INFO - Finish to process ME-16-01-741-799 case and save in MOJ/results/db/weapon_docx/ME-16-01-741-799
+2025-04-24 11:38:33 - INFO - Finish to process ME-16-02-1589-411 case and save in MOJ/results/db/weapon_docx/ME-16-02-1589-411
+2025-04-24 11:38:44 - INFO - Finish to process ME-16-02-18397-87 case and save in MOJ/results/db/weapon_docx/ME-16-02-18397-87
+2025-04-24 11:38:56 - INFO - Finish to process ME-16-02-42291-618 case and save in MOJ/results/db/weapon_docx/ME-16-02-42291-618
+2025-04-24 11:39:18 - INFO - Finish to process ME-16-02-51944-920 case and save in MOJ/results/db/weapon_docx/ME-16-02-51944-920
+2025-04-24 11:39:30 - INFO - Finish to process ME-16-03-54615-517 case and save in MOJ/results/db/weapon_docx/ME-16-03-54615-517
+2025-04-24 11:40:53 - INFO - Finish to process ME-16-02-59812-881 case and save in MOJ/results/db/weapon_docx/ME-16-02-59812-881
+2025-04-24 11:40:56 - INFO - Finish to process ME-16-03-40497-29 case and save in MOJ/results/db/weapon_docx/ME-16-03-40497-29
+2025-04-24 11:41:17 - INFO - Finish to process ME-16-03-41585-22 case and save in MOJ/results/db/weapon_docx/ME-16-03-41585-22
+2025-04-24 11:41:22 - INFO - Finish to process ME-16-04-33882-921 case and save in MOJ/results/db/weapon_docx/ME-16-04-33882-921
+2025-04-24 11:41:29 - INFO - Finish to process ME-16-04-12480-812 case and save in MOJ/results/db/weapon_docx/ME-16-04-12480-812
+2025-04-24 11:41:38 - INFO - Finish to process ME-16-03-59260-279 case and save in MOJ/results/db/weapon_docx/ME-16-03-59260-279
+2025-04-24 11:41:52 - INFO - Finish to process ME-16-04-30242-563 case and save in MOJ/results/db/weapon_docx/ME-16-04-30242-563
+2025-04-24 11:41:59 - INFO - Finish to process ME-16-05-20367-277 case and save in MOJ/results/db/weapon_docx/ME-16-05-20367-277
+2025-04-24 11:42:16 - INFO - Finish to process ME-16-05-25902-514 case and save in MOJ/results/db/weapon_docx/ME-16-05-25902-514
+2025-04-24 11:42:43 - INFO - Finish to process ME-16-04-9179-774 case and save in MOJ/results/db/weapon_docx/ME-16-04-9179-774
+2025-04-24 11:42:51 - INFO - Finish to process ME-16-05-26087-44 case and save in MOJ/results/db/weapon_docx/ME-16-05-26087-44
+2025-04-24 11:43:12 - INFO - Finish to process ME-16-05-19384-544 case and save in MOJ/results/db/weapon_docx/ME-16-05-19384-544
+2025-04-24 11:43:19 - INFO - Finish to process ME-16-05-16543-505 case and save in MOJ/results/db/weapon_docx/ME-16-05-16543-505
+2025-04-24 11:43:47 - INFO - Finish to process ME-16-05-2606-880 case and save in MOJ/results/db/weapon_docx/ME-16-05-2606-880
+2025-04-24 11:45:13 - INFO - Finish to process ME-16-05-33009-930 case and save in MOJ/results/db/weapon_docx/ME-16-05-33009-930
+2025-04-24 11:45:26 - INFO - Finish to process ME-16-05-336-804 case and save in MOJ/results/db/weapon_docx/ME-16-05-336-804
+2025-04-24 11:45:31 - INFO - Finish to process ME-16-05-39986-222 case and save in MOJ/results/db/weapon_docx/ME-16-05-39986-222
+2025-04-24 11:45:54 - INFO - Finish to process ME-16-05-41965-567 case and save in MOJ/results/db/weapon_docx/ME-16-05-41965-567
+2025-04-24 11:45:58 - INFO - Finish to process ME-16-05-4176-485 case and save in MOJ/results/db/weapon_docx/ME-16-05-4176-485
+2025-04-24 11:46:03 - INFO - Finish to process ME-16-05-6785-389 case and save in MOJ/results/db/weapon_docx/ME-16-05-6785-389
+2025-04-24 11:46:15 - INFO - Finish to process ME-16-05-9968-487 case and save in MOJ/results/db/weapon_docx/ME-16-05-9968-487
+2025-04-24 11:46:18 - INFO - Finish to process ME-16-05-9983-155 case and save in MOJ/results/db/weapon_docx/ME-16-05-9983-155
+2025-04-24 11:46:25 - INFO - Finish to process ME-16-06-11786-780 case and save in MOJ/results/db/weapon_docx/ME-16-06-11786-780
+2025-04-24 11:46:33 - INFO - Finish to process ME-16-06-42987-901 case and save in MOJ/results/db/weapon_docx/ME-16-06-42987-901
+2025-04-24 11:46:40 - INFO - Finish to process ME-16-06-44840-433 case and save in MOJ/results/db/weapon_docx/ME-16-06-44840-433
+2025-04-24 11:46:55 - INFO - Finish to process ME-16-06-50916-362 case and save in MOJ/results/db/weapon_docx/ME-16-06-50916-362
+2025-04-24 11:47:11 - INFO - Finish to process ME-16-06-5551-882 case and save in MOJ/results/db/weapon_docx/ME-16-06-5551-882
+2025-04-24 11:47:19 - INFO - Finish to process ME-16-06-64845-657 case and save in MOJ/results/db/weapon_docx/ME-16-06-64845-657
+2025-04-24 11:47:35 - INFO - Finish to process ME-16-06-808-60 case and save in MOJ/results/db/weapon_docx/ME-16-06-808-60
+2025-04-24 11:47:45 - INFO - Finish to process ME-16-07-30015-11 case and save in MOJ/results/db/weapon_docx/ME-16-07-30015-11
+2025-04-24 11:48:03 - INFO - Finish to process ME-16-07-41855-64 case and save in MOJ/results/db/weapon_docx/ME-16-07-41855-64
+2025-04-24 11:48:13 - INFO - Finish to process ME-16-07-42223-236 case and save in MOJ/results/db/weapon_docx/ME-16-07-42223-236
+2025-04-24 11:48:21 - INFO - Finish to process ME-16-07-45228-25 case and save in MOJ/results/db/weapon_docx/ME-16-07-45228-25
+2025-04-24 11:49:12 - INFO - Finish to process ME-16-08-12074-33 case and save in MOJ/results/db/weapon_docx/ME-16-08-12074-33
+n MOJ/results/db/weapon_docx/ME-11-03-35646-783
+2025-04-24 11:49:30 - WARNING - File ME-11-05-34337-22 already exists in MOJ/results/db/weapon_docx/ME-11-05-34337-22
+2025-04-24 11:49:30 - WARNING - File ME-11-12-30634-727 already exists in MOJ/results/db/weapon_docx/ME-11-12-30634-727
+2025-04-24 11:49:30 - WARNING - File ME-12-04-30672-625 already exists in MOJ/results/db/weapon_docx/ME-12-04-30672-625
+2025-04-24 11:49:30 - WARNING - File ME-12-05-20524-44 already exists in MOJ/results/db/weapon_docx/ME-12-05-20524-44
+2025-04-24 11:49:30 - WARNING - File ME-11-04-4986-44 already exists in MOJ/results/db/weapon_docx/ME-11-04-4986-44
+2025-04-24 11:49:30 - WARNING - File ME-11-07-22343-883 already exists in MOJ/results/db/weapon_docx/ME-11-07-22343-883
+2025-04-24 11:49:30 - WARNING - File ME-11-11-48367-888 already exists in MOJ/results/db/weapon_docx/ME-11-11-48367-888
+2025-04-24 11:49:30 - WARNING - File ME-12-05-34610-705 already exists in MOJ/results/db/weapon_docx/ME-12-05-34610-705
+2025-04-24 11:49:30 - WARNING - File ME-12-05-8398-532 already exists in MOJ/results/db/weapon_docx/ME-12-05-8398-532
+2025-04-24 11:49:30 - WARNING - File ME-12-06-35192-220 already exists in MOJ/results/db/weapon_docx/ME-12-06-35192-220
+2025-04-24 11:49:30 - WARNING - File ME-12-06-44357-260 already exists in MOJ/results/db/weapon_docx/ME-12-06-44357-260
+2025-04-24 11:49:30 - WARNING - File ME-12-07-42885-722 already exists in MOJ/results/db/weapon_docx/ME-12-07-42885-722
+2025-04-24 11:49:30 - WARNING - File ME-12-07-8450-137 already exists in MOJ/results/db/weapon_docx/ME-12-07-8450-137
+2025-04-24 11:49:30 - WARNING - File ME-12-07-18907-33 already exists in MOJ/results/db/weapon_docx/ME-12-07-18907-33
+2025-04-24 11:49:30 - WARNING - File ME-12-09-30016-33 already exists in MOJ/results/db/weapon_docx/ME-12-09-30016-33
+2025-04-24 11:49:30 - WARNING - File ME-12-09-31580-738 already exists in MOJ/results/db/weapon_docx/ME-12-09-31580-738
+2025-04-24 11:49:30 - WARNING - File ME-12-11-1567-721 already exists in MOJ/results/db/weapon_docx/ME-12-11-1567-721
+2025-04-24 11:49:30 - WARNING - File ME-12-09-51207-971 already exists in MOJ/results/db/weapon_docx/ME-12-09-51207-971
+2025-04-24 11:49:30 - WARNING - File ME-12-11-182-509 already exists in MOJ/results/db/weapon_docx/ME-12-11-182-509
+2025-04-24 11:49:30 - WARNING - File ME-12-11-2582-956 already exists in MOJ/results/db/weapon_docx/ME-12-11-2582-956
+2025-04-24 11:49:30 - WARNING - File ME-12-11-41805-267 already exists in MOJ/results/db/weapon_docx/ME-12-11-41805-267
+2025-04-24 11:49:30 - WARNING - File ME-12-11-5948-739 already exists in MOJ/results/db/weapon_docx/ME-12-11-5948-739
+2025-04-24 11:49:30 - WARNING - File ME-12-12-39974-33 already exists in MOJ/results/db/weapon_docx/ME-12-12-39974-33
+2025-04-24 11:49:30 - WARNING - File ME-12-12-25581-44 already exists in MOJ/results/db/weapon_docx/ME-12-12-25581-44
+2025-04-24 11:49:30 - WARNING - File ME-13-01-51122-11 already exists in MOJ/results/db/weapon_docx/ME-13-01-51122-11
+2025-04-24 11:49:30 - WARNING - File ME-13-01-59967-314 already exists in MOJ/results/db/weapon_docx/ME-13-01-59967-314
+2025-04-24 11:49:30 - WARNING - File ME-13-02-15741-44 already exists in MOJ/results/db/weapon_docx/ME-13-02-15741-44
+2025-04-24 11:49:30 - WARNING - File ME-13-02-28360-614 already exists in MOJ/results/db/weapon_docx/ME-13-02-28360-614
+2025-04-24 11:49:30 - WARNING - File ME-13-02-55800-445 already exists in MOJ/results/db/weapon_docx/ME-13-02-55800-445
+2025-04-24 11:49:30 - WARNING - File ME-13-03-33546-203 already exists in MOJ/results/db/weapon_docx/ME-13-03-33546-203
+2025-04-24 11:49:30 - WARNING - File ME-13-02-35702-146 already exists in MOJ/results/db/weapon_docx/ME-13-02-35702-146
+2025-04-24 11:49:30 - WARNING - File ME-13-02-45550-468 already exists in MOJ/results/db/weapon_docx/ME-13-02-45550-468
+2025-04-24 11:49:30 - WARNING - File ME-13-02-49989-350 already exists in MOJ/results/db/weapon_docx/ME-13-02-49989-350
+2025-04-24 11:49:30 - WARNING - File ME-13-03-45208-291 already exists in MOJ/results/db/weapon_docx/ME-13-03-45208-291
+2025-04-24 11:49:30 - WARNING - File ME-13-03-49858-434 already exists in MOJ/results/db/weapon_docx/ME-13-03-49858-434
+2025-04-24 11:49:30 - WARNING - File ME-13-04-12122-17 already exists in MOJ/results/db/weapon_docx/ME-13-04-12122-17
+2025-04-24 11:49:30 - WARNING - File ME-13-04-1578-917 already exists in MOJ/results/db/weapon_docx/ME-13-04-1578-917
+2025-04-24 11:49:30 - WARNING - File ME-13-04-29375-778 already exists in MOJ/results/db/weapon_docx/ME-13-04-29375-778
+2025-04-24 11:49:30 - WARNING - File ME-13-04-35007-454 already exists in MOJ/results/db/weapon_docx/ME-13-04-35007-454
+2025-04-24 11:49:30 - WARNING - File ME-13-05-44826-671 already exists in MOJ/results/db/weapon_docx/ME-13-05-44826-671
+2025-04-24 11:49:30 - WARNING - File ME-13-05-27782-294 already exists in MOJ/results/db/weapon_docx/ME-13-05-27782-294
+2025-04-24 11:49:30 - WARNING - File ME-13-05-31862-296 already exists in MOJ/results/db/weapon_docx/ME-13-05-31862-296
+2025-04-24 11:49:30 - WARNING - File ME-13-05-37701-859 already exists in MOJ/results/db/weapon_docx/ME-13-05-37701-859
+2025-04-24 11:49:30 - WARNING - File ME-13-06-15376-329 already exists in MOJ/results/db/weapon_docx/ME-13-06-15376-329
+2025-04-24 11:49:30 - WARNING - File ME-13-06-18799-733 already exists in MOJ/results/db/weapon_docx/ME-13-06-18799-733
+2025-04-24 11:49:30 - WARNING - File ME-13-06-24207-220 already exists in MOJ/results/db/weapon_docx/ME-13-06-24207-220
+2025-04-24 11:49:30 - WARNING - File ME-13-06-44877-875 already exists in MOJ/results/db/weapon_docx/ME-13-06-44877-875
+2025-04-24 11:49:30 - WARNING - File ME-13-06-9162-922 already exists in MOJ/results/db/weapon_docx/ME-13-06-9162-922
+2025-04-24 11:49:30 - WARNING - File ME-13-07-13281-688 already exists in MOJ/results/db/weapon_docx/ME-13-07-13281-688
+2025-04-24 11:49:30 - WARNING - File ME-13-07-26088-948 already exists in MOJ/results/db/weapon_docx/ME-13-07-26088-948
+2025-04-24 11:49:30 - WARNING - File ME-13-07-26801-940 already exists in MOJ/results/db/weapon_docx/ME-13-07-26801-940
+2025-04-24 11:49:30 - WARNING - File ME-13-07-34594-537 already exists in MOJ/results/db/weapon_docx/ME-13-07-34594-537
+2025-04-24 11:49:30 - WARNING - File ME-13-07-51198-464 already exists in MOJ/results/db/weapon_docx/ME-13-07-51198-464
+2025-04-24 11:49:30 - WARNING - File ME-13-08-18402-852 already exists in MOJ/results/db/weapon_docx/ME-13-08-18402-852
+2025-04-24 11:49:30 - WARNING - File ME-13-08-23475-957 already exists in MOJ/results/db/weapon_docx/ME-13-08-23475-957
+2025-04-24 11:49:30 - WARNING - File ME-13-08-26481-975 already exists in MOJ/results/db/weapon_docx/ME-13-08-26481-975
+2025-04-24 11:49:30 - WARNING - File ME-13-08-30145-360 already exists in MOJ/results/db/weapon_docx/ME-13-08-30145-360
+2025-04-24 11:49:30 - WARNING - File ME-13-08-35298-188 already exists in MOJ/results/db/weapon_docx/ME-13-08-35298-188
+2025-04-24 11:49:30 - WARNING - File ME-13-10-14308-198 already exists in MOJ/results/db/weapon_docx/ME-13-10-14308-198
+2025-04-24 11:49:30 - WARNING - File ME-13-10-28139-807 already exists in MOJ/results/db/weapon_docx/ME-13-10-28139-807
+2025-04-24 11:49:30 - WARNING - File ME-13-09-13822-835 already exists in MOJ/results/db/weapon_docx/ME-13-09-13822-835
+2025-04-24 11:49:30 - WARNING - File ME-13-09-26637-143 already exists in MOJ/results/db/weapon_docx/ME-13-09-26637-143
+2025-04-24 11:49:30 - WARNING - File ME-13-09-40272-806 already exists in MOJ/results/db/weapon_docx/ME-13-09-40272-806
+2025-04-24 11:49:30 - WARNING - File ME-13-10-3622-529 already exists in MOJ/results/db/weapon_docx/ME-13-10-3622-529
+2025-04-24 11:49:30 - WARNING - File ME-13-10-53169-537 already exists in MOJ/results/db/weapon_docx/ME-13-10-53169-537
+2025-04-24 11:49:30 - WARNING - File ME-13-10-57914-857 already exists in MOJ/results/db/weapon_docx/ME-13-10-57914-857
+2025-04-24 11:49:30 - WARNING - File ME-13-10-63535-22 already exists in MOJ/results/db/weapon_docx/ME-13-10-63535-22
+2025-04-24 11:49:30 - WARNING - File ME-13-11-39183-8 already exists in MOJ/results/db/weapon_docx/ME-13-11-39183-8
+2025-04-24 11:49:30 - WARNING - File ME-13-11-8725-513 already exists in MOJ/results/db/weapon_docx/ME-13-11-8725-513
+2025-04-24 11:49:30 - WARNING - File ME-13-12-1390-955 already exists in MOJ/results/db/weapon_docx/ME-13-12-1390-955
+2025-04-24 11:49:30 - WARNING - File ME-13-12-29671-109 already exists in MOJ/results/db/weapon_docx/ME-13-12-29671-109
+2025-04-24 11:49:30 - WARNING - File ME-13-11-39234-971 already exists in MOJ/results/db/weapon_docx/ME-13-11-39234-971
+2025-04-24 11:49:30 - WARNING - File ME-13-11-45971-432 already exists in MOJ/results/db/weapon_docx/ME-13-11-45971-432
+2025-04-24 11:49:30 - WARNING - File ME-13-11-5388-53 already exists in MOJ/results/db/weapon_docx/ME-13-11-5388-53
+2025-04-24 11:49:30 - WARNING - File ME-13-12-3531-392 already exists in MOJ/results/db/weapon_docx/ME-13-12-3531-392
+2025-04-24 11:49:30 - WARNING - File ME-13-12-52815-924 already exists in MOJ/results/db/weapon_docx/ME-13-12-52815-924
+2025-04-24 11:49:30 - WARNING - File ME-14-01-3006-904 already exists in MOJ/results/db/weapon_docx/ME-14-01-3006-904
+2025-04-24 11:49:30 - WARNING - File ME-14-02-23537-939 already exists in MOJ/results/db/weapon_docx/ME-14-02-23537-939
+2025-04-24 11:49:30 - WARNING - File ME-14-02-26521-341 already exists in MOJ/results/db/weapon_docx/ME-14-02-26521-341
+2025-04-24 11:49:30 - WARNING - File ME-14-02-2811-624 already exists in MOJ/results/db/weapon_docx/ME-14-02-2811-624
+2025-04-24 11:49:30 - WARNING - File ME-14-02-3451-569 already exists in MOJ/results/db/weapon_docx/ME-14-02-3451-569
+2025-04-24 11:49:30 - WARNING - File ME-14-02-51828-88 already exists in MOJ/results/db/weapon_docx/ME-14-02-51828-88
+2025-04-24 11:49:30 - WARNING - File ME-14-02-55664-152 already exists in MOJ/results/db/weapon_docx/ME-14-02-55664-152
+2025-04-24 11:49:30 - WARNING - File ME-14-02-8718-22 already exists in MOJ/results/db/weapon_docx/ME-14-02-8718-22
+2025-04-24 11:49:30 - WARNING - File ME-14-03-17809-721 already exists in MOJ/results/db/weapon_docx/ME-14-03-17809-721
+2025-04-24 11:49:30 - WARNING - File ME-14-03-20722-602 already exists in MOJ/results/db/weapon_docx/ME-14-03-20722-602
+2025-04-24 11:49:30 - WARNING - File ME-14-03-23513-83 already exists in MOJ/results/db/weapon_docx/ME-14-03-23513-83
+2025-04-24 11:49:30 - WARNING - File ME-14-03-30974-468 already exists in MOJ/results/db/weapon_docx/ME-14-03-30974-468
+2025-04-24 11:49:30 - WARNING - File ME-14-05-1847-984 already exists in MOJ/results/db/weapon_docx/ME-14-05-1847-984
+2025-04-24 11:49:30 - WARNING - File ME-14-03-48488-922 already exists in MOJ/results/db/weapon_docx/ME-14-03-48488-922
+2025-04-24 11:49:30 - WARNING - File ME-14-03-6604-274 already exists in MOJ/results/db/weapon_docx/ME-14-03-6604-274
+2025-04-24 11:49:30 - WARNING - File ME-14-05-10788-272 already exists in MOJ/results/db/weapon_docx/ME-14-05-10788-272
+2025-04-24 11:49:30 - WARNING - File ME-14-06-43990-121 already exists in MOJ/results/db/weapon_docx/ME-14-06-43990-121
+2025-04-24 11:49:30 - WARNING - File ME-14-05-40111-33 already exists in MOJ/results/db/weapon_docx/ME-14-05-40111-33
+2025-04-24 11:49:30 - WARNING - File ME-14-07-21297-506 already exists in MOJ/results/db/weapon_docx/ME-14-07-21297-506
+2025-04-24 11:49:30 - WARNING - File ME-14-05-7658-33 already exists in MOJ/results/db/weapon_docx/ME-14-05-7658-33
+2025-04-24 11:49:30 - WARNING - File ME-14-06-34514-154 already exists in MOJ/results/db/weapon_docx/ME-14-06-34514-154
+2025-04-24 11:49:30 - WARNING - File ME-14-07-13179-197 already exists in MOJ/results/db/weapon_docx/ME-14-07-13179-197
+2025-04-24 11:49:30 - WARNING - File ME-14-07-59422-24 already exists in MOJ/results/db/weapon_docx/ME-14-07-59422-24
+2025-04-24 11:49:30 - WARNING - File ME-14-07-60820-441 already exists in MOJ/results/db/weapon_docx/ME-14-07-60820-441
+2025-04-24 11:49:30 - WARNING - File ME-14-07-6089-605 already exists in MOJ/results/db/weapon_docx/ME-14-07-6089-605
+2025-04-24 11:49:30 - WARNING - File ME-14-07-28889-461 already exists in MOJ/results/db/weapon_docx/ME-14-07-28889-461
+2025-04-24 11:49:30 - WARNING - File ME-14-07-31467-694 already exists in MOJ/results/db/weapon_docx/ME-14-07-31467-694
+2025-04-24 11:49:30 - WARNING - File ME-14-07-5795-799 already exists in MOJ/results/db/weapon_docx/ME-14-07-5795-799
+2025-04-24 11:49:30 - WARNING - File ME-14-07-6136-478 already exists in MOJ/results/db/weapon_docx/ME-14-07-6136-478
+2025-04-24 11:49:30 - WARNING - File ME-14-07-793-33 already exists in MOJ/results/db/weapon_docx/ME-14-07-793-33
+2025-04-24 11:49:30 - WARNING - File ME-14-08-33458-807 already exists in MOJ/results/db/weapon_docx/ME-14-08-33458-807
+2025-04-24 11:49:30 - WARNING - File ME-14-08-41271-51 already exists in MOJ/results/db/weapon_docx/ME-14-08-41271-51
+2025-04-24 11:49:30 - WARNING - File ME-14-08-41294-699 already exists in MOJ/results/db/weapon_docx/ME-14-08-41294-699
+2025-04-24 11:49:30 - WARNING - File ME-14-09-54272-333 already exists in MOJ/results/db/weapon_docx/ME-14-09-54272-333
+2025-04-24 11:49:30 - WARNING - File ME-14-08-998-718 already exists in MOJ/results/db/weapon_docx/ME-14-08-998-718
+2025-04-24 11:49:30 - WARNING - File ME-14-09-41562-307 already exists in MOJ/results/db/weapon_docx/ME-14-09-41562-307
+2025-04-24 11:49:30 - WARNING - File ME-14-09-51186-880 already exists in MOJ/results/db/weapon_docx/ME-14-09-51186-880
+2025-04-24 11:49:30 - WARNING - File ME-14-10-16446-49 already exists in MOJ/results/db/weapon_docx/ME-14-10-16446-49
+2025-04-24 11:49:30 - WARNING - File ME-14-10-31218-522 already exists in MOJ/results/db/weapon_docx/ME-14-10-31218-522
+2025-04-24 11:49:30 - WARNING - File ME-14-10-51094-951 already exists in MOJ/results/db/weapon_docx/ME-14-10-51094-951
+2025-04-24 11:49:30 - WARNING - File ME-14-10-16506-319 already exists in MOJ/results/db/weapon_docx/ME-14-10-16506-319
+2025-04-24 11:49:30 - WARNING - File ME-14-10-18510-163 already exists in MOJ/results/db/weapon_docx/ME-14-10-18510-163
+2025-04-24 11:49:30 - WARNING - File ME-14-10-41611-742 already exists in MOJ/results/db/weapon_docx/ME-14-10-41611-742
+2025-04-24 11:49:30 - WARNING - File ME-14-11-12154-982 already exists in MOJ/results/db/weapon_docx/ME-14-11-12154-982
+2025-04-24 11:49:30 - WARNING - File ME-14-11-9693-472 already exists in MOJ/results/db/weapon_docx/ME-14-11-9693-472
+2025-04-24 11:49:30 - WARNING - File ME-14-12-12154-562 already exists in MOJ/results/db/weapon_docx/ME-14-12-12154-562
+2025-04-24 11:49:30 - WARNING - File ME-14-11-21296-821 already exists in MOJ/results/db/weapon_docx/ME-14-11-21296-821
+2025-04-24 11:49:30 - WARNING - File ME-14-11-43709-307 already exists in MOJ/results/db/weapon_docx/ME-14-11-43709-307
+2025-04-24 11:49:30 - WARNING - File ME-14-11-7498-539 already exists in MOJ/results/db/weapon_docx/ME-14-11-7498-539
+2025-04-24 11:49:30 - WARNING - File ME-15-01-17919-189 already exists in MOJ/results/db/weapon_docx/ME-15-01-17919-189
+2025-04-24 11:49:30 - WARNING - File ME-14-12-23786-458 already exists in MOJ/results/db/weapon_docx/ME-14-12-23786-458
+2025-04-24 11:49:30 - WARNING - File ME-14-12-6904-57 already exists in MOJ/results/db/weapon_docx/ME-14-12-6904-57
+2025-04-24 11:49:30 - WARNING - File ME-15-01-16193-472 already exists in MOJ/results/db/weapon_docx/ME-15-01-16193-472
+2025-04-24 11:49:30 - WARNING - File ME-15-01-18013-927 already exists in MOJ/results/db/weapon_docx/ME-15-01-18013-927
+2025-04-24 11:49:30 - WARNING - File ME-15-01-27277-623 already exists in MOJ/results/db/weapon_docx/ME-15-01-27277-623
+2025-04-24 11:49:30 - WARNING - File ME-15-01-33508-80 already exists in MOJ/results/db/weapon_docx/ME-15-01-33508-80
+2025-04-24 11:49:30 - WARNING - File ME-15-01-34344-500 already exists in MOJ/results/db/weapon_docx/ME-15-01-34344-500
+2025-04-24 11:49:30 - WARNING - File ME-15-01-3728-385 already exists in MOJ/results/db/weapon_docx/ME-15-01-3728-385
+2025-04-24 11:49:30 - WARNING - File ME-15-01-39731-957 already exists in MOJ/results/db/weapon_docx/ME-15-01-39731-957
+2025-04-24 11:49:30 - WARNING - File ME-15-01-56149-930 already exists in MOJ/results/db/weapon_docx/ME-15-01-56149-930
+2025-04-24 11:49:30 - WARNING - File ME-15-01-7317-22 already exists in MOJ/results/db/weapon_docx/ME-15-01-7317-22
+2025-04-24 11:49:30 - WARNING - File ME-15-02-13142-307 already exists in MOJ/results/db/weapon_docx/ME-15-02-13142-307
+2025-04-24 11:49:30 - WARNING - File ME-15-02-24181-673 already exists in MOJ/results/db/weapon_docx/ME-15-02-24181-673
+2025-04-24 11:49:30 - WARNING - File ME-15-02-35815-840 already exists in MOJ/results/db/weapon_docx/ME-15-02-35815-840
+2025-04-24 11:49:30 - WARNING - File ME-15-02-42458-402 already exists in MOJ/results/db/weapon_docx/ME-15-02-42458-402
+2025-04-24 11:49:30 - WARNING - File ME-15-02-51145-367 already exists in MOJ/results/db/weapon_docx/ME-15-02-51145-367
+2025-04-24 11:49:30 - WARNING - File ME-15-02-52009-890 already exists in MOJ/results/db/weapon_docx/ME-15-02-52009-890
+2025-04-24 11:49:30 - WARNING - File ME-15-02-52101-685 already exists in MOJ/results/db/weapon_docx/ME-15-02-52101-685
+2025-04-24 11:49:30 - WARNING - File ME-15-02-9111-399 already exists in MOJ/results/db/weapon_docx/ME-15-02-9111-399
+2025-04-24 11:49:30 - WARNING - File ME-15-03-21009-467 already exists in MOJ/results/db/weapon_docx/ME-15-03-21009-467
+2025-04-24 11:49:30 - WARNING - File ME-15-03-29911-554 already exists in MOJ/results/db/weapon_docx/ME-15-03-29911-554
+2025-04-24 11:49:30 - WARNING - File ME-15-03-29243-973 already exists in MOJ/results/db/weapon_docx/ME-15-03-29243-973
+2025-04-24 11:49:30 - WARNING - File ME-15-04-53797-462 already exists in MOJ/results/db/weapon_docx/ME-15-04-53797-462
+2025-04-24 11:49:30 - WARNING - File ME-15-04-13785-202 already exists in MOJ/results/db/weapon_docx/ME-15-04-13785-202
+2025-04-24 11:49:30 - WARNING - File ME-15-03-57965-135 already exists in MOJ/results/db/weapon_docx/ME-15-03-57965-135
+2025-04-24 11:49:30 - WARNING - File ME-15-04-46577-963 already exists in MOJ/results/db/weapon_docx/ME-15-04-46577-963
+2025-04-24 11:49:30 - WARNING - File ME-15-05-1647-648 already exists in MOJ/results/db/weapon_docx/ME-15-05-1647-648
+2025-04-24 11:49:30 - WARNING - File ME-15-04-24163-248 already exists in MOJ/results/db/weapon_docx/ME-15-04-24163-248
+2025-04-24 11:49:30 - WARNING - File ME-15-05-27135-334 already exists in MOJ/results/db/weapon_docx/ME-15-05-27135-334
+2025-04-24 11:49:30 - WARNING - File ME-15-05-29649-218 already exists in MOJ/results/db/weapon_docx/ME-15-05-29649-218
+2025-04-24 11:49:30 - WARNING - File ME-15-05-36381-295 already exists in MOJ/results/db/weapon_docx/ME-15-05-36381-295
+2025-04-24 11:49:30 - WARNING - File ME-15-05-45095-860 already exists in MOJ/results/db/weapon_docx/ME-15-05-45095-860
+2025-04-24 11:49:30 - WARNING - File ME-15-05-45597-767 already exists in MOJ/results/db/weapon_docx/ME-15-05-45597-767
+2025-04-24 11:49:30 - WARNING - File ME-15-05-57220-310 already exists in MOJ/results/db/weapon_docx/ME-15-05-57220-310
+2025-04-24 11:49:30 - WARNING - File ME-15-06-12109-344 already exists in MOJ/results/db/weapon_docx/ME-15-06-12109-344
+2025-04-24 11:49:30 - WARNING - File ME-15-06-23851-781 already exists in MOJ/results/db/weapon_docx/ME-15-06-23851-781
+2025-04-24 11:49:30 - WARNING - File ME-15-06-10549-413 already exists in MOJ/results/db/weapon_docx/ME-15-06-10549-413
+2025-04-24 11:49:30 - WARNING - File ME-15-06-3510-106 already exists in MOJ/results/db/weapon_docx/ME-15-06-3510-106
+2025-04-24 11:49:30 - WARNING - File ME-15-07-32685-274 already exists in MOJ/results/db/weapon_docx/ME-15-07-32685-274
+2025-04-24 11:49:30 - WARNING - File ME-15-07-36091-858 already exists in MOJ/results/db/weapon_docx/ME-15-07-36091-858
+2025-04-24 11:49:30 - WARNING - File ME-15-07-47548-478 already exists in MOJ/results/db/weapon_docx/ME-15-07-47548-478
+2025-04-24 11:49:30 - WARNING - File ME-15-07-52626-96 already exists in MOJ/results/db/weapon_docx/ME-15-07-52626-96
+2025-04-24 11:49:30 - WARNING - File ME-15-08-41886-56 already exists in MOJ/results/db/weapon_docx/ME-15-08-41886-56
+2025-04-24 11:49:30 - WARNING - File ME-15-08-44579-251 already exists in MOJ/results/db/weapon_docx/ME-15-08-44579-251
+2025-04-24 11:49:30 - WARNING - File ME-15-07-57474-570 already exists in MOJ/results/db/weapon_docx/ME-15-07-57474-570
+2025-04-24 11:49:30 - WARNING - File ME-15-08-13153-79 already exists in MOJ/results/db/weapon_docx/ME-15-08-13153-79
+2025-04-24 11:49:30 - WARNING - File ME-15-08-34916-597 already exists in MOJ/results/db/weapon_docx/ME-15-08-34916-597
+2025-04-24 11:49:30 - WARNING - File ME-15-08-53084-239 already exists in MOJ/results/db/weapon_docx/ME-15-08-53084-239
+2025-04-24 11:49:30 - WARNING - File ME-15-08-54962-361 already exists in MOJ/results/db/weapon_docx/ME-15-08-54962-361
+2025-04-24 11:49:30 - WARNING - File ME-15-08-8192-986 already exists in MOJ/results/db/weapon_docx/ME-15-08-8192-986
+2025-04-24 11:49:30 - WARNING - File ME-15-09-21279-829 already exists in MOJ/results/db/weapon_docx/ME-15-09-21279-829
+2025-04-24 11:49:30 - WARNING - File ME-15-09-24510-335 already exists in MOJ/results/db/weapon_docx/ME-15-09-24510-335
+2025-04-24 11:49:30 - WARNING - File ME-15-09-36328-768 already exists in MOJ/results/db/weapon_docx/ME-15-09-36328-768
+2025-04-24 11:49:30 - WARNING - File ME-15-09-40313-52 already exists in MOJ/results/db/weapon_docx/ME-15-09-40313-52
+2025-04-24 11:49:30 - WARNING - File ME-15-10-273-650 already exists in MOJ/results/db/weapon_docx/ME-15-10-273-650
+2025-04-24 11:49:30 - WARNING - File ME-15-09-40450-667 already exists in MOJ/results/db/weapon_docx/ME-15-09-40450-667
+2025-04-24 11:49:30 - WARNING - File ME-15-09-40834-111 already exists in MOJ/results/db/weapon_docx/ME-15-09-40834-111
+2025-04-24 11:49:30 - WARNING - File ME-15-10-11362-496 already exists in MOJ/results/db/weapon_docx/ME-15-10-11362-496
+2025-04-24 11:49:30 - WARNING - File ME-15-11-12761-94 already exists in MOJ/results/db/weapon_docx/ME-15-11-12761-94
+2025-04-24 11:49:30 - WARNING - File ME-15-11-13864-999 already exists in MOJ/results/db/weapon_docx/ME-15-11-13864-999
+2025-04-24 11:49:30 - WARNING - File ME-15-11-20811-403 already exists in MOJ/results/db/weapon_docx/ME-15-11-20811-403
+2025-04-24 11:49:30 - WARNING - File ME-15-11-27584-269 already exists in MOJ/results/db/weapon_docx/ME-15-11-27584-269
+2025-04-24 11:49:30 - WARNING - File ME-15-11-42743-945 already exists in MOJ/results/db/weapon_docx/ME-15-11-42743-945
+2025-04-24 11:49:30 - WARNING - File ME-15-11-27685-385 already exists in MOJ/results/db/weapon_docx/ME-15-11-27685-385
+2025-04-24 11:49:30 - WARNING - File ME-15-11-3068-620 already exists in MOJ/results/db/weapon_docx/ME-15-11-3068-620
+2025-04-24 11:49:30 - WARNING - File ME-15-11-32819-130 already exists in MOJ/results/db/weapon_docx/ME-15-11-32819-130
+2025-04-24 11:49:30 - WARNING - File ME-15-11-43110-948 already exists in MOJ/results/db/weapon_docx/ME-15-11-43110-948
+2025-04-24 11:49:30 - WARNING - File ME-15-11-45432-364 already exists in MOJ/results/db/weapon_docx/ME-15-11-45432-364
+2025-04-24 11:49:30 - WARNING - File ME-15-11-45441-351 already exists in MOJ/results/db/weapon_docx/ME-15-11-45441-351
+2025-04-24 11:49:30 - WARNING - File ME-15-11-45465-294 already exists in MOJ/results/db/weapon_docx/ME-15-11-45465-294
+2025-04-24 11:49:30 - WARNING - File ME-15-11-64689-724 already exists in MOJ/results/db/weapon_docx/ME-15-11-64689-724
+2025-04-24 11:49:30 - WARNING - File ME-15-11-65677-894 already exists in MOJ/results/db/weapon_docx/ME-15-11-65677-894
+2025-04-24 11:49:30 - WARNING - File ME-15-11-46183-219 already exists in MOJ/results/db/weapon_docx/ME-15-11-46183-219
+2025-04-24 11:49:30 - WARNING - File ME-15-12-18488-686 already exists in MOJ/results/db/weapon_docx/ME-15-12-18488-686
+2025-04-24 11:49:30 - WARNING - File ME-15-12-35695-730 already exists in MOJ/results/db/weapon_docx/ME-15-12-35695-730
+2025-04-24 11:49:30 - WARNING - File ME-15-12-39071-113 already exists in MOJ/results/db/weapon_docx/ME-15-12-39071-113
+2025-04-24 11:49:30 - WARNING - File ME-15-12-39950-22-A already exists in MOJ/results/db/weapon_docx/ME-15-12-39950-22-A
+2025-04-24 11:49:30 - WARNING - File ME-15-12-53715-747 already exists in MOJ/results/db/weapon_docx/ME-15-12-53715-747
+2025-04-24 11:49:30 - WARNING - File ME-15-12-57218-328 already exists in MOJ/results/db/weapon_docx/ME-15-12-57218-328
+2025-04-24 11:49:30 - WARNING - File ME-16-01-189-123 already exists in MOJ/results/db/weapon_docx/ME-16-01-189-123
+2025-04-24 11:49:30 - WARNING - File ME-16-01-31498-921 already exists in MOJ/results/db/weapon_docx/ME-16-01-31498-921
+2025-04-24 11:49:30 - WARNING - File ME-16-01-3686-941 already exists in MOJ/results/db/weapon_docx/ME-16-01-3686-941
+2025-04-24 11:49:30 - WARNING - File ME-16-01-3772-806 already exists in MOJ/results/db/weapon_docx/ME-16-01-3772-806
+2025-04-24 11:49:30 - WARNING - File ME-16-01-58697-845 already exists in MOJ/results/db/weapon_docx/ME-16-01-58697-845
+2025-04-24 11:49:30 - WARNING - File ME-16-01-741-799 already exists in MOJ/results/db/weapon_docx/ME-16-01-741-799
+2025-04-24 11:49:30 - WARNING - File ME-16-02-1589-411 already exists in MOJ/results/db/weapon_docx/ME-16-02-1589-411
+2025-04-24 11:49:30 - WARNING - File ME-16-02-18397-87 already exists in MOJ/results/db/weapon_docx/ME-16-02-18397-87
+2025-04-24 11:49:30 - WARNING - File ME-16-02-42291-618 already exists in MOJ/results/db/weapon_docx/ME-16-02-42291-618
+2025-04-24 11:49:30 - WARNING - File ME-16-02-51944-920 already exists in MOJ/results/db/weapon_docx/ME-16-02-51944-920
+2025-04-24 11:49:30 - WARNING - File ME-16-03-54615-517 already exists in MOJ/results/db/weapon_docx/ME-16-03-54615-517
+2025-04-24 11:49:30 - WARNING - File ME-16-02-59812-881 already exists in MOJ/results/db/weapon_docx/ME-16-02-59812-881
+2025-04-24 11:49:30 - WARNING - File ME-16-03-40497-29 already exists in MOJ/results/db/weapon_docx/ME-16-03-40497-29
+2025-04-24 11:49:30 - WARNING - File ME-16-03-41585-22 already exists in MOJ/results/db/weapon_docx/ME-16-03-41585-22
+2025-04-24 11:49:30 - WARNING - File ME-16-04-33882-921 already exists in MOJ/results/db/weapon_docx/ME-16-04-33882-921
+2025-04-24 11:49:30 - WARNING - File ME-16-04-12480-812 already exists in MOJ/results/db/weapon_docx/ME-16-04-12480-812
+2025-04-24 11:49:30 - WARNING - File ME-16-03-59260-279 already exists in MOJ/results/db/weapon_docx/ME-16-03-59260-279
+2025-04-24 11:49:30 - WARNING - File ME-16-04-30242-563 already exists in MOJ/results/db/weapon_docx/ME-16-04-30242-563
+2025-04-24 11:49:30 - WARNING - File ME-16-05-20367-277 already exists in MOJ/results/db/weapon_docx/ME-16-05-20367-277
+2025-04-24 11:49:30 - WARNING - File ME-16-05-25902-514 already exists in MOJ/results/db/weapon_docx/ME-16-05-25902-514
+2025-04-24 11:49:30 - WARNING - File ME-16-04-9179-774 already exists in MOJ/results/db/weapon_docx/ME-16-04-9179-774
+2025-04-24 11:49:30 - WARNING - File ME-16-05-26087-44 already exists in MOJ/results/db/weapon_docx/ME-16-05-26087-44
+2025-04-24 11:49:30 - WARNING - File ME-16-05-19384-544 already exists in MOJ/results/db/weapon_docx/ME-16-05-19384-544
+2025-04-24 11:49:30 - WARNING - File ME-16-05-16543-505 already exists in MOJ/results/db/weapon_docx/ME-16-05-16543-505
+2025-04-24 11:49:30 - WARNING - File ME-16-05-2606-880 already exists in MOJ/results/db/weapon_docx/ME-16-05-2606-880
+2025-04-24 11:49:30 - WARNING - File ME-16-05-33009-930 already exists in MOJ/results/db/weapon_docx/ME-16-05-33009-930
+2025-04-24 11:49:30 - WARNING - File ME-16-05-336-804 already exists in MOJ/results/db/weapon_docx/ME-16-05-336-804
+2025-04-24 11:49:30 - WARNING - File ME-16-05-39986-222 already exists in MOJ/results/db/weapon_docx/ME-16-05-39986-222
+2025-04-24 11:49:30 - WARNING - File ME-16-05-41965-567 already exists in MOJ/results/db/weapon_docx/ME-16-05-41965-567
+2025-04-24 11:49:30 - WARNING - File ME-16-05-4176-485 already exists in MOJ/results/db/weapon_docx/ME-16-05-4176-485
+2025-04-24 11:49:30 - WARNING - File ME-16-05-6785-389 already exists in MOJ/results/db/weapon_docx/ME-16-05-6785-389
+2025-04-24 11:49:30 - WARNING - File ME-16-05-9968-487 already exists in MOJ/results/db/weapon_docx/ME-16-05-9968-487
+2025-04-24 11:49:30 - WARNING - File ME-16-05-9983-155 already exists in MOJ/results/db/weapon_docx/ME-16-05-9983-155
+2025-04-24 11:49:30 - WARNING - File ME-16-06-11786-780 already exists in MOJ/results/db/weapon_docx/ME-16-06-11786-780
+2025-04-24 11:49:30 - WARNING - File ME-16-06-42987-901 already exists in MOJ/results/db/weapon_docx/ME-16-06-42987-901
+2025-04-24 11:49:30 - WARNING - File ME-16-06-44840-433 already exists in MOJ/results/db/weapon_docx/ME-16-06-44840-433
+2025-04-24 11:49:30 - WARNING - File ME-16-06-50916-362 already exists in MOJ/results/db/weapon_docx/ME-16-06-50916-362
+2025-04-24 11:49:30 - WARNING - File ME-16-06-5551-882 already exists in MOJ/results/db/weapon_docx/ME-16-06-5551-882
+2025-04-24 11:49:30 - WARNING - File ME-16-06-64845-657 already exists in MOJ/results/db/weapon_docx/ME-16-06-64845-657
+2025-04-24 11:49:30 - WARNING - File ME-16-06-808-60 already exists in MOJ/results/db/weapon_docx/ME-16-06-808-60
+2025-04-24 11:49:30 - WARNING - File ME-16-07-30015-11 already exists in MOJ/results/db/weapon_docx/ME-16-07-30015-11
+2025-04-24 11:49:30 - WARNING - File ME-16-07-41855-64 already exists in MOJ/results/db/weapon_docx/ME-16-07-41855-64
+2025-04-24 11:49:30 - WARNING - File ME-16-07-42223-236 already exists in MOJ/results/db/weapon_docx/ME-16-07-42223-236
+2025-04-24 11:49:30 - WARNING - File ME-16-07-45228-25 already exists in MOJ/results/db/weapon_docx/ME-16-07-45228-25
+2025-04-24 11:49:30 - WARNING - File ME-16-08-12074-33 already exists in MOJ/results/db/weapon_docx/ME-16-08-12074-33
+2025-04-24 11:49:30 - INFO - Finish to process ME-16-08-229-604 case and save in MOJ/results/db/weapon_docx/ME-16-08-229-604
+2025-04-24 11:49:49 - INFO - Finish to process ME-16-08-229-604 case and save in MOJ/results/db/weapon_docx/ME-16-08-229-604
+2025-04-24 11:49:49 - INFO - Finish to process ME-16-08-45473-671 case and save in MOJ/results/db/weapon_docx/ME-16-08-45473-671
+2025-04-24 11:50:07 - INFO - Finish to process ME-16-07-49079-996 case and save in MOJ/results/db/weapon_docx/ME-16-07-49079-996
+2025-04-24 11:50:34 - INFO - Finish to process ME-16-08-29984-245 case and save in MOJ/results/db/weapon_docx/ME-16-08-29984-245
+2025-04-24 11:50:56 - INFO - Finish to process ME-16-08-44157-713 case and save in MOJ/results/db/weapon_docx/ME-16-08-44157-713
+2025-04-24 11:51:06 - INFO - Finish to process ME-16-08-54879-35 case and save in MOJ/results/db/weapon_docx/ME-16-08-54879-35
+2025-04-24 11:51:18 - INFO - Finish to process ME-16-09-13416-978 case and save in MOJ/results/db/weapon_docx/ME-16-09-13416-978
+2025-04-24 11:51:22 - INFO - Finish to process ME-16-09-21908-135 case and save in MOJ/results/db/weapon_docx/ME-16-09-21908-135
+2025-04-24 11:51:28 - INFO - Finish to process ME-16-09-37367-44 case and save in MOJ/results/db/weapon_docx/ME-16-09-37367-44
+2025-04-24 11:51:43 - INFO - Finish to process ME-16-09-398-589 case and save in MOJ/results/db/weapon_docx/ME-16-09-398-589
+2025-04-24 11:51:57 - INFO - Finish to process ME-16-10-12213-904 case and save in MOJ/results/db/weapon_docx/ME-16-10-12213-904
+2025-04-24 11:52:00 - INFO - Finish to process ME-16-10-18579-375 case and save in MOJ/results/db/weapon_docx/ME-16-10-18579-375
+2025-04-24 11:52:05 - INFO - Finish to process ME-16-10-16420-262 case and save in MOJ/results/db/weapon_docx/ME-16-10-16420-262
+2025-04-24 11:52:18 - INFO - Finish to process ME-16-10-26175-22 case and save in MOJ/results/db/weapon_docx/ME-16-10-26175-22
+2025-04-24 11:52:24 - INFO - Finish to process ME-16-10-5037-989 case and save in MOJ/results/db/weapon_docx/ME-16-10-5037-989
+2025-04-24 11:52:28 - INFO - Finish to process ME-16-10-533-200 case and save in MOJ/results/db/weapon_docx/ME-16-10-533-200
+2025-04-24 11:52:40 - INFO - Finish to process ME-16-10-9348-780 case and save in MOJ/results/db/weapon_docx/ME-16-10-9348-780
+2025-04-24 11:52:59 - INFO - Finish to process ME-16-11-47586-491 case and save in MOJ/results/db/weapon_docx/ME-16-11-47586-491
+2025-04-24 11:53:14 - INFO - Finish to process ME-16-12-50986-619 case and save in MOJ/results/db/weapon_docx/ME-16-12-50986-619
+2025-04-24 11:53:20 - INFO - Finish to process ME-16-11-56385-886 case and save in MOJ/results/db/weapon_docx/ME-16-11-56385-886
+2025-04-24 11:53:41 - INFO - Finish to process ME-16-11-69158-529 case and save in MOJ/results/db/weapon_docx/ME-16-11-69158-529
+2025-04-24 11:53:56 - INFO - Finish to process ME-16-12-15943-228 case and save in MOJ/results/db/weapon_docx/ME-16-12-15943-228
+2025-04-24 11:54:02 - INFO - Finish to process ME-16-12-64990-76 case and save in MOJ/results/db/weapon_docx/ME-16-12-64990-76
+2025-04-24 11:54:23 - INFO - Finish to process ME-17-01-18689-992 case and save in MOJ/results/db/weapon_docx/ME-17-01-18689-992
+2025-04-24 11:54:28 - INFO - Finish to process ME-17-01-10627-424 case and save in MOJ/results/db/weapon_docx/ME-17-01-10627-424
+2025-04-24 11:54:32 - INFO - Finish to process ME-17-01-44521-24 case and save in MOJ/results/db/weapon_docx/ME-17-01-44521-24
+2025-04-24 11:55:00 - INFO - Finish to process ME-17-01-59804-978 case and save in MOJ/results/db/weapon_docx/ME-17-01-59804-978
+2025-04-24 11:55:13 - INFO - Finish to process ME-17-02-19821-739 case and save in MOJ/results/db/weapon_docx/ME-17-02-19821-739
+2025-04-24 11:55:23 - INFO - Finish to process ME-17-02-3454-397 case and save in MOJ/results/db/weapon_docx/ME-17-02-3454-397
+2025-04-24 11:55:51 - INFO - Finish to process ME-17-02-41242-441 case and save in MOJ/results/db/weapon_docx/ME-17-02-41242-441
+2025-04-24 11:56:50 - INFO - Finish to process ME-17-02-48435-315 case and save in MOJ/results/db/weapon_docx/ME-17-02-48435-315
+2025-04-24 11:57:05 - INFO - Finish to process ME-17-02-51038-581 case and save in MOJ/results/db/weapon_docx/ME-17-02-51038-581
+2025-04-24 11:57:23 - INFO - Finish to process ME-17-02-54432-484 case and save in MOJ/results/db/weapon_docx/ME-17-02-54432-484
+2025-04-24 11:57:32 - INFO - Finish to process ME-17-02-9873-811 case and save in MOJ/results/db/weapon_docx/ME-17-02-9873-811
+2025-04-24 11:57:42 - INFO - Finish to process ME-17-03-26417-129 case and save in MOJ/results/db/weapon_docx/ME-17-03-26417-129
+2025-04-24 11:57:59 - INFO - Finish to process ME-17-04-21139-452 case and save in MOJ/results/db/weapon_docx/ME-17-04-21139-452
+2025-04-24 11:58:13 - INFO - Finish to process ME-17-03-1995-297 case and save in MOJ/results/db/weapon_docx/ME-17-03-1995-297
+2025-04-24 11:58:42 - INFO - Finish to process ME-17-04-1901-539 case and save in MOJ/results/db/weapon_docx/ME-17-04-1901-539
+2025-04-24 11:58:56 - INFO - Finish to process ME-17-04-19741-416 case and save in MOJ/results/db/weapon_docx/ME-17-04-19741-416
+2025-04-24 11:59:13 - INFO - Finish to process ME-17-04-30875-798 case and save in MOJ/results/db/weapon_docx/ME-17-04-30875-798
+2025-04-24 11:59:36 - INFO - Finish to process ME-17-04-35048-22 case and save in MOJ/results/db/weapon_docx/ME-17-04-35048-22
+2025-04-24 12:00:36 - INFO - Finish to process ME-17-04-45561-926 case and save in MOJ/results/db/weapon_docx/ME-17-04-45561-926
+2025-04-24 12:00:48 - INFO - Finish to process ME-17-04-613-913 case and save in MOJ/results/db/weapon_docx/ME-17-04-613-913
+2025-04-24 12:01:08 - INFO - Finish to process ME-17-05-35227-215 case and save in MOJ/results/db/weapon_docx/ME-17-05-35227-215
+2025-04-24 12:01:47 - INFO - Finish to process ME-17-05-395-224 case and save in MOJ/results/db/weapon_docx/ME-17-05-395-224
+2025-04-24 12:01:56 - INFO - Finish to process ME-17-05-45747-167 case and save in MOJ/results/db/weapon_docx/ME-17-05-45747-167
+2025-04-24 12:02:12 - INFO - Finish to process ME-17-05-522-895 case and save in MOJ/results/db/weapon_docx/ME-17-05-522-895
+2025-04-24 12:03:06 - INFO - Finish to process ME-17-05-55639-212 case and save in MOJ/results/db/weapon_docx/ME-17-05-55639-212
+2025-04-24 12:03:19 - INFO - Finish to process ME-17-06-17856-893 case and save in MOJ/results/db/weapon_docx/ME-17-06-17856-893
+2025-04-24 12:03:38 - INFO - Finish to process ME-17-05-57618-514 case and save in MOJ/results/db/weapon_docx/ME-17-05-57618-514
+2025-04-24 12:03:50 - INFO - Finish to process ME-17-05-57628-197 case and save in MOJ/results/db/weapon_docx/ME-17-05-57628-197
+2025-04-24 12:03:58 - INFO - Finish to process ME-17-05-633-549 case and save in MOJ/results/db/weapon_docx/ME-17-05-633-549
+2025-04-24 12:04:02 - INFO - Finish to process ME-17-06-20613-371 case and save in MOJ/results/db/weapon_docx/ME-17-06-20613-371
+2025-04-24 12:04:17 - INFO - Finish to process ME-17-06-31034-933 case and save in MOJ/results/db/weapon_docx/ME-17-06-31034-933
+2025-04-24 12:04:45 - INFO - Finish to process ME-17-06-51716-210 case and save in MOJ/results/db/weapon_docx/ME-17-06-51716-210
+2025-04-24 12:04:55 - INFO - Finish to process ME-17-06-52219-192 case and save in MOJ/results/db/weapon_docx/ME-17-06-52219-192
+2025-04-24 12:05:03 - INFO - Finish to process ME-17-06-66838-648 case and save in MOJ/results/db/weapon_docx/ME-17-06-66838-648
+2025-04-24 12:05:20 - INFO - Finish to process ME-17-07-45713-955 case and save in MOJ/results/db/weapon_docx/ME-17-07-45713-955
+2025-04-24 12:05:30 - INFO - Finish to process ME-17-06-55670-340 case and save in MOJ/results/db/weapon_docx/ME-17-06-55670-340
+2025-04-24 12:05:35 - INFO - Finish to process ME-17-07-4807-73 case and save in MOJ/results/db/weapon_docx/ME-17-07-4807-73
+2025-04-24 12:06:00 - INFO - Finish to process ME-17-07-520-371 case and save in MOJ/results/db/weapon_docx/ME-17-07-520-371
+2025-04-24 12:06:07 - INFO - Finish to process ME-17-07-53772-358 case and save in MOJ/results/db/weapon_docx/ME-17-07-53772-358
+2025-04-24 12:06:25 - INFO - Finish to process ME-17-07-66310-844 case and save in MOJ/results/db/weapon_docx/ME-17-07-66310-844
+2025-04-24 12:06:43 - INFO - Finish to process ME-17-08-13632-55 case and save in MOJ/results/db/weapon_docx/ME-17-08-13632-55
+2025-04-24 12:06:54 - INFO - Finish to process ME-17-08-28615-573 case and save in MOJ/results/db/weapon_docx/ME-17-08-28615-573
+2025-04-24 12:07:24 - INFO - Finish to process ME-17-09-38154-771 case and save in MOJ/results/db/weapon_docx/ME-17-09-38154-771
+2025-04-24 12:07:34 - INFO - Finish to process ME-17-08-47161-136 case and save in MOJ/results/db/weapon_docx/ME-17-08-47161-136
+2025-04-24 12:07:50 - INFO - Finish to process ME-17-08-50556-55 case and save in MOJ/results/db/weapon_docx/ME-17-08-50556-55
+2025-04-24 12:07:57 - INFO - Finish to process ME-17-09-34413-331 case and save in MOJ/results/db/weapon_docx/ME-17-09-34413-331
+2025-04-24 12:08:03 - INFO - Finish to process ME-17-09-48143-740 case and save in MOJ/results/db/weapon_docx/ME-17-09-48143-740
+2025-04-24 12:08:18 - INFO - Finish to process ME-17-09-49995-56 case and save in MOJ/results/db/weapon_docx/ME-17-09-49995-56
+2025-04-24 12:08:23 - INFO - Finish to process ME-17-09-55908-387 case and save in MOJ/results/db/weapon_docx/ME-17-09-55908-387
+2025-04-24 12:08:32 - INFO - Finish to process ME-17-09-62958-633 case and save in MOJ/results/db/weapon_docx/ME-17-09-62958-633
+2025-04-24 12:08:46 - INFO - Finish to process ME-17-10-55188-835 case and save in MOJ/results/db/weapon_docx/ME-17-10-55188-835
+2025-04-24 12:08:55 - INFO - Finish to process ME-17-10-12549-265 case and save in MOJ/results/db/weapon_docx/ME-17-10-12549-265
+2025-04-24 12:09:06 - INFO - Finish to process ME-17-10-17393-266 case and save in MOJ/results/db/weapon_docx/ME-17-10-17393-266
+2025-04-24 12:09:17 - INFO - Finish to process ME-17-10-51523-521 case and save in MOJ/results/db/weapon_docx/ME-17-10-51523-521
+2025-04-24 12:09:34 - INFO - Finish to process ME-17-10-58812-403 case and save in MOJ/results/db/weapon_docx/ME-17-10-58812-403
+2025-04-24 12:09:38 - INFO - Finish to process ME-17-10-62597-895 case and save in MOJ/results/db/weapon_docx/ME-17-10-62597-895
+2025-04-24 12:09:50 - INFO - Finish to process ME-17-12-10476-608 case and save in MOJ/results/db/weapon_docx/ME-17-12-10476-608
+2025-04-24 12:10:12 - INFO - Finish to process ME-17-12-17304-736 case and save in MOJ/results/db/weapon_docx/ME-17-12-17304-736
+2025-04-24 12:10:29 - INFO - Finish to process ME-17-12-20051-644 case and save in MOJ/results/db/weapon_docx/ME-17-12-20051-644
+2025-04-24 12:10:46 - INFO - Finish to process ME-17-12-22830-699 case and save in MOJ/results/db/weapon_docx/ME-17-12-22830-699
+2025-04-24 12:10:55 - INFO - Finish to process ME-17-12-312-482 case and save in MOJ/results/db/weapon_docx/ME-17-12-312-482
+2025-04-24 12:11:00 - INFO - Finish to process ME-17-12-32803-592 case and save in MOJ/results/db/weapon_docx/ME-17-12-32803-592
+2025-04-24 12:11:18 - INFO - Finish to process ME-17-12-32889-55 case and save in MOJ/results/db/weapon_docx/ME-17-12-32889-55
+2025-04-24 12:12:02 - INFO - Finish to process ME-18-01-27442-55 case and save in MOJ/results/db/weapon_docx/ME-18-01-27442-55
+2025-04-24 12:12:09 - INFO - Finish to process ME-18-01-29650-142 case and save in MOJ/results/db/weapon_docx/ME-18-01-29650-142
+2025-04-24 12:12:30 - INFO - Finish to process ME-18-01-35364-850 case and save in MOJ/results/db/weapon_docx/ME-18-01-35364-850
+2025-04-24 12:12:55 - INFO - Finish to process ME-18-01-52895-37 case and save in MOJ/results/db/weapon_docx/ME-18-01-52895-37
+2025-04-24 12:13:11 - INFO - Finish to process ME-18-02-16505-658 case and save in MOJ/results/db/weapon_docx/ME-18-02-16505-658
+2025-04-24 12:13:26 - INFO - Finish to process ME-18-02-1909-13 case and save in MOJ/results/db/weapon_docx/ME-18-02-1909-13
+2025-04-24 12:13:33 - INFO - Finish to process ME-18-02-24047-205 case and save in MOJ/results/db/weapon_docx/ME-18-02-24047-205
+2025-04-24 12:13:55 - INFO - Finish to process ME-18-02-4283-295 case and save in MOJ/results/db/weapon_docx/ME-18-02-4283-295
+2025-04-24 12:14:06 - INFO - Finish to process ME-18-02-630-602 case and save in MOJ/results/db/weapon_docx/ME-18-02-630-602
+2025-04-24 12:14:17 - INFO - Finish to process ME-18-03-19438-13 case and save in MOJ/results/db/weapon_docx/ME-18-03-19438-13
+2025-04-24 12:14:22 - INFO - Finish to process ME-18-03-35163-225 case and save in MOJ/results/db/weapon_docx/ME-18-03-35163-225
+2025-04-24 12:14:38 - INFO - Finish to process ME-18-03-36982-305 case and save in MOJ/results/db/weapon_docx/ME-18-03-36982-305
+2025-04-24 12:14:44 - INFO - Finish to process ME-18-03-50551-148 case and save in MOJ/results/db/weapon_docx/ME-18-03-50551-148
+2025-04-24 12:14:57 - INFO - Finish to process ME-18-03-52225-55 case and save in MOJ/results/db/weapon_docx/ME-18-03-52225-55
+2025-04-24 12:15:34 - INFO - Finish to process ME-18-04-19642-504 case and save in MOJ/results/db/weapon_docx/ME-18-04-19642-504
+2025-04-24 12:16:11 - INFO - Finish to process ME-18-04-3013-536 case and save in MOJ/results/db/weapon_docx/ME-18-04-3013-536
+2025-04-24 12:16:20 - INFO - Finish to process ME-18-04-3295-790 case and save in MOJ/results/db/weapon_docx/ME-18-04-3295-790
+2025-04-24 12:16:32 - INFO - Finish to process ME-18-04-34027-630 case and save in MOJ/results/db/weapon_docx/ME-18-04-34027-630
+2025-04-24 12:17:04 - INFO - Finish to process ME-18-04-37387-230 case and save in MOJ/results/db/weapon_docx/ME-18-04-37387-230
+2025-04-24 12:17:38 - INFO - Finish to process ME-18-04-49416-848 case and save in MOJ/results/db/weapon_docx/ME-18-04-49416-848
+2025-04-24 12:17:43 - INFO - Finish to process ME-18-05-32659-754 case and save in MOJ/results/db/weapon_docx/ME-18-05-32659-754
+2025-04-24 12:18:00 - INFO - Finish to process ME-18-05-32731-705 case and save in MOJ/results/db/weapon_docx/ME-18-05-32731-705
+2025-04-24 12:18:09 - INFO - Finish to process ME-18-05-41522-352 case and save in MOJ/results/db/weapon_docx/ME-18-05-41522-352
+2025-04-24 12:18:16 - INFO - Finish to process ME-18-05-42697-576 case and save in MOJ/results/db/weapon_docx/ME-18-05-42697-576
+2025-04-24 12:18:27 - INFO - Finish to process ME-18-05-7942-983 case and save in MOJ/results/db/weapon_docx/ME-18-05-7942-983
+2025-04-24 12:18:41 - INFO - Finish to process ME-18-06-11814-47 case and save in MOJ/results/db/weapon_docx/ME-18-06-11814-47
+2025-04-24 12:19:01 - INFO - Finish to process ME-18-06-34198-11 case and save in MOJ/results/db/weapon_docx/ME-18-06-34198-11
+2025-04-24 12:19:25 - INFO - Finish to process ME-18-06-36728-73 case and save in MOJ/results/db/weapon_docx/ME-18-06-36728-73
+2025-04-24 12:19:53 - INFO - Finish to process ME-18-06-46590-33 case and save in MOJ/results/db/weapon_docx/ME-18-06-46590-33
+2025-04-24 12:20:07 - INFO - Finish to process ME-18-06-47284-987 case and save in MOJ/results/db/weapon_docx/ME-18-06-47284-987
+2025-04-24 12:20:14 - INFO - Finish to process ME-18-07-23532-512 case and save in MOJ/results/db/weapon_docx/ME-18-07-23532-512
+2025-04-24 12:20:25 - INFO - Finish to process ME-18-07-3742-540 case and save in MOJ/results/db/weapon_docx/ME-18-07-3742-540
+2025-04-24 12:20:32 - INFO - Finish to process ME-18-07-45630-284 case and save in MOJ/results/db/weapon_docx/ME-18-07-45630-284
+2025-04-24 12:22:02 - INFO - Finish to process ME-18-07-50330-234 case and save in MOJ/results/db/weapon_docx/ME-18-07-50330-234
+2025-04-24 12:22:11 - INFO - Finish to process ME-18-07-60648-983 case and save in MOJ/results/db/weapon_docx/ME-18-07-60648-983
+2025-04-24 12:23:08 - INFO - Finish to process ME-18-07-60792-633 case and save in MOJ/results/db/weapon_docx/ME-18-07-60792-633
+2025-04-24 12:23:15 - INFO - Finish to process ME-18-08-8864-290 case and save in MOJ/results/db/weapon_docx/ME-18-08-8864-290
+2025-04-24 12:23:28 - INFO - Finish to process ME-18-09-34938-726 case and save in MOJ/results/db/weapon_docx/ME-18-09-34938-726
+2025-04-24 12:23:38 - INFO - Finish to process ME-18-09-39800-871 case and save in MOJ/results/db/weapon_docx/ME-18-09-39800-871
+2025-04-24 12:24:00 - INFO - Finish to process ME-18-10-1118-920 case and save in MOJ/results/db/weapon_docx/ME-18-10-1118-920
+2025-04-24 12:24:15 - INFO - Finish to process ME-18-10-12376-279 case and save in MOJ/results/db/weapon_docx/ME-18-10-12376-279
+2025-04-24 12:24:26 - INFO - Finish to process ME-18-10-26434-945 case and save in MOJ/results/db/weapon_docx/ME-18-10-26434-945
+2025-04-24 12:24:39 - INFO - Finish to process ME-18-10-30972-637 case and save in MOJ/results/db/weapon_docx/ME-18-10-30972-637
+2025-04-24 12:25:00 - INFO - Finish to process ME-18-10-33100-33 case and save in MOJ/results/db/weapon_docx/ME-18-10-33100-33
+2025-04-24 12:25:30 - INFO - Finish to process ME-18-10-33226-487 case and save in MOJ/results/db/weapon_docx/ME-18-10-33226-487
+2025-04-24 12:25:48 - INFO - Finish to process ME-18-10-34117-55 case and save in MOJ/results/db/weapon_docx/ME-18-10-34117-55
+2025-04-24 12:25:53 - INFO - Finish to process ME-18-10-69640-543 case and save in MOJ/results/db/weapon_docx/ME-18-10-69640-543
+2025-04-24 12:25:59 - INFO - Finish to process ME-18-11-17941-195 case and save in MOJ/results/db/weapon_docx/ME-18-11-17941-195
+2025-04-24 12:26:19 - INFO - Finish to process ME-18-11-18300-582 case and save in MOJ/results/db/weapon_docx/ME-18-11-18300-582
+2025-04-24 12:26:27 - INFO - Finish to process ME-18-11-4475-747 case and save in MOJ/results/db/weapon_docx/ME-18-11-4475-747
+2025-04-24 12:26:37 - INFO - Finish to process ME-18-11-58698-801 case and save in MOJ/results/db/weapon_docx/ME-18-11-58698-801
+2025-04-24 12:26:46 - INFO - Finish to process ME-18-12-36698-478 case and save in MOJ/results/db/weapon_docx/ME-18-12-36698-478
+2025-04-24 12:26:59 - INFO - Finish to process ME-18-12-54308-606 case and save in MOJ/results/db/weapon_docx/ME-18-12-54308-606
+2025-04-24 12:27:09 - INFO - Finish to process ME-18-12-61087-4 case and save in MOJ/results/db/weapon_docx/ME-18-12-61087-4
+2025-04-24 12:27:24 - INFO - Finish to process ME-19-01-43752-281 case and save in MOJ/results/db/weapon_docx/ME-19-01-43752-281
+2025-04-24 12:27:37 - INFO - Finish to process ME-18-12-63642-864 case and save in MOJ/results/db/weapon_docx/ME-18-12-63642-864
+2025-04-24 12:27:50 - INFO - Finish to process ME-19-01-11134-480 case and save in MOJ/results/db/weapon_docx/ME-19-01-11134-480
+2025-04-24 12:28:02 - INFO - Finish to process ME-19-01-17860-11 case and save in MOJ/results/db/weapon_docx/ME-19-01-17860-11
+2025-04-24 12:28:05 - INFO - Finish to process ME-19-01-4766-873 case and save in MOJ/results/db/weapon_docx/ME-19-01-4766-873
+2025-04-24 12:28:19 - INFO - Finish to process ME-19-01-53615-8 case and save in MOJ/results/db/weapon_docx/ME-19-01-53615-8
+2025-04-24 12:28:37 - INFO - Finish to process ME-19-02-23872-143 case and save in MOJ/results/db/weapon_docx/ME-19-02-23872-143
+2025-04-24 12:29:05 - INFO - Finish to process ME-19-02-24704-515 case and save in MOJ/results/db/weapon_docx/ME-19-02-24704-515
+2025-04-24 12:29:20 - INFO - Finish to process ME-19-03-15217-631 case and save in MOJ/results/db/weapon_docx/ME-19-03-15217-631
+2025-04-24 12:29:31 - INFO - Finish to process ME-19-03-27929-617 case and save in MOJ/results/db/weapon_docx/ME-19-03-27929-617
+2025-04-24 12:29:49 - INFO - Finish to process ME-19-03-57498-650 case and save in MOJ/results/db/weapon_docx/ME-19-03-57498-650
+2025-04-24 12:30:00 - INFO - Finish to process ME-19-04-1316-977 case and save in MOJ/results/db/weapon_docx/ME-19-04-1316-977
+2025-04-24 12:30:12 - INFO - Finish to process ME-19-04-14488-104 case and save in MOJ/results/db/weapon_docx/ME-19-04-14488-104
+2025-04-24 12:30:23 - INFO - Finish to process ME-19-04-1641-175 case and save in MOJ/results/db/weapon_docx/ME-19-04-1641-175
+2025-04-24 12:30:43 - INFO - Finish to process ME-19-04-2642-861 case and save in MOJ/results/db/weapon_docx/ME-19-04-2642-861
+2025-04-24 12:30:53 - INFO - Finish to process ME-19-04-27294-428 case and save in MOJ/results/db/weapon_docx/ME-19-04-27294-428
+2025-04-24 12:31:03 - INFO - Finish to process ME-19-04-7735-986 case and save in MOJ/results/db/weapon_docx/ME-19-04-7735-986
+2025-04-24 12:31:17 - INFO - Finish to process ME-19-05-56374-18 case and save in MOJ/results/db/weapon_docx/ME-19-05-56374-18
+2025-04-24 12:31:28 - INFO - Finish to process ME-19-05-56488-212 case and save in MOJ/results/db/weapon_docx/ME-19-05-56488-212
+2025-04-24 12:31:50 - INFO - Finish to process ME-19-06-23015-609 case and save in MOJ/results/db/weapon_docx/ME-19-06-23015-609
+2025-04-24 12:32:16 - INFO - Finish to process ME-19-06-34802-695 case and save in MOJ/results/db/weapon_docx/ME-19-06-34802-695
+2025-04-24 12:32:29 - INFO - Finish to process ME-19-06-52390-378 case and save in MOJ/results/db/weapon_docx/ME-19-06-52390-378
+2025-04-24 12:32:40 - INFO - Finish to process ME-19-07-11104-821 case and save in MOJ/results/db/weapon_docx/ME-19-07-11104-821
+2025-04-24 12:32:48 - INFO - Finish to process ME-19-07-14115-566 case and save in MOJ/results/db/weapon_docx/ME-19-07-14115-566
+2025-04-24 12:33:03 - INFO - Finish to process ME-19-07-34507-415 case and save in MOJ/results/db/weapon_docx/ME-19-07-34507-415
+2025-04-24 12:33:19 - INFO - Finish to process ME-19-07-4411-664 case and save in MOJ/results/db/weapon_docx/ME-19-07-4411-664
+2025-04-24 12:33:22 - INFO - Finish to process ME-19-07-50481-38 case and save in MOJ/results/db/weapon_docx/ME-19-07-50481-38
+2025-04-24 12:33:42 - INFO - Finish to process ME-19-07-54607-11 case and save in MOJ/results/db/weapon_docx/ME-19-07-54607-11
+2025-04-24 12:33:44 - INFO - Finish to process ME-19-08-19218-22 case and save in MOJ/results/db/weapon_docx/ME-19-08-19218-22
+2025-04-24 12:33:57 - INFO - Finish to process ME-19-08-35979-405 case and save in MOJ/results/db/weapon_docx/ME-19-08-35979-405
+2025-04-24 12:34:07 - INFO - Finish to process ME-19-08-5578-272 case and save in MOJ/results/db/weapon_docx/ME-19-08-5578-272
+2025-04-24 12:34:17 - INFO - Finish to process ME-19-09-22765-888 case and save in MOJ/results/db/weapon_docx/ME-19-09-22765-888
+2025-04-24 12:34:44 - INFO - Finish to process ME-19-09-44105-67 case and save in MOJ/results/db/weapon_docx/ME-19-09-44105-67
+2025-04-24 12:34:57 - INFO - Finish to process ME-19-09-46366-214 case and save in MOJ/results/db/weapon_docx/ME-19-09-46366-214
+2025-04-24 12:35:00 - INFO - Finish to process ME-19-09-54384-511 case and save in MOJ/results/db/weapon_docx/ME-19-09-54384-511
+2025-04-24 12:35:11 - INFO - Finish to process ME-19-10-2101-167 case and save in MOJ/results/db/weapon_docx/ME-19-10-2101-167
+2025-04-24 12:35:16 - INFO - Finish to process ME-19-10-28326-676 case and save in MOJ/results/db/weapon_docx/ME-19-10-28326-676
+2025-04-24 12:35:24 - INFO - Finish to process ME-19-10-9355-84 case and save in MOJ/results/db/weapon_docx/ME-19-10-9355-84
+2025-04-24 12:35:33 - INFO - Finish to process ME-19-11-15772-474 case and save in MOJ/results/db/weapon_docx/ME-19-11-15772-474
+2025-04-24 12:35:42 - INFO - Finish to process ME-19-11-5221-352 case and save in MOJ/results/db/weapon_docx/ME-19-11-5221-352
+2025-04-24 12:35:54 - INFO - Finish to process ME-19-11-39941-430 case and save in MOJ/results/db/weapon_docx/ME-19-11-39941-430
+2025-04-24 12:36:02 - INFO - Finish to process ME-19-11-40898-357 case and save in MOJ/results/db/weapon_docx/ME-19-11-40898-357
+2025-04-24 12:36:23 - INFO - Finish to process ME-19-12-15423-44 case and save in MOJ/results/db/weapon_docx/ME-19-12-15423-44
+2025-04-24 12:36:45 - INFO - Finish to process ME-19-12-23749-811 case and save in MOJ/results/db/weapon_docx/ME-19-12-23749-811
+2025-04-24 12:36:55 - INFO - Finish to process ME-19-11-41052-634 case and save in MOJ/results/db/weapon_docx/ME-19-11-41052-634
+2025-04-24 12:37:05 - INFO - Finish to process ME-19-11-58505-490 case and save in MOJ/results/db/weapon_docx/ME-19-11-58505-490
+2025-04-24 12:37:24 - INFO - Finish to process ME-19-11-58524-567 case and save in MOJ/results/db/weapon_docx/ME-19-11-58524-567
+2025-04-24 12:37:28 - INFO - Finish to process ME-19-12-40815-665 case and save in MOJ/results/db/weapon_docx/ME-19-12-40815-665
+2025-04-24 12:37:40 - INFO - Finish to process ME-19-12-48783-222 case and save in MOJ/results/db/weapon_docx/ME-19-12-48783-222
+2025-04-24 12:38:06 - INFO - Finish to process ME-19-12-61299-26 case and save in MOJ/results/db/weapon_docx/ME-19-12-61299-26
+2025-04-24 12:38:17 - INFO - Finish to process ME-19-12-68368-466 case and save in MOJ/results/db/weapon_docx/ME-19-12-68368-466
+2025-04-24 12:38:23 - INFO - Finish to process ME-20-01-17935-7 case and save in MOJ/results/db/weapon_docx/ME-20-01-17935-7
+2025-04-24 12:38:34 - INFO - Finish to process ME-20-01-4133-740 case and save in MOJ/results/db/weapon_docx/ME-20-01-4133-740
+2025-04-24 12:38:41 - INFO - Finish to process ME-20-01-4664-766 case and save in MOJ/results/db/weapon_docx/ME-20-01-4664-766
+2025-04-24 12:38:49 - INFO - Finish to process ME-20-02-16370-29 case and save in MOJ/results/db/weapon_docx/ME-20-02-16370-29
+2025-04-24 12:38:56 - INFO - Finish to process ME-20-02-20425-98 case and save in MOJ/results/db/weapon_docx/ME-20-02-20425-98
+2025-04-24 12:39:05 - INFO - Finish to process ME-20-01-58511-779 case and save in MOJ/results/db/weapon_docx/ME-20-01-58511-779
+2025-04-24 12:39:25 - INFO - Finish to process ME-20-01-62688-591 case and save in MOJ/results/db/weapon_docx/ME-20-01-62688-591
+2025-04-24 12:39:49 - INFO - Finish to process ME-20-02-15744-900 case and save in MOJ/results/db/weapon_docx/ME-20-02-15744-900
+2025-04-24 12:39:58 - INFO - Finish to process ME-20-02-20477-665 case and save in MOJ/results/db/weapon_docx/ME-20-02-20477-665
+2025-04-24 12:40:04 - INFO - Finish to process ME-20-02-23782-495 case and save in MOJ/results/db/weapon_docx/ME-20-02-23782-495
+2025-04-24 12:40:28 - INFO - Finish to process ME-20-02-47048-447 case and save in MOJ/results/db/weapon_docx/ME-20-02-47048-447
+2025-04-24 12:40:49 - INFO - Finish to process ME-20-02-53498-268 case and save in MOJ/results/db/weapon_docx/ME-20-02-53498-268
+2025-04-24 12:40:59 - INFO - Finish to process ME-20-02-55185-425 case and save in MOJ/results/db/weapon_docx/ME-20-02-55185-425
+2025-04-24 12:41:09 - INFO - Finish to process ME-20-03-27050-422 case and save in MOJ/results/db/weapon_docx/ME-20-03-27050-422
+2025-04-24 12:41:14 - INFO - Finish to process ME-20-03-33920-431 case and save in MOJ/results/db/weapon_docx/ME-20-03-33920-431
+2025-04-24 12:41:21 - INFO - Finish to process ME-20-03-48867-166 case and save in MOJ/results/db/weapon_docx/ME-20-03-48867-166
+2025-04-24 12:41:32 - INFO - Finish to process ME-20-03-50334-175 case and save in MOJ/results/db/weapon_docx/ME-20-03-50334-175
+2025-04-24 12:41:36 - INFO - Finish to process ME-20-03-5186-33 case and save in MOJ/results/db/weapon_docx/ME-20-03-5186-33
+2025-04-24 12:41:47 - INFO - Finish to process ME-20-03-52256-215 case and save in MOJ/results/db/weapon_docx/ME-20-03-52256-215
+2025-04-24 12:42:09 - INFO - Finish to process ME-20-04-12376-11 case and save in MOJ/results/db/weapon_docx/ME-20-04-12376-11
+2025-04-24 12:42:11 - INFO - Finish to process ME-20-04-21696-44 case and save in MOJ/results/db/weapon_docx/ME-20-04-21696-44
+2025-04-24 12:42:20 - INFO - Finish to process ME-20-04-38687-360 case and save in MOJ/results/db/weapon_docx/ME-20-04-38687-360
+2025-04-24 12:42:45 - INFO - Finish to process ME-20-05-12791-44 case and save in MOJ/results/db/weapon_docx/ME-20-05-12791-44
+2025-04-24 12:42:53 - INFO - Finish to process ME-20-05-34579-981 case and save in MOJ/results/db/weapon_docx/ME-20-05-34579-981
+2025-04-24 12:43:02 - INFO - Finish to process ME-20-05-44381-811 case and save in MOJ/results/db/weapon_docx/ME-20-05-44381-811
+2025-04-24 12:43:16 - INFO - Finish to process ME-20-05-51473-959 case and save in MOJ/results/db/weapon_docx/ME-20-05-51473-959
+2025-04-24 12:43:26 - INFO - Finish to process ME-20-05-54083-37 case and save in MOJ/results/db/weapon_docx/ME-20-05-54083-37
+2025-04-24 12:43:36 - INFO - Finish to process ME-20-05-57996-351 case and save in MOJ/results/db/weapon_docx/ME-20-05-57996-351
+2025-04-24 12:44:01 - INFO - Finish to process ME-20-05-61106-33 case and save in MOJ/results/db/weapon_docx/ME-20-05-61106-33
+2025-04-24 12:44:11 - INFO - Finish to process ME-20-05-61158-999 case and save in MOJ/results/db/weapon_docx/ME-20-05-61158-999
+2025-04-24 12:44:14 - INFO - Finish to process ME-20-05-62447-131 case and save in MOJ/results/db/weapon_docx/ME-20-05-62447-131
+2025-04-24 12:44:25 - INFO - Finish to process ME-20-05-66319-589 case and save in MOJ/results/db/weapon_docx/ME-20-05-66319-589
+2025-04-24 12:44:33 - INFO - Finish to process ME-20-05-66430-436 case and save in MOJ/results/db/weapon_docx/ME-20-05-66430-436
+2025-04-24 12:44:43 - INFO - Finish to process ME-20-05-66542-944 case and save in MOJ/results/db/weapon_docx/ME-20-05-66542-944
+2025-04-24 12:44:58 - INFO - Finish to process ME-20-06-10740-11 case and save in MOJ/results/db/weapon_docx/ME-20-06-10740-11
+2025-04-24 12:45:09 - INFO - Finish to process ME-20-06-12035-341 case and save in MOJ/results/db/weapon_docx/ME-20-06-12035-341
+2025-04-24 12:45:20 - INFO - Finish to process ME-20-06-11042-855 case and save in MOJ/results/db/weapon_docx/ME-20-06-11042-855
+2025-04-24 12:45:46 - INFO - Finish to process ME-20-06-10896-85 case and save in MOJ/results/db/weapon_docx/ME-20-06-10896-85
+2025-04-24 12:46:06 - INFO - Finish to process ME-20-06-13225-904 case and save in MOJ/results/db/weapon_docx/ME-20-06-13225-904
+2025-04-24 12:46:33 - INFO - Finish to process ME-20-06-14479-682 case and save in MOJ/results/db/weapon_docx/ME-20-06-14479-682
+2025-04-24 12:46:57 - INFO - Finish to process ME-20-06-32581-715 case and save in MOJ/results/db/weapon_docx/ME-20-06-32581-715
+2025-04-24 12:47:08 - INFO - Finish to process ME-20-06-44862-677 case and save in MOJ/results/db/weapon_docx/ME-20-06-44862-677
+2025-04-24 12:47:36 - INFO - Finish to process ME-20-06-49705-266 case and save in MOJ/results/db/weapon_docx/ME-20-06-49705-266
+2025-04-24 12:47:42 - INFO - Finish to process ME-20-06-52416-518 case and save in MOJ/results/db/weapon_docx/ME-20-06-52416-518
+2025-04-24 12:47:52 - INFO - Finish to process ME-20-06-62238-86 case and save in MOJ/results/db/weapon_docx/ME-20-06-62238-86
+2025-04-24 12:48:00 - INFO - Finish to process ME-20-06-962-520 case and save in MOJ/results/db/weapon_docx/ME-20-06-962-520
+2025-04-24 12:48:11 - INFO - Finish to process ME-20-07-28100-387 case and save in MOJ/results/db/weapon_docx/ME-20-07-28100-387
+2025-04-24 12:48:44 - INFO - Finish to process ME-20-07-28148-115 case and save in MOJ/results/db/weapon_docx/ME-20-07-28148-115
+2025-04-24 12:49:01 - INFO - Finish to process ME-20-07-3429-104 case and save in MOJ/results/db/weapon_docx/ME-20-07-3429-104
+2025-04-24 12:49:07 - INFO - Finish to process ME-20-07-36909-105 case and save in MOJ/results/db/weapon_docx/ME-20-07-36909-105
+2025-04-24 12:49:11 - INFO - Finish to process ME-20-07-29529-567 case and save in MOJ/results/db/weapon_docx/ME-20-07-29529-567
+2025-04-24 12:49:27 - INFO - Finish to process ME-20-07-37175-729 case and save in MOJ/results/db/weapon_docx/ME-20-07-37175-729
+2025-04-24 12:49:35 - INFO - Finish to process ME-20-07-39500-753 case and save in MOJ/results/db/weapon_docx/ME-20-07-39500-753
+2025-04-24 12:49:46 - INFO - Finish to process ME-20-07-49294-838 case and save in MOJ/results/db/weapon_docx/ME-20-07-49294-838
+2025-04-24 12:49:53 - INFO - Finish to process ME-20-07-60084-658 case and save in MOJ/results/db/weapon_docx/ME-20-07-60084-658
+2025-04-24 12:50:16 - INFO - Finish to process ME-20-07-68389-733 case and save in MOJ/results/db/weapon_docx/ME-20-07-68389-733
+2025-04-24 12:50:23 - INFO - Finish to process ME-20-07-68697-134 case and save in MOJ/results/db/weapon_docx/ME-20-07-68697-134
+2025-04-24 12:50:31 - INFO - Finish to process ME-20-08-28518-732 case and save in MOJ/results/db/weapon_docx/ME-20-08-28518-732
+2025-04-24 12:50:41 - INFO - Finish to process ME-20-08-51183-265 case and save in MOJ/results/db/weapon_docx/ME-20-08-51183-265
+2025-04-24 12:50:51 - INFO - Finish to process ME-20-07-7133-855 case and save in MOJ/results/db/weapon_docx/ME-20-07-7133-855
+2025-04-24 12:51:01 - INFO - Finish to process ME-20-08-12520-979 case and save in MOJ/results/db/weapon_docx/ME-20-08-12520-979
+2025-04-24 12:51:10 - INFO - Finish to process ME-20-08-43009-796 case and save in MOJ/results/db/weapon_docx/ME-20-08-43009-796
+2025-04-24 12:51:28 - INFO - Finish to process ME-20-09-13491-11 case and save in MOJ/results/db/weapon_docx/ME-20-09-13491-11
+2025-04-24 12:52:08 - INFO - Finish to process ME-20-08-53612-156 case and save in MOJ/results/db/weapon_docx/ME-20-08-53612-156
+2025-04-24 12:52:14 - INFO - Finish to process ME-20-09-20451-872 case and save in MOJ/results/db/weapon_docx/ME-20-09-20451-872
+2025-04-24 12:52:19 - INFO - Finish to process ME-20-09-25017-699 case and save in MOJ/results/db/weapon_docx/ME-20-09-25017-699
+2025-04-24 12:52:29 - INFO - Finish to process ME-20-09-42324-627 case and save in MOJ/results/db/weapon_docx/ME-20-09-42324-627
+2025-04-24 12:52:44 - INFO - Finish to process ME-20-09-43957-910 case and save in MOJ/results/db/weapon_docx/ME-20-09-43957-910
+2025-04-24 12:52:51 - INFO - Finish to process ME-20-09-56739-859 case and save in MOJ/results/db/weapon_docx/ME-20-09-56739-859
+2025-04-24 12:53:02 - INFO - Finish to process ME-20-10-40536-520 case and save in MOJ/results/db/weapon_docx/ME-20-10-40536-520
+2025-04-24 12:53:11 - INFO - Finish to process ME-20-09-54719-807 case and save in MOJ/results/db/weapon_docx/ME-20-09-54719-807
+2025-04-24 12:53:16 - INFO - Finish to process ME-20-09-57267-672 case and save in MOJ/results/db/weapon_docx/ME-20-09-57267-672
+2025-04-24 12:53:23 - INFO - Finish to process ME-20-10-16752-673 case and save in MOJ/results/db/weapon_docx/ME-20-10-16752-673
+2025-04-24 12:53:29 - INFO - Finish to process ME-20-10-42051-55 case and save in MOJ/results/db/weapon_docx/ME-20-10-42051-55
+2025-04-24 12:53:35 - INFO - Finish to process ME-20-10-52099-93 case and save in MOJ/results/db/weapon_docx/ME-20-10-52099-93
+2025-04-24 12:53:44 - INFO - Finish to process ME-20-11-39675-821 case and save in MOJ/results/db/weapon_docx/ME-20-11-39675-821
+2025-04-24 12:53:54 - INFO - Finish to process ME-20-11-4102-109 case and save in MOJ/results/db/weapon_docx/ME-20-11-4102-109
+2025-04-24 12:54:03 - INFO - Finish to process ME-20-11-67454-625 case and save in MOJ/results/db/weapon_docx/ME-20-11-67454-625
+2025-04-24 12:54:10 - INFO - Finish to process ME-20-11-72146-895 case and save in MOJ/results/db/weapon_docx/ME-20-11-72146-895
+2025-04-24 12:54:22 - INFO - Finish to process ME-20-11-8333-812 case and save in MOJ/results/db/weapon_docx/ME-20-11-8333-812
+2025-04-24 12:54:34 - INFO - Finish to process ME-20-12-17766-27 case and save in MOJ/results/db/weapon_docx/ME-20-12-17766-27
+2025-04-24 12:54:43 - INFO - Finish to process ME-20-12-26565-44 case and save in MOJ/results/db/weapon_docx/ME-20-12-26565-44
+2025-04-24 12:54:55 - INFO - Finish to process ME-20-12-36505-697 case and save in MOJ/results/db/weapon_docx/ME-20-12-36505-697
+2025-04-24 12:55:07 - INFO - Finish to process ME-20-12-52077-379 case and save in MOJ/results/db/weapon_docx/ME-20-12-52077-379
+2025-04-24 12:55:28 - INFO - Finish to process ME-20-12-41762-388 case and save in MOJ/results/db/weapon_docx/ME-20-12-41762-388
+2025-04-24 12:55:38 - INFO - Finish to process ME-20-12-57272-823 case and save in MOJ/results/db/weapon_docx/ME-20-12-57272-823
+2025-04-24 12:55:49 - INFO - Finish to process ME-21-01-24822-639 case and save in MOJ/results/db/weapon_docx/ME-21-01-24822-639
+2025-04-24 12:56:00 - INFO - Finish to process ME-21-01-1802-486 case and save in MOJ/results/db/weapon_docx/ME-21-01-1802-486
+2025-04-24 12:56:12 - INFO - Finish to process ME-21-01-15387-154 case and save in MOJ/results/db/weapon_docx/ME-21-01-15387-154
+2025-04-24 12:56:28 - INFO - Finish to process ME-21-02-22526-917 case and save in MOJ/results/db/weapon_docx/ME-21-02-22526-917
+2025-04-24 12:56:35 - INFO - Finish to process ME-21-02-27625-919 case and save in MOJ/results/db/weapon_docx/ME-21-02-27625-919
+2025-04-24 12:56:47 - INFO - Finish to process ME-21-02-41600-13 case and save in MOJ/results/db/weapon_docx/ME-21-02-41600-13
+2025-04-24 12:56:56 - INFO - Finish to process ME-21-02-46604-513 case and save in MOJ/results/db/weapon_docx/ME-21-02-46604-513
+2025-04-24 12:57:34 - INFO - Finish to process ME-21-02-6153-656 case and save in MOJ/results/db/weapon_docx/ME-21-02-6153-656
+2025-04-24 12:57:57 - INFO - Finish to process ME-21-02-7109-329 case and save in MOJ/results/db/weapon_docx/ME-21-02-7109-329
+2025-04-24 12:58:02 - INFO - Finish to process ME-21-02-9264-706 case and save in MOJ/results/db/weapon_docx/ME-21-02-9264-706
+2025-04-24 12:58:13 - INFO - Finish to process ME-21-03-25639-86 case and save in MOJ/results/db/weapon_docx/ME-21-03-25639-86
+2025-04-24 12:58:20 - INFO - Finish to process ME-21-03-28744-835 case and save in MOJ/results/db/weapon_docx/ME-21-03-28744-835
+2025-04-24 12:58:25 - INFO - Finish to process ME-21-03-22094-158 case and save in MOJ/results/db/weapon_docx/ME-21-03-22094-158
+2025-04-24 12:58:33 - INFO - Finish to process ME-21-03-31811-922 case and save in MOJ/results/db/weapon_docx/ME-21-03-31811-922
+2025-04-24 12:58:44 - INFO - Finish to process ME-21-03-54230-484 case and save in MOJ/results/db/weapon_docx/ME-21-03-54230-484
+2025-04-24 12:59:08 - INFO - Finish to process ME-21-03-54338-22 case and save in MOJ/results/db/weapon_docx/ME-21-03-54338-22
+2025-04-24 12:59:21 - INFO - Finish to process ME-21-03-54460-987 case and save in MOJ/results/db/weapon_docx/ME-21-03-54460-987
+2025-04-24 12:59:26 - INFO - Finish to process ME-21-03-54852-541 case and save in MOJ/results/db/weapon_docx/ME-21-03-54852-541
+2025-04-24 12:59:38 - INFO - Finish to process ME-21-03-56762-976 case and save in MOJ/results/db/weapon_docx/ME-21-03-56762-976
+2025-04-24 12:59:50 - INFO - Finish to process ME-21-03-58852-44 case and save in MOJ/results/db/weapon_docx/ME-21-03-58852-44
+2025-04-24 12:59:54 - INFO - Finish to process ME-21-03-7053-594 case and save in MOJ/results/db/weapon_docx/ME-21-03-7053-594
+2025-04-24 13:00:01 - INFO - Finish to process ME-21-04-31822-60 case and save in MOJ/results/db/weapon_docx/ME-21-04-31822-60
+2025-04-24 13:00:18 - INFO - Finish to process ME-21-04-31842-520 case and save in MOJ/results/db/weapon_docx/ME-21-04-31842-520
+2025-04-24 13:00:31 - INFO - Finish to process ME-21-04-5683-658 case and save in MOJ/results/db/weapon_docx/ME-21-04-5683-658
+2025-04-24 13:00:47 - INFO - Finish to process ME-21-05-30706-496 case and save in MOJ/results/db/weapon_docx/ME-21-05-30706-496
+2025-04-24 13:01:04 - INFO - Finish to process ME-21-05-4531-704 case and save in MOJ/results/db/weapon_docx/ME-21-05-4531-704
+2025-04-24 13:01:10 - INFO - Finish to process ME-21-04-63360-996 case and save in MOJ/results/db/weapon_docx/ME-21-04-63360-996
+2025-04-24 13:01:21 - INFO - Finish to process ME-21-05-54337-602 case and save in MOJ/results/db/weapon_docx/ME-21-05-54337-602
+2025-04-24 13:01:39 - INFO - Finish to process ME-21-05-7279-649 case and save in MOJ/results/db/weapon_docx/ME-21-05-7279-649
+2025-04-24 13:01:45 - INFO - Finish to process ME-21-05-64119-375 case and save in MOJ/results/db/weapon_docx/ME-21-05-64119-375
+2025-04-24 13:01:52 - INFO - Finish to process ME-21-06-1178-496 case and save in MOJ/results/db/weapon_docx/ME-21-06-1178-496
+2025-04-24 13:02:11 - INFO - Finish to process ME-21-06-14284-569 case and save in MOJ/results/db/weapon_docx/ME-21-06-14284-569
+2025-04-24 13:02:20 - INFO - Finish to process ME-21-06-23542-959 case and save in MOJ/results/db/weapon_docx/ME-21-06-23542-959
+2025-04-24 13:02:52 - INFO - Finish to process ME-21-06-25853-92 case and save in MOJ/results/db/weapon_docx/ME-21-06-25853-92
+2025-04-24 13:03:00 - INFO - Finish to process ME-21-06-40118-647 case and save in MOJ/results/db/weapon_docx/ME-21-06-40118-647
+2025-04-24 13:03:14 - INFO - Finish to process ME-21-06-43085-219 case and save in MOJ/results/db/weapon_docx/ME-21-06-43085-219
+2025-04-24 13:03:24 - INFO - Finish to process ME-21-07-1715-302 case and save in MOJ/results/db/weapon_docx/ME-21-07-1715-302
+2025-04-24 13:03:28 - INFO - Finish to process ME-21-07-19759-213 case and save in MOJ/results/db/weapon_docx/ME-21-07-19759-213
+2025-04-24 13:03:32 - INFO - Finish to process ME-21-07-3045-641 case and save in MOJ/results/db/weapon_docx/ME-21-07-3045-641
+2025-04-24 13:03:38 - INFO - Finish to process ME-21-07-35397-408 case and save in MOJ/results/db/weapon_docx/ME-21-07-35397-408
+2025-04-24 13:03:51 - INFO - Finish to process ME-21-07-39587-22 case and save in MOJ/results/db/weapon_docx/ME-21-07-39587-22
+2025-04-24 13:03:59 - INFO - Finish to process ME-21-07-57526-989 case and save in MOJ/results/db/weapon_docx/ME-21-07-57526-989
+2025-04-24 13:04:41 - INFO - Finish to process ME-21-07-63185-208 case and save in MOJ/results/db/weapon_docx/ME-21-07-63185-208
+2025-04-24 13:04:56 - INFO - Finish to process ME-21-07-8416-707 case and save in MOJ/results/db/weapon_docx/ME-21-07-8416-707
+2025-04-24 13:05:05 - INFO - Finish to process ME-21-08-10205-88 case and save in MOJ/results/db/weapon_docx/ME-21-08-10205-88
+2025-04-24 13:05:15 - INFO - Finish to process ME-21-08-13164-305 case and save in MOJ/results/db/weapon_docx/ME-21-08-13164-305
+2025-04-24 13:05:30 - INFO - Finish to process ME-21-08-2108-757 case and save in MOJ/results/db/weapon_docx/ME-21-08-2108-757
+2025-04-24 13:05:40 - INFO - Finish to process ME-21-08-15133-739 case and save in MOJ/results/db/weapon_docx/ME-21-08-15133-739
+2025-04-24 13:05:47 - INFO - Finish to process ME-21-08-26036-779 case and save in MOJ/results/db/weapon_docx/ME-21-08-26036-779
+2025-04-24 13:05:56 - INFO - Finish to process ME-21-08-51296-921 case and save in MOJ/results/db/weapon_docx/ME-21-08-51296-921
+2025-04-24 13:06:08 - INFO - Finish to process ME-21-08-43597-961 case and save in MOJ/results/db/weapon_docx/ME-21-08-43597-961
+2025-04-24 13:06:22 - INFO - Finish to process ME-21-08-58773-302 case and save in MOJ/results/db/weapon_docx/ME-21-08-58773-302
+2025-04-24 13:06:28 - INFO - Finish to process ME-21-08-51607-44 case and save in MOJ/results/db/weapon_docx/ME-21-08-51607-44
+2025-04-24 13:06:43 - INFO - Finish to process ME-21-09-15135-10 case and save in MOJ/results/db/weapon_docx/ME-21-09-15135-10
+2025-04-24 13:06:48 - INFO - Finish to process ME-21-09-15710-436 case and save in MOJ/results/db/weapon_docx/ME-21-09-15710-436
+2025-04-24 13:07:05 - INFO - Finish to process ME-21-09-26549-553 case and save in MOJ/results/db/weapon_docx/ME-21-09-26549-553
+2025-04-24 13:07:11 - INFO - Finish to process ME-21-09-34694-743 case and save in MOJ/results/db/weapon_docx/ME-21-09-34694-743
+2025-04-24 13:07:20 - INFO - Finish to process ME-21-09-34737-497 case and save in MOJ/results/db/weapon_docx/ME-21-09-34737-497
+2025-04-24 13:07:26 - INFO - Finish to process ME-21-09-6574-895 case and save in MOJ/results/db/weapon_docx/ME-21-09-6574-895
+2025-04-24 13:07:35 - INFO - Finish to process ME-21-10-12466-44 case and save in MOJ/results/db/weapon_docx/ME-21-10-12466-44
+2025-04-24 13:07:53 - INFO - Finish to process ME-21-10-18039-734 case and save in MOJ/results/db/weapon_docx/ME-21-10-18039-734
+2025-04-24 13:08:08 - INFO - Finish to process ME-21-10-18557-340 case and save in MOJ/results/db/weapon_docx/ME-21-10-18557-340
+2025-04-24 13:08:24 - INFO - Finish to process ME-21-10-33945-332 case and save in MOJ/results/db/weapon_docx/ME-21-10-33945-332
+2025-04-24 13:08:30 - INFO - Finish to process ME-21-10-71333-899 case and save in MOJ/results/db/weapon_docx/ME-21-10-71333-899
+2025-04-24 13:08:41 - INFO - Finish to process ME-21-11-1136-648 case and save in MOJ/results/db/weapon_docx/ME-21-11-1136-648
+2025-04-24 13:08:48 - INFO - Finish to process ME-21-11-12615-874 case and save in MOJ/results/db/weapon_docx/ME-21-11-12615-874
+2025-04-24 13:08:55 - INFO - Finish to process ME-21-11-14411-44 case and save in MOJ/results/db/weapon_docx/ME-21-11-14411-44
+2025-04-24 13:09:06 - INFO - Finish to process ME-21-11-17137-270 case and save in MOJ/results/db/weapon_docx/ME-21-11-17137-270
+2025-04-24 13:09:15 - INFO - Finish to process ME-21-11-17776-835 case and save in MOJ/results/db/weapon_docx/ME-21-11-17776-835
+2025-04-24 13:09:21 - INFO - Finish to process ME-21-11-17856-44 case and save in MOJ/results/db/weapon_docx/ME-21-11-17856-44
+2025-04-24 13:09:37 - INFO - Finish to process ME-21-11-17865-369 case and save in MOJ/results/db/weapon_docx/ME-21-11-17865-369
+2025-04-24 13:09:48 - INFO - Finish to process ME-21-11-26567-571 case and save in MOJ/results/db/weapon_docx/ME-21-11-26567-571
+2025-04-24 13:09:54 - INFO - Finish to process ME-21-11-47348-327 case and save in MOJ/results/db/weapon_docx/ME-21-11-47348-327
+2025-04-24 13:10:09 - INFO - Finish to process ME-21-11-59488-113 case and save in MOJ/results/db/weapon_docx/ME-21-11-59488-113
+2025-04-24 13:10:20 - INFO - Finish to process ME-21-11-68096-235 case and save in MOJ/results/db/weapon_docx/ME-21-11-68096-235
+2025-04-24 13:10:38 - INFO - Finish to process ME-21-11-26210-55 case and save in MOJ/results/db/weapon_docx/ME-21-11-26210-55
+2025-04-24 13:10:53 - INFO - Finish to process ME-21-12-19130-903 case and save in MOJ/results/db/weapon_docx/ME-21-12-19130-903
+2025-04-24 13:11:26 - INFO - Finish to process ME-21-12-22417-797 case and save in MOJ/results/db/weapon_docx/ME-21-12-22417-797
+2025-04-24 13:11:53 - INFO - Finish to process ME-21-12-31935-960 case and save in MOJ/results/db/weapon_docx/ME-21-12-31935-960
+2025-04-24 13:11:59 - INFO - Finish to process ME-21-12-35473-735 case and save in MOJ/results/db/weapon_docx/ME-21-12-35473-735
+2025-04-24 13:12:08 - INFO - Finish to process ME-21-12-39792-427 case and save in MOJ/results/db/weapon_docx/ME-21-12-39792-427
+2025-04-24 13:12:22 - INFO - Finish to process ME-21-12-41830-648 case and save in MOJ/results/db/weapon_docx/ME-21-12-41830-648
+2025-04-24 13:12:35 - INFO - Finish to process ME-21-12-34630-209 case and save in MOJ/results/db/weapon_docx/ME-21-12-34630-209
+2025-04-24 13:12:48 - INFO - Finish to process ME-21-12-45456-480 case and save in MOJ/results/db/weapon_docx/ME-21-12-45456-480
+2025-04-24 13:13:04 - INFO - Finish to process ME-21-12-51471-829 case and save in MOJ/results/db/weapon_docx/ME-21-12-51471-829
+2025-04-24 13:13:12 - INFO - Finish to process ME-21-12-54202-788 case and save in MOJ/results/db/weapon_docx/ME-21-12-54202-788
+2025-04-24 13:13:26 - INFO - Finish to process ME-21-12-60429-844 case and save in MOJ/results/db/weapon_docx/ME-21-12-60429-844
+2025-04-24 13:13:39 - INFO - Finish to process ME-21-12-67356-126 case and save in MOJ/results/db/weapon_docx/ME-21-12-67356-126
+2025-04-24 13:13:51 - INFO - Finish to process ME-22-01-1631-461 case and save in MOJ/results/db/weapon_docx/ME-22-01-1631-461
+2025-04-24 13:14:12 - INFO - Finish to process ME-22-01-16521-377 case and save in MOJ/results/db/weapon_docx/ME-22-01-16521-377
+2025-04-24 13:14:56 - INFO - Finish to process ME-22-01-17033-293 case and save in MOJ/results/db/weapon_docx/ME-22-01-17033-293
+2025-04-24 13:15:24 - INFO - Finish to process ME-22-01-44620-940 case and save in MOJ/results/db/weapon_docx/ME-22-01-44620-940
+2025-04-24 13:15:31 - INFO - Finish to process ME-22-01-31216-50 case and save in MOJ/results/db/weapon_docx/ME-22-01-31216-50
+2025-04-24 13:15:45 - INFO - Finish to process ME-22-01-36287-106 case and save in MOJ/results/db/weapon_docx/ME-22-01-36287-106
+2025-04-24 13:15:49 - INFO - Finish to process ME-22-01-42106-936 case and save in MOJ/results/db/weapon_docx/ME-22-01-42106-936
+2025-04-24 13:15:57 - INFO - Finish to process ME-22-01-49203-848 case and save in MOJ/results/db/weapon_docx/ME-22-01-49203-848
+2025-04-24 13:16:24 - INFO - Finish to process ME-22-01-59796-481 case and save in MOJ/results/db/weapon_docx/ME-22-01-59796-481
+2025-04-24 13:16:33 - INFO - Finish to process ME-22-01-64303-683 case and save in MOJ/results/db/weapon_docx/ME-22-01-64303-683
+2025-04-24 13:16:39 - INFO - Finish to process ME-22-02-16753-780 case and save in MOJ/results/db/weapon_docx/ME-22-02-16753-780
+2025-04-24 13:16:51 - INFO - Finish to process ME-22-02-30617-958 case and save in MOJ/results/db/weapon_docx/ME-22-02-30617-958
+2025-04-24 13:17:09 - INFO - Finish to process ME-22-02-39831-984 case and save in MOJ/results/db/weapon_docx/ME-22-02-39831-984
+2025-04-24 13:17:15 - INFO - Finish to process ME-22-02-40082-144 case and save in MOJ/results/db/weapon_docx/ME-22-02-40082-144
+2025-04-24 13:17:35 - INFO - Finish to process ME-22-02-41952-138 case and save in MOJ/results/db/weapon_docx/ME-22-02-41952-138
+2025-04-24 13:17:45 - INFO - Finish to process ME-22-02-47276-431 case and save in MOJ/results/db/weapon_docx/ME-22-02-47276-431
+2025-04-24 13:18:18 - INFO - Finish to process ME-22-02-53431-44 case and save in MOJ/results/db/weapon_docx/ME-22-02-53431-44
+2025-04-24 13:18:24 - INFO - Finish to process ME-22-02-6968-902 case and save in MOJ/results/db/weapon_docx/ME-22-02-6968-902
+2025-04-24 13:18:29 - INFO - Finish to process ME-22-03-22588-666 case and save in MOJ/results/db/weapon_docx/ME-22-03-22588-666
+2025-04-24 13:18:40 - INFO - Finish to process ME-22-03-25624-24 case and save in MOJ/results/db/weapon_docx/ME-22-03-25624-24
+2025-04-24 13:19:04 - INFO - Finish to process ME-22-03-40823-402 case and save in MOJ/results/db/weapon_docx/ME-22-03-40823-402
+2025-04-24 13:19:20 - INFO - Finish to process ME-22-03-28844-460 case and save in MOJ/results/db/weapon_docx/ME-22-03-28844-460
+2025-04-24 13:19:36 - INFO - Finish to process ME-22-03-30003-679 case and save in MOJ/results/db/weapon_docx/ME-22-03-30003-679
+2025-04-24 13:19:49 - INFO - Finish to process ME-22-03-37780-703 case and save in MOJ/results/db/weapon_docx/ME-22-03-37780-703
+2025-04-24 13:19:57 - INFO - Finish to process ME-22-03-3951-902 case and save in MOJ/results/db/weapon_docx/ME-22-03-3951-902
+2025-04-24 13:20:05 - INFO - Finish to process ME-22-03-43581-366 case and save in MOJ/results/db/weapon_docx/ME-22-03-43581-366
+2025-04-24 13:20:37 - INFO - Finish to process ME-22-03-46930-359 case and save in MOJ/results/db/weapon_docx/ME-22-03-46930-359
+2025-04-24 13:20:49 - INFO - Finish to process ME-22-03-52188-502 case and save in MOJ/results/db/weapon_docx/ME-22-03-52188-502
+2025-04-24 13:20:57 - INFO - Finish to process ME-22-03-52964-443 case and save in MOJ/results/db/weapon_docx/ME-22-03-52964-443
+2025-04-24 13:21:27 - INFO - Finish to process ME-22-03-66385-129 case and save in MOJ/results/db/weapon_docx/ME-22-03-66385-129
+2025-04-24 13:21:42 - INFO - Finish to process ME-22-04-1390-345 case and save in MOJ/results/db/weapon_docx/ME-22-04-1390-345
+2025-04-24 13:21:49 - INFO - Finish to process ME-22-04-18421-535 case and save in MOJ/results/db/weapon_docx/ME-22-04-18421-535
+2025-04-24 13:22:12 - INFO - Finish to process ME-22-04-15802-560 case and save in MOJ/results/db/weapon_docx/ME-22-04-15802-560
+2025-04-24 13:22:33 - INFO - Finish to process ME-22-04-28787-400 case and save in MOJ/results/db/weapon_docx/ME-22-04-28787-400
+2025-04-24 13:22:49 - INFO - Finish to process ME-22-04-54444-17 case and save in MOJ/results/db/weapon_docx/ME-22-04-54444-17
+2025-04-24 13:22:58 - INFO - Finish to process ME-22-04-54514-682 case and save in MOJ/results/db/weapon_docx/ME-22-04-54514-682
+2025-04-24 13:23:12 - INFO - Finish to process ME-22-05-12028-96 case and save in MOJ/results/db/weapon_docx/ME-22-05-12028-96
+2025-04-24 13:23:33 - INFO - Finish to process ME-22-05-27544-102 case and save in MOJ/results/db/weapon_docx/ME-22-05-27544-102
+2025-04-24 13:23:38 - INFO - Finish to process ME-22-05-32410-317 case and save in MOJ/results/db/weapon_docx/ME-22-05-32410-317
+2025-04-24 13:23:46 - INFO - Finish to process ME-22-05-36111-889 case and save in MOJ/results/db/weapon_docx/ME-22-05-36111-889
+2025-04-24 13:23:57 - INFO - Finish to process ME-22-05-38609-858 case and save in MOJ/results/db/weapon_docx/ME-22-05-38609-858
+2025-04-24 13:24:17 - INFO - Finish to process ME-22-05-41754-494 case and save in MOJ/results/db/weapon_docx/ME-22-05-41754-494
+2025-04-24 13:24:23 - INFO - Finish to process ME-22-05-42197-44 case and save in MOJ/results/db/weapon_docx/ME-22-05-42197-44
+2025-04-24 13:24:38 - INFO - Finish to process ME-22-05-45025-929 case and save in MOJ/results/db/weapon_docx/ME-22-05-45025-929
+2025-04-24 13:24:52 - INFO - Finish to process ME-22-05-57687-556 case and save in MOJ/results/db/weapon_docx/ME-22-05-57687-556
+2025-04-24 13:25:11 - INFO - Finish to process ME-22-05-48621-756 case and save in MOJ/results/db/weapon_docx/ME-22-05-48621-756
+2025-04-24 13:25:24 - INFO - Finish to process ME-22-05-56860-323 case and save in MOJ/results/db/weapon_docx/ME-22-05-56860-323
+2025-04-24 13:25:49 - INFO - Finish to process ME-22-05-57177-26 case and save in MOJ/results/db/weapon_docx/ME-22-05-57177-26
+2025-04-24 13:26:01 - INFO - Finish to process ME-22-06-11734-876 case and save in MOJ/results/db/weapon_docx/ME-22-06-11734-876
+2025-04-24 13:26:12 - INFO - Finish to process ME-22-06-50487-582 case and save in MOJ/results/db/weapon_docx/ME-22-06-50487-582
+2025-04-24 13:26:17 - INFO - Finish to process ME-22-06-63303-277 case and save in MOJ/results/db/weapon_docx/ME-22-06-63303-277
+2025-04-24 13:26:30 - INFO - Finish to process ME-22-06-63995-262 case and save in MOJ/results/db/weapon_docx/ME-22-06-63995-262
+2025-04-24 13:26:35 - INFO - Finish to process ME-22-07-10374-446 case and save in MOJ/results/db/weapon_docx/ME-22-07-10374-446
+2025-04-24 13:26:46 - INFO - Finish to process ME-22-07-12606-792 case and save in MOJ/results/db/weapon_docx/ME-22-07-12606-792
+2025-04-24 13:26:55 - INFO - Finish to process ME-22-07-22913-85 case and save in MOJ/results/db/weapon_docx/ME-22-07-22913-85
+2025-04-24 13:27:12 - INFO - Finish to process ME-22-07-27619-234 case and save in MOJ/results/db/weapon_docx/ME-22-07-27619-234
+2025-04-24 13:27:21 - INFO - Finish to process ME-22-07-30966-95 case and save in MOJ/results/db/weapon_docx/ME-22-07-30966-95
+2025-04-24 13:27:35 - INFO - Finish to process ME-22-07-4612-939 case and save in MOJ/results/db/weapon_docx/ME-22-07-4612-939
+2025-04-24 13:27:46 - INFO - Finish to process ME-22-07-46737-806 case and save in MOJ/results/db/weapon_docx/ME-22-07-46737-806
+2025-04-24 13:27:56 - INFO - Finish to process ME-22-07-46916-795 case and save in MOJ/results/db/weapon_docx/ME-22-07-46916-795
+2025-04-24 13:28:08 - INFO - Finish to process ME-22-07-61841-720 case and save in MOJ/results/db/weapon_docx/ME-22-07-61841-720
+2025-04-24 13:28:17 - INFO - Finish to process ME-22-07-6985-453 case and save in MOJ/results/db/weapon_docx/ME-22-07-6985-453
+2025-04-24 13:28:39 - INFO - Finish to process ME-22-08-32320-437 case and save in MOJ/results/db/weapon_docx/ME-22-08-32320-437
+2025-04-24 13:28:54 - INFO - Finish to process ME-22-09-16760-95 case and save in MOJ/results/db/weapon_docx/ME-22-09-16760-95
+2025-04-24 13:29:08 - INFO - Finish to process ME-22-09-16779-428 case and save in MOJ/results/db/weapon_docx/ME-22-09-16779-428
+2025-04-24 13:29:18 - INFO - Finish to process ME-22-09-24257-671 case and save in MOJ/results/db/weapon_docx/ME-22-09-24257-671
+2025-04-24 13:29:31 - INFO - Finish to process ME-22-09-50626-437 case and save in MOJ/results/db/weapon_docx/ME-22-09-50626-437
+2025-04-24 13:29:47 - INFO - Finish to process ME-22-09-52789-72 case and save in MOJ/results/db/weapon_docx/ME-22-09-52789-72
+2025-04-24 13:30:00 - INFO - Finish to process ME-22-09-52848-509 case and save in MOJ/results/db/weapon_docx/ME-22-09-52848-509
+2025-04-24 13:30:09 - INFO - Finish to process ME-22-10-16020-86 case and save in MOJ/results/db/weapon_docx/ME-22-10-16020-86
+2025-04-24 13:30:16 - INFO - Finish to process ME-22-10-17655-56 case and save in MOJ/results/db/weapon_docx/ME-22-10-17655-56
+2025-04-24 13:30:24 - INFO - Finish to process ME-22-10-20068-902 case and save in MOJ/results/db/weapon_docx/ME-22-10-20068-902
+2025-04-24 13:30:36 - INFO - Finish to process ME-22-10-54664-335 case and save in MOJ/results/db/weapon_docx/ME-22-10-54664-335
+2025-04-24 13:30:42 - INFO - Finish to process ME-22-11-1716-487 case and save in MOJ/results/db/weapon_docx/ME-22-11-1716-487
+2025-04-24 13:30:50 - INFO - Finish to process ME-22-12-13312-976 case and save in MOJ/results/db/weapon_docx/ME-22-12-13312-976
+2025-04-24 13:31:07 - INFO - Finish to process ME-22-11-20644-726 case and save in MOJ/results/db/weapon_docx/ME-22-11-20644-726
+2025-04-24 13:31:16 - INFO - Finish to process ME-22-11-24758-835 case and save in MOJ/results/db/weapon_docx/ME-22-11-24758-835
+2025-04-24 13:31:26 - INFO - Finish to process ME-22-11-53954-99 case and save in MOJ/results/db/weapon_docx/ME-22-11-53954-99
+2025-04-24 13:31:41 - INFO - Finish to process ME-22-12-13995-264 case and save in MOJ/results/db/weapon_docx/ME-22-12-13995-264
+2025-04-24 13:31:54 - INFO - Finish to process ME-22-12-20615-248 case and save in MOJ/results/db/weapon_docx/ME-22-12-20615-248
+2025-04-24 13:32:06 - INFO - Finish to process ME-22-12-23071-684 case and save in MOJ/results/db/weapon_docx/ME-22-12-23071-684
+2025-04-24 13:32:11 - INFO - Finish to process ME-22-12-23328-355 case and save in MOJ/results/db/weapon_docx/ME-22-12-23328-355
+2025-04-24 13:32:23 - INFO - Finish to process ME-22-12-45226-349 case and save in MOJ/results/db/weapon_docx/ME-22-12-45226-349
+2025-04-24 13:32:33 - INFO - Finish to process ME-22-12-50477-202 case and save in MOJ/results/db/weapon_docx/ME-22-12-50477-202
+2025-04-24 13:32:44 - INFO - Finish to process ME-22-12-7311-502 case and save in MOJ/results/db/weapon_docx/ME-22-12-7311-502
+2025-04-24 13:32:55 - INFO - Finish to process ME-23-01-11167-264 case and save in MOJ/results/db/weapon_docx/ME-23-01-11167-264
+2025-04-24 13:33:00 - INFO - Finish to process ME-23-01-72283-15 case and save in MOJ/results/db/weapon_docx/ME-23-01-72283-15
+2025-04-24 13:33:12 - INFO - Finish to process ME-23-01-73275-925 case and save in MOJ/results/db/weapon_docx/ME-23-01-73275-925
+2025-04-24 13:33:22 - INFO - Finish to process ME-23-01-26702-919 case and save in MOJ/results/db/weapon_docx/ME-23-01-26702-919
+2025-04-24 13:33:32 - INFO - Finish to process ME-23-01-31821-142 case and save in MOJ/results/db/weapon_docx/ME-23-01-31821-142
+2025-04-24 13:33:45 - INFO - Finish to process ME-23-01-54202-838 case and save in MOJ/results/db/weapon_docx/ME-23-01-54202-838
+2025-04-24 13:33:59 - INFO - Finish to process ME-23-01-76750-599 case and save in MOJ/results/db/weapon_docx/ME-23-01-76750-599
+2025-04-24 13:34:04 - INFO - Finish to process ME-23-02-25009-86 case and save in MOJ/results/db/weapon_docx/ME-23-02-25009-86
+2025-04-24 13:34:10 - INFO - Finish to process ME-23-02-3910-114 case and save in MOJ/results/db/weapon_docx/ME-23-02-3910-114
+2025-04-24 13:34:15 - INFO - Finish to process ME-23-02-3952-994 case and save in MOJ/results/db/weapon_docx/ME-23-02-3952-994
+2025-04-24 13:34:24 - INFO - Finish to process ME-23-02-40519-759 case and save in MOJ/results/db/weapon_docx/ME-23-02-40519-759
+2025-04-24 13:34:35 - INFO - Finish to process ME-23-02-42613-155 case and save in MOJ/results/db/weapon_docx/ME-23-02-42613-155
+2025-04-24 13:34:46 - INFO - Finish to process ME-23-02-4347-932 case and save in MOJ/results/db/weapon_docx/ME-23-02-4347-932
+2025-04-24 13:34:57 - INFO - Finish to process ME-23-02-4353-897 case and save in MOJ/results/db/weapon_docx/ME-23-02-4353-897
+2025-04-24 13:35:11 - INFO - Finish to process ME-23-02-63355-226 case and save in MOJ/results/db/weapon_docx/ME-23-02-63355-226
+2025-04-24 13:35:17 - INFO - Finish to process ME-23-02-56677-485 case and save in MOJ/results/db/weapon_docx/ME-23-02-56677-485
+2025-04-24 13:35:35 - INFO - Finish to process ME-23-03-20387-947 case and save in MOJ/results/db/weapon_docx/ME-23-03-20387-947
+2025-04-24 13:35:48 - INFO - Finish to process ME-23-03-50709-230 case and save in MOJ/results/db/weapon_docx/ME-23-03-50709-230
+2025-04-24 13:35:52 - INFO - Finish to process ME-23-03-57854-908 case and save in MOJ/results/db/weapon_docx/ME-23-03-57854-908
+2025-04-24 13:35:59 - INFO - Finish to process ME-23-03-64156-901 case and save in MOJ/results/db/weapon_docx/ME-23-03-64156-901
+2025-04-24 13:36:17 - INFO - Finish to process ME-23-03-50998-340 case and save in MOJ/results/db/weapon_docx/ME-23-03-50998-340
+2025-04-24 13:36:26 - INFO - Finish to process ME-23-03-69777-130 case and save in MOJ/results/db/weapon_docx/ME-23-03-69777-130
+2025-04-24 13:36:36 - INFO - Finish to process ME-23-03-69797-205 case and save in MOJ/results/db/weapon_docx/ME-23-03-69797-205
+2025-04-24 13:36:44 - INFO - Finish to process ME-23-03-69852-606 case and save in MOJ/results/db/weapon_docx/ME-23-03-69852-606
+2025-04-24 13:36:56 - INFO - Finish to process ME-23-03-69925-179 case and save in MOJ/results/db/weapon_docx/ME-23-03-69925-179
+2025-04-24 13:37:04 - INFO - Finish to process ME-23-03-69933-149 case and save in MOJ/results/db/weapon_docx/ME-23-03-69933-149
+2025-04-24 13:37:17 - INFO - Finish to process ME-23-03-69941-101 case and save in MOJ/results/db/weapon_docx/ME-23-03-69941-101
+2025-04-24 13:37:25 - INFO - Finish to process ME-23-03-69945-159 case and save in MOJ/results/db/weapon_docx/ME-23-03-69945-159
+2025-04-24 13:37:37 - INFO - Finish to process ME-23-03-70373-426 case and save in MOJ/results/db/weapon_docx/ME-23-03-70373-426
+2025-04-24 13:37:48 - INFO - Finish to process ME-23-03-70450-339 case and save in MOJ/results/db/weapon_docx/ME-23-03-70450-339
+2025-04-24 13:38:08 - INFO - Finish to process ME-23-03-7774-256 case and save in MOJ/results/db/weapon_docx/ME-23-03-7774-256
+2025-04-24 13:38:20 - INFO - Finish to process ME-23-04-10838-735 case and save in MOJ/results/db/weapon_docx/ME-23-04-10838-735
+2025-04-24 13:38:33 - INFO - Finish to process ME-23-04-12158-504 case and save in MOJ/results/db/weapon_docx/ME-23-04-12158-504
+2025-04-24 13:38:41 - INFO - Finish to process ME-23-04-24634-234 case and save in MOJ/results/db/weapon_docx/ME-23-04-24634-234
+2025-04-24 13:38:53 - INFO - Finish to process ME-23-04-35434-584 case and save in MOJ/results/db/weapon_docx/ME-23-04-35434-584
+2025-04-24 13:39:03 - INFO - Finish to process ME-23-04-37966-34 case and save in MOJ/results/db/weapon_docx/ME-23-04-37966-34
+2025-04-24 13:39:14 - INFO - Finish to process ME-23-04-51199-709 case and save in MOJ/results/db/weapon_docx/ME-23-04-51199-709
+2025-04-24 13:39:30 - INFO - Finish to process ME-23-04-8639-766 case and save in MOJ/results/db/weapon_docx/ME-23-04-8639-766
+2025-04-24 13:39:49 - INFO - Finish to process ME-23-04-8444-574 case and save in MOJ/results/db/weapon_docx/ME-23-04-8444-574
+2025-04-24 13:40:03 - INFO - Finish to process ME-23-05-18210-202 case and save in MOJ/results/db/weapon_docx/ME-23-05-18210-202
+2025-04-24 13:40:17 - INFO - Finish to process ME-23-05-16190-251 case and save in MOJ/results/db/weapon_docx/ME-23-05-16190-251
+2025-04-24 13:40:34 - INFO - Finish to process ME-23-05-22405-620 case and save in MOJ/results/db/weapon_docx/ME-23-05-22405-620
+2025-04-24 13:40:43 - INFO - Finish to process ME-23-05-24670-541 case and save in MOJ/results/db/weapon_docx/ME-23-05-24670-541
+2025-04-24 13:40:56 - INFO - Finish to process ME-23-05-29305-552 case and save in MOJ/results/db/weapon_docx/ME-23-05-29305-552
+2025-04-24 13:41:04 - INFO - Finish to process ME-23-05-32162-464 case and save in MOJ/results/db/weapon_docx/ME-23-05-32162-464
+2025-04-24 13:41:15 - INFO - Finish to process ME-23-05-32277-824 case and save in MOJ/results/db/weapon_docx/ME-23-05-32277-824
+2025-04-24 13:41:41 - INFO - Finish to process ME-23-05-61660-907 case and save in MOJ/results/db/weapon_docx/ME-23-05-61660-907
+2025-04-24 13:41:50 - INFO - Finish to process ME-23-05-63155-853 case and save in MOJ/results/db/weapon_docx/ME-23-05-63155-853
+2025-04-24 13:42:02 - INFO - Finish to process ME-23-05-65630-915 case and save in MOJ/results/db/weapon_docx/ME-23-05-65630-915
+2025-04-24 13:42:10 - INFO - Finish to process ME-23-06-1139-79 case and save in MOJ/results/db/weapon_docx/ME-23-06-1139-79
+2025-04-24 13:42:13 - INFO - Finish to process ME-23-05-76595-504 case and save in MOJ/results/db/weapon_docx/ME-23-05-76595-504
+2025-04-24 13:42:30 - INFO - Finish to process ME-23-06-1219-854 case and save in MOJ/results/db/weapon_docx/ME-23-06-1219-854
+2025-04-24 13:42:35 - INFO - Finish to process ME-23-06-18912-554 case and save in MOJ/results/db/weapon_docx/ME-23-06-18912-554
+2025-04-24 13:42:59 - INFO - Finish to process ME-23-06-24350-756 case and save in MOJ/results/db/weapon_docx/ME-23-06-24350-756
+2025-04-24 13:43:11 - INFO - Finish to process ME-23-06-26552-24 case and save in MOJ/results/db/weapon_docx/ME-23-06-26552-24
+2025-04-24 13:43:24 - INFO - Finish to process ME-23-06-37188-374 case and save in MOJ/results/db/weapon_docx/ME-23-06-37188-374
+2025-04-24 13:43:30 - INFO - Finish to process ME-23-06-9873-482 case and save in MOJ/results/db/weapon_docx/ME-23-06-9873-482
+2025-04-24 13:43:41 - INFO - Finish to process ME-23-07-27785-36 case and save in MOJ/results/db/weapon_docx/ME-23-07-27785-36
+2025-04-24 13:43:46 - INFO - Finish to process ME-23-07-36416-829 case and save in MOJ/results/db/weapon_docx/ME-23-07-36416-829
+2025-04-24 13:44:07 - INFO - Finish to process ME-23-07-40811-94 case and save in MOJ/results/db/weapon_docx/ME-23-07-40811-94
+2025-04-24 13:44:15 - INFO - Finish to process ME-23-07-56731-950 case and save in MOJ/results/db/weapon_docx/ME-23-07-56731-950
+2025-04-24 13:44:26 - INFO - Finish to process ME-23-07-61181-267 case and save in MOJ/results/db/weapon_docx/ME-23-07-61181-267
+2025-04-24 13:44:38 - INFO - Finish to process ME-23-08-64581-527 case and save in MOJ/results/db/weapon_docx/ME-23-08-64581-527
+2025-04-24 13:44:47 - INFO - Finish to process ME-23-08-67387-623 case and save in MOJ/results/db/weapon_docx/ME-23-08-67387-623
+2025-04-24 13:44:51 - INFO - Finish to process ME-23-08-44962-696 case and save in MOJ/results/db/weapon_docx/ME-23-08-44962-696
+2025-04-24 13:45:02 - INFO - Finish to process ME-23-08-7089-561 case and save in MOJ/results/db/weapon_docx/ME-23-08-7089-561
+2025-04-24 13:45:15 - INFO - Finish to process ME-23-08-9632-352 case and save in MOJ/results/db/weapon_docx/ME-23-08-9632-352
+2025-04-24 13:45:24 - INFO - Finish to process ME-23-09-27164-611 case and save in MOJ/results/db/weapon_docx/ME-23-09-27164-611
+2025-04-24 13:45:40 - INFO - Finish to process ME-23-09-50068-811 case and save in MOJ/results/db/weapon_docx/ME-23-09-50068-811
+2025-04-24 13:45:55 - INFO - Finish to process ME-23-09-32775-568 case and save in MOJ/results/db/weapon_docx/ME-23-09-32775-568
+2025-04-24 13:46:01 - INFO - Finish to process ME-23-09-46939-375 case and save in MOJ/results/db/weapon_docx/ME-23-09-46939-375
+2025-04-24 13:46:11 - INFO - Finish to process ME-23-09-48069-729 case and save in MOJ/results/db/weapon_docx/ME-23-09-48069-729
+2025-04-24 13:46:18 - INFO - Finish to process ME-23-10-10347-12 case and save in MOJ/results/db/weapon_docx/ME-23-10-10347-12
+2025-04-24 13:46:22 - INFO - Finish to process ME-23-10-15209-520 case and save in MOJ/results/db/weapon_docx/ME-23-10-15209-520
+2025-04-24 13:46:29 - INFO - Finish to process ME-23-10-31036-217 case and save in MOJ/results/db/weapon_docx/ME-23-10-31036-217
+2025-04-24 13:46:37 - INFO - Finish to process ME-23-10-11027-999 case and save in MOJ/results/db/weapon_docx/ME-23-10-11027-999
+2025-04-24 13:46:48 - INFO - Finish to process ME-23-10-2077-515 case and save in MOJ/results/db/weapon_docx/ME-23-10-2077-515
+2025-04-24 13:46:59 - INFO - Finish to process ME-23-10-30546-436 case and save in MOJ/results/db/weapon_docx/ME-23-10-30546-436
+2025-04-24 13:47:07 - INFO - Finish to process ME-23-10-3884-221 case and save in MOJ/results/db/weapon_docx/ME-23-10-3884-221
+2025-04-24 13:47:29 - INFO - Finish to process ME-23-10-31135-631 case and save in MOJ/results/db/weapon_docx/ME-23-10-31135-631
+2025-04-24 13:47:49 - INFO - Finish to process ME-23-10-51170-647 case and save in MOJ/results/db/weapon_docx/ME-23-10-51170-647
+2025-04-24 13:47:57 - INFO - Finish to process ME-23-10-33318-382 case and save in MOJ/results/db/weapon_docx/ME-23-10-33318-382
+2025-04-24 13:48:06 - INFO - Finish to process ME-23-10-36508-561 case and save in MOJ/results/db/weapon_docx/ME-23-10-36508-561
+2025-04-24 13:48:23 - INFO - Finish to process ME-23-10-41728-893 case and save in MOJ/results/db/weapon_docx/ME-23-10-41728-893
+2025-04-24 13:48:37 - INFO - Finish to process ME-23-10-52322-55 case and save in MOJ/results/db/weapon_docx/ME-23-10-52322-55
+2025-04-24 13:49:09 - INFO - Finish to process ME-23-10-52223-848 case and save in MOJ/results/db/weapon_docx/ME-23-10-52223-848
+2025-04-24 13:49:22 - INFO - Finish to process ME-23-10-6415-756 case and save in MOJ/results/db/weapon_docx/ME-23-10-6415-756
+2025-04-24 13:49:32 - INFO - Finish to process ME-23-10-7811-808 case and save in MOJ/results/db/weapon_docx/ME-23-10-7811-808
+2025-04-24 13:49:40 - INFO - Finish to process ME-23-11-11033-609 case and save in MOJ/results/db/weapon_docx/ME-23-11-11033-609
+2025-04-24 13:49:53 - INFO - Finish to process ME-23-11-1580-278 case and save in MOJ/results/db/weapon_docx/ME-23-11-1580-278
+2025-04-24 13:50:05 - INFO - Finish to process ME-23-11-15962-85 case and save in MOJ/results/db/weapon_docx/ME-23-11-15962-85
+2025-04-24 13:50:15 - INFO - Finish to process ME-23-11-22642-179 case and save in MOJ/results/db/weapon_docx/ME-23-11-22642-179
+2025-04-24 13:50:22 - INFO - Finish to process ME-23-11-25546-938 case and save in MOJ/results/db/weapon_docx/ME-23-11-25546-938
+2025-04-24 13:50:33 - INFO - Finish to process ME-23-11-26347-948 case and save in MOJ/results/db/weapon_docx/ME-23-11-26347-948
+2025-04-24 13:50:40 - INFO - Finish to process ME-23-11-31728-331 case and save in MOJ/results/db/weapon_docx/ME-23-11-31728-331
+2025-04-24 13:50:56 - INFO - Finish to process ME-23-11-35488-186 case and save in MOJ/results/db/weapon_docx/ME-23-11-35488-186
+2025-04-24 13:51:03 - INFO - Finish to process ME-23-11-38193-25 case and save in MOJ/results/db/weapon_docx/ME-23-11-38193-25
+2025-04-24 13:51:11 - INFO - Finish to process ME-23-11-400-309 case and save in MOJ/results/db/weapon_docx/ME-23-11-400-309
+2025-04-24 13:51:26 - INFO - Finish to process ME-23-11-49344-615 case and save in MOJ/results/db/weapon_docx/ME-23-11-49344-615
+2025-04-24 13:51:32 - INFO - Finish to process ME-23-11-524-224 case and save in MOJ/results/db/weapon_docx/ME-23-11-524-224
+2025-04-24 13:51:49 - INFO - Finish to process ME-23-11-7074-18 case and save in MOJ/results/db/weapon_docx/ME-23-11-7074-18
+2025-04-24 13:51:54 - INFO - Finish to process ME-23-12-17260-411 case and save in MOJ/results/db/weapon_docx/ME-23-12-17260-411
+2025-04-24 13:52:06 - INFO - Finish to process ME-23-12-26622-750 case and save in MOJ/results/db/weapon_docx/ME-23-12-26622-750
+2025-04-24 13:52:14 - INFO - Finish to process ME-23-12-27179-551 case and save in MOJ/results/db/weapon_docx/ME-23-12-27179-551
+2025-04-24 13:52:27 - INFO - Finish to process ME-23-12-33791-297 case and save in MOJ/results/db/weapon_docx/ME-23-12-33791-297
+2025-04-24 13:52:40 - INFO - Finish to process ME-23-12-3384-963 case and save in MOJ/results/db/weapon_docx/ME-23-12-3384-963
+2025-04-24 13:52:46 - INFO - Finish to process ME-23-12-44456-827 case and save in MOJ/results/db/weapon_docx/ME-23-12-44456-827
+2025-04-24 13:53:02 - INFO - Finish to process ME-24-01-10180-5 case and save in MOJ/results/db/weapon_docx/ME-24-01-10180-5
+2025-04-24 13:53:09 - INFO - Finish to process ME-24-01-10189-313 case and save in MOJ/results/db/weapon_docx/ME-24-01-10189-313
+2025-04-24 13:53:20 - INFO - Finish to process ME-24-01-6968-131 case and save in MOJ/results/db/weapon_docx/ME-24-01-6968-131
+2025-04-24 13:53:33 - INFO - Finish to process ME-24-02-5214-849 case and save in MOJ/results/db/weapon_docx/ME-24-02-5214-849
+2025-04-24 13:53:41 - INFO - Finish to process ME-24-02-59298-11 case and save in MOJ/results/db/weapon_docx/ME-24-02-59298-11
+2025-04-24 13:53:50 - INFO - Finish to process ME-24-02-63100-245 case and save in MOJ/results/db/weapon_docx/ME-24-02-63100-245
+2025-04-24 13:54:05 - INFO - Finish to process ME-24-03-17125-889 case and save in MOJ/results/db/weapon_docx/ME-24-03-17125-889
+2025-04-24 13:54:12 - INFO - Finish to process ME-24-03-32308-131 case and save in MOJ/results/db/weapon_docx/ME-24-03-32308-131
+2025-04-24 13:54:21 - INFO - Finish to process ME-24-03-39708-568 case and save in MOJ/results/db/weapon_docx/ME-24-03-39708-568
+2025-04-24 13:54:38 - INFO - Finish to process ME-24-04-17378-177 case and save in MOJ/results/db/weapon_docx/ME-24-04-17378-177
+2025-04-24 13:54:48 - INFO - Finish to process ME-24-04-40602-91 case and save in MOJ/results/db/weapon_docx/ME-24-04-40602-91
+2025-04-24 13:55:02 - INFO - Finish to process ME-24-04-47452-475 case and save in MOJ/results/db/weapon_docx/ME-24-04-47452-475
+2025-04-24 13:55:15 - INFO - Finish to process ME-24-04-49405-698 case and save in MOJ/results/db/weapon_docx/ME-24-04-49405-698
+2025-04-24 13:55:34 - INFO - Finish to process ME-24-04-50686-694 case and save in MOJ/results/db/weapon_docx/ME-24-04-50686-694
+2025-04-24 13:55:39 - INFO - Finish to process ME-24-04-53521-627 case and save in MOJ/results/db/weapon_docx/ME-24-04-53521-627
+2025-04-24 13:55:51 - INFO - Finish to process ME-24-05-72237-948 case and save in MOJ/results/db/weapon_docx/ME-24-05-72237-948
+2025-04-24 13:56:03 - INFO - Finish to process ME-24-06-17997-56 case and save in MOJ/results/db/weapon_docx/ME-24-06-17997-56
+2025-04-24 13:56:16 - INFO - Finish to process ME-24-06-25922-915 case and save in MOJ/results/db/weapon_docx/ME-24-06-25922-915
+2025-04-24 13:56:24 - INFO - Finish to process ME-24-07-39362-618 case and save in MOJ/results/db/weapon_docx/ME-24-07-39362-618
+2025-04-24 13:56:33 - INFO - Finish to process ME-24-07-53871-130 case and save in MOJ/results/db/weapon_docx/ME-24-07-53871-130
+2025-04-24 13:56:42 - INFO - Finish to process ME-24-07-57404-594 case and save in MOJ/results/db/weapon_docx/ME-24-07-57404-594
+2025-04-24 13:56:51 - INFO - Finish to process ME-24-08-41832-717 case and save in MOJ/results/db/weapon_docx/ME-24-08-41832-717
+2025-04-24 13:56:59 - INFO - Finish to process ME-24-08-69734-533 case and save in MOJ/results/db/weapon_docx/ME-24-08-69734-533
+2025-04-24 13:57:07 - INFO - Finish to process ME-24-08-8151-980 case and save in MOJ/results/db/weapon_docx/ME-24-08-8151-980
+2025-04-24 13:57:14 - INFO - Finish to process ME-32-05-13-694 case and save in MOJ/results/db/weapon_docx/ME-32-05-13-694
+2025-04-24 13:57:25 - INFO - Finish to process SH-10-10-32637-439 case and save in MOJ/results/db/weapon_docx/SH-10-10-32637-439
+2025-04-24 13:57:31 - INFO - Finish to process SH-11-03-26434-490 case and save in MOJ/results/db/weapon_docx/SH-11-03-26434-490
+2025-04-24 13:57:39 - INFO - Finish to process SH-11-05-24791-315 case and save in MOJ/results/db/weapon_docx/SH-11-05-24791-315
+2025-04-24 13:57:44 - INFO - Finish to process SH-12-06-48759-234 case and save in MOJ/results/db/weapon_docx/SH-12-06-48759-234
+2025-04-24 13:57:59 - INFO - Finish to process SH-12-07-45638-11 case and save in MOJ/results/db/weapon_docx/SH-12-07-45638-11
+2025-04-24 13:58:07 - INFO - Finish to process SH-11-09-35629-306 case and save in MOJ/results/db/weapon_docx/SH-11-09-35629-306
+2025-04-24 13:58:14 - INFO - Finish to process SH-12-02-28779-397 case and save in MOJ/results/db/weapon_docx/SH-12-02-28779-397
+2025-04-24 13:58:21 - INFO - Finish to process SH-12-03-1509-585 case and save in MOJ/results/db/weapon_docx/SH-12-03-1509-585
+2025-04-24 13:58:32 - INFO - Finish to process SH-12-07-47766-402 case and save in MOJ/results/db/weapon_docx/SH-12-07-47766-402
+2025-04-24 13:58:43 - INFO - Finish to process SH-12-12-48347-856 case and save in MOJ/results/db/weapon_docx/SH-12-12-48347-856
+2025-04-24 13:58:57 - INFO - Finish to process SH-12-12-51686-906 case and save in MOJ/results/db/weapon_docx/SH-12-12-51686-906
+2025-04-24 13:59:04 - INFO - Finish to process SH-13-01-24322-943 case and save in MOJ/results/db/weapon_docx/SH-13-01-24322-943
+2025-04-24 13:59:07 - INFO - Finish to process SH-13-02-31239-607 case and save in MOJ/results/db/weapon_docx/SH-13-02-31239-607
+2025-04-24 13:59:15 - INFO - Finish to process SH-13-02-31982-960 case and save in MOJ/results/db/weapon_docx/SH-13-02-31982-960
+2025-04-24 13:59:25 - INFO - Finish to process SH-13-02-56119-514 case and save in MOJ/results/db/weapon_docx/SH-13-02-56119-514
+2025-04-24 13:59:32 - INFO - Finish to process SH-13-03-48597-363 case and save in MOJ/results/db/weapon_docx/SH-13-03-48597-363
+2025-04-24 13:59:44 - INFO - Finish to process SH-13-05-18833-435 case and save in MOJ/results/db/weapon_docx/SH-13-05-18833-435
+2025-04-24 13:59:47 - INFO - Finish to process SH-13-04-30805-735 case and save in MOJ/results/db/weapon_docx/SH-13-04-30805-735
+2025-04-24 13:59:59 - INFO - Finish to process SH-13-05-57270-285 case and save in MOJ/results/db/weapon_docx/SH-13-05-57270-285
+2025-04-24 14:00:20 - INFO - Finish to process SH-13-05-6431-629 case and save in MOJ/results/db/weapon_docx/SH-13-05-6431-629
+2025-04-24 14:00:28 - INFO - Finish to process SH-13-05-6602-111 case and save in MOJ/results/db/weapon_docx/SH-13-05-6602-111
+2025-04-24 14:00:35 - INFO - Finish to process SH-13-09-25854-356 case and save in MOJ/results/db/weapon_docx/SH-13-09-25854-356
+2025-04-24 14:00:42 - INFO - Finish to process SH-13-09-43765-44 case and save in MOJ/results/db/weapon_docx/SH-13-09-43765-44
+2025-04-24 14:00:47 - INFO - Finish to process SH-13-10-3424-530 case and save in MOJ/results/db/weapon_docx/SH-13-10-3424-530
+2025-04-24 14:00:51 - INFO - Finish to process SH-13-10-34677-998 case and save in MOJ/results/db/weapon_docx/SH-13-10-34677-998
+2025-04-24 14:00:58 - INFO - Finish to process SH-13-11-17618-701 case and save in MOJ/results/db/weapon_docx/SH-13-11-17618-701
+2025-04-24 14:01:07 - INFO - Finish to process SH-13-11-29772-956 case and save in MOJ/results/db/weapon_docx/SH-13-11-29772-956
+2025-04-24 14:01:15 - INFO - Finish to process SH-14-02-28659-762 case and save in MOJ/results/db/weapon_docx/SH-14-02-28659-762
+2025-04-24 14:01:31 - INFO - Finish to process SH-14-02-29898-83 case and save in MOJ/results/db/weapon_docx/SH-14-02-29898-83
+2025-04-24 14:01:44 - INFO - Finish to process SH-14-03-6532-311 case and save in MOJ/results/db/weapon_docx/SH-14-03-6532-311
+2025-04-24 14:01:58 - INFO - Finish to process SH-13-11-53603-559 case and save in MOJ/results/db/weapon_docx/SH-13-11-53603-559
+2025-04-24 14:02:02 - INFO - Finish to process SH-13-12-38303-868 case and save in MOJ/results/db/weapon_docx/SH-13-12-38303-868
+2025-04-24 14:02:18 - INFO - Finish to process SH-14-01-33342-236 case and save in MOJ/results/db/weapon_docx/SH-14-01-33342-236
+2025-04-24 14:02:28 - INFO - Finish to process SH-14-04-45610-894 case and save in MOJ/results/db/weapon_docx/SH-14-04-45610-894
+2025-04-24 14:02:39 - INFO - Finish to process SH-14-05-47022-475 case and save in MOJ/results/db/weapon_docx/SH-14-05-47022-475
+2025-04-24 14:02:45 - INFO - Finish to process SH-14-07-41873-542 case and save in MOJ/results/db/weapon_docx/SH-14-07-41873-542
+2025-04-24 14:03:04 - INFO - Finish to process SH-14-07-6494-646 case and save in MOJ/results/db/weapon_docx/SH-14-07-6494-646
+2025-04-24 14:03:15 - INFO - Finish to process SH-14-09-42836-284 case and save in MOJ/results/db/weapon_docx/SH-14-09-42836-284
+2025-04-24 14:03:19 - INFO - Finish to process SH-14-09-16047-974 case and save in MOJ/results/db/weapon_docx/SH-14-09-16047-974
+2025-04-24 14:03:47 - INFO - Finish to process SH-14-10-5787-541 case and save in MOJ/results/db/weapon_docx/SH-14-10-5787-541
+2025-04-24 14:03:52 - INFO - Finish to process SH-14-10-51301-387 case and save in MOJ/results/db/weapon_docx/SH-14-10-51301-387
+2025-04-24 14:04:06 - INFO - Finish to process SH-14-11-1795-280 case and save in MOJ/results/db/weapon_docx/SH-14-11-1795-280
+2025-04-24 14:04:15 - INFO - Finish to process SH-14-11-27128-777 case and save in MOJ/results/db/weapon_docx/SH-14-11-27128-777
+2025-04-24 14:04:38 - INFO - Finish to process SH-14-11-53692-836 case and save in MOJ/results/db/weapon_docx/SH-14-11-53692-836
+2025-04-24 14:04:48 - INFO - Finish to process SH-14-11-8987-965 case and save in MOJ/results/db/weapon_docx/SH-14-11-8987-965
+2025-04-24 14:05:05 - INFO - Finish to process SH-14-12-25823-240 case and save in MOJ/results/db/weapon_docx/SH-14-12-25823-240
+2025-04-24 14:05:16 - INFO - Finish to process SH-15-02-14547-905 case and save in MOJ/results/db/weapon_docx/SH-15-02-14547-905
+2025-04-24 14:05:20 - INFO - Finish to process SH-15-01-18600-452 case and save in MOJ/results/db/weapon_docx/SH-15-01-18600-452
+2025-04-24 14:05:30 - INFO - Finish to process SH-15-03-55163-209 case and save in MOJ/results/db/weapon_docx/SH-15-03-55163-209
+2025-04-24 14:05:34 - INFO - Finish to process SH-15-05-10216-459 case and save in MOJ/results/db/weapon_docx/SH-15-05-10216-459
+2025-04-24 14:06:26 - INFO - Finish to process SH-15-05-16825-840 case and save in MOJ/results/db/weapon_docx/SH-15-05-16825-840
+2025-04-24 14:06:39 - INFO - Finish to process SH-15-05-27780-859 case and save in MOJ/results/db/weapon_docx/SH-15-05-27780-859
+2025-04-24 14:07:29 - INFO - Finish to process SH-15-06-47941-297 case and save in MOJ/results/db/weapon_docx/SH-15-06-47941-297
+2025-04-24 14:07:51 - INFO - Finish to process SH-15-08-2047-808 case and save in MOJ/results/db/weapon_docx/SH-15-08-2047-808
+2025-04-24 14:08:08 - INFO - Finish to process SH-15-09-4788-789 case and save in MOJ/results/db/weapon_docx/SH-15-09-4788-789
+2025-04-24 14:08:18 - INFO - Finish to process SH-15-09-7166-359 case and save in MOJ/results/db/weapon_docx/SH-15-09-7166-359
+2025-04-24 14:08:27 - INFO - Finish to process SH-15-11-28486-40 case and save in MOJ/results/db/weapon_docx/SH-15-11-28486-40
+2025-04-24 14:08:43 - INFO - Finish to process SH-15-11-28892-148 case and save in MOJ/results/db/weapon_docx/SH-15-11-28892-148
+2025-04-24 14:08:47 - INFO - Finish to process SH-15-11-32606-595 case and save in MOJ/results/db/weapon_docx/SH-15-11-32606-595
+2025-04-24 14:09:06 - INFO - Finish to process SH-15-11-60581-881 case and save in MOJ/results/db/weapon_docx/SH-15-11-60581-881
+2025-04-24 14:09:13 - INFO - Finish to process SH-15-12-65958-120 case and save in MOJ/results/db/weapon_docx/SH-15-12-65958-120
+2025-04-24 14:09:21 - INFO - Finish to process SH-15-12-56479-714 case and save in MOJ/results/db/weapon_docx/SH-15-12-56479-714
+2025-04-24 14:09:35 - INFO - Finish to process SH-16-02-10948-419 case and save in MOJ/results/db/weapon_docx/SH-16-02-10948-419
+2025-04-24 14:09:50 - INFO - Finish to process SH-16-04-30406-325 case and save in MOJ/results/db/weapon_docx/SH-16-04-30406-325
+2025-04-24 14:10:10 - INFO - Finish to process SH-16-05-39837-44 case and save in MOJ/results/db/weapon_docx/SH-16-05-39837-44
+2025-04-24 14:10:21 - INFO - Finish to process SH-16-05-24302-1 case and save in MOJ/results/db/weapon_docx/SH-16-05-24302-1
+2025-04-24 14:10:34 - INFO - Finish to process SH-16-05-42991-439 case and save in MOJ/results/db/weapon_docx/SH-16-05-42991-439
+2025-04-24 14:10:50 - INFO - Finish to process SH-16-05-43338-62 case and save in MOJ/results/db/weapon_docx/SH-16-05-43338-62
+2025-04-24 14:10:53 - INFO - Finish to process SH-16-05-65259-634 case and save in MOJ/results/db/weapon_docx/SH-16-05-65259-634
+2025-04-24 14:11:02 - INFO - Finish to process SH-16-06-62685-106 case and save in MOJ/results/db/weapon_docx/SH-16-06-62685-106
+2025-04-24 14:11:18 - INFO - Finish to process SH-16-06-4248-682 case and save in MOJ/results/db/weapon_docx/SH-16-06-4248-682
+2025-04-24 14:11:20 - INFO - Finish to process SH-16-07-14385-600 case and save in MOJ/results/db/weapon_docx/SH-16-07-14385-600
+2025-04-24 14:11:24 - INFO - Finish to process SH-16-07-30570-639 case and save in MOJ/results/db/weapon_docx/SH-16-07-30570-639
+2025-04-24 14:11:31 - INFO - Finish to process SH-16-08-7996-293 case and save in MOJ/results/db/weapon_docx/SH-16-08-7996-293
+2025-04-24 14:11:56 - INFO - Finish to process SH-16-08-44380-642 case and save in MOJ/results/db/weapon_docx/SH-16-08-44380-642
+2025-04-24 14:12:05 - INFO - Finish to process SH-16-09-33552-535 case and save in MOJ/results/db/weapon_docx/SH-16-09-33552-535
+2025-04-24 14:12:16 - INFO - Finish to process SH-16-09-43228-415 case and save in MOJ/results/db/weapon_docx/SH-16-09-43228-415
+2025-04-24 14:12:28 - INFO - Finish to process SH-16-09-21813-588 case and save in MOJ/results/db/weapon_docx/SH-16-09-21813-588
+2025-04-24 14:12:40 - INFO - Finish to process SH-16-10-15567-78 case and save in MOJ/results/db/weapon_docx/SH-16-10-15567-78
+2025-04-24 14:13:13 - INFO - Finish to process SH-16-10-1516-912 case and save in MOJ/results/db/weapon_docx/SH-16-10-1516-912
+2025-04-24 14:13:31 - INFO - Finish to process SH-16-11-19417-55 case and save in MOJ/results/db/weapon_docx/SH-16-11-19417-55
+2025-04-24 14:13:37 - INFO - Finish to process SH-16-11-49772-358 case and save in MOJ/results/db/weapon_docx/SH-16-11-49772-358
+2025-04-24 14:13:50 - INFO - Finish to process SH-16-11-50630-508 case and save in MOJ/results/db/weapon_docx/SH-16-11-50630-508
+2025-04-24 14:14:03 - INFO - Finish to process SH-16-11-7544-55 case and save in MOJ/results/db/weapon_docx/SH-16-11-7544-55
+2025-04-24 14:14:18 - INFO - Finish to process SH-16-12-32560-784 case and save in MOJ/results/db/weapon_docx/SH-16-12-32560-784
+2025-04-24 14:14:29 - INFO - Finish to process SH-17-01-14398-292 case and save in MOJ/results/db/weapon_docx/SH-17-01-14398-292
+2025-04-24 14:14:36 - INFO - Finish to process SH-17-01-63505-530 case and save in MOJ/results/db/weapon_docx/SH-17-01-63505-530
+2025-04-24 14:14:43 - INFO - Finish to process SH-17-05-53098-788 case and save in MOJ/results/db/weapon_docx/SH-17-05-53098-788
+2025-04-24 14:15:00 - INFO - Finish to process SH-17-04-19242-11 case and save in MOJ/results/db/weapon_docx/SH-17-04-19242-11
+2025-04-24 14:15:12 - INFO - Finish to process SH-17-08-41967-826 case and save in MOJ/results/db/weapon_docx/SH-17-08-41967-826
+2025-04-24 14:15:28 - INFO - Finish to process SH-17-08-47445-166 case and save in MOJ/results/db/weapon_docx/SH-17-08-47445-166
+2025-04-24 14:15:53 - INFO - Finish to process SH-17-09-17948-578 case and save in MOJ/results/db/weapon_docx/SH-17-09-17948-578
+2025-04-24 14:15:57 - INFO - Finish to process SH-17-10-10556-234 case and save in MOJ/results/db/weapon_docx/SH-17-10-10556-234
+2025-04-24 14:16:07 - INFO - Finish to process SH-17-11-53539-235 case and save in MOJ/results/db/weapon_docx/SH-17-11-53539-235
+2025-04-24 14:16:13 - INFO - Finish to process SH-18-02-37091-230 case and save in MOJ/results/db/weapon_docx/SH-18-02-37091-230
+2025-04-24 14:16:29 - INFO - Finish to process SH-18-03-54732-316 case and save in MOJ/results/db/weapon_docx/SH-18-03-54732-316
+2025-04-24 14:16:42 - INFO - Finish to process SH-18-03-59369-8 case and save in MOJ/results/db/weapon_docx/SH-18-03-59369-8
+2025-04-24 14:16:57 - INFO - Finish to process SH-18-04-42995-11 case and save in MOJ/results/db/weapon_docx/SH-18-04-42995-11
+2025-04-24 14:17:05 - INFO - Finish to process SH-18-05-3497-424 case and save in MOJ/results/db/weapon_docx/SH-18-05-3497-424
+2025-04-24 14:17:18 - INFO - Finish to process SH-18-06-11098-353 case and save in MOJ/results/db/weapon_docx/SH-18-06-11098-353
+2025-04-24 14:17:34 - INFO - Finish to process SH-18-07-52337-770 case and save in MOJ/results/db/weapon_docx/SH-18-07-52337-770
+2025-04-24 14:17:46 - INFO - Finish to process SH-18-08-51474-558 case and save in MOJ/results/db/weapon_docx/SH-18-08-51474-558
+2025-04-24 14:17:59 - INFO - Finish to process SH-18-10-32787-345 case and save in MOJ/results/db/weapon_docx/SH-18-10-32787-345
+2025-04-24 14:18:15 - INFO - Finish to process SH-18-10-9569-47 case and save in MOJ/results/db/weapon_docx/SH-18-10-9569-47
+2025-04-24 14:18:25 - INFO - Finish to process SH-18-11-30285-5 case and save in MOJ/results/db/weapon_docx/SH-18-11-30285-5
+2025-04-24 14:18:46 - INFO - Finish to process SH-18-11-56900-989 case and save in MOJ/results/db/weapon_docx/SH-18-11-56900-989
+2025-04-24 14:18:57 - INFO - Finish to process SH-18-12-12540-718 case and save in MOJ/results/db/weapon_docx/SH-18-12-12540-718
+2025-04-24 14:19:12 - INFO - Finish to process SH-18-11-67029-667 case and save in MOJ/results/db/weapon_docx/SH-18-11-67029-667
+2025-04-24 14:19:19 - INFO - Finish to process SH-19-02-40076-89 case and save in MOJ/results/db/weapon_docx/SH-19-02-40076-89
+2025-04-24 14:19:33 - INFO - Finish to process SH-19-02-70231-614 case and save in MOJ/results/db/weapon_docx/SH-19-02-70231-614
+2025-04-24 14:19:52 - INFO - Finish to process SH-19-03-23707-142 case and save in MOJ/results/db/weapon_docx/SH-19-03-23707-142
+2025-04-24 14:19:56 - INFO - Finish to process SH-19-03-60226-989 case and save in MOJ/results/db/weapon_docx/SH-19-03-60226-989
+2025-04-24 14:20:09 - INFO - Finish to process SH-19-05-17916-779 case and save in MOJ/results/db/weapon_docx/SH-19-05-17916-779
+2025-04-24 14:20:24 - INFO - Finish to process SH-19-05-30216-170 case and save in MOJ/results/db/weapon_docx/SH-19-05-30216-170
+2025-04-24 14:20:39 - INFO - Finish to process SH-19-07-60805-168 case and save in MOJ/results/db/weapon_docx/SH-19-07-60805-168
+2025-04-24 14:20:52 - INFO - Finish to process SH-19-06-54418-132 case and save in MOJ/results/db/weapon_docx/SH-19-06-54418-132
+2025-04-24 14:21:05 - INFO - Finish to process SH-19-06-57202-504 case and save in MOJ/results/db/weapon_docx/SH-19-06-57202-504
+2025-04-24 14:21:22 - INFO - Finish to process SH-19-07-10096-278 case and save in MOJ/results/db/weapon_docx/SH-19-07-10096-278
+2025-04-24 14:21:34 - INFO - Finish to process SH-19-08-14786-63 case and save in MOJ/results/db/weapon_docx/SH-19-08-14786-63
+2025-04-24 14:21:44 - INFO - Finish to process SH-19-08-2724-919 case and save in MOJ/results/db/weapon_docx/SH-19-08-2724-919
+2025-04-24 14:21:55 - INFO - Finish to process SH-19-09-3538-243 case and save in MOJ/results/db/weapon_docx/SH-19-09-3538-243
+2025-04-24 14:22:05 - INFO - Finish to process SH-19-10-21029-90 case and save in MOJ/results/db/weapon_docx/SH-19-10-21029-90
+2025-04-24 14:22:26 - INFO - Finish to process SH-19-11-50716-323 case and save in MOJ/results/db/weapon_docx/SH-19-11-50716-323
+2025-04-24 14:22:37 - INFO - Finish to process SH-19-11-67580-619 case and save in MOJ/results/db/weapon_docx/SH-19-11-67580-619
+2025-04-24 14:22:48 - INFO - Finish to process SH-19-12-65378-605 case and save in MOJ/results/db/weapon_docx/SH-19-12-65378-605
+2025-04-24 14:22:54 - INFO - Finish to process SH-19-12-65577-650 case and save in MOJ/results/db/weapon_docx/SH-19-12-65577-650
+2025-04-24 14:23:12 - INFO - Finish to process SH-19-12-73989-712 case and save in MOJ/results/db/weapon_docx/SH-19-12-73989-712
+2025-04-24 14:23:19 - INFO - Finish to process SH-20-01-24420-442 case and save in MOJ/results/db/weapon_docx/SH-20-01-24420-442
+2025-04-24 14:23:28 - INFO - Finish to process SH-20-02-35543-227 case and save in MOJ/results/db/weapon_docx/SH-20-02-35543-227
+2025-04-24 14:23:42 - INFO - Finish to process SH-20-02-52091-995 case and save in MOJ/results/db/weapon_docx/SH-20-02-52091-995
+2025-04-24 14:23:51 - INFO - Finish to process SH-20-02-8254-790 case and save in MOJ/results/db/weapon_docx/SH-20-02-8254-790
+2025-04-24 14:23:59 - INFO - Finish to process SH-20-03-14044-704 case and save in MOJ/results/db/weapon_docx/SH-20-03-14044-704
+2025-04-24 14:24:10 - INFO - Finish to process SH-20-05-24000-101 case and save in MOJ/results/db/weapon_docx/SH-20-05-24000-101
+2025-04-24 14:24:17 - INFO - Finish to process SH-20-03-40634-194 case and save in MOJ/results/db/weapon_docx/SH-20-03-40634-194
+2025-04-24 14:24:32 - INFO - Finish to process SH-20-04-9384-807 case and save in MOJ/results/db/weapon_docx/SH-20-04-9384-807
+2025-04-24 14:24:39 - INFO - Finish to process SH-20-05-20307-509 case and save in MOJ/results/db/weapon_docx/SH-20-05-20307-509
+2025-04-24 14:24:51 - INFO - Finish to process SH-20-05-57707-592 case and save in MOJ/results/db/weapon_docx/SH-20-05-57707-592
+2025-04-24 14:24:57 - INFO - Finish to process SH-20-06-62062-22 case and save in MOJ/results/db/weapon_docx/SH-20-06-62062-22
+2025-04-24 14:25:10 - INFO - Finish to process SH-20-07-19410-451 case and save in MOJ/results/db/weapon_docx/SH-20-07-19410-451
+2025-04-24 14:25:32 - INFO - Finish to process SH-20-07-20154-824 case and save in MOJ/results/db/weapon_docx/SH-20-07-20154-824
+2025-04-24 14:25:39 - INFO - Finish to process SH-20-07-28173-840 case and save in MOJ/results/db/weapon_docx/SH-20-07-28173-840
+2025-04-24 14:25:54 - INFO - Finish to process SH-20-07-56355-274 case and save in MOJ/results/db/weapon_docx/SH-20-07-56355-274
+2025-04-24 14:26:10 - INFO - Finish to process SH-20-08-17057-984 case and save in MOJ/results/db/weapon_docx/SH-20-08-17057-984
+2025-04-24 14:26:26 - INFO - Finish to process SH-20-09-53043-925 case and save in MOJ/results/db/weapon_docx/SH-20-09-53043-925
+2025-04-24 14:26:33 - INFO - Finish to process SH-20-10-37282-946 case and save in MOJ/results/db/weapon_docx/SH-20-10-37282-946
+2025-04-24 14:26:52 - INFO - Finish to process SH-20-10-40983-517 case and save in MOJ/results/db/weapon_docx/SH-20-10-40983-517
+2025-04-24 14:27:01 - INFO - Finish to process SH-20-11-18957-855 case and save in MOJ/results/db/weapon_docx/SH-20-11-18957-855
+2025-04-24 14:27:06 - INFO - Finish to process SH-20-11-29052-592 case and save in MOJ/results/db/weapon_docx/SH-20-11-29052-592
+2025-04-24 14:27:15 - INFO - Finish to process SH-20-11-69110-662 case and save in MOJ/results/db/weapon_docx/SH-20-11-69110-662
+2025-04-24 14:27:22 - INFO - Finish to process SH-20-12-30350-550 case and save in MOJ/results/db/weapon_docx/SH-20-12-30350-550
+2025-04-24 14:27:35 - INFO - Finish to process SH-20-12-32907-786 case and save in MOJ/results/db/weapon_docx/SH-20-12-32907-786
+2025-04-24 14:27:44 - INFO - Finish to process SH-20-12-33420-11 case and save in MOJ/results/db/weapon_docx/SH-20-12-33420-11
+2025-04-24 14:27:56 - INFO - Finish to process SH-20-12-44229-600 case and save in MOJ/results/db/weapon_docx/SH-20-12-44229-600
+2025-04-24 14:28:12 - INFO - Finish to process SH-21-01-16541-529 case and save in MOJ/results/db/weapon_docx/SH-21-01-16541-529
+2025-04-24 14:28:23 - INFO - Finish to process SH-21-01-26164-883 case and save in MOJ/results/db/weapon_docx/SH-21-01-26164-883
+2025-04-24 14:28:32 - INFO - Finish to process SH-21-04-2144-659 case and save in MOJ/results/db/weapon_docx/SH-21-04-2144-659
+2025-04-24 14:28:38 - INFO - Finish to process SH-21-02-22024-55 case and save in MOJ/results/db/weapon_docx/SH-21-02-22024-55
+2025-04-24 14:28:51 - INFO - Finish to process SH-21-01-54807-866 case and save in MOJ/results/db/weapon_docx/SH-21-01-54807-866
+2025-04-24 14:28:55 - INFO - Finish to process SH-21-03-6852-607 case and save in MOJ/results/db/weapon_docx/SH-21-03-6852-607
+2025-04-24 14:29:17 - INFO - Finish to process SH-21-05-28730-950 case and save in MOJ/results/db/weapon_docx/SH-21-05-28730-950
+2025-04-24 14:29:26 - INFO - Finish to process SH-21-05-40079-883 case and save in MOJ/results/db/weapon_docx/SH-21-05-40079-883
+2025-04-24 14:29:32 - INFO - Finish to process SH-21-05-4658-170 case and save in MOJ/results/db/weapon_docx/SH-21-05-4658-170
+2025-04-24 14:29:39 - INFO - Finish to process SH-21-05-9211-343 case and save in MOJ/results/db/weapon_docx/SH-21-05-9211-343
+2025-04-24 14:29:45 - INFO - Finish to process SH-21-06-59911-311 case and save in MOJ/results/db/weapon_docx/SH-21-06-59911-311
+2025-04-24 14:29:58 - INFO - Finish to process SH-21-07-16638-33 case and save in MOJ/results/db/weapon_docx/SH-21-07-16638-33
+2025-04-24 14:30:12 - INFO - Finish to process SH-21-07-17701-647 case and save in MOJ/results/db/weapon_docx/SH-21-07-17701-647
+2025-04-24 14:30:29 - INFO - Finish to process SH-21-07-41041-619 case and save in MOJ/results/db/weapon_docx/SH-21-07-41041-619
+2025-04-24 14:30:44 - INFO - Finish to process SH-21-09-26547-957 case and save in MOJ/results/db/weapon_docx/SH-21-09-26547-957
+2025-04-24 14:30:59 - INFO - Finish to process SH-21-08-17536-22 case and save in MOJ/results/db/weapon_docx/SH-21-08-17536-22
+2025-04-24 14:31:05 - INFO - Finish to process SH-21-08-61820-550 case and save in MOJ/results/db/weapon_docx/SH-21-08-61820-550
+2025-04-24 14:31:11 - INFO - Finish to process SH-21-09-17337-849 case and save in MOJ/results/db/weapon_docx/SH-21-09-17337-849
+2025-04-24 14:31:22 - INFO - Finish to process SH-21-09-5779-608 case and save in MOJ/results/db/weapon_docx/SH-21-09-5779-608
+2025-04-24 14:31:34 - INFO - Finish to process SH-21-10-1064-351 case and save in MOJ/results/db/weapon_docx/SH-21-10-1064-351
+2025-04-24 14:31:52 - INFO - Finish to process SH-21-10-33605-979 case and save in MOJ/results/db/weapon_docx/SH-21-10-33605-979
+2025-04-24 14:31:59 - INFO - Finish to process SH-21-10-53239-861 case and save in MOJ/results/db/weapon_docx/SH-21-10-53239-861
+2025-04-24 14:32:13 - INFO - Finish to process SH-21-10-55444-637 case and save in MOJ/results/db/weapon_docx/SH-21-10-55444-637
+2025-04-24 14:32:28 - INFO - Finish to process SH-21-11-23992-32 case and save in MOJ/results/db/weapon_docx/SH-21-11-23992-32
+2025-04-24 14:32:38 - INFO - Finish to process SH-21-11-65310-621 case and save in MOJ/results/db/weapon_docx/SH-21-11-65310-621
+2025-04-24 14:32:49 - INFO - Finish to process SH-21-11-24748-516 case and save in MOJ/results/db/weapon_docx/SH-21-11-24748-516
+2025-04-24 14:32:56 - INFO - Finish to process SH-21-11-33726-781 case and save in MOJ/results/db/weapon_docx/SH-21-11-33726-781
+2025-04-24 14:33:03 - INFO - Finish to process SH-21-11-5032-379 case and save in MOJ/results/db/weapon_docx/SH-21-11-5032-379
+2025-04-24 14:33:13 - INFO - Finish to process SH-22-02-17030-690 case and save in MOJ/results/db/weapon_docx/SH-22-02-17030-690
+2025-04-24 14:33:21 - INFO - Finish to process SH-22-02-20216-854 case and save in MOJ/results/db/weapon_docx/SH-22-02-20216-854
+2025-04-24 14:33:37 - INFO - Finish to process SH-21-12-8330-345 case and save in MOJ/results/db/weapon_docx/SH-21-12-8330-345
+2025-04-24 14:34:01 - INFO - Finish to process SH-22-01-11740-219 case and save in MOJ/results/db/weapon_docx/SH-22-01-11740-219
+2025-04-24 14:34:14 - INFO - Finish to process SH-22-01-13471-351 case and save in MOJ/results/db/weapon_docx/SH-22-01-13471-351
+2025-04-24 14:34:31 - INFO - Finish to process SH-22-02-23361-112 case and save in MOJ/results/db/weapon_docx/SH-22-02-23361-112
+2025-04-24 14:34:36 - INFO - Finish to process SH-22-02-50207-164 case and save in MOJ/results/db/weapon_docx/SH-22-02-50207-164
+2025-04-24 14:34:54 - INFO - Finish to process SH-22-02-54611-970 case and save in MOJ/results/db/weapon_docx/SH-22-02-54611-970
+2025-04-24 14:35:01 - INFO - Finish to process SH-22-03-13044-780 case and save in MOJ/results/db/weapon_docx/SH-22-03-13044-780
+2025-04-24 14:35:10 - INFO - Finish to process SH-22-03-28715-213 case and save in MOJ/results/db/weapon_docx/SH-22-03-28715-213
+2025-04-24 14:35:20 - INFO - Finish to process SH-22-03-16129-281 case and save in MOJ/results/db/weapon_docx/SH-22-03-16129-281
+2025-04-24 14:35:31 - INFO - Finish to process SH-22-03-22526-364 case and save in MOJ/results/db/weapon_docx/SH-22-03-22526-364
+2025-04-24 14:35:36 - INFO - Finish to process SH-22-03-41216-50 case and save in MOJ/results/db/weapon_docx/SH-22-03-41216-50
+2025-04-24 14:35:47 - INFO - Finish to process SH-22-03-41599-654 case and save in MOJ/results/db/weapon_docx/SH-22-03-41599-654
+2025-04-24 14:35:54 - INFO - Finish to process SH-22-03-47870-33 case and save in MOJ/results/db/weapon_docx/SH-22-03-47870-33
+2025-04-24 14:36:02 - INFO - Finish to process SH-22-03-62924-190 case and save in MOJ/results/db/weapon_docx/SH-22-03-62924-190
+2025-04-24 14:36:15 - INFO - Finish to process SH-22-04-1363-768 case and save in MOJ/results/db/weapon_docx/SH-22-04-1363-768
+2025-04-24 14:36:30 - INFO - Finish to process SH-22-04-17839-44 case and save in MOJ/results/db/weapon_docx/SH-22-04-17839-44
+2025-04-24 14:36:41 - INFO - Finish to process SH-22-04-33025-498 case and save in MOJ/results/db/weapon_docx/SH-22-04-33025-498
+2025-04-24 14:36:58 - INFO - Finish to process SH-22-04-35396-436 case and save in MOJ/results/db/weapon_docx/SH-22-04-35396-436
+2025-04-24 14:37:11 - INFO - Finish to process SH-22-04-36391-22 case and save in MOJ/results/db/weapon_docx/SH-22-04-36391-22
+2025-04-24 14:37:24 - INFO - Finish to process SH-22-05-27405-239 case and save in MOJ/results/db/weapon_docx/SH-22-05-27405-239
+2025-04-24 14:37:35 - INFO - Finish to process SH-22-05-41375-481 case and save in MOJ/results/db/weapon_docx/SH-22-05-41375-481
+2025-04-24 14:37:46 - INFO - Finish to process SH-22-06-10171-728 case and save in MOJ/results/db/weapon_docx/SH-22-06-10171-728
+2025-04-24 14:37:59 - INFO - Finish to process SH-22-06-30433-121 case and save in MOJ/results/db/weapon_docx/SH-22-06-30433-121
+2025-04-24 14:38:09 - INFO - Finish to process SH-22-06-30867-536 case and save in MOJ/results/db/weapon_docx/SH-22-06-30867-536
+2025-04-24 14:38:17 - INFO - Finish to process SH-22-06-3197-581 case and save in MOJ/results/db/weapon_docx/SH-22-06-3197-581
+2025-04-24 14:38:32 - INFO - Finish to process SH-22-06-3986-160 case and save in MOJ/results/db/weapon_docx/SH-22-06-3986-160
+2025-04-24 14:38:41 - INFO - Finish to process SH-22-06-66150-870 case and save in MOJ/results/db/weapon_docx/SH-22-06-66150-870
+2025-04-24 14:39:01 - INFO - Finish to process SH-22-07-10251-22 case and save in MOJ/results/db/weapon_docx/SH-22-07-10251-22
+2025-04-24 14:39:09 - INFO - Finish to process SH-22-07-28334-661 case and save in MOJ/results/db/weapon_docx/SH-22-07-28334-661
+2025-04-24 14:39:18 - INFO - Finish to process SH-22-07-58453-411 case and save in MOJ/results/db/weapon_docx/SH-22-07-58453-411
+2025-04-24 14:39:28 - INFO - Finish to process SH-22-08-9989-466 case and save in MOJ/results/db/weapon_docx/SH-22-08-9989-466
+2025-04-24 14:39:31 - INFO - Finish to process SH-22-09-18228-108 case and save in MOJ/results/db/weapon_docx/SH-22-09-18228-108
+2025-04-24 14:39:44 - INFO - Finish to process SH-22-09-18327-768 case and save in MOJ/results/db/weapon_docx/SH-22-09-18327-768
+2025-04-24 14:39:57 - INFO - Finish to process SH-22-09-35121-561 case and save in MOJ/results/db/weapon_docx/SH-22-09-35121-561
+2025-04-24 14:40:04 - INFO - Finish to process SH-22-09-6999-580 case and save in MOJ/results/db/weapon_docx/SH-22-09-6999-580
+2025-04-24 14:40:16 - INFO - Finish to process SH-22-10-8152-122 case and save in MOJ/results/db/weapon_docx/SH-22-10-8152-122
+2025-04-24 14:40:27 - INFO - Finish to process SH-22-11-20743-796 case and save in MOJ/results/db/weapon_docx/SH-22-11-20743-796
+2025-04-24 14:40:37 - INFO - Finish to process SH-22-11-20770-53 case and save in MOJ/results/db/weapon_docx/SH-22-11-20770-53
+2025-04-24 14:40:47 - INFO - Finish to process SH-22-11-24328-437 case and save in MOJ/results/db/weapon_docx/SH-22-11-24328-437
+2025-04-24 14:40:58 - INFO - Finish to process SH-22-11-68319-342 case and save in MOJ/results/db/weapon_docx/SH-22-11-68319-342
+2025-04-24 14:41:20 - INFO - Finish to process SH-22-12-43471-14 case and save in MOJ/results/db/weapon_docx/SH-22-12-43471-14
+2025-04-24 14:41:36 - INFO - Finish to process SH-22-12-51251-44 case and save in MOJ/results/db/weapon_docx/SH-22-12-51251-44
+2025-04-24 14:41:48 - INFO - Finish to process SH-23-01-29620-754 case and save in MOJ/results/db/weapon_docx/SH-23-01-29620-754
+2025-04-24 14:41:54 - INFO - Finish to process SH-23-02-12493-834 case and save in MOJ/results/db/weapon_docx/SH-23-02-12493-834
+2025-04-24 14:42:06 - INFO - Finish to process SH-23-02-14802-163 case and save in MOJ/results/db/weapon_docx/SH-23-02-14802-163
+2025-04-24 14:42:18 - INFO - Finish to process SH-23-03-19819-247 case and save in MOJ/results/db/weapon_docx/SH-23-03-19819-247
+2025-04-24 14:42:22 - INFO - Finish to process SH-23-03-57002-536 case and save in MOJ/results/db/weapon_docx/SH-23-03-57002-536
+2025-04-24 14:42:35 - INFO - Finish to process SH-23-04-1579-755 case and save in MOJ/results/db/weapon_docx/SH-23-04-1579-755
+2025-04-24 14:42:48 - INFO - Finish to process SH-23-04-1783-519 case and save in MOJ/results/db/weapon_docx/SH-23-04-1783-519
+2025-04-24 14:42:59 - INFO - Finish to process SH-23-04-21064-945 case and save in MOJ/results/db/weapon_docx/SH-23-04-21064-945
+2025-04-24 14:43:06 - INFO - Finish to process SH-23-05-33774-688 case and save in MOJ/results/db/weapon_docx/SH-23-05-33774-688
+2025-04-24 14:43:18 - INFO - Finish to process SH-23-05-35361-320 case and save in MOJ/results/db/weapon_docx/SH-23-05-35361-320
+2025-04-24 14:43:34 - INFO - Finish to process SH-23-05-37255-919 case and save in MOJ/results/db/weapon_docx/SH-23-05-37255-919
+2025-04-24 14:43:49 - INFO - Finish to process SH-23-06-19300-11 case and save in MOJ/results/db/weapon_docx/SH-23-06-19300-11
+2025-04-24 14:43:59 - INFO - Finish to process SH-23-06-65412-955 case and save in MOJ/results/db/weapon_docx/SH-23-06-65412-955
+2025-04-24 14:44:06 - INFO - Finish to process SH-23-07-24614-151 case and save in MOJ/results/db/weapon_docx/SH-23-07-24614-151
+2025-04-24 14:44:30 - INFO - Finish to process SH-23-07-27417-780 case and save in MOJ/results/db/weapon_docx/SH-23-07-27417-780
+2025-04-24 14:44:39 - INFO - Finish to process SH-23-07-50031-432 case and save in MOJ/results/db/weapon_docx/SH-23-07-50031-432
+2025-04-24 14:44:49 - INFO - Finish to process SH-23-09-19950-661 case and save in MOJ/results/db/weapon_docx/SH-23-09-19950-661
+2025-04-24 14:45:00 - INFO - Finish to process SH-23-09-59614-301 case and save in MOJ/results/db/weapon_docx/SH-23-09-59614-301
+2025-04-24 14:45:25 - INFO - Finish to process SH-23-10-40321-386 case and save in MOJ/results/db/weapon_docx/SH-23-10-40321-386
+2025-04-24 14:45:35 - INFO - Finish to process SH-23-10-54551-464 case and save in MOJ/results/db/weapon_docx/SH-23-10-54551-464
+2025-04-24 14:45:48 - INFO - Finish to process SH-23-11-10938-227 case and save in MOJ/results/db/weapon_docx/SH-23-11-10938-227
+2025-04-24 14:46:02 - INFO - Finish to process SH-23-11-3468-797 case and save in MOJ/results/db/weapon_docx/SH-23-11-3468-797
+2025-04-24 14:46:14 - INFO - Finish to process SH-23-11-3661-361 case and save in MOJ/results/db/weapon_docx/SH-23-11-3661-361
+2025-04-24 14:46:25 - INFO - Finish to process SH-23-11-42118-974 case and save in MOJ/results/db/weapon_docx/SH-23-11-42118-974
+2025-04-24 14:46:40 - INFO - Finish to process SH-23-11-52126-529 case and save in MOJ/results/db/weapon_docx/SH-23-11-52126-529
+2025-04-24 14:46:53 - INFO - Finish to process SH-23-11-66110-587 case and save in MOJ/results/db/weapon_docx/SH-23-11-66110-587
+2025-04-24 14:47:04 - INFO - Finish to process SH-23-12-36267-22 case and save in MOJ/results/db/weapon_docx/SH-23-12-36267-22
+2025-04-24 14:47:10 - INFO - Finish to process SH-23-12-65646-634 case and save in MOJ/results/db/weapon_docx/SH-23-12-65646-634
+2025-04-24 14:47:14 - INFO - Finish to process SH-24-01-23533-525 case and save in MOJ/results/db/weapon_docx/SH-24-01-23533-525
+2025-04-24 14:47:21 - INFO - Finish to process SH-24-01-63953-558 case and save in MOJ/results/db/weapon_docx/SH-24-01-63953-558
+2025-04-24 14:47:33 - INFO - Finish to process SH-24-02-21108-630 case and save in MOJ/results/db/weapon_docx/SH-24-02-21108-630
+2025-04-24 14:47:42 - INFO - Finish to process SH-24-02-7520-199 case and save in MOJ/results/db/weapon_docx/SH-24-02-7520-199
+2025-04-24 14:47:47 - INFO - Finish to process SH-24-04-37506-43 case and save in MOJ/results/db/weapon_docx/SH-24-04-37506-43
+2025-04-24 14:47:56 - INFO - Finish to process SH-24-05-45761-589 case and save in MOJ/results/db/weapon_docx/SH-24-05-45761-589
+2025-04-24 14:48:13 - INFO - Finish to process SH-24-06-14885-840 case and save in MOJ/results/db/weapon_docx/SH-24-06-14885-840
+2025-04-24 14:48:21 - INFO - Finish to process SH-24-06-18094-608 case and save in MOJ/results/db/weapon_docx/SH-24-06-18094-608
+2025-04-24 14:48:27 - INFO - Finish to process SH-24-07-14684-50 case and save in MOJ/results/db/weapon_docx/SH-24-07-14684-50
+2025-04-24 14:48:35 - INFO - Finish to process SH-24-07-28624-666 case and save in MOJ/results/db/weapon_docx/SH-24-07-28624-666
+2025-04-24 14:48:45 - INFO - Finish to process SH-24-07-64378-765 case and save in MOJ/results/db/weapon_docx/SH-24-07-64378-765
+2025-04-24 14:48:54 - INFO - Finish to process SH-24-07-25053-322 case and save in MOJ/results/db/weapon_docx/SH-24-07-25053-322
+2025-04-24 14:49:04 - INFO - Finish to process SH-24-09-3106-679 case and save in MOJ/results/db/weapon_docx/SH-24-09-3106-679
+2025-04-24 14:49:13 - INFO - Finish to process SH-24-09-3548-388 case and save in MOJ/results/db/weapon_docx/SH-24-09-3548-388

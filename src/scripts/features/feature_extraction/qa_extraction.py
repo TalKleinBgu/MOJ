@@ -108,8 +108,8 @@ class QA_Extractor:
         # Iterate over each row in the CSV to extract features
         for _, row in df.iterrows():
             # Skip rows where 'reject' == 1 (indicating a rejected row)
-            if row['reject'] == 1:
-                continue
+            # if row['reject'] == 1:
+            #     continue
             
             # Initialize a dictionary to collect features for this row
             dict_lables = {}
@@ -131,7 +131,7 @@ class QA_Extractor:
                     continue
                 else:
                     # If column is 'PUNISHMENT', handle multiple sub-features
-                    if column == 'CIR_PUNISHMENT':
+                    if column == 'PUNISHMENT':
                         column_1 = 'PUNISHMENT'
                         options = ['ACTUAL', 'SUSPENDED', 'FINE']
                         for option in options:

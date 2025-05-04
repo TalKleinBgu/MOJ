@@ -1,0 +1,1364 @@
+2025-04-25 13:26:18 - INFO - PUNISHMENT model successfully loaded!
+2025-04-25 13:26:18 - INFO - GENERAL_CIRCUM model successfully loaded!
+2025-04-25 13:26:19 - INFO - CIRCUM_OFFENSE model successfully loaded!
+2025-04-25 13:26:19 - INFO - CIR_STATUS_WEP model successfully loaded!
+2025-04-25 13:26:20 - INFO - CIR_HELD_WAY_WEP model successfully loaded!
+2025-04-25 13:26:20 - INFO - CIR_PURPOSE model successfully loaded!
+2025-04-25 13:26:21 - INFO - CIR_AMMU_AMOUNT_WEP model successfully loaded!
+2025-04-25 13:26:22 - INFO - CIR_OBTAIN_WAY_WEP model successfully loaded!
+2025-04-25 13:26:22 - INFO - CIR_TYPE_WEP model successfully loaded!
+2025-04-25 13:26:23 - INFO - CIR_USE model successfully loaded!
+2025-04-25 13:26:23 - INFO - CIR_PLANNING model successfully loaded!
+2025-04-25 13:26:24 - INFO - RESPO model successfully loaded!
+2025-04-25 13:26:25 - INFO - REGRET model successfully loaded!
+2025-04-25 13:26:25 - INFO - CONFESSION model successfully loaded!
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-11-03-35646-783, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-11-05-34337-22, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-11-12-30634-727, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-12-04-30672-625, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-12-05-20524-44, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-11-04-4986-44, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-11-07-22343-883, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-11-11-48367-888, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-12-05-34610-705, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-12-05-8398-532, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-12-06-35192-220, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-12-06-44357-260, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-12-07-42885-722, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-12-07-8450-137, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-12-07-18907-33, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-12-09-30016-33, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-12-09-31580-738, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-12-11-1567-721, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-12-09-51207-971, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-12-11-182-509, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-12-11-2582-956, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-12-11-41805-267, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-12-11-5948-739, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-12-12-39974-33, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-12-12-25581-44, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-01-51122-11, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-01-59967-314, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-02-15741-44, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-02-28360-614, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-02-55800-445, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-03-33546-203, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-02-35702-146, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-02-45550-468, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-02-49989-350, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-03-45208-291, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-03-49858-434, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-04-12122-17, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-04-1578-917, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-04-29375-778, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-04-35007-454, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-05-44826-671, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-05-27782-294, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-05-31862-296, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-05-37701-859, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-06-15376-329, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-06-18799-733, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-06-24207-220, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-06-44877-875, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-06-9162-922, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-07-13281-688, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-07-26088-948, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-07-26801-940, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-07-34594-537, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-07-51198-464, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-08-18402-852, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-08-23475-957, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-08-26481-975, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-08-30145-360, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-08-35298-188, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-10-14308-198, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-10-28139-807, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-09-13822-835, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-09-26637-143, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-09-40272-806, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-10-3622-529, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-10-53169-537, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-10-57914-857, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-10-63535-22, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-11-39183-8, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-11-8725-513, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-12-1390-955, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-12-29671-109, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-11-39234-971, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-11-45971-432, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-11-5388-53, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-12-3531-392, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-13-12-52815-924, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-01-3006-904, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-02-23537-939, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-02-26521-341, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-02-2811-624, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-02-3451-569, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-02-51828-88, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-02-55664-152, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-02-8718-22, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-03-17809-721, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-03-20722-602, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-03-23513-83, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-03-30974-468, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-05-1847-984, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-03-48488-922, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-03-6604-274, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-05-10788-272, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-06-43990-121, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-05-40111-33, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-07-21297-506, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-05-7658-33, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-06-34514-154, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-07-13179-197, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-07-59422-24, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-07-60820-441, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-07-6089-605, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-07-28889-461, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-07-31467-694, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-07-5795-799, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-07-6136-478, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-07-793-33, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-08-33458-807, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-08-41271-51, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-08-41294-699, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-09-54272-333, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-08-998-718, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-09-41562-307, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-09-51186-880, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-10-16446-49, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-10-31218-522, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-10-51094-951, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-10-16506-319, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-10-18510-163, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-10-41611-742, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-11-12154-982, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-11-9693-472, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-12-12154-562, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-11-21296-821, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-11-43709-307, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-11-7498-539, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-01-17919-189, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-12-23786-458, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-14-12-6904-57, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-01-16193-472, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-01-18013-927, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-01-27277-623, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-01-33508-80, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-01-34344-500, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-01-3728-385, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-01-39731-957, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-01-56149-930, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-01-7317-22, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-02-13142-307, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-02-24181-673, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-02-35815-840, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-02-42458-402, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-02-51145-367, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-02-52009-890, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-02-52101-685, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-02-9111-399, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-03-21009-467, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-03-29911-554, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-03-29243-973, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-04-53797-462, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-04-13785-202, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-03-57965-135, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-04-46577-963, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-05-1647-648, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-04-24163-248, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-05-27135-334, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-05-29649-218, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-05-36381-295, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-05-45095-860, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-05-45597-767, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-05-57220-310, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-06-12109-344, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-06-23851-781, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-06-10549-413, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-06-3510-106, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-07-32685-274, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-07-36091-858, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-07-47548-478, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-07-52626-96, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-08-41886-56, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-08-44579-251, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-07-57474-570, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-08-13153-79, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-08-34916-597, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-08-53084-239, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-08-54962-361, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-08-8192-986, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-09-21279-829, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-09-24510-335, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-09-36328-768, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-09-40313-52, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-10-273-650, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-09-40450-667, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-09-40834-111, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-10-11362-496, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-11-12761-94, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-11-13864-999, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-11-20811-403, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-11-27584-269, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-11-42743-945, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-11-27685-385, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-11-3068-620, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-11-32819-130, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-11-43110-948, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-11-45432-364, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-11-45441-351, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-11-45465-294, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-11-64689-724, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-11-65677-894, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-11-46183-219, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-12-18488-686, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-12-35695-730, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-12-39071-113, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-12-39950-22-A, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-12-53715-747, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-15-12-57218-328, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-01-189-123, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-01-31498-921, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-01-3686-941, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-01-3772-806, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-01-58697-845, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-01-741-799, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-02-1589-411, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-02-18397-87, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-02-42291-618, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-02-51944-920, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-03-54615-517, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-02-59812-881, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-03-40497-29, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-03-41585-22, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-04-33882-921, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-04-12480-812, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-03-59260-279, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-04-30242-563, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-05-20367-277, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-05-25902-514, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-04-9179-774, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-05-26087-44, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-05-19384-544, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-05-16543-505, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-05-2606-880, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-05-33009-930, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-05-336-804, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-05-39986-222, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-05-41965-567, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-05-4176-485, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-05-6785-389, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-05-9968-487, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-05-9983-155, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-06-11786-780, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-06-42987-901, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-06-44840-433, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-06-50916-362, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-06-5551-882, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-06-64845-657, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-06-808-60, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-07-30015-11, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-07-41855-64, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-07-42223-236, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-07-45228-25, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-08-12074-33, skipping prediction.
+2025-04-25 13:26:25 - INFO - Probabilities already exist for case ME-16-08-229-604, skipping prediction.
+2025-04-25 13:27:36 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-07-49079-996/sentence_predictions.csv
+2025-04-25 13:27:36 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-07-49079-996/sentence_probabilities.csv
+2025-04-25 13:27:36 - INFO - Finish predict case ME-16-07-49079-996
+2025-04-25 13:28:51 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-08-29984-245/sentence_predictions.csv
+2025-04-25 13:28:51 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-08-29984-245/sentence_probabilities.csv
+2025-04-25 13:28:51 - INFO - Finish predict case ME-16-08-29984-245
+2025-04-25 13:29:49 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-08-44157-713/sentence_predictions.csv
+2025-04-25 13:29:49 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-08-44157-713/sentence_probabilities.csv
+2025-04-25 13:29:49 - INFO - Finish predict case ME-16-08-44157-713
+2025-04-25 13:30:23 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-08-54879-35/sentence_predictions.csv
+2025-04-25 13:30:23 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-08-54879-35/sentence_probabilities.csv
+2025-04-25 13:30:23 - INFO - Finish predict case ME-16-08-54879-35
+2025-04-25 13:31:03 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-09-13416-978/sentence_predictions.csv
+2025-04-25 13:31:03 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-09-13416-978/sentence_probabilities.csv
+2025-04-25 13:31:03 - INFO - Finish predict case ME-16-09-13416-978
+2025-04-25 13:31:22 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-09-21908-135/sentence_predictions.csv
+2025-04-25 13:31:22 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-09-21908-135/sentence_probabilities.csv
+2025-04-25 13:31:22 - INFO - Finish predict case ME-16-09-21908-135
+2025-04-25 13:31:48 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-09-37367-44/sentence_predictions.csv
+2025-04-25 13:31:48 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-09-37367-44/sentence_probabilities.csv
+2025-04-25 13:31:48 - INFO - Finish predict case ME-16-09-37367-44
+2025-04-25 13:32:39 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-09-398-589/sentence_predictions.csv
+2025-04-25 13:32:39 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-09-398-589/sentence_probabilities.csv
+2025-04-25 13:32:39 - INFO - Finish predict case ME-16-09-398-589
+2025-04-25 13:33:24 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-10-12213-904/sentence_predictions.csv
+2025-04-25 13:33:24 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-10-12213-904/sentence_probabilities.csv
+2025-04-25 13:33:24 - INFO - Finish predict case ME-16-10-12213-904
+2025-04-25 13:33:37 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-10-18579-375/sentence_predictions.csv
+2025-04-25 13:33:37 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-10-18579-375/sentence_probabilities.csv
+2025-04-25 13:33:37 - INFO - Finish predict case ME-16-10-18579-375
+2025-04-25 13:33:59 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-10-16420-262/sentence_predictions.csv
+2025-04-25 13:33:59 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-10-16420-262/sentence_probabilities.csv
+2025-04-25 13:33:59 - INFO - Finish predict case ME-16-10-16420-262
+2025-04-25 13:34:45 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-10-26175-22/sentence_predictions.csv
+2025-04-25 13:34:45 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-10-26175-22/sentence_probabilities.csv
+2025-04-25 13:34:45 - INFO - Finish predict case ME-16-10-26175-22
+2025-04-25 13:35:10 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-10-5037-989/sentence_predictions.csv
+2025-04-25 13:35:10 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-10-5037-989/sentence_probabilities.csv
+2025-04-25 13:35:10 - INFO - Finish predict case ME-16-10-5037-989
+2025-04-25 13:35:38 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-10-533-200/sentence_predictions.csv
+2025-04-25 13:35:38 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-10-533-200/sentence_probabilities.csv
+2025-04-25 13:35:38 - INFO - Finish predict case ME-16-10-533-200
+2025-04-25 13:36:26 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-10-9348-780/sentence_predictions.csv
+2025-04-25 13:36:26 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-10-9348-780/sentence_probabilities.csv
+2025-04-25 13:36:26 - INFO - Finish predict case ME-16-10-9348-780
+2025-04-25 13:37:53 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-11-47586-491/sentence_predictions.csv
+2025-04-25 13:37:53 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-11-47586-491/sentence_probabilities.csv
+2025-04-25 13:37:53 - INFO - Finish predict case ME-16-11-47586-491
+2025-04-25 13:39:13 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-12-50986-619/sentence_predictions.csv
+2025-04-25 13:39:13 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-12-50986-619/sentence_probabilities.csv
+2025-04-25 13:39:13 - INFO - Finish predict case ME-16-12-50986-619
+2025-04-25 13:39:35 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-11-56385-886/sentence_predictions.csv
+2025-04-25 13:39:35 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-11-56385-886/sentence_probabilities.csv
+2025-04-25 13:39:35 - INFO - Finish predict case ME-16-11-56385-886
+2025-04-25 13:40:27 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-11-69158-529/sentence_predictions.csv
+2025-04-25 13:40:27 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-11-69158-529/sentence_probabilities.csv
+2025-04-25 13:40:27 - INFO - Finish predict case ME-16-11-69158-529
+2025-04-25 13:41:12 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-12-15943-228/sentence_predictions.csv
+2025-04-25 13:41:12 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-12-15943-228/sentence_probabilities.csv
+2025-04-25 13:41:12 - INFO - Finish predict case ME-16-12-15943-228
+2025-04-25 13:42:00 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-12-64990-76/sentence_predictions.csv
+2025-04-25 13:42:00 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-16-12-64990-76/sentence_probabilities.csv
+2025-04-25 13:42:00 - INFO - Finish predict case ME-16-12-64990-76
+2025-04-25 13:43:47 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-01-18689-992/sentence_predictions.csv
+2025-04-25 13:43:47 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-01-18689-992/sentence_probabilities.csv
+2025-04-25 13:43:47 - INFO - Finish predict case ME-17-01-18689-992
+2025-04-25 13:44:17 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-01-10627-424/sentence_predictions.csv
+2025-04-25 13:44:17 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-01-10627-424/sentence_probabilities.csv
+2025-04-25 13:44:17 - INFO - Finish predict case ME-17-01-10627-424
+2025-04-25 13:44:37 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-01-44521-24/sentence_predictions.csv
+2025-04-25 13:44:37 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-01-44521-24/sentence_probabilities.csv
+2025-04-25 13:44:37 - INFO - Finish predict case ME-17-01-44521-24
+2025-04-25 13:46:09 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-01-59804-978/sentence_predictions.csv
+2025-04-25 13:46:09 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-01-59804-978/sentence_probabilities.csv
+2025-04-25 13:46:09 - INFO - Finish predict case ME-17-01-59804-978
+2025-04-25 13:47:17 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-02-19821-739/sentence_predictions.csv
+2025-04-25 13:47:17 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-02-19821-739/sentence_probabilities.csv
+2025-04-25 13:47:17 - INFO - Finish predict case ME-17-02-19821-739
+2025-04-25 13:48:04 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-02-3454-397/sentence_predictions.csv
+2025-04-25 13:48:04 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-02-3454-397/sentence_probabilities.csv
+2025-04-25 13:48:04 - INFO - Finish predict case ME-17-02-3454-397
+2025-04-25 13:49:16 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-02-41242-441/sentence_predictions.csv
+2025-04-25 13:49:16 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-02-41242-441/sentence_probabilities.csv
+2025-04-25 13:49:16 - INFO - Finish predict case ME-17-02-41242-441
+2025-04-25 13:50:32 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-02-48435-315/sentence_predictions.csv
+2025-04-25 13:50:32 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-02-48435-315/sentence_probabilities.csv
+2025-04-25 13:50:32 - INFO - Finish predict case ME-17-02-48435-315
+2025-04-25 13:51:35 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-02-51038-581/sentence_predictions.csv
+2025-04-25 13:51:35 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-02-51038-581/sentence_probabilities.csv
+2025-04-25 13:51:35 - INFO - Finish predict case ME-17-02-51038-581
+2025-04-25 13:52:29 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-02-54432-484/sentence_predictions.csv
+2025-04-25 13:52:29 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-02-54432-484/sentence_probabilities.csv
+2025-04-25 13:52:29 - INFO - Finish predict case ME-17-02-54432-484
+2025-04-25 13:53:14 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-02-9873-811/sentence_predictions.csv
+2025-04-25 13:53:14 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-02-9873-811/sentence_probabilities.csv
+2025-04-25 13:53:14 - INFO - Finish predict case ME-17-02-9873-811
+2025-04-25 13:53:53 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-03-26417-129/sentence_predictions.csv
+2025-04-25 13:53:53 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-03-26417-129/sentence_probabilities.csv
+2025-04-25 13:53:53 - INFO - Finish predict case ME-17-03-26417-129
+2025-04-25 13:55:21 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-04-21139-452/sentence_predictions.csv
+2025-04-25 13:55:21 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-04-21139-452/sentence_probabilities.csv
+2025-04-25 13:55:21 - INFO - Finish predict case ME-17-04-21139-452
+2025-04-25 13:56:36 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-03-1995-297/sentence_predictions.csv
+2025-04-25 13:56:36 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-03-1995-297/sentence_probabilities.csv
+2025-04-25 13:56:36 - INFO - Finish predict case ME-17-03-1995-297
+2025-04-25 13:58:06 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-04-1901-539/sentence_predictions.csv
+2025-04-25 13:58:06 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-04-1901-539/sentence_probabilities.csv
+2025-04-25 13:58:06 - INFO - Finish predict case ME-17-04-1901-539
+2025-04-25 13:59:03 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-04-19741-416/sentence_predictions.csv
+2025-04-25 13:59:03 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-04-19741-416/sentence_probabilities.csv
+2025-04-25 13:59:03 - INFO - Finish predict case ME-17-04-19741-416
+2025-04-25 14:00:18 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-04-30875-798/sentence_predictions.csv
+2025-04-25 14:00:18 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-04-30875-798/sentence_probabilities.csv
+2025-04-25 14:00:18 - INFO - Finish predict case ME-17-04-30875-798
+2025-04-25 14:02:19 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-04-35048-22/sentence_predictions.csv
+2025-04-25 14:02:19 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-04-35048-22/sentence_probabilities.csv
+2025-04-25 14:02:19 - INFO - Finish predict case ME-17-04-35048-22
+2025-04-25 14:04:16 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-04-45561-926/sentence_predictions.csv
+2025-04-25 14:04:16 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-04-45561-926/sentence_probabilities.csv
+2025-04-25 14:04:16 - INFO - Finish predict case ME-17-04-45561-926
+2025-04-25 14:04:59 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-04-613-913/sentence_predictions.csv
+2025-04-25 14:04:59 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-04-613-913/sentence_probabilities.csv
+2025-04-25 14:04:59 - INFO - Finish predict case ME-17-04-613-913
+2025-04-25 14:05:55 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-05-35227-215/sentence_predictions.csv
+2025-04-25 14:05:55 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-05-35227-215/sentence_probabilities.csv
+2025-04-25 14:05:55 - INFO - Finish predict case ME-17-05-35227-215
+2025-04-25 14:07:14 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-05-395-224/sentence_predictions.csv
+2025-04-25 14:07:14 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-05-395-224/sentence_probabilities.csv
+2025-04-25 14:07:14 - INFO - Finish predict case ME-17-05-395-224
+2025-04-25 14:07:58 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-05-45747-167/sentence_predictions.csv
+2025-04-25 14:07:58 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-05-45747-167/sentence_probabilities.csv
+2025-04-25 14:07:58 - INFO - Finish predict case ME-17-05-45747-167
+2025-04-25 14:09:29 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-05-522-895/sentence_predictions.csv
+2025-04-25 14:09:29 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-05-522-895/sentence_probabilities.csv
+2025-04-25 14:09:29 - INFO - Finish predict case ME-17-05-522-895
+2025-04-25 14:13:26 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-05-55639-212/sentence_predictions.csv
+2025-04-25 14:13:26 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-05-55639-212/sentence_probabilities.csv
+2025-04-25 14:13:26 - INFO - Finish predict case ME-17-05-55639-212
+2025-04-25 14:14:01 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-06-17856-893/sentence_predictions.csv
+2025-04-25 14:14:01 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-06-17856-893/sentence_probabilities.csv
+2025-04-25 14:14:01 - INFO - Finish predict case ME-17-06-17856-893
+2025-04-25 14:15:03 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-05-57618-514/sentence_predictions.csv
+2025-04-25 14:15:03 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-05-57618-514/sentence_probabilities.csv
+2025-04-25 14:15:03 - INFO - Finish predict case ME-17-05-57618-514
+2025-04-25 14:16:05 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-05-57628-197/sentence_predictions.csv
+2025-04-25 14:16:05 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-05-57628-197/sentence_probabilities.csv
+2025-04-25 14:16:05 - INFO - Finish predict case ME-17-05-57628-197
+2025-04-25 14:16:49 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-05-633-549/sentence_predictions.csv
+2025-04-25 14:16:49 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-05-633-549/sentence_probabilities.csv
+2025-04-25 14:16:49 - INFO - Finish predict case ME-17-05-633-549
+2025-04-25 14:17:09 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-06-20613-371/sentence_predictions.csv
+2025-04-25 14:17:09 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-06-20613-371/sentence_probabilities.csv
+2025-04-25 14:17:09 - INFO - Finish predict case ME-17-06-20613-371
+2025-04-25 14:18:44 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-06-31034-933/sentence_predictions.csv
+2025-04-25 14:18:44 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-06-31034-933/sentence_probabilities.csv
+2025-04-25 14:18:44 - INFO - Finish predict case ME-17-06-31034-933
+2025-04-25 14:20:11 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-06-51716-210/sentence_predictions.csv
+2025-04-25 14:20:11 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-06-51716-210/sentence_probabilities.csv
+2025-04-25 14:20:11 - INFO - Finish predict case ME-17-06-51716-210
+2025-04-25 14:21:02 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-06-52219-192/sentence_predictions.csv
+2025-04-25 14:21:02 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-06-52219-192/sentence_probabilities.csv
+2025-04-25 14:21:02 - INFO - Finish predict case ME-17-06-52219-192
+2025-04-25 14:21:55 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-06-66838-648/sentence_predictions.csv
+2025-04-25 14:21:55 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-06-66838-648/sentence_probabilities.csv
+2025-04-25 14:21:55 - INFO - Finish predict case ME-17-06-66838-648
+2025-04-25 14:22:48 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-07-45713-955/sentence_predictions.csv
+2025-04-25 14:22:48 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-07-45713-955/sentence_probabilities.csv
+2025-04-25 14:22:48 - INFO - Finish predict case ME-17-07-45713-955
+2025-04-25 14:23:53 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-06-55670-340/sentence_predictions.csv
+2025-04-25 14:23:53 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-06-55670-340/sentence_probabilities.csv
+2025-04-25 14:23:53 - INFO - Finish predict case ME-17-06-55670-340
+2025-04-25 14:24:19 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-07-4807-73/sentence_predictions.csv
+2025-04-25 14:24:19 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-07-4807-73/sentence_probabilities.csv
+2025-04-25 14:24:19 - INFO - Finish predict case ME-17-07-4807-73
+2025-04-25 14:25:16 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-07-520-371/sentence_predictions.csv
+2025-04-25 14:25:16 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-07-520-371/sentence_probabilities.csv
+2025-04-25 14:25:16 - INFO - Finish predict case ME-17-07-520-371
+2025-04-25 14:25:50 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-07-53772-358/sentence_predictions.csv
+2025-04-25 14:25:50 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-07-53772-358/sentence_probabilities.csv
+2025-04-25 14:25:50 - INFO - Finish predict case ME-17-07-53772-358
+2025-04-25 14:27:29 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-07-66310-844/sentence_predictions.csv
+2025-04-25 14:27:29 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-07-66310-844/sentence_probabilities.csv
+2025-04-25 14:27:29 - INFO - Finish predict case ME-17-07-66310-844
+2025-04-25 14:29:21 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-08-13632-55/sentence_predictions.csv
+2025-04-25 14:29:21 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-08-13632-55/sentence_probabilities.csv
+2025-04-25 14:29:21 - INFO - Finish predict case ME-17-08-13632-55
+2025-04-25 14:30:17 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-08-28615-573/sentence_predictions.csv
+2025-04-25 14:30:17 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-08-28615-573/sentence_probabilities.csv
+2025-04-25 14:30:17 - INFO - Finish predict case ME-17-08-28615-573
+2025-04-25 14:32:01 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-09-38154-771/sentence_predictions.csv
+2025-04-25 14:32:01 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-09-38154-771/sentence_probabilities.csv
+2025-04-25 14:32:01 - INFO - Finish predict case ME-17-09-38154-771
+2025-04-25 14:32:56 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-08-47161-136/sentence_predictions.csv
+2025-04-25 14:32:56 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-08-47161-136/sentence_probabilities.csv
+2025-04-25 14:32:56 - INFO - Finish predict case ME-17-08-47161-136
+2025-04-25 14:34:11 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-08-50556-55/sentence_predictions.csv
+2025-04-25 14:34:11 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-08-50556-55/sentence_probabilities.csv
+2025-04-25 14:34:11 - INFO - Finish predict case ME-17-08-50556-55
+2025-04-25 14:34:44 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-09-34413-331/sentence_predictions.csv
+2025-04-25 14:34:44 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-09-34413-331/sentence_probabilities.csv
+2025-04-25 14:34:44 - INFO - Finish predict case ME-17-09-34413-331
+2025-04-25 14:35:10 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-09-48143-740/sentence_predictions.csv
+2025-04-25 14:35:10 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-09-48143-740/sentence_probabilities.csv
+2025-04-25 14:35:10 - INFO - Finish predict case ME-17-09-48143-740
+2025-04-25 14:36:19 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-09-49995-56/sentence_predictions.csv
+2025-04-25 14:36:19 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-09-49995-56/sentence_probabilities.csv
+2025-04-25 14:36:19 - INFO - Finish predict case ME-17-09-49995-56
+2025-04-25 14:36:55 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-09-55908-387/sentence_predictions.csv
+2025-04-25 14:36:55 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-09-55908-387/sentence_probabilities.csv
+2025-04-25 14:36:55 - INFO - Finish predict case ME-17-09-55908-387
+2025-04-25 14:37:27 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-09-62958-633/sentence_predictions.csv
+2025-04-25 14:37:27 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-09-62958-633/sentence_probabilities.csv
+2025-04-25 14:37:27 - INFO - Finish predict case ME-17-09-62958-633
+2025-04-25 14:38:43 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-10-55188-835/sentence_predictions.csv
+2025-04-25 14:38:43 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-10-55188-835/sentence_probabilities.csv
+2025-04-25 14:38:43 - INFO - Finish predict case ME-17-10-55188-835
+2025-04-25 14:39:33 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-10-12549-265/sentence_predictions.csv
+2025-04-25 14:39:33 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-10-12549-265/sentence_probabilities.csv
+2025-04-25 14:39:33 - INFO - Finish predict case ME-17-10-12549-265
+2025-04-25 14:40:38 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-10-17393-266/sentence_predictions.csv
+2025-04-25 14:40:38 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-10-17393-266/sentence_probabilities.csv
+2025-04-25 14:40:38 - INFO - Finish predict case ME-17-10-17393-266
+2025-04-25 14:41:45 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-10-51523-521/sentence_predictions.csv
+2025-04-25 14:41:45 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-10-51523-521/sentence_probabilities.csv
+2025-04-25 14:41:45 - INFO - Finish predict case ME-17-10-51523-521
+2025-04-25 14:42:50 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-10-58812-403/sentence_predictions.csv
+2025-04-25 14:42:50 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-10-58812-403/sentence_probabilities.csv
+2025-04-25 14:42:50 - INFO - Finish predict case ME-17-10-58812-403
+2025-04-25 14:43:04 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-10-62597-895/sentence_predictions.csv
+2025-04-25 14:43:04 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-10-62597-895/sentence_probabilities.csv
+2025-04-25 14:43:04 - INFO - Finish predict case ME-17-10-62597-895
+2025-04-25 14:44:07 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-12-10476-608/sentence_predictions.csv
+2025-04-25 14:44:07 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-12-10476-608/sentence_probabilities.csv
+2025-04-25 14:44:07 - INFO - Finish predict case ME-17-12-10476-608
+2025-04-25 14:45:24 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-12-17304-736/sentence_predictions.csv
+2025-04-25 14:45:24 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-12-17304-736/sentence_probabilities.csv
+2025-04-25 14:45:24 - INFO - Finish predict case ME-17-12-17304-736
+2025-04-25 14:47:08 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-12-20051-644/sentence_predictions.csv
+2025-04-25 14:47:08 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-12-20051-644/sentence_probabilities.csv
+2025-04-25 14:47:08 - INFO - Finish predict case ME-17-12-20051-644
+2025-04-25 14:47:50 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-12-22830-699/sentence_predictions.csv
+2025-04-25 14:47:50 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-12-22830-699/sentence_probabilities.csv
+2025-04-25 14:47:50 - INFO - Finish predict case ME-17-12-22830-699
+2025-04-25 14:48:31 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-12-312-482/sentence_predictions.csv
+2025-04-25 14:48:31 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-12-312-482/sentence_probabilities.csv
+2025-04-25 14:48:31 - INFO - Finish predict case ME-17-12-312-482
+2025-04-25 14:48:56 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-12-32803-592/sentence_predictions.csv
+2025-04-25 14:48:56 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-12-32803-592/sentence_probabilities.csv
+2025-04-25 14:48:56 - INFO - Finish predict case ME-17-12-32803-592
+2025-04-25 14:50:32 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-12-32889-55/sentence_predictions.csv
+2025-04-25 14:50:32 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-17-12-32889-55/sentence_probabilities.csv
+2025-04-25 14:50:32 - INFO - Finish predict case ME-17-12-32889-55
+2025-04-25 14:54:33 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-01-27442-55/sentence_predictions.csv
+2025-04-25 14:54:33 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-01-27442-55/sentence_probabilities.csv
+2025-04-25 14:54:33 - INFO - Finish predict case ME-18-01-27442-55
+2025-04-25 14:55:25 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-01-29650-142/sentence_predictions.csv
+2025-04-25 14:55:25 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-01-29650-142/sentence_probabilities.csv
+2025-04-25 14:55:25 - INFO - Finish predict case ME-18-01-29650-142
+2025-04-25 14:56:41 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-01-35364-850/sentence_predictions.csv
+2025-04-25 14:56:41 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-01-35364-850/sentence_probabilities.csv
+2025-04-25 14:56:41 - INFO - Finish predict case ME-18-01-35364-850
+2025-04-25 14:57:56 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-01-52895-37/sentence_predictions.csv
+2025-04-25 14:57:56 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-01-52895-37/sentence_probabilities.csv
+2025-04-25 14:57:56 - INFO - Finish predict case ME-18-01-52895-37
+2025-04-25 14:58:32 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-02-16505-658/sentence_predictions.csv
+2025-04-25 14:58:32 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-02-16505-658/sentence_probabilities.csv
+2025-04-25 14:58:32 - INFO - Finish predict case ME-18-02-16505-658
+2025-04-25 14:59:31 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-02-1909-13/sentence_predictions.csv
+2025-04-25 14:59:31 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-02-1909-13/sentence_probabilities.csv
+2025-04-25 14:59:31 - INFO - Finish predict case ME-18-02-1909-13
+2025-04-25 15:00:03 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-02-24047-205/sentence_predictions.csv
+2025-04-25 15:00:03 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-02-24047-205/sentence_probabilities.csv
+2025-04-25 15:00:03 - INFO - Finish predict case ME-18-02-24047-205
+2025-04-25 15:01:31 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-02-4283-295/sentence_predictions.csv
+2025-04-25 15:01:31 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-02-4283-295/sentence_probabilities.csv
+2025-04-25 15:01:31 - INFO - Finish predict case ME-18-02-4283-295
+2025-04-25 15:02:32 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-02-630-602/sentence_predictions.csv
+2025-04-25 15:02:32 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-02-630-602/sentence_probabilities.csv
+2025-04-25 15:02:32 - INFO - Finish predict case ME-18-02-630-602
+2025-04-25 15:03:42 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-03-19438-13/sentence_predictions.csv
+2025-04-25 15:03:42 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-03-19438-13/sentence_probabilities.csv
+2025-04-25 15:03:42 - INFO - Finish predict case ME-18-03-19438-13
+2025-04-25 15:04:14 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-03-35163-225/sentence_predictions.csv
+2025-04-25 15:04:14 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-03-35163-225/sentence_probabilities.csv
+2025-04-25 15:04:14 - INFO - Finish predict case ME-18-03-35163-225
+2025-04-25 15:05:29 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-03-36982-305/sentence_predictions.csv
+2025-04-25 15:05:29 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-03-36982-305/sentence_probabilities.csv
+2025-04-25 15:05:29 - INFO - Finish predict case ME-18-03-36982-305
+2025-04-25 15:06:06 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-03-50551-148/sentence_predictions.csv
+2025-04-25 15:06:06 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-03-50551-148/sentence_probabilities.csv
+2025-04-25 15:06:06 - INFO - Finish predict case ME-18-03-50551-148
+2025-04-25 15:07:18 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-03-52225-55/sentence_predictions.csv
+2025-04-25 15:07:18 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-03-52225-55/sentence_probabilities.csv
+2025-04-25 15:07:18 - INFO - Finish predict case ME-18-03-52225-55
+2025-04-25 15:08:39 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-04-19642-504/sentence_predictions.csv
+2025-04-25 15:08:39 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-04-19642-504/sentence_probabilities.csv
+2025-04-25 15:08:39 - INFO - Finish predict case ME-18-04-19642-504
+2025-04-25 15:09:35 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-04-3013-536/sentence_predictions.csv
+2025-04-25 15:09:35 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-04-3013-536/sentence_probabilities.csv
+2025-04-25 15:09:35 - INFO - Finish predict case ME-18-04-3013-536
+2025-04-25 15:10:28 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-04-3295-790/sentence_predictions.csv
+2025-04-25 15:10:28 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-04-3295-790/sentence_probabilities.csv
+2025-04-25 15:10:28 - INFO - Finish predict case ME-18-04-3295-790
+2025-04-25 15:11:40 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-04-34027-630/sentence_predictions.csv
+2025-04-25 15:11:40 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-04-34027-630/sentence_probabilities.csv
+2025-04-25 15:11:40 - INFO - Finish predict case ME-18-04-34027-630
+2025-04-25 15:13:11 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-04-37387-230/sentence_predictions.csv
+2025-04-25 15:13:11 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-04-37387-230/sentence_probabilities.csv
+2025-04-25 15:13:11 - INFO - Finish predict case ME-18-04-37387-230
+2025-04-25 15:14:06 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-04-49416-848/sentence_predictions.csv
+2025-04-25 15:14:06 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-04-49416-848/sentence_probabilities.csv
+2025-04-25 15:14:06 - INFO - Finish predict case ME-18-04-49416-848
+2025-04-25 15:14:33 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-05-32659-754/sentence_predictions.csv
+2025-04-25 15:14:33 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-05-32659-754/sentence_probabilities.csv
+2025-04-25 15:14:33 - INFO - Finish predict case ME-18-05-32659-754
+2025-04-25 15:15:29 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-05-32731-705/sentence_predictions.csv
+2025-04-25 15:15:29 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-05-32731-705/sentence_probabilities.csv
+2025-04-25 15:15:29 - INFO - Finish predict case ME-18-05-32731-705
+2025-04-25 15:16:39 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-05-41522-352/sentence_predictions.csv
+2025-04-25 15:16:39 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-05-41522-352/sentence_probabilities.csv
+2025-04-25 15:16:39 - INFO - Finish predict case ME-18-05-41522-352
+2025-04-25 15:17:08 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-05-42697-576/sentence_predictions.csv
+2025-04-25 15:17:08 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-05-42697-576/sentence_probabilities.csv
+2025-04-25 15:17:08 - INFO - Finish predict case ME-18-05-42697-576
+2025-04-25 15:18:02 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-05-7942-983/sentence_predictions.csv
+2025-04-25 15:18:02 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-05-7942-983/sentence_probabilities.csv
+2025-04-25 15:18:02 - INFO - Finish predict case ME-18-05-7942-983
+2025-04-25 15:19:23 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-06-11814-47/sentence_predictions.csv
+2025-04-25 15:19:23 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-06-11814-47/sentence_probabilities.csv
+2025-04-25 15:19:23 - INFO - Finish predict case ME-18-06-11814-47
+2025-04-25 15:21:07 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-06-34198-11/sentence_predictions.csv
+2025-04-25 15:21:07 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-06-34198-11/sentence_probabilities.csv
+2025-04-25 15:21:07 - INFO - Finish predict case ME-18-06-34198-11
+2025-04-25 15:22:05 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-06-36728-73/sentence_predictions.csv
+2025-04-25 15:22:05 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-06-36728-73/sentence_probabilities.csv
+2025-04-25 15:22:05 - INFO - Finish predict case ME-18-06-36728-73
+2025-04-25 15:24:39 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-06-46590-33/sentence_predictions.csv
+2025-04-25 15:24:39 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-06-46590-33/sentence_probabilities.csv
+2025-04-25 15:24:39 - INFO - Finish predict case ME-18-06-46590-33
+2025-04-25 15:25:15 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-06-47284-987/sentence_predictions.csv
+2025-04-25 15:25:15 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-06-47284-987/sentence_probabilities.csv
+2025-04-25 15:25:15 - INFO - Finish predict case ME-18-06-47284-987
+2025-04-25 15:25:53 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-07-23532-512/sentence_predictions.csv
+2025-04-25 15:25:53 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-07-23532-512/sentence_probabilities.csv
+2025-04-25 15:25:53 - INFO - Finish predict case ME-18-07-23532-512
+2025-04-25 15:26:59 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-07-3742-540/sentence_predictions.csv
+2025-04-25 15:26:59 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-07-3742-540/sentence_probabilities.csv
+2025-04-25 15:26:59 - INFO - Finish predict case ME-18-07-3742-540
+2025-04-25 15:27:35 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-07-45630-284/sentence_predictions.csv
+2025-04-25 15:27:35 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-07-45630-284/sentence_probabilities.csv
+2025-04-25 15:27:35 - INFO - Finish predict case ME-18-07-45630-284
+2025-04-25 15:31:03 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-07-50330-234/sentence_predictions.csv
+2025-04-25 15:31:03 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-07-50330-234/sentence_probabilities.csv
+2025-04-25 15:31:03 - INFO - Finish predict case ME-18-07-50330-234
+2025-04-25 15:31:57 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-07-60648-983/sentence_predictions.csv
+2025-04-25 15:31:57 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-07-60648-983/sentence_probabilities.csv
+2025-04-25 15:31:57 - INFO - Finish predict case ME-18-07-60648-983
+2025-04-25 15:33:14 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-07-60792-633/sentence_predictions.csv
+2025-04-25 15:33:14 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-07-60792-633/sentence_probabilities.csv
+2025-04-25 15:33:14 - INFO - Finish predict case ME-18-07-60792-633
+2025-04-25 15:33:49 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-08-8864-290/sentence_predictions.csv
+2025-04-25 15:33:49 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-08-8864-290/sentence_probabilities.csv
+2025-04-25 15:33:49 - INFO - Finish predict case ME-18-08-8864-290
+2025-04-25 15:34:58 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-09-34938-726/sentence_predictions.csv
+2025-04-25 15:34:58 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-09-34938-726/sentence_probabilities.csv
+2025-04-25 15:34:58 - INFO - Finish predict case ME-18-09-34938-726
+2025-04-25 15:35:30 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-09-39800-871/sentence_predictions.csv
+2025-04-25 15:35:30 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-09-39800-871/sentence_probabilities.csv
+2025-04-25 15:35:30 - INFO - Finish predict case ME-18-09-39800-871
+2025-04-25 15:37:17 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-10-1118-920/sentence_predictions.csv
+2025-04-25 15:37:17 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-10-1118-920/sentence_probabilities.csv
+2025-04-25 15:37:17 - INFO - Finish predict case ME-18-10-1118-920
+2025-04-25 15:38:23 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-10-12376-279/sentence_predictions.csv
+2025-04-25 15:38:23 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-10-12376-279/sentence_probabilities.csv
+2025-04-25 15:38:23 - INFO - Finish predict case ME-18-10-12376-279
+2025-04-25 15:39:06 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-10-26434-945/sentence_predictions.csv
+2025-04-25 15:39:06 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-10-26434-945/sentence_probabilities.csv
+2025-04-25 15:39:06 - INFO - Finish predict case ME-18-10-26434-945
+2025-04-25 15:40:14 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-10-30972-637/sentence_predictions.csv
+2025-04-25 15:40:14 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-10-30972-637/sentence_probabilities.csv
+2025-04-25 15:40:14 - INFO - Finish predict case ME-18-10-30972-637
+2025-04-25 15:41:52 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-10-33100-33/sentence_predictions.csv
+2025-04-25 15:41:52 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-10-33100-33/sentence_probabilities.csv
+2025-04-25 15:41:52 - INFO - Finish predict case ME-18-10-33100-33
+2025-04-25 15:43:46 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-10-33226-487/sentence_predictions.csv
+2025-04-25 15:43:46 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-10-33226-487/sentence_probabilities.csv
+2025-04-25 15:43:46 - INFO - Finish predict case ME-18-10-33226-487
+2025-04-25 15:45:09 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-10-34117-55/sentence_predictions.csv
+2025-04-25 15:45:09 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-10-34117-55/sentence_probabilities.csv
+2025-04-25 15:45:09 - INFO - Finish predict case ME-18-10-34117-55
+2025-04-25 15:45:42 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-10-69640-543/sentence_predictions.csv
+2025-04-25 15:45:42 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-10-69640-543/sentence_probabilities.csv
+2025-04-25 15:45:42 - INFO - Finish predict case ME-18-10-69640-543
+2025-04-25 15:46:09 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-11-17941-195/sentence_predictions.csv
+2025-04-25 15:46:09 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-11-17941-195/sentence_probabilities.csv
+2025-04-25 15:46:09 - INFO - Finish predict case ME-18-11-17941-195
+2025-04-25 15:46:54 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-11-18300-582/sentence_predictions.csv
+2025-04-25 15:46:54 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-11-18300-582/sentence_probabilities.csv
+2025-04-25 15:46:54 - INFO - Finish predict case ME-18-11-18300-582
+2025-04-25 15:47:23 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-11-4475-747/sentence_predictions.csv
+2025-04-25 15:47:23 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-11-4475-747/sentence_probabilities.csv
+2025-04-25 15:47:23 - INFO - Finish predict case ME-18-11-4475-747
+2025-04-25 15:47:59 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-11-58698-801/sentence_predictions.csv
+2025-04-25 15:47:59 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-11-58698-801/sentence_probabilities.csv
+2025-04-25 15:47:59 - INFO - Finish predict case ME-18-11-58698-801
+2025-04-25 15:48:30 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-12-36698-478/sentence_predictions.csv
+2025-04-25 15:48:30 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-12-36698-478/sentence_probabilities.csv
+2025-04-25 15:48:30 - INFO - Finish predict case ME-18-12-36698-478
+2025-04-25 15:49:13 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-12-54308-606/sentence_predictions.csv
+2025-04-25 15:49:13 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-12-54308-606/sentence_probabilities.csv
+2025-04-25 15:49:13 - INFO - Finish predict case ME-18-12-54308-606
+2025-04-25 15:50:14 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-12-61087-4/sentence_predictions.csv
+2025-04-25 15:50:14 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-12-61087-4/sentence_probabilities.csv
+2025-04-25 15:50:14 - INFO - Finish predict case ME-18-12-61087-4
+2025-04-25 15:51:38 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-01-43752-281/sentence_predictions.csv
+2025-04-25 15:51:38 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-01-43752-281/sentence_probabilities.csv
+2025-04-25 15:51:38 - INFO - Finish predict case ME-19-01-43752-281
+2025-04-25 15:53:04 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-12-63642-864/sentence_predictions.csv
+2025-04-25 15:53:04 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-18-12-63642-864/sentence_probabilities.csv
+2025-04-25 15:53:04 - INFO - Finish predict case ME-18-12-63642-864
+2025-04-25 15:54:14 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-01-11134-480/sentence_predictions.csv
+2025-04-25 15:54:14 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-01-11134-480/sentence_probabilities.csv
+2025-04-25 15:54:14 - INFO - Finish predict case ME-19-01-11134-480
+2025-04-25 15:54:51 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-01-17860-11/sentence_predictions.csv
+2025-04-25 15:54:51 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-01-17860-11/sentence_probabilities.csv
+2025-04-25 15:54:51 - INFO - Finish predict case ME-19-01-17860-11
+2025-04-25 15:55:07 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-01-4766-873/sentence_predictions.csv
+2025-04-25 15:55:07 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-01-4766-873/sentence_probabilities.csv
+2025-04-25 15:55:07 - INFO - Finish predict case ME-19-01-4766-873
+2025-04-25 15:56:31 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-01-53615-8/sentence_predictions.csv
+2025-04-25 15:56:31 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-01-53615-8/sentence_probabilities.csv
+2025-04-25 15:56:31 - INFO - Finish predict case ME-19-01-53615-8
+2025-04-25 15:57:45 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-02-23872-143/sentence_predictions.csv
+2025-04-25 15:57:45 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-02-23872-143/sentence_probabilities.csv
+2025-04-25 15:57:45 - INFO - Finish predict case ME-19-02-23872-143
+2025-04-25 16:00:09 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-02-24704-515/sentence_predictions.csv
+2025-04-25 16:00:09 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-02-24704-515/sentence_probabilities.csv
+2025-04-25 16:00:09 - INFO - Finish predict case ME-19-02-24704-515
+2025-04-25 16:01:03 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-03-15217-631/sentence_predictions.csv
+2025-04-25 16:01:03 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-03-15217-631/sentence_probabilities.csv
+2025-04-25 16:01:03 - INFO - Finish predict case ME-19-03-15217-631
+2025-04-25 16:02:03 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-03-27929-617/sentence_predictions.csv
+2025-04-25 16:02:03 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-03-27929-617/sentence_probabilities.csv
+2025-04-25 16:02:03 - INFO - Finish predict case ME-19-03-27929-617
+2025-04-25 16:03:45 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-03-57498-650/sentence_predictions.csv
+2025-04-25 16:03:45 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-03-57498-650/sentence_probabilities.csv
+2025-04-25 16:03:45 - INFO - Finish predict case ME-19-03-57498-650
+2025-04-25 16:04:44 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-04-1316-977/sentence_predictions.csv
+2025-04-25 16:04:44 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-04-1316-977/sentence_probabilities.csv
+2025-04-25 16:04:44 - INFO - Finish predict case ME-19-04-1316-977
+2025-04-25 16:05:58 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-04-14488-104/sentence_predictions.csv
+2025-04-25 16:05:58 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-04-14488-104/sentence_probabilities.csv
+2025-04-25 16:05:58 - INFO - Finish predict case ME-19-04-14488-104
+2025-04-25 16:06:35 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-04-1641-175/sentence_predictions.csv
+2025-04-25 16:06:35 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-04-1641-175/sentence_probabilities.csv
+2025-04-25 16:06:35 - INFO - Finish predict case ME-19-04-1641-175
+2025-04-25 16:07:50 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-04-2642-861/sentence_predictions.csv
+2025-04-25 16:07:50 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-04-2642-861/sentence_probabilities.csv
+2025-04-25 16:07:50 - INFO - Finish predict case ME-19-04-2642-861
+2025-04-25 16:08:43 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-04-27294-428/sentence_predictions.csv
+2025-04-25 16:08:43 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-04-27294-428/sentence_probabilities.csv
+2025-04-25 16:08:43 - INFO - Finish predict case ME-19-04-27294-428
+2025-04-25 16:09:41 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-04-7735-986/sentence_predictions.csv
+2025-04-25 16:09:41 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-04-7735-986/sentence_probabilities.csv
+2025-04-25 16:09:41 - INFO - Finish predict case ME-19-04-7735-986
+2025-04-25 16:10:57 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-05-56374-18/sentence_predictions.csv
+2025-04-25 16:10:57 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-05-56374-18/sentence_probabilities.csv
+2025-04-25 16:10:57 - INFO - Finish predict case ME-19-05-56374-18
+2025-04-25 16:11:38 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-05-56488-212/sentence_predictions.csv
+2025-04-25 16:11:38 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-05-56488-212/sentence_probabilities.csv
+2025-04-25 16:11:38 - INFO - Finish predict case ME-19-05-56488-212
+2025-04-25 16:13:38 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-06-23015-609/sentence_predictions.csv
+2025-04-25 16:13:38 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-06-23015-609/sentence_probabilities.csv
+2025-04-25 16:13:38 - INFO - Finish predict case ME-19-06-23015-609
+2025-04-25 16:15:37 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-06-34802-695/sentence_predictions.csv
+2025-04-25 16:15:37 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-06-34802-695/sentence_probabilities.csv
+2025-04-25 16:15:37 - INFO - Finish predict case ME-19-06-34802-695
+2025-04-25 16:16:45 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-06-52390-378/sentence_predictions.csv
+2025-04-25 16:16:45 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-06-52390-378/sentence_probabilities.csv
+2025-04-25 16:16:45 - INFO - Finish predict case ME-19-06-52390-378
+2025-04-25 16:17:42 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-07-11104-821/sentence_predictions.csv
+2025-04-25 16:17:42 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-07-11104-821/sentence_probabilities.csv
+2025-04-25 16:17:42 - INFO - Finish predict case ME-19-07-11104-821
+2025-04-25 16:18:20 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-07-14115-566/sentence_predictions.csv
+2025-04-25 16:18:20 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-07-14115-566/sentence_probabilities.csv
+2025-04-25 16:18:20 - INFO - Finish predict case ME-19-07-14115-566
+2025-04-25 16:20:00 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-07-34507-415/sentence_predictions.csv
+2025-04-25 16:20:00 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-07-34507-415/sentence_probabilities.csv
+2025-04-25 16:20:00 - INFO - Finish predict case ME-19-07-34507-415
+2025-04-25 16:21:27 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-07-4411-664/sentence_predictions.csv
+2025-04-25 16:21:27 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-07-4411-664/sentence_probabilities.csv
+2025-04-25 16:21:27 - INFO - Finish predict case ME-19-07-4411-664
+2025-04-25 16:21:43 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-07-50481-38/sentence_predictions.csv
+2025-04-25 16:21:43 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-07-50481-38/sentence_probabilities.csv
+2025-04-25 16:21:43 - INFO - Finish predict case ME-19-07-50481-38
+2025-04-25 16:22:57 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-07-54607-11/sentence_predictions.csv
+2025-04-25 16:22:57 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-07-54607-11/sentence_probabilities.csv
+2025-04-25 16:22:57 - INFO - Finish predict case ME-19-07-54607-11
+2025-04-25 16:23:09 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-08-19218-22/sentence_predictions.csv
+2025-04-25 16:23:09 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-08-19218-22/sentence_probabilities.csv
+2025-04-25 16:23:09 - INFO - Finish predict case ME-19-08-19218-22
+2025-04-25 16:24:18 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-08-35979-405/sentence_predictions.csv
+2025-04-25 16:24:18 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-08-35979-405/sentence_probabilities.csv
+2025-04-25 16:24:18 - INFO - Finish predict case ME-19-08-35979-405
+2025-04-25 16:25:09 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-08-5578-272/sentence_predictions.csv
+2025-04-25 16:25:09 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-08-5578-272/sentence_probabilities.csv
+2025-04-25 16:25:09 - INFO - Finish predict case ME-19-08-5578-272
+2025-04-25 16:25:56 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-09-22765-888/sentence_predictions.csv
+2025-04-25 16:25:56 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-09-22765-888/sentence_probabilities.csv
+2025-04-25 16:25:56 - INFO - Finish predict case ME-19-09-22765-888
+2025-04-25 16:27:54 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-09-44105-67/sentence_predictions.csv
+2025-04-25 16:27:54 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-09-44105-67/sentence_probabilities.csv
+2025-04-25 16:27:54 - INFO - Finish predict case ME-19-09-44105-67
+2025-04-25 16:29:05 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-09-46366-214/sentence_predictions.csv
+2025-04-25 16:29:05 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-09-46366-214/sentence_probabilities.csv
+2025-04-25 16:29:05 - INFO - Finish predict case ME-19-09-46366-214
+2025-04-25 16:29:19 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-09-54384-511/sentence_predictions.csv
+2025-04-25 16:29:19 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-09-54384-511/sentence_probabilities.csv
+2025-04-25 16:29:19 - INFO - Finish predict case ME-19-09-54384-511
+2025-04-25 16:30:45 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-10-2101-167/sentence_predictions.csv
+2025-04-25 16:30:45 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-10-2101-167/sentence_probabilities.csv
+2025-04-25 16:30:45 - INFO - Finish predict case ME-19-10-2101-167
+2025-04-25 16:31:11 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-10-28326-676/sentence_predictions.csv
+2025-04-25 16:31:11 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-10-28326-676/sentence_probabilities.csv
+2025-04-25 16:31:11 - INFO - Finish predict case ME-19-10-28326-676
+2025-04-25 16:32:09 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-10-9355-84/sentence_predictions.csv
+2025-04-25 16:32:09 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-10-9355-84/sentence_probabilities.csv
+2025-04-25 16:32:09 - INFO - Finish predict case ME-19-10-9355-84
+2025-04-25 16:33:03 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-11-15772-474/sentence_predictions.csv
+2025-04-25 16:33:03 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-11-15772-474/sentence_probabilities.csv
+2025-04-25 16:33:03 - INFO - Finish predict case ME-19-11-15772-474
+2025-04-25 16:33:47 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-11-5221-352/sentence_predictions.csv
+2025-04-25 16:33:47 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-11-5221-352/sentence_probabilities.csv
+2025-04-25 16:33:47 - INFO - Finish predict case ME-19-11-5221-352
+2025-04-25 16:35:20 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-11-39941-430/sentence_predictions.csv
+2025-04-25 16:35:20 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-11-39941-430/sentence_probabilities.csv
+2025-04-25 16:35:20 - INFO - Finish predict case ME-19-11-39941-430
+2025-04-25 16:36:02 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-11-40898-357/sentence_predictions.csv
+2025-04-25 16:36:02 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-11-40898-357/sentence_probabilities.csv
+2025-04-25 16:36:02 - INFO - Finish predict case ME-19-11-40898-357
+2025-04-25 16:37:22 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-12-15423-44/sentence_predictions.csv
+2025-04-25 16:37:22 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-12-15423-44/sentence_probabilities.csv
+2025-04-25 16:37:22 - INFO - Finish predict case ME-19-12-15423-44
+2025-04-25 16:38:50 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-12-23749-811/sentence_predictions.csv
+2025-04-25 16:38:50 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-12-23749-811/sentence_probabilities.csv
+2025-04-25 16:38:50 - INFO - Finish predict case ME-19-12-23749-811
+2025-04-25 16:39:39 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-11-41052-634/sentence_predictions.csv
+2025-04-25 16:39:39 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-11-41052-634/sentence_probabilities.csv
+2025-04-25 16:39:39 - INFO - Finish predict case ME-19-11-41052-634
+2025-04-25 16:40:44 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-11-58505-490/sentence_predictions.csv
+2025-04-25 16:40:44 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-11-58505-490/sentence_probabilities.csv
+2025-04-25 16:40:44 - INFO - Finish predict case ME-19-11-58505-490
+2025-04-25 16:42:13 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-11-58524-567/sentence_predictions.csv
+2025-04-25 16:42:13 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-11-58524-567/sentence_probabilities.csv
+2025-04-25 16:42:13 - INFO - Finish predict case ME-19-11-58524-567
+2025-04-25 16:42:32 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-12-40815-665/sentence_predictions.csv
+2025-04-25 16:42:32 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-12-40815-665/sentence_probabilities.csv
+2025-04-25 16:42:32 - INFO - Finish predict case ME-19-12-40815-665
+2025-04-25 16:43:44 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-12-48783-222/sentence_predictions.csv
+2025-04-25 16:43:44 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-12-48783-222/sentence_probabilities.csv
+2025-04-25 16:43:44 - INFO - Finish predict case ME-19-12-48783-222
+2025-04-25 16:45:30 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-12-61299-26/sentence_predictions.csv
+2025-04-25 16:45:30 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-12-61299-26/sentence_probabilities.csv
+2025-04-25 16:45:30 - INFO - Finish predict case ME-19-12-61299-26
+2025-04-25 16:46:32 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-12-68368-466/sentence_predictions.csv
+2025-04-25 16:46:32 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-19-12-68368-466/sentence_probabilities.csv
+2025-04-25 16:46:32 - INFO - Finish predict case ME-19-12-68368-466
+2025-04-25 16:46:54 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-01-17935-7/sentence_predictions.csv
+2025-04-25 16:46:54 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-01-17935-7/sentence_probabilities.csv
+2025-04-25 16:46:54 - INFO - Finish predict case ME-20-01-17935-7
+2025-04-25 16:47:38 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-01-4133-740/sentence_predictions.csv
+2025-04-25 16:47:38 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-01-4133-740/sentence_probabilities.csv
+2025-04-25 16:47:38 - INFO - Finish predict case ME-20-01-4133-740
+2025-04-25 16:48:10 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-01-4664-766/sentence_predictions.csv
+2025-04-25 16:48:10 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-01-4664-766/sentence_probabilities.csv
+2025-04-25 16:48:10 - INFO - Finish predict case ME-20-01-4664-766
+2025-04-25 16:48:42 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-02-16370-29/sentence_predictions.csv
+2025-04-25 16:48:42 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-02-16370-29/sentence_probabilities.csv
+2025-04-25 16:48:42 - INFO - Finish predict case ME-20-02-16370-29
+2025-04-25 16:49:24 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-02-20425-98/sentence_predictions.csv
+2025-04-25 16:49:24 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-02-20425-98/sentence_probabilities.csv
+2025-04-25 16:49:24 - INFO - Finish predict case ME-20-02-20425-98
+2025-04-25 16:50:08 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-01-58511-779/sentence_predictions.csv
+2025-04-25 16:50:08 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-01-58511-779/sentence_probabilities.csv
+2025-04-25 16:50:08 - INFO - Finish predict case ME-20-01-58511-779
+2025-04-25 16:51:38 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-01-62688-591/sentence_predictions.csv
+2025-04-25 16:51:38 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-01-62688-591/sentence_probabilities.csv
+2025-04-25 16:51:38 - INFO - Finish predict case ME-20-01-62688-591
+2025-04-25 16:53:08 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-02-15744-900/sentence_predictions.csv
+2025-04-25 16:53:08 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-02-15744-900/sentence_probabilities.csv
+2025-04-25 16:53:08 - INFO - Finish predict case ME-20-02-15744-900
+2025-04-25 16:54:02 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-02-20477-665/sentence_predictions.csv
+2025-04-25 16:54:02 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-02-20477-665/sentence_probabilities.csv
+2025-04-25 16:54:02 - INFO - Finish predict case ME-20-02-20477-665
+2025-04-25 16:54:45 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-02-23782-495/sentence_predictions.csv
+2025-04-25 16:54:45 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-02-23782-495/sentence_probabilities.csv
+2025-04-25 16:54:45 - INFO - Finish predict case ME-20-02-23782-495
+2025-04-25 16:56:15 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-02-47048-447/sentence_predictions.csv
+2025-04-25 16:56:15 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-02-47048-447/sentence_probabilities.csv
+2025-04-25 16:56:15 - INFO - Finish predict case ME-20-02-47048-447
+2025-04-25 16:58:01 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-02-53498-268/sentence_predictions.csv
+2025-04-25 16:58:01 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-02-53498-268/sentence_probabilities.csv
+2025-04-25 16:58:01 - INFO - Finish predict case ME-20-02-53498-268
+2025-04-25 16:58:55 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-02-55185-425/sentence_predictions.csv
+2025-04-25 16:58:55 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-02-55185-425/sentence_probabilities.csv
+2025-04-25 16:58:55 - INFO - Finish predict case ME-20-02-55185-425
+2025-04-25 16:59:54 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-03-27050-422/sentence_predictions.csv
+2025-04-25 16:59:54 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-03-27050-422/sentence_probabilities.csv
+2025-04-25 16:59:54 - INFO - Finish predict case ME-20-03-27050-422
+2025-04-25 17:00:22 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-03-33920-431/sentence_predictions.csv
+2025-04-25 17:00:22 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-03-33920-431/sentence_probabilities.csv
+2025-04-25 17:00:22 - INFO - Finish predict case ME-20-03-33920-431
+2025-04-25 17:01:04 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-03-48867-166/sentence_predictions.csv
+2025-04-25 17:01:04 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-03-48867-166/sentence_probabilities.csv
+2025-04-25 17:01:04 - INFO - Finish predict case ME-20-03-48867-166
+2025-04-25 17:02:12 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-03-50334-175/sentence_predictions.csv
+2025-04-25 17:02:12 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-03-50334-175/sentence_probabilities.csv
+2025-04-25 17:02:12 - INFO - Finish predict case ME-20-03-50334-175
+2025-04-25 17:02:28 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-03-5186-33/sentence_predictions.csv
+2025-04-25 17:02:28 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-03-5186-33/sentence_probabilities.csv
+2025-04-25 17:02:28 - INFO - Finish predict case ME-20-03-5186-33
+2025-04-25 17:03:22 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-03-52256-215/sentence_predictions.csv
+2025-04-25 17:03:22 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-03-52256-215/sentence_probabilities.csv
+2025-04-25 17:03:22 - INFO - Finish predict case ME-20-03-52256-215
+2025-04-25 17:04:41 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-04-12376-11/sentence_predictions.csv
+2025-04-25 17:04:41 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-04-12376-11/sentence_probabilities.csv
+2025-04-25 17:04:41 - INFO - Finish predict case ME-20-04-12376-11
+2025-04-25 17:04:44 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-04-21696-44/sentence_predictions.csv
+2025-04-25 17:04:44 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-04-21696-44/sentence_probabilities.csv
+2025-04-25 17:04:44 - INFO - Finish predict case ME-20-04-21696-44
+2025-04-25 17:05:16 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-04-38687-360/sentence_predictions.csv
+2025-04-25 17:05:16 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-04-38687-360/sentence_probabilities.csv
+2025-04-25 17:05:16 - INFO - Finish predict case ME-20-04-38687-360
+2025-04-25 17:06:52 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-05-12791-44/sentence_predictions.csv
+2025-04-25 17:06:52 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-05-12791-44/sentence_probabilities.csv
+2025-04-25 17:06:52 - INFO - Finish predict case ME-20-05-12791-44
+2025-04-25 17:07:23 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-05-34579-981/sentence_predictions.csv
+2025-04-25 17:07:23 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-05-34579-981/sentence_probabilities.csv
+2025-04-25 17:07:23 - INFO - Finish predict case ME-20-05-34579-981
+2025-04-25 17:08:20 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-05-44381-811/sentence_predictions.csv
+2025-04-25 17:08:20 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-05-44381-811/sentence_probabilities.csv
+2025-04-25 17:08:20 - INFO - Finish predict case ME-20-05-44381-811
+2025-04-25 17:09:50 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-05-51473-959/sentence_predictions.csv
+2025-04-25 17:09:50 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-05-51473-959/sentence_probabilities.csv
+2025-04-25 17:09:50 - INFO - Finish predict case ME-20-05-51473-959
+2025-04-25 17:10:40 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-05-54083-37/sentence_predictions.csv
+2025-04-25 17:10:40 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-05-54083-37/sentence_probabilities.csv
+2025-04-25 17:10:40 - INFO - Finish predict case ME-20-05-54083-37
+2025-04-25 17:11:30 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-05-57996-351/sentence_predictions.csv
+2025-04-25 17:11:30 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-05-57996-351/sentence_probabilities.csv
+2025-04-25 17:11:30 - INFO - Finish predict case ME-20-05-57996-351
+2025-04-25 17:12:54 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-05-61106-33/sentence_predictions.csv
+2025-04-25 17:12:54 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-05-61106-33/sentence_probabilities.csv
+2025-04-25 17:12:54 - INFO - Finish predict case ME-20-05-61106-33
+2025-04-25 17:13:32 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-05-61158-999/sentence_predictions.csv
+2025-04-25 17:13:32 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-05-61158-999/sentence_probabilities.csv
+2025-04-25 17:13:32 - INFO - Finish predict case ME-20-05-61158-999
+2025-04-25 17:13:48 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-05-62447-131/sentence_predictions.csv
+2025-04-25 17:13:48 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-05-62447-131/sentence_probabilities.csv
+2025-04-25 17:13:48 - INFO - Finish predict case ME-20-05-62447-131
+2025-04-25 17:14:49 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-05-66319-589/sentence_predictions.csv
+2025-04-25 17:14:49 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-05-66319-589/sentence_probabilities.csv
+2025-04-25 17:14:49 - INFO - Finish predict case ME-20-05-66319-589
+2025-04-25 17:15:25 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-05-66430-436/sentence_predictions.csv
+2025-04-25 17:15:25 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-05-66430-436/sentence_probabilities.csv
+2025-04-25 17:15:25 - INFO - Finish predict case ME-20-05-66430-436
+2025-04-25 17:16:12 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-05-66542-944/sentence_predictions.csv
+2025-04-25 17:16:12 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-05-66542-944/sentence_probabilities.csv
+2025-04-25 17:16:12 - INFO - Finish predict case ME-20-05-66542-944
+2025-04-25 17:17:06 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-06-10740-11/sentence_predictions.csv
+2025-04-25 17:17:06 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-06-10740-11/sentence_probabilities.csv
+2025-04-25 17:17:06 - INFO - Finish predict case ME-20-06-10740-11
+2025-04-25 17:17:48 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-06-12035-341/sentence_predictions.csv
+2025-04-25 17:17:48 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-06-12035-341/sentence_probabilities.csv
+2025-04-25 17:17:48 - INFO - Finish predict case ME-20-06-12035-341
+2025-04-25 17:18:53 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-06-11042-855/sentence_predictions.csv
+2025-04-25 17:18:53 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-06-11042-855/sentence_probabilities.csv
+2025-04-25 17:18:53 - INFO - Finish predict case ME-20-06-11042-855
+2025-04-25 17:20:33 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-06-10896-85/sentence_predictions.csv
+2025-04-25 17:20:33 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-06-10896-85/sentence_probabilities.csv
+2025-04-25 17:20:33 - INFO - Finish predict case ME-20-06-10896-85
+2025-04-25 17:22:52 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-06-13225-904/sentence_predictions.csv
+2025-04-25 17:22:52 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-06-13225-904/sentence_probabilities.csv
+2025-04-25 17:22:52 - INFO - Finish predict case ME-20-06-13225-904
+2025-04-25 17:25:57 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-06-14479-682/sentence_predictions.csv
+2025-04-25 17:25:57 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-06-14479-682/sentence_probabilities.csv
+2025-04-25 17:25:57 - INFO - Finish predict case ME-20-06-14479-682
+2025-04-25 17:27:49 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-06-32581-715/sentence_predictions.csv
+2025-04-25 17:27:49 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-06-32581-715/sentence_probabilities.csv
+2025-04-25 17:27:49 - INFO - Finish predict case ME-20-06-32581-715
+2025-04-25 17:28:33 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-06-44862-677/sentence_predictions.csv
+2025-04-25 17:28:33 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-06-44862-677/sentence_probabilities.csv
+2025-04-25 17:28:33 - INFO - Finish predict case ME-20-06-44862-677
+2025-04-25 17:31:22 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-06-49705-266/sentence_predictions.csv
+2025-04-25 17:31:22 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-06-49705-266/sentence_probabilities.csv
+2025-04-25 17:31:22 - INFO - Finish predict case ME-20-06-49705-266
+2025-04-25 17:32:02 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-06-52416-518/sentence_predictions.csv
+2025-04-25 17:32:02 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-06-52416-518/sentence_probabilities.csv
+2025-04-25 17:32:02 - INFO - Finish predict case ME-20-06-52416-518
+2025-04-25 17:32:59 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-06-62238-86/sentence_predictions.csv
+2025-04-25 17:32:59 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-06-62238-86/sentence_probabilities.csv
+2025-04-25 17:32:59 - INFO - Finish predict case ME-20-06-62238-86
+2025-04-25 17:33:43 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-06-962-520/sentence_predictions.csv
+2025-04-25 17:33:43 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-06-962-520/sentence_probabilities.csv
+2025-04-25 17:33:43 - INFO - Finish predict case ME-20-06-962-520
+2025-04-25 17:34:45 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-07-28100-387/sentence_predictions.csv
+2025-04-25 17:34:45 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-07-28100-387/sentence_probabilities.csv
+2025-04-25 17:34:45 - INFO - Finish predict case ME-20-07-28100-387
+2025-04-25 17:36:43 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-07-28148-115/sentence_predictions.csv
+2025-04-25 17:36:43 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-07-28148-115/sentence_probabilities.csv
+2025-04-25 17:36:43 - INFO - Finish predict case ME-20-07-28148-115
+2025-04-25 17:37:47 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-07-3429-104/sentence_predictions.csv
+2025-04-25 17:37:47 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-07-3429-104/sentence_probabilities.csv
+2025-04-25 17:37:47 - INFO - Finish predict case ME-20-07-3429-104
+2025-04-25 17:38:37 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-07-36909-105/sentence_predictions.csv
+2025-04-25 17:38:37 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-07-36909-105/sentence_probabilities.csv
+2025-04-25 17:38:37 - INFO - Finish predict case ME-20-07-36909-105
+2025-04-25 17:39:01 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-07-29529-567/sentence_predictions.csv
+2025-04-25 17:39:01 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-07-29529-567/sentence_probabilities.csv
+2025-04-25 17:39:01 - INFO - Finish predict case ME-20-07-29529-567
+2025-04-25 17:40:40 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-07-37175-729/sentence_predictions.csv
+2025-04-25 17:40:40 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-07-37175-729/sentence_probabilities.csv
+2025-04-25 17:40:40 - INFO - Finish predict case ME-20-07-37175-729
+2025-04-25 17:41:17 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-07-39500-753/sentence_predictions.csv
+2025-04-25 17:41:17 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-07-39500-753/sentence_probabilities.csv
+2025-04-25 17:41:17 - INFO - Finish predict case ME-20-07-39500-753
+2025-04-25 17:42:26 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-07-49294-838/sentence_predictions.csv
+2025-04-25 17:42:26 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-07-49294-838/sentence_probabilities.csv
+2025-04-25 17:42:26 - INFO - Finish predict case ME-20-07-49294-838
+2025-04-25 17:42:54 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-07-60084-658/sentence_predictions.csv
+2025-04-25 17:42:54 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-07-60084-658/sentence_probabilities.csv
+2025-04-25 17:42:54 - INFO - Finish predict case ME-20-07-60084-658
+2025-04-25 17:44:26 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-07-68389-733/sentence_predictions.csv
+2025-04-25 17:44:26 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-07-68389-733/sentence_probabilities.csv
+2025-04-25 17:44:26 - INFO - Finish predict case ME-20-07-68389-733
+2025-04-25 17:45:15 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-07-68697-134/sentence_predictions.csv
+2025-04-25 17:45:15 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-07-68697-134/sentence_probabilities.csv
+2025-04-25 17:45:15 - INFO - Finish predict case ME-20-07-68697-134
+2025-04-25 17:46:06 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-08-28518-732/sentence_predictions.csv
+2025-04-25 17:46:06 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-08-28518-732/sentence_probabilities.csv
+2025-04-25 17:46:06 - INFO - Finish predict case ME-20-08-28518-732
+2025-04-25 17:46:53 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-08-51183-265/sentence_predictions.csv
+2025-04-25 17:46:53 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-08-51183-265/sentence_probabilities.csv
+2025-04-25 17:46:53 - INFO - Finish predict case ME-20-08-51183-265
+2025-04-25 17:47:38 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-07-7133-855/sentence_predictions.csv
+2025-04-25 17:47:38 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-07-7133-855/sentence_probabilities.csv
+2025-04-25 17:47:38 - INFO - Finish predict case ME-20-07-7133-855
+2025-04-25 17:48:33 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-08-12520-979/sentence_predictions.csv
+2025-04-25 17:48:33 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-08-12520-979/sentence_probabilities.csv
+2025-04-25 17:48:33 - INFO - Finish predict case ME-20-08-12520-979
+2025-04-25 17:49:22 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-08-43009-796/sentence_predictions.csv
+2025-04-25 17:49:22 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-08-43009-796/sentence_probabilities.csv
+2025-04-25 17:49:22 - INFO - Finish predict case ME-20-08-43009-796
+2025-04-25 17:50:44 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-09-13491-11/sentence_predictions.csv
+2025-04-25 17:50:44 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-09-13491-11/sentence_probabilities.csv
+2025-04-25 17:50:44 - INFO - Finish predict case ME-20-09-13491-11
+2025-04-25 17:53:34 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-08-53612-156/sentence_predictions.csv
+2025-04-25 17:53:34 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-08-53612-156/sentence_probabilities.csv
+2025-04-25 17:53:34 - INFO - Finish predict case ME-20-08-53612-156
+2025-04-25 17:54:04 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-09-20451-872/sentence_predictions.csv
+2025-04-25 17:54:04 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-09-20451-872/sentence_probabilities.csv
+2025-04-25 17:54:04 - INFO - Finish predict case ME-20-09-20451-872
+2025-04-25 17:54:28 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-09-25017-699/sentence_predictions.csv
+2025-04-25 17:54:28 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-09-25017-699/sentence_probabilities.csv
+2025-04-25 17:54:28 - INFO - Finish predict case ME-20-09-25017-699
+2025-04-25 17:55:10 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-09-42324-627/sentence_predictions.csv
+2025-04-25 17:55:10 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-09-42324-627/sentence_probabilities.csv
+2025-04-25 17:55:10 - INFO - Finish predict case ME-20-09-42324-627
+2025-04-25 17:56:37 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-09-43957-910/sentence_predictions.csv
+2025-04-25 17:56:37 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-09-43957-910/sentence_probabilities.csv
+2025-04-25 17:56:37 - INFO - Finish predict case ME-20-09-43957-910
+2025-04-25 17:57:04 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-09-56739-859/sentence_predictions.csv
+2025-04-25 17:57:04 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-09-56739-859/sentence_probabilities.csv
+2025-04-25 17:57:04 - INFO - Finish predict case ME-20-09-56739-859
+2025-04-25 17:57:46 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-10-40536-520/sentence_predictions.csv
+2025-04-25 17:57:46 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-10-40536-520/sentence_probabilities.csv
+2025-04-25 17:57:46 - INFO - Finish predict case ME-20-10-40536-520
+2025-04-25 17:58:37 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-09-54719-807/sentence_predictions.csv
+2025-04-25 17:58:37 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-09-54719-807/sentence_probabilities.csv
+2025-04-25 17:58:37 - INFO - Finish predict case ME-20-09-54719-807
+2025-04-25 17:59:10 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-09-57267-672/sentence_predictions.csv
+2025-04-25 17:59:10 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-09-57267-672/sentence_probabilities.csv
+2025-04-25 17:59:10 - INFO - Finish predict case ME-20-09-57267-672
+2025-04-25 17:59:52 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-10-16752-673/sentence_predictions.csv
+2025-04-25 17:59:52 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-10-16752-673/sentence_probabilities.csv
+2025-04-25 17:59:52 - INFO - Finish predict case ME-20-10-16752-673
+2025-04-25 18:00:15 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-10-42051-55/sentence_predictions.csv
+2025-04-25 18:00:15 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-10-42051-55/sentence_probabilities.csv
+2025-04-25 18:00:15 - INFO - Finish predict case ME-20-10-42051-55
+2025-04-25 18:00:48 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-10-52099-93/sentence_predictions.csv
+2025-04-25 18:00:48 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-10-52099-93/sentence_probabilities.csv
+2025-04-25 18:00:48 - INFO - Finish predict case ME-20-10-52099-93
+2025-04-25 18:01:38 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-11-39675-821/sentence_predictions.csv
+2025-04-25 18:01:38 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-11-39675-821/sentence_probabilities.csv
+2025-04-25 18:01:38 - INFO - Finish predict case ME-20-11-39675-821
+2025-04-25 18:02:15 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-11-4102-109/sentence_predictions.csv
+2025-04-25 18:02:15 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-11-4102-109/sentence_probabilities.csv
+2025-04-25 18:02:15 - INFO - Finish predict case ME-20-11-4102-109
+2025-04-25 18:02:49 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-11-67454-625/sentence_predictions.csv
+2025-04-25 18:02:49 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-11-67454-625/sentence_probabilities.csv
+2025-04-25 18:02:49 - INFO - Finish predict case ME-20-11-67454-625
+2025-04-25 18:03:28 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-11-72146-895/sentence_predictions.csv
+2025-04-25 18:03:28 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-11-72146-895/sentence_probabilities.csv
+2025-04-25 18:03:28 - INFO - Finish predict case ME-20-11-72146-895
+2025-04-25 18:04:44 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-11-8333-812/sentence_predictions.csv
+2025-04-25 18:04:44 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-11-8333-812/sentence_probabilities.csv
+2025-04-25 18:04:44 - INFO - Finish predict case ME-20-11-8333-812
+2025-04-25 18:05:35 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-12-17766-27/sentence_predictions.csv
+2025-04-25 18:05:35 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-12-17766-27/sentence_probabilities.csv
+2025-04-25 18:05:35 - INFO - Finish predict case ME-20-12-17766-27
+2025-04-25 18:06:06 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-12-26565-44/sentence_predictions.csv
+2025-04-25 18:06:06 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-12-26565-44/sentence_probabilities.csv
+2025-04-25 18:06:06 - INFO - Finish predict case ME-20-12-26565-44
+2025-04-25 18:07:22 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-12-36505-697/sentence_predictions.csv
+2025-04-25 18:07:22 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-12-36505-697/sentence_probabilities.csv
+2025-04-25 18:07:22 - INFO - Finish predict case ME-20-12-36505-697
+2025-04-25 18:08:40 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-12-52077-379/sentence_predictions.csv
+2025-04-25 18:08:40 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-12-52077-379/sentence_probabilities.csv
+2025-04-25 18:08:40 - INFO - Finish predict case ME-20-12-52077-379
+2025-04-25 18:10:01 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-12-41762-388/sentence_predictions.csv
+2025-04-25 18:10:01 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-12-41762-388/sentence_probabilities.csv
+2025-04-25 18:10:01 - INFO - Finish predict case ME-20-12-41762-388
+2025-04-25 18:10:48 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-12-57272-823/sentence_predictions.csv
+2025-04-25 18:10:48 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-20-12-57272-823/sentence_probabilities.csv
+2025-04-25 18:10:48 - INFO - Finish predict case ME-20-12-57272-823
+2025-04-25 18:11:51 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-01-24822-639/sentence_predictions.csv
+2025-04-25 18:11:51 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-01-24822-639/sentence_probabilities.csv
+2025-04-25 18:11:51 - INFO - Finish predict case ME-21-01-24822-639
+2025-04-25 18:12:47 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-01-1802-486/sentence_predictions.csv
+2025-04-25 18:12:47 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-01-1802-486/sentence_probabilities.csv
+2025-04-25 18:12:47 - INFO - Finish predict case ME-21-01-1802-486
+2025-04-25 18:13:52 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-01-15387-154/sentence_predictions.csv
+2025-04-25 18:13:52 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-01-15387-154/sentence_probabilities.csv
+2025-04-25 18:13:52 - INFO - Finish predict case ME-21-01-15387-154
+2025-04-25 18:14:55 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-02-22526-917/sentence_predictions.csv
+2025-04-25 18:14:55 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-02-22526-917/sentence_probabilities.csv
+2025-04-25 18:14:55 - INFO - Finish predict case ME-21-02-22526-917
+2025-04-25 18:15:33 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-02-27625-919/sentence_predictions.csv
+2025-04-25 18:15:33 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-02-27625-919/sentence_probabilities.csv
+2025-04-25 18:15:33 - INFO - Finish predict case ME-21-02-27625-919
+2025-04-25 18:16:35 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-02-41600-13/sentence_predictions.csv
+2025-04-25 18:16:35 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-02-41600-13/sentence_probabilities.csv
+2025-04-25 18:16:35 - INFO - Finish predict case ME-21-02-41600-13
+2025-04-25 18:17:16 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-02-46604-513/sentence_predictions.csv
+2025-04-25 18:17:16 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-02-46604-513/sentence_probabilities.csv
+2025-04-25 18:17:16 - INFO - Finish predict case ME-21-02-46604-513
+2025-04-25 18:19:57 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-02-6153-656/sentence_predictions.csv
+2025-04-25 18:19:57 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-02-6153-656/sentence_probabilities.csv
+2025-04-25 18:19:57 - INFO - Finish predict case ME-21-02-6153-656
+2025-04-25 18:21:41 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-02-7109-329/sentence_predictions.csv
+2025-04-25 18:21:41 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-02-7109-329/sentence_probabilities.csv
+2025-04-25 18:21:41 - INFO - Finish predict case ME-21-02-7109-329
+2025-04-25 18:22:09 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-02-9264-706/sentence_predictions.csv
+2025-04-25 18:22:09 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-02-9264-706/sentence_probabilities.csv
+2025-04-25 18:22:09 - INFO - Finish predict case ME-21-02-9264-706
+2025-04-25 18:23:03 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-03-25639-86/sentence_predictions.csv
+2025-04-25 18:23:03 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-03-25639-86/sentence_probabilities.csv
+2025-04-25 18:23:03 - INFO - Finish predict case ME-21-03-25639-86
+2025-04-25 18:23:34 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-03-28744-835/sentence_predictions.csv
+2025-04-25 18:23:34 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-03-28744-835/sentence_probabilities.csv
+2025-04-25 18:23:34 - INFO - Finish predict case ME-21-03-28744-835
+2025-04-25 18:23:56 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-03-22094-158/sentence_predictions.csv
+2025-04-25 18:23:56 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-03-22094-158/sentence_probabilities.csv
+2025-04-25 18:23:56 - INFO - Finish predict case ME-21-03-22094-158
+2025-04-25 18:24:33 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-03-31811-922/sentence_predictions.csv
+2025-04-25 18:24:33 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-03-31811-922/sentence_probabilities.csv
+2025-04-25 18:24:33 - INFO - Finish predict case ME-21-03-31811-922
+2025-04-25 18:25:27 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-03-54230-484/sentence_predictions.csv
+2025-04-25 18:25:27 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-03-54230-484/sentence_probabilities.csv
+2025-04-25 18:25:27 - INFO - Finish predict case ME-21-03-54230-484
+2025-04-25 18:27:12 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-03-54338-22/sentence_predictions.csv
+2025-04-25 18:27:12 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-03-54338-22/sentence_probabilities.csv
+2025-04-25 18:27:12 - INFO - Finish predict case ME-21-03-54338-22
+2025-04-25 18:28:31 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-03-54460-987/sentence_predictions.csv
+2025-04-25 18:28:31 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-03-54460-987/sentence_probabilities.csv
+2025-04-25 18:28:31 - INFO - Finish predict case ME-21-03-54460-987
+2025-04-25 18:29:00 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-03-54852-541/sentence_predictions.csv
+2025-04-25 18:29:00 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-03-54852-541/sentence_probabilities.csv
+2025-04-25 18:29:00 - INFO - Finish predict case ME-21-03-54852-541
+2025-04-25 18:29:43 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-03-56762-976/sentence_predictions.csv
+2025-04-25 18:29:43 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-03-56762-976/sentence_probabilities.csv
+2025-04-25 18:29:43 - INFO - Finish predict case ME-21-03-56762-976
+2025-04-25 18:30:19 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-03-58852-44/sentence_predictions.csv
+2025-04-25 18:30:19 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-03-58852-44/sentence_probabilities.csv
+2025-04-25 18:30:19 - INFO - Finish predict case ME-21-03-58852-44
+2025-04-25 18:30:50 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-03-7053-594/sentence_predictions.csv
+2025-04-25 18:30:50 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-03-7053-594/sentence_probabilities.csv
+2025-04-25 18:30:50 - INFO - Finish predict case ME-21-03-7053-594
+2025-04-25 18:31:26 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-04-31822-60/sentence_predictions.csv
+2025-04-25 18:31:26 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-04-31822-60/sentence_probabilities.csv
+2025-04-25 18:31:26 - INFO - Finish predict case ME-21-04-31822-60
+2025-04-25 18:32:32 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-04-31842-520/sentence_predictions.csv
+2025-04-25 18:32:32 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-04-31842-520/sentence_probabilities.csv
+2025-04-25 18:32:32 - INFO - Finish predict case ME-21-04-31842-520
+2025-04-25 18:33:18 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-04-5683-658/sentence_predictions.csv
+2025-04-25 18:33:18 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-04-5683-658/sentence_probabilities.csv
+2025-04-25 18:33:18 - INFO - Finish predict case ME-21-04-5683-658
+2025-04-25 18:34:54 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-05-30706-496/sentence_predictions.csv
+2025-04-25 18:34:54 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-05-30706-496/sentence_probabilities.csv
+2025-04-25 18:34:54 - INFO - Finish predict case ME-21-05-30706-496
+2025-04-25 18:36:47 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-05-4531-704/sentence_predictions.csv
+2025-04-25 18:36:47 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-05-4531-704/sentence_probabilities.csv
+2025-04-25 18:36:47 - INFO - Finish predict case ME-21-05-4531-704
+2025-04-25 18:37:13 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-04-63360-996/sentence_predictions.csv
+2025-04-25 18:37:13 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-04-63360-996/sentence_probabilities.csv
+2025-04-25 18:37:13 - INFO - Finish predict case ME-21-04-63360-996
+2025-04-25 18:38:18 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-05-54337-602/sentence_predictions.csv
+2025-04-25 18:38:18 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-05-54337-602/sentence_probabilities.csv
+2025-04-25 18:38:18 - INFO - Finish predict case ME-21-05-54337-602
+2025-04-25 18:40:15 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-05-7279-649/sentence_predictions.csv
+2025-04-25 18:40:15 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-05-7279-649/sentence_probabilities.csv
+2025-04-25 18:40:15 - INFO - Finish predict case ME-21-05-7279-649
+2025-04-25 18:40:52 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-05-64119-375/sentence_predictions.csv
+2025-04-25 18:40:52 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-05-64119-375/sentence_probabilities.csv
+2025-04-25 18:40:52 - INFO - Finish predict case ME-21-05-64119-375
+2025-04-25 18:41:26 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-06-1178-496/sentence_predictions.csv
+2025-04-25 18:41:26 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-06-1178-496/sentence_probabilities.csv
+2025-04-25 18:41:26 - INFO - Finish predict case ME-21-06-1178-496
+2025-04-25 18:42:55 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-06-14284-569/sentence_predictions.csv
+2025-04-25 18:42:55 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-06-14284-569/sentence_probabilities.csv
+2025-04-25 18:42:55 - INFO - Finish predict case ME-21-06-14284-569
+2025-04-25 18:43:40 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-06-23542-959/sentence_predictions.csv
+2025-04-25 18:43:40 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-06-23542-959/sentence_probabilities.csv
+2025-04-25 18:43:40 - INFO - Finish predict case ME-21-06-23542-959
+2025-04-25 18:46:09 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-06-25853-92/sentence_predictions.csv
+2025-04-25 18:46:09 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-06-25853-92/sentence_probabilities.csv
+2025-04-25 18:46:09 - INFO - Finish predict case ME-21-06-25853-92
+2025-04-25 18:46:57 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-06-40118-647/sentence_predictions.csv
+2025-04-25 18:46:57 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-06-40118-647/sentence_probabilities.csv
+2025-04-25 18:46:57 - INFO - Finish predict case ME-21-06-40118-647
+2025-04-25 18:48:17 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-06-43085-219/sentence_predictions.csv
+2025-04-25 18:48:17 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-06-43085-219/sentence_probabilities.csv
+2025-04-25 18:48:17 - INFO - Finish predict case ME-21-06-43085-219
+2025-04-25 18:49:01 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-07-1715-302/sentence_predictions.csv
+2025-04-25 18:49:01 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-07-1715-302/sentence_probabilities.csv
+2025-04-25 18:49:01 - INFO - Finish predict case ME-21-07-1715-302
+2025-04-25 18:49:23 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-07-19759-213/sentence_predictions.csv
+2025-04-25 18:49:23 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-07-19759-213/sentence_probabilities.csv
+2025-04-25 18:49:23 - INFO - Finish predict case ME-21-07-19759-213
+2025-04-25 18:49:43 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-07-3045-641/sentence_predictions.csv
+2025-04-25 18:49:43 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-07-3045-641/sentence_probabilities.csv
+2025-04-25 18:49:43 - INFO - Finish predict case ME-21-07-3045-641
+2025-04-25 18:50:13 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-07-35397-408/sentence_predictions.csv
+2025-04-25 18:50:13 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-07-35397-408/sentence_probabilities.csv
+2025-04-25 18:50:13 - INFO - Finish predict case ME-21-07-35397-408
+2025-04-25 18:51:33 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-07-39587-22/sentence_predictions.csv
+2025-04-25 18:51:33 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-07-39587-22/sentence_probabilities.csv
+2025-04-25 18:51:33 - INFO - Finish predict case ME-21-07-39587-22
+2025-04-25 18:52:10 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-07-57526-989/sentence_predictions.csv
+2025-04-25 18:52:10 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-07-57526-989/sentence_probabilities.csv
+2025-04-25 18:52:10 - INFO - Finish predict case ME-21-07-57526-989
+2025-04-25 18:55:59 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-07-63185-208/sentence_predictions.csv
+2025-04-25 18:55:59 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-07-63185-208/sentence_probabilities.csv
+2025-04-25 18:55:59 - INFO - Finish predict case ME-21-07-63185-208
+2025-04-25 18:57:14 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-07-8416-707/sentence_predictions.csv
+2025-04-25 18:57:14 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-07-8416-707/sentence_probabilities.csv
+2025-04-25 18:57:14 - INFO - Finish predict case ME-21-07-8416-707
+2025-04-25 18:58:05 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-08-10205-88/sentence_predictions.csv
+2025-04-25 18:58:05 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-08-10205-88/sentence_probabilities.csv
+2025-04-25 18:58:05 - INFO - Finish predict case ME-21-08-10205-88
+2025-04-25 18:58:48 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-08-13164-305/sentence_predictions.csv
+2025-04-25 18:58:48 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-08-13164-305/sentence_probabilities.csv
+2025-04-25 18:58:48 - INFO - Finish predict case ME-21-08-13164-305
+2025-04-25 19:00:08 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-08-2108-757/sentence_predictions.csv
+2025-04-25 19:00:08 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-08-2108-757/sentence_probabilities.csv
+2025-04-25 19:00:08 - INFO - Finish predict case ME-21-08-2108-757
+2025-04-25 19:00:54 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-08-15133-739/sentence_predictions.csv
+2025-04-25 19:00:54 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-08-15133-739/sentence_probabilities.csv
+2025-04-25 19:00:54 - INFO - Finish predict case ME-21-08-15133-739
+2025-04-25 19:01:24 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-08-26036-779/sentence_predictions.csv
+2025-04-25 19:01:24 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-08-26036-779/sentence_probabilities.csv
+2025-04-25 19:01:24 - INFO - Finish predict case ME-21-08-26036-779
+2025-04-25 19:02:27 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-08-51296-921/sentence_predictions.csv
+2025-04-25 19:02:27 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-08-51296-921/sentence_probabilities.csv
+2025-04-25 19:02:27 - INFO - Finish predict case ME-21-08-51296-921
+2025-04-25 19:03:11 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-08-43597-961/sentence_predictions.csv
+2025-04-25 19:03:11 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-08-43597-961/sentence_probabilities.csv
+2025-04-25 19:03:11 - INFO - Finish predict case ME-21-08-43597-961
+2025-04-25 19:04:07 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-08-58773-302/sentence_predictions.csv
+2025-04-25 19:04:07 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-08-58773-302/sentence_probabilities.csv
+2025-04-25 19:04:07 - INFO - Finish predict case ME-21-08-58773-302
+2025-04-25 19:04:38 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-08-51607-44/sentence_predictions.csv
+2025-04-25 19:04:38 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-08-51607-44/sentence_probabilities.csv
+2025-04-25 19:04:38 - INFO - Finish predict case ME-21-08-51607-44
+2025-04-25 19:05:37 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-09-15135-10/sentence_predictions.csv
+2025-04-25 19:05:37 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-09-15135-10/sentence_probabilities.csv
+2025-04-25 19:05:37 - INFO - Finish predict case ME-21-09-15135-10
+2025-04-25 19:06:07 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-09-15710-436/sentence_predictions.csv
+2025-04-25 19:06:07 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-09-15710-436/sentence_probabilities.csv
+2025-04-25 19:06:07 - INFO - Finish predict case ME-21-09-15710-436
+2025-04-25 19:07:31 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-09-26549-553/sentence_predictions.csv
+2025-04-25 19:07:31 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-09-26549-553/sentence_probabilities.csv
+2025-04-25 19:07:31 - INFO - Finish predict case ME-21-09-26549-553
+2025-04-25 19:08:07 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-09-34694-743/sentence_predictions.csv
+2025-04-25 19:08:07 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-09-34694-743/sentence_probabilities.csv
+2025-04-25 19:08:07 - INFO - Finish predict case ME-21-09-34694-743
+2025-04-25 19:08:59 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-09-34737-497/sentence_predictions.csv
+2025-04-25 19:08:59 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-09-34737-497/sentence_probabilities.csv
+2025-04-25 19:08:59 - INFO - Finish predict case ME-21-09-34737-497
+2025-04-25 19:09:24 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-09-6574-895/sentence_predictions.csv
+2025-04-25 19:09:24 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-09-6574-895/sentence_probabilities.csv
+2025-04-25 19:09:24 - INFO - Finish predict case ME-21-09-6574-895
+2025-04-25 19:09:52 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-10-12466-44/sentence_predictions.csv
+2025-04-25 19:09:52 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-10-12466-44/sentence_probabilities.csv
+2025-04-25 19:09:52 - INFO - Finish predict case ME-21-10-12466-44
+2025-04-25 19:11:04 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-10-18039-734/sentence_predictions.csv
+2025-04-25 19:11:04 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-10-18039-734/sentence_probabilities.csv
+2025-04-25 19:11:04 - INFO - Finish predict case ME-21-10-18039-734
+2025-04-25 19:12:26 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-10-18557-340/sentence_predictions.csv
+2025-04-25 19:12:26 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-10-18557-340/sentence_probabilities.csv
+2025-04-25 19:12:26 - INFO - Finish predict case ME-21-10-18557-340
+2025-04-25 19:13:36 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-10-33945-332/sentence_predictions.csv
+2025-04-25 19:13:36 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-10-33945-332/sentence_probabilities.csv
+2025-04-25 19:13:36 - INFO - Finish predict case ME-21-10-33945-332
+2025-04-25 19:13:57 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-10-71333-899/sentence_predictions.csv
+2025-04-25 19:13:57 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-10-71333-899/sentence_probabilities.csv
+2025-04-25 19:13:57 - INFO - Finish predict case ME-21-10-71333-899
+2025-04-25 19:15:00 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-11-1136-648/sentence_predictions.csv
+2025-04-25 19:15:00 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-11-1136-648/sentence_probabilities.csv
+2025-04-25 19:15:00 - INFO - Finish predict case ME-21-11-1136-648
+2025-04-25 19:15:37 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-11-12615-874/sentence_predictions.csv
+2025-04-25 19:15:37 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-11-12615-874/sentence_probabilities.csv
+2025-04-25 19:15:37 - INFO - Finish predict case ME-21-11-12615-874
+2025-04-25 19:16:08 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-11-14411-44/sentence_predictions.csv
+2025-04-25 19:16:08 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-11-14411-44/sentence_probabilities.csv
+2025-04-25 19:16:08 - INFO - Finish predict case ME-21-11-14411-44
+2025-04-25 19:17:10 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-11-17137-270/sentence_predictions.csv
+2025-04-25 19:17:10 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-11-17137-270/sentence_probabilities.csv
+2025-04-25 19:17:10 - INFO - Finish predict case ME-21-11-17137-270
+2025-04-25 19:17:59 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-11-17776-835/sentence_predictions.csv
+2025-04-25 19:17:59 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-11-17776-835/sentence_probabilities.csv
+2025-04-25 19:17:59 - INFO - Finish predict case ME-21-11-17776-835
+2025-04-25 19:18:27 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-11-17856-44/sentence_predictions.csv
+2025-04-25 19:18:27 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-11-17856-44/sentence_probabilities.csv
+2025-04-25 19:18:27 - INFO - Finish predict case ME-21-11-17856-44
+2025-04-25 19:19:35 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-11-17865-369/sentence_predictions.csv
+2025-04-25 19:19:35 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-11-17865-369/sentence_probabilities.csv
+2025-04-25 19:19:35 - INFO - Finish predict case ME-21-11-17865-369
+2025-04-25 19:20:13 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-11-26567-571/sentence_predictions.csv
+2025-04-25 19:20:13 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-11-26567-571/sentence_probabilities.csv
+2025-04-25 19:20:13 - INFO - Finish predict case ME-21-11-26567-571
+2025-04-25 19:20:35 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-11-47348-327/sentence_predictions.csv
+2025-04-25 19:20:35 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-11-47348-327/sentence_probabilities.csv
+2025-04-25 19:20:35 - INFO - Finish predict case ME-21-11-47348-327
+2025-04-25 19:21:44 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-11-59488-113/sentence_predictions.csv
+2025-04-25 19:21:44 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-11-59488-113/sentence_probabilities.csv
+2025-04-25 19:21:44 - INFO - Finish predict case ME-21-11-59488-113
+2025-04-25 19:22:37 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-11-68096-235/sentence_predictions.csv
+2025-04-25 19:22:37 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-11-68096-235/sentence_probabilities.csv
+2025-04-25 19:22:37 - INFO - Finish predict case ME-21-11-68096-235
+2025-04-25 19:23:50 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-11-26210-55/sentence_predictions.csv
+2025-04-25 19:23:50 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-11-26210-55/sentence_probabilities.csv
+2025-04-25 19:23:50 - INFO - Finish predict case ME-21-11-26210-55
+2025-04-25 19:25:15 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-12-19130-903/sentence_predictions.csv
+2025-04-25 19:25:15 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-12-19130-903/sentence_probabilities.csv
+2025-04-25 19:25:15 - INFO - Finish predict case ME-21-12-19130-903
+2025-04-25 19:27:28 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-12-22417-797/sentence_predictions.csv
+2025-04-25 19:27:28 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-12-22417-797/sentence_probabilities.csv
+2025-04-25 19:27:28 - INFO - Finish predict case ME-21-12-22417-797
+2025-04-25 19:29:43 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-12-31935-960/sentence_predictions.csv
+2025-04-25 19:29:43 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-12-31935-960/sentence_probabilities.csv
+2025-04-25 19:29:43 - INFO - Finish predict case ME-21-12-31935-960
+2025-04-25 19:30:12 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-12-35473-735/sentence_predictions.csv
+2025-04-25 19:30:12 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-12-35473-735/sentence_probabilities.csv
+2025-04-25 19:30:12 - INFO - Finish predict case ME-21-12-35473-735
+2025-04-25 19:30:59 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-12-39792-427/sentence_predictions.csv
+2025-04-25 19:30:59 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-12-39792-427/sentence_probabilities.csv
+2025-04-25 19:30:59 - INFO - Finish predict case ME-21-12-39792-427
+2025-04-25 19:32:01 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-12-41830-648/sentence_predictions.csv
+2025-04-25 19:32:01 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-12-41830-648/sentence_probabilities.csv
+2025-04-25 19:32:01 - INFO - Finish predict case ME-21-12-41830-648
+2025-04-25 19:32:49 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-12-34630-209/sentence_predictions.csv
+2025-04-25 19:32:49 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-12-34630-209/sentence_probabilities.csv
+2025-04-25 19:32:49 - INFO - Finish predict case ME-21-12-34630-209
+2025-04-25 19:34:06 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-12-45456-480/sentence_predictions.csv
+2025-04-25 19:34:06 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-12-45456-480/sentence_probabilities.csv
+2025-04-25 19:34:06 - INFO - Finish predict case ME-21-12-45456-480
+2025-04-25 19:36:00 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-12-51471-829/sentence_predictions.csv
+2025-04-25 19:36:00 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-12-51471-829/sentence_probabilities.csv
+2025-04-25 19:36:00 - INFO - Finish predict case ME-21-12-51471-829
+2025-04-25 19:36:35 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-12-54202-788/sentence_predictions.csv
+2025-04-25 19:36:35 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-12-54202-788/sentence_probabilities.csv
+2025-04-25 19:36:35 - INFO - Finish predict case ME-21-12-54202-788
+2025-04-25 19:37:54 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-12-60429-844/sentence_predictions.csv
+2025-04-25 19:37:54 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-12-60429-844/sentence_probabilities.csv
+2025-04-25 19:37:54 - INFO - Finish predict case ME-21-12-60429-844
+2025-04-25 19:38:59 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-12-67356-126/sentence_predictions.csv
+2025-04-25 19:38:59 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-21-12-67356-126/sentence_probabilities.csv
+2025-04-25 19:38:59 - INFO - Finish predict case ME-21-12-67356-126
+2025-04-25 19:40:05 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-22-01-1631-461/sentence_predictions.csv
+2025-04-25 19:40:05 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-22-01-1631-461/sentence_probabilities.csv
+2025-04-25 19:40:05 - INFO - Finish predict case ME-22-01-1631-461
+2025-04-25 19:41:49 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-22-01-16521-377/sentence_predictions.csv
+2025-04-25 19:41:49 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-22-01-16521-377/sentence_probabilities.csv
+2025-04-25 19:41:49 - INFO - Finish predict case ME-22-01-16521-377
+2025-04-25 19:45:28 - INFO - Binary predictions saved to /home/tak/MOJ/results/db/weapon_docx/ME-22-01-17033-293/sentence_predictions.csv
+2025-04-25 19:45:28 - INFO - Probabilities saved to /home/tak/MOJ/results/db/weapon_docx/ME-22-01-17033-293/sentence_probabilities.csv
+2025-04-25 19:45:28 - INFO - Finish predict case ME-22-01-17033-293

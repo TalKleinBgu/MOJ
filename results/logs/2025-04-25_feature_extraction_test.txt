@@ -1,0 +1,14 @@
+2025-04-25 14:33:11 - INFO - The feature extraction started with the # Q&A #
+2025-04-25 14:33:11 - INFO - preprocessing.csv doesn't exist in drugs_docx folder case
+2025-04-25 14:34:05 - INFO - The feature extraction started with the # Q&A #
+2025-04-25 14:34:05 - INFO - preprocessing.csv doesn't exist in drugs_docx folder case
+2025-04-25 14:34:47 - INFO - The feature extraction started with the # Q&A #
+2025-04-25 14:34:47 - INFO - preprocessing.csv doesn't exist in drugs_docx folder case
+2025-04-25 14:36:15 - INFO - The feature extraction started with the # Q&A #
+2025-04-25 14:36:15 - INFO - preprocessing.csv doesn't exist in drugs_docx folder case
+2025-04-25 14:36:38 - INFO - The feature extraction started with the # Q&A #
+2025-04-25 14:36:38 - INFO - preprocessing.csv doesn't exist in drugs_docx folder case
+2025-04-25 14:56:08 - INFO - The feature extraction started with the # Q&A #
+2025-04-25 14:56:08 - INFO - preprocessing.csv doesn't exist in drugs_docx folder case
+2025-04-25 14:57:10 - INFO - The feature extraction started with the # Q&A #
+2025-04-25 14:57:10 - INFO - preprocessing.csv doesn't exist in drugs_docx folder case

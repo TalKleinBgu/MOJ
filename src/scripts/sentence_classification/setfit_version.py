@@ -415,33 +415,41 @@ class SentenceTaggingModel:
 
 
             
+    # def find_best_threshold(self, labels, probabilities):
+    #     """
+    #     Determine the best decision threshold for a classification model based on ROC curve,
+    #     selecting the threshold that maximizes Youden's J statistic, and return the ROC AUC.
+
+    #     Args:
+    #         labels (array-like): True binary labels for the dataset.
+    #         probabilities (array-like): Predicted probabilities for each class, typically from the model.
+    #                                     It is assumed probabilities[:, 1] corresponds to the positive class.
+
+    #     Returns:
+    #         tuple: A tuple containing:
+    #             - float: The threshold that maximizes Youden's J (sensitivity - FPR).
+    #             - float: The ROC AUC score.
+    #     """
+    #     # Compute the ROC curve: fpr, tpr, and thresholds.
+    #     fpr, tpr, thresholds = roc_curve(labels, probabilities[:, 1])
+        
+    #     # Calculate Youden's J statistic for each threshold.
+    #     J = tpr - fpr
+        
+    #     # Find the index of the threshold that maximizes J.
+    #     best_idx = np.argmax(J)
+        
+    #     # Retrieve the corresponding best threshold.
+    #     best_threshold = thresholds[best_idx]
+        
+        
+    #     return best_threshold
     def find_best_threshold(self, labels, probabilities):
-        """
-        Determine the best decision threshold for a classification model based on ROC curve,
-        selecting the threshold that maximizes Youden's J statistic, and return the ROC AUC.
-
-        Args:
-            labels (array-like): True binary labels for the dataset.
-            probabilities (array-like): Predicted probabilities for each class, typically from the model.
-                                        It is assumed probabilities[:, 1] corresponds to the positive class.
-
-        Returns:
-            tuple: A tuple containing:
-                - float: The threshold that maximizes Youden's J (sensitivity - FPR).
-                - float: The ROC AUC score.
-        """
-        # Compute the ROC curve: fpr, tpr, and thresholds.
-        fpr, tpr, thresholds = roc_curve(labels, probabilities[:, 1])
+        precisions, recalls, thresholds = precision_recall_curve(labels, probabilities[:, 1])
+        f1_scores = 2 * (precisions * recalls) / (precisions + recalls + 1e-6)
         
-        # Calculate Youden's J statistic for each threshold.
-        J = tpr - fpr
-        
-        # Find the index of the threshold that maximizes J.
-        best_idx = np.argmax(J)
-        
-        # Retrieve the corresponding best threshold.
+        best_idx = np.argmax(f1_scores)
         best_threshold = thresholds[best_idx]
-        
         
         return best_threshold
 

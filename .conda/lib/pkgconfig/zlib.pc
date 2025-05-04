@@ -1,0 +1,13 @@
+prefix=/sise/home/tak/MOJ/.conda
+exec_prefix=/sise/home/tak/MOJ/.conda
+libdir=/sise/home/tak/MOJ/.conda/lib
+sharedlibdir=/sise/home/tak/MOJ/.conda/lib
+includedir=/sise/home/tak/MOJ/.conda/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

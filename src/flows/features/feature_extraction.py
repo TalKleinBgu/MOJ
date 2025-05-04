@@ -5,7 +5,8 @@ import pandas as pd
 from transformers import pipeline
 from transformers import AutoModelForCausalLM, AutoTokenizer
 import torch
-
+# print(torch.cuda.is_available())
+# print(torch.cuda.device_count())
 # Get the directory where the current file is located
 current_dir = os.path.abspath(__file__)
 # Construct the path to the project root (pred_sentencing_path)
@@ -41,7 +42,7 @@ def feature_extraction_flow(db_path: str = None,
             # Load a pretrained model using a specific torch dtype and device mapping
             model = AutoModelForCausalLM.from_pretrained(model_name, 
                                                          torch_dtype=torch.bfloat16,
-                                                         device_map=device)
+                                                         device_map=device) 
             # Load the corresponding tokenizer
             tokenizer = AutoTokenizer.from_pretrained(model_name)
             # Instantiate the QA_Extractor with the chosen model/tokenizer
@@ -99,12 +100,17 @@ def feature_extraction_flow(db_path: str = None,
             if not is_convertible_to_int(case_name): 
                 if case_name == 'sentence_calssification' or case_name == '10.8_newsetfit':
                     continue
+                if 'qa_features.csv' in files:
+                    logger.info(f"qa_features.csv already exists in {case_name} folder case")
+                    continue
                 # Check if the relevant CSV files exist
                 if 'sentence_predictions.csv' in files or 'sentence_tagging.csv' in files:
-
-                    # Run Q&A extraction if enabled
-                    if qa_extraction_flag:
-                        qa.extract(case_dir, model_name, db_flow=db_flow, import_type=domain)
+                    try:
+                        # Run Q&A extraction if enabled
+                        if qa_extraction_flag:
+                            qa.extract(case_dir, model_name, db_flow=db_flow, import_type=domain)
+                    except Exception as e:
+                        continue
                     
                     # Run Regex extraction if enabled
                     if regex_extraction_flag:

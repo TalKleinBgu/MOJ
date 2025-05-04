@@ -1,0 +1,4 @@
+result_path: results
+prediction_dfs: /home/tak/MOJ/results/db/drugs_docx
+output_path: /home/tak/MOJ/results/evaluations/drugs/features_extraction
+metadata_path: /home/tak/MOJ/resources/data/tagging/drugs/gt/one_defendant_drugs_with_race.csv

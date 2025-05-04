@@ -1,10 +1,11 @@
 ####  General Parameters  ####
 year: '2017'
 source_path: 'data/source'
-result_path: 'results'
+result_path: '/home/tak/MOJ/results'
 db_path: "./results/db/2017"
 output_dir_name: 'ml_models'
 mapping_path: 'resources/appendices/2017_mapping.csv'
 error_analisys: True
 experimant_name: 'pipline_experiment'
+
 domain: 'drugs'

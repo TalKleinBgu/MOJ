@@ -95,7 +95,7 @@ def create(params, logger):
             # Iterate through each file in the folder
             for file in os.listdir(folder_path):
                 file_path = os.path.join(folder_path, file)
-                if file.startswith('qa_features_dictalm2.0-instruct_23_11'):
+                if file.startswith('qa_features'):
                     if folder == 'ME-18-04-34027-630':
                         print()
                     file_content = pd.read_csv(file_path)

@@ -1,11 +1,12 @@
-source_path_docx: 'resources/data/source'
-result_path: 'results'
-domain: 'drugs'
+source_path_docx: '/home/{user}/MOJ/resources/data/source'
+result_path: '/home/{user}/MOJ/results'
+domain: 'weapon_docx'
 prepare_to_tagging: False #Should I also produce a json file, in preparation for tagging later?
 
+user: tak
 # for json to csv
-source_path : '/home/tak/pred-sentencing/resources/data/tagging/{domain}/gt/gt_json'
-output_path: '/home/tak/pred-sentencing/resources/data/tagging/{domain}/gt/sentence_tagging.csv'
+source_path : '/home/{user}/pred-sentencing/resources/data/tagging/{domain}/gt/gt_json'
+output_path: '/home/{user}/pred-sentencing/resources/data/tagging/{domain}/gt/sentence_tagging.csv'
 labels:
   - reject
   - PUNISHMENT

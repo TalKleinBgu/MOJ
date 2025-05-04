@@ -18,13 +18,18 @@ pred_sentencing_path = os.path.abspath(os.path.join(current_dir, '..', '..', '..
 sys.path.insert(0, pred_sentencing_path)
 import json 
 
+
 def extract_punishment_range_tagging_db(directory_path: str = None):
     for folder in os.listdir(directory_path):
         folder_path = os.path.join(directory_path, folder)
         if os.path.isdir(folder_path):
+            # Check if the folder contains json file
+            if any(file.endswith('.json') for file in os.listdir(folder_path)):
+                continue
+            print(folder)
             for file in os.listdir(folder_path):
                 all_punishment_ranges = []
-                if file.startswith('pre') and file.endswith('.csv'):
+                if file.startswith('feat') and file.endswith('.csv'):
                     file_path = os.path.join(folder_path, file)
                     df = pd.read_csv(file_path)
                     for index, row in df.iterrows():
@@ -38,12 +43,13 @@ def extract_punishment_range_tagging_db(directory_path: str = None):
                             {row['text']}
                             """ 
                             response = client.chat.completions.create(
-                            model="gpt-4o",
+                            model="gpt-4.1-mini",
                             messages=[
                                 {"role": "user", "content": messege_judge}
                                     ]   
                             )
-                            answer = response.choices[0].message.content  
+                            answer = response.choices[0].message.content
+                            print(answer)
                             if 'שופט' in answer:
                                 messege = """אני אביא לך משפט ואתה צריך להביא את המתחם ענישה שרשום.
                                 תענה בפורמט הבא :
@@ -64,11 +70,17 @@ def extract_punishment_range_tagging_db(directory_path: str = None):
                                 answer = response.choices[0].message.content
                                 if 'לא' not in answer and len(answer) > 4:
                                     all_punishment_ranges.append(answer)
+                                    print(answer)
                     if all_punishment_ranges:
                         # Save the results to a JSON file
                         output_path = os.path.join(folder_path, 'punishment_range_gpt.json')
                         with open(output_path, 'w') as output_file:
                             json.dump(all_punishment_ranges, output_file, ensure_ascii=False)
                         print(f"Punishment ranges saved to {output_path}")
+                    else:
+                        output_path = os.path.join(folder_path, 'punishment_range_gpt.json')
+                        with open(output_path, 'w') as output_file:
+                            json.dump([], output_file, ensure_ascii=False)
+                        print(f"No punishment ranges found. Empty JSON saved to {output_path}")
 
-extract_punishment_range_tagging_db('/home/tak/MOJ/results/db/drugs')
+extract_punishment_range_tagging_db('/home/tak/MOJ/results/db/drugs_docx')

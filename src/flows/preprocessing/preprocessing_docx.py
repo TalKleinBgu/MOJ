@@ -65,6 +65,8 @@ class Preprocessing_flow():
         """
         
         for file_name in os.listdir(self.source_path):
+            # if file_name != 'SH-15-05-13336-101.docx':
+            #     continue
             # if year.startswith('.'):
             #     continue
             # year_path = os.path.join(self.source_path, year)
@@ -76,20 +78,23 @@ class Preprocessing_flow():
                 if not os.path.exists(output_csv_path):
                     os.makedirs(output_csv_path)
                     docx_preprocess.doc_to_csv(case_path, output_csv_path)
-                else:
-                    preprocessing_csv_path = os.path.join(output_csv_path, 'preprocessing.csv')
-                    tagged_file = pd.read_csv('/home/tak/pred-sentencing/resources/data/tagging/drugs/gt/sentence_tagging.csv')
-                    tagged_file = tagged_file[tagged_file['verdict'] == case_name]
-                    #for text row in preprocessing_csv if not in tagged_file remove it
-                    if not tagged_file.empty:
-                        tagged_file = tagged_file['text']
-                        preprocessing_csv = pd.read_csv(preprocessing_csv_path)
-                        preprocessing_csv = preprocessing_csv[preprocessing_csv['text'].isin(tagged_file)]
-                        if len(preprocessing_csv) != len(tagged_file):
-                            self.logger.warning(f" rows from {case_name} case")
-                        preprocessing_csv.to_csv(preprocessing_csv_path, index=False)
-                    if not os.path.exists(preprocessing_csv_path):
-                        docx_preprocess.doc_to_csv(case_path, output_csv_path)
+                elif os.path.exists(os.path.join(output_csv_path, 'preprocessing.csv')):
+                    self.logger.warning(f"File {case_name} already exists in {output_csv_path}")
+                    continue
+                # else:
+                #     preprocessing_csv_path = os.path.join(output_csv_path, 'preprocessing.csv')
+                #     tagged_file = pd.read_csv('/home/tak/pred-sentencing/resources/data/tagging/drugs/gt/sentence_tagging.csv')
+                #     tagged_file = tagged_file[tagged_file['verdict'] == case_name]
+                #     #for text row in preprocessing_csv if not in tagged_file remove it
+                #     if not tagged_file.empty:
+                #         tagged_file = tagged_file['text']
+                #         preprocessing_csv = pd.read_csv(preprocessing_csv_path)
+                #         preprocessing_csv = preprocessing_csv[preprocessing_csv['text'].isin(tagged_file)]
+                #         if len(preprocessing_csv) != len(tagged_file):
+                #             self.logger.warning(f" rows from {case_name} case")
+                #         preprocessing_csv.to_csv(preprocessing_csv_path, index=False)
+                #     if not os.path.exists(preprocessing_csv_path):
+                #         docx_preprocess.doc_to_csv(case_path, output_csv_path)
                 
                 if self.prepare_to_tagging:
                     json_name = case_name + ".json"
@@ -97,7 +102,7 @@ class Preprocessing_flow():
                     
                     self.convert_csv_to_json(output_csv_path, output_tagging_path)
                 
-                self.logger.info(f"Finish to process {case_name} case")
+                self.logger.info(f"Finish to process {case_name} case and save in {output_csv_path}")
 
                                 
     def preprocessing_docx(self):    

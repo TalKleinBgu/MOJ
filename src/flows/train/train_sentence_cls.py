@@ -110,7 +110,7 @@ def run(params,domain_path,domain_path_model, tagger=False, date='', logger=None
             # Handle training with the SentenceTaggingModel
             elif params['setfit']:
                 # Get the current date for file organization
-                current_date = datetime.now() - timedelta(days=1)
+                current_date = datetime.now() - timedelta(days=9)
                 formatted_date = current_date.strftime("%m_%d")
                 
                 # Initialize the SentenceTaggingModel
@@ -178,7 +178,7 @@ def main(params, domain_path, domain_path_model):
 if __name__ == "__main__":
 
     main_params = config_parser("", "main_config")    
-    domain = main_params["domain"]    
+    domain = main_params["domain"]   
     domain_path = f'evaluations/{domain}/sentence_classification'
     domain_path_model = f"{domain}"
     # Parse the training configuration parameters for the specific task

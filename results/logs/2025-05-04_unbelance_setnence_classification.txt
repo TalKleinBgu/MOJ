@@ -1,0 +1,119 @@
+2025-05-04 01:26:42 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/drugs/experiment_1
+2025-05-04 01:26:42 - INFO - Starting training for label: CIR_PUNISHMENT
+2025-05-04 01:26:43 - INFO - Starting training for model: dictabert
+2025-05-04 01:29:57 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/experiment_1
+2025-05-04 01:29:57 - INFO - Starting training for label: CIRCUM_OFFENSE
+2025-05-04 01:29:58 - ERROR - Error in label CIRCUM_OFFENSE: 'CIRCUM_OFFENSE'
+2025-05-04 01:29:58 - INFO - Starting training for label: GENERAL_CIRCUM
+2025-05-04 01:29:58 - INFO - Starting training for model: dictabert
+2025-05-04 01:30:23 - ERROR - Error in label GENERAL_CIRCUM: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-05-04 01:30:23 - INFO - Starting training for label: PUNISHMENT
+2025-05-04 01:30:23 - INFO - Starting training for model: dictabert
+2025-05-04 01:30:24 - ERROR - Error in label PUNISHMENT: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-05-04 01:30:24 - INFO - Starting training for label: reject
+2025-05-04 01:30:24 - INFO - Starting training for model: dictabert
+2025-05-04 01:30:28 - ERROR - Error in label reject: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-05-04 01:30:29 - INFO - Starting training for label: CONFESSION
+2025-05-04 01:30:29 - INFO - Starting training for model: dictabert
+2025-05-04 01:30:30 - ERROR - Error in label CONFESSION: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-05-04 01:30:30 - INFO - Starting training for label: CIR_STATUS_WEP
+2025-05-04 01:30:30 - INFO - Starting training for model: dictabert
+2025-05-04 01:30:31 - ERROR - Error in label CIR_STATUS_WEP: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-05-04 01:30:31 - INFO - Starting training for label: CIR_HELD_WAY_WEP
+2025-05-04 01:30:31 - INFO - Starting training for model: dictabert
+2025-05-04 01:30:33 - ERROR - Error in label CIR_HELD_WAY_WEP: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-05-04 01:30:33 - INFO - Starting training for label: CIR_PURPOSE
+2025-05-04 01:30:33 - INFO - Starting training for model: dictabert
+2025-05-04 01:30:36 - ERROR - Error in label CIR_PURPOSE: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-05-04 01:30:36 - INFO - Starting training for label: CIR_AMMU_AMOUNT_WEP
+2025-05-04 01:30:36 - INFO - Starting training for model: dictabert
+2025-05-04 01:30:37 - ERROR - Error in label CIR_AMMU_AMOUNT_WEP: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-05-04 01:30:37 - INFO - Starting training for label: CIR_OBTAIN_WAY_WEP
+2025-05-04 01:30:37 - INFO - Starting training for model: dictabert
+2025-05-04 01:30:39 - ERROR - Error in label CIR_OBTAIN_WAY_WEP: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-05-04 01:30:39 - INFO - Starting training for label: CIR_TYPE_WEP
+2025-05-04 01:30:39 - INFO - Starting training for model: dictabert
+2025-05-04 01:30:41 - ERROR - Error in label CIR_TYPE_WEP: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-05-04 01:30:41 - INFO - Starting training for label: CIR_USE
+2025-05-04 01:30:41 - INFO - Starting training for model: dictabert
+2025-05-04 01:30:42 - ERROR - Error in label CIR_USE: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-05-04 01:30:42 - INFO - Starting training for label: CIR_PLANNING
+2025-05-04 01:30:42 - INFO - Starting training for model: dictabert
+2025-05-04 01:30:44 - ERROR - Error in label CIR_PLANNING: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-05-04 01:30:44 - INFO - Starting training for label: RESPO
+2025-05-04 01:30:44 - INFO - Starting training for model: dictabert
+2025-05-04 01:30:45 - ERROR - Error in label RESPO: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-05-04 01:30:45 - INFO - Starting training for label: REGRET
+2025-05-04 01:30:45 - INFO - Starting training for model: dictabert
+2025-05-04 01:30:47 - ERROR - Error in label REGRET: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+2025-05-04 01:30:47 - INFO - setfit training finished.
+2025-05-04 01:31:14 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/experiment_1
+2025-05-04 01:31:14 - INFO - Starting training for label: CIRCUM_OFFENSE
+2025-05-04 01:31:14 - ERROR - Error in label CIRCUM_OFFENSE: 'CIRCUM_OFFENSE'
+2025-05-04 01:31:14 - INFO - Starting training for label: GENERAL_CIRCUM
+2025-05-04 01:31:14 - INFO - Starting training for model: dictabert
+2025-05-04 01:34:49 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/experiment_1
+2025-05-04 01:34:49 - INFO - Starting training for label: CIRCUM_OFFENCE
+2025-05-04 01:34:50 - INFO - Starting training for model: dictabert
+2025-05-04 01:35:37 - INFO - Metrics for CIR_PUNISHMENT with model dictabert: {'accuracy': 0.9805924412665986, 'precision': 0.796875, 'recall': 0.8947368421052632, 'f1': 0.8429752066115702, 'f2': 0.8732876712328768, 'PRAUC': 0.848888307800022, 'AUC': 0.9845682536058149, 'best_threshold': 0.9998812675476074}
+2025-05-04 01:35:37 - INFO - Starting training for label: GENERAL_CIRCUM
+2025-05-04 01:35:37 - INFO - Starting training for model: dictabert
+2025-05-04 01:39:42 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/drugs/experiment_1
+2025-05-04 01:39:43 - INFO - Starting training for label: CIR_PUNISHMENT
+2025-05-04 01:39:43 - INFO - Starting training for model: dictabert
+2025-05-04 01:47:29 - ERROR - Error in label CIR_PUNISHMENT: checkpoints/step_160 is not a local folder and is not a valid model identifier listed on 'https://huggingface.co/models'
+If this is a private repository, make sure to pass a token having permission to this repo either by logging in with `huggingface-cli login` or by passing `token=<your_token>`
+2025-05-04 01:47:29 - INFO - Starting training for label: GENERAL_CIRCUM
+2025-05-04 01:47:29 - INFO - Starting training for model: dictabert
+2025-05-04 01:49:22 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/drugs/experiment_1
+2025-05-04 01:49:23 - INFO - Starting training for label: CIR_PUNISHMENT
+2025-05-04 01:49:23 - INFO - Starting training for model: dictabert
+2025-05-04 01:57:19 - INFO - Metrics for CIR_PUNISHMENT with model dictabert: {'accuracy': 0.9785495403472931, 'precision': 0.7727272727272727, 'recall': 0.8947368421052632, 'f1': 0.8292682926829268, 'f2': 0.8673469387755102, 'PRAUC': 0.8416214639713935, 'AUC': 0.983949842067207, 'best_threshold': 0.9998884201049805}
+2025-05-04 01:57:19 - INFO - Starting training for label: GENERAL_CIRCUM
+2025-05-04 01:57:20 - INFO - Starting training for model: dictabert
+2025-05-04 03:16:51 - INFO - Metrics for GENERAL_CIRCUM with model dictabert: {'accuracy': 0.898876404494382, 'precision': 0.780327868852459, 'recall': 0.8814814814814815, 'f1': 0.8278260869565217, 'f2': 0.8592057761732852, 'PRAUC': 0.8890448765806491, 'AUC': 0.9373034529593064, 'best_threshold': 0.9409984946250916}
+2025-05-04 03:16:52 - INFO - Starting training for label: CIRCUM_OFFENCE
+2025-05-04 03:16:52 - INFO - Starting training for model: dictabert
+2025-05-04 03:27:31 - INFO - Metrics for CIRCUM_OFFENCE with model dictabert: {'accuracy': 0.9499489274770173, 'precision': 0.6190476190476191, 'recall': 0.8783783783783784, 'f1': 0.7262569832402235, 'f2': 0.8104738154613467, 'PRAUC': 0.7966855041429409, 'AUC': 0.9478945796625354, 'best_threshold': 0.055032964795827866}
+2025-05-04 03:27:31 - INFO - Starting training for label: reject
+2025-05-04 03:27:31 - INFO - Starting training for model: dictabert
+2025-05-04 06:41:41 - INFO - Metrics for reject with model dictabert: {'accuracy': 0.8478038815117467, 'precision': 0.851138353765324, 'recall': 0.8836363636363637, 'f1': 0.8670829616413916, 'f2': 0.8769397329483941, 'PRAUC': 0.8838754517169768, 'AUC': 0.8874825174825176, 'best_threshold': 6.956734523555497e-06}
+2025-05-04 06:41:41 - INFO - Starting training for label: CONFESSION
+2025-05-04 06:41:42 - INFO - Starting training for model: dictabert
+2025-05-04 06:50:04 - INFO - Metrics for CONFESSION with model dictabert: {'accuracy': 0.9856996935648621, 'precision': 0.6956521739130435, 'recall': 1.0, 'f1': 0.8205128205128205, 'f2': 0.9195402298850575, 'PRAUC': 0.8051812932115433, 'AUC': 0.9949676610348468, 'best_threshold': 0.9997007846832275}
+2025-05-04 06:50:04 - INFO - Starting training for label: CIR_TYPE
+2025-05-04 06:50:05 - INFO - Starting training for model: dictabert
+2025-05-04 07:00:12 - INFO - Metrics for CIR_TYPE with model dictabert: {'accuracy': 0.9591419816138917, 'precision': 0.5555555555555556, 'recall': 1.0, 'f1': 0.7142857142857143, 'f2': 0.8620689655172413, 'PRAUC': 0.9107962122605336, 'AUC': 0.9946178686759958, 'best_threshold': 0.9933605790138245}
+2025-05-04 07:00:12 - INFO - Starting training for label: CIR_AMOUNT
+2025-05-04 07:00:13 - INFO - Starting training for model: dictabert
+2025-05-04 07:09:41 - INFO - Metrics for CIR_AMOUNT with model dictabert: {'accuracy': 0.982635342185904, 'precision': 0.6666666666666666, 'recall': 1.0, 'f1': 0.8, 'f2': 0.9090909090909091, 'PRAUC': 0.9436551918751372, 'AUC': 0.9979458450046685, 'best_threshold': 0.9301936030387878}
+2025-05-04 07:09:41 - INFO - Starting training for label: CIR_ROLE
+2025-05-04 07:09:42 - INFO - Starting training for model: dictabert
+2025-05-04 07:17:12 - INFO - Metrics for CIR_ROLE with model dictabert: {'accuracy': 0.9213483146067416, 'precision': 0.2830188679245283, 'recall': 0.967741935483871, 'f1': 0.43795620437956206, 'f2': 0.6521739130434783, 'PRAUC': 0.5951970778175496, 'AUC': 0.9745814618211515, 'best_threshold': 0.9922933578491211}
+2025-05-04 07:17:12 - INFO - Starting training for label: CIR_EQ
+2025-05-04 07:17:12 - INFO - Starting training for model: dictabert
+2025-05-04 07:24:30 - INFO - Metrics for CIR_EQ with model dictabert: {'accuracy': 0.9182839632277835, 'precision': 0.10227272727272728, 'recall': 0.9, 'f1': 0.1836734693877551, 'f2': 0.3515625, 'PRAUC': 0.6359576044355224, 'AUC': 0.9550051599587203, 'best_threshold': 0.6345691084861755}
+2025-05-04 07:24:30 - INFO - Starting training for label: REGRET
+2025-05-04 07:24:30 - INFO - Starting training for model: dictabert
+2025-05-04 07:32:12 - INFO - Metrics for REGRET with model dictabert: {'accuracy': 0.9683350357507661, 'precision': 0.3111111111111111, 'recall': 1.0, 'f1': 0.4745762711864407, 'f2': 0.693069306930693, 'PRAUC': 0.43198174132919986, 'AUC': 0.9888230940044411, 'best_threshold': 0.9224740266799927}
+2025-05-04 07:32:13 - INFO - Starting training for label: RESPO
+2025-05-04 07:32:13 - INFO - Starting training for model: dictabert
+2025-05-04 07:40:17 - INFO - Metrics for RESPO with model dictabert: {'accuracy': 0.9918283963227783, 'precision': 0.8, 'recall': 0.9230769230769231, 'f1': 0.8571428571428571, 'f2': 0.8955223880597015, 'PRAUC': 0.8775539338393978, 'AUC': 0.9655339413996288, 'best_threshold': 0.9995887875556946}
+2025-05-04 07:40:17 - INFO - setfit training finished.
+2025-05-04 12:05:52 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/weapon/experiment_1
+2025-05-04 12:05:52 - INFO - Starting training for label: CIRCUM_OFFENCE
+2025-05-04 12:05:55 - INFO - Starting training for model: dictabert
+2025-05-04 12:10:23 - INFO - 
+Train start, data is taken from /home/tak/MOJ/resources/data/trainning/sentence_classification/drugs/experiment_1
+2025-05-04 12:10:24 - INFO - Starting training for label: CIR_PUNISHMENT
+2025-05-04 12:10:24 - INFO - Starting training for model: dictabert
+2025-05-04 12:17:15 - ERROR - Error in label CIR_PUNISHMENT: CUDA out of memory. Tried to allocate 96.00 MiB. GPU 
+2025-05-04 12:17:15 - INFO - Starting training for label: GENERAL_CIRCUM
+2025-05-04 12:17:15 - INFO - Starting training for model: dictabert

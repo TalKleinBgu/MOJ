@@ -7,5 +7,5 @@ qa_extraction_flag: True             # True if you want to extract by QA method
 regex_extraction_flag: false
 api_key: ""        # True if you want to extract by regex method
 db_flow: True
-db_path : /home/tak/pred-sentencing/results/db/{domain}
-save_path: /home/tak/pred-sentencing/results/evaluations/feature_extraction
+db_path : /home/tak/MOJ/results/db/{domain}
+save_path: /home/tak/MOJ/results/evaluations/feature_extraction

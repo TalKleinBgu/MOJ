@@ -1,0 +1,4 @@
+result_path: results
+prediction_dfs: /home/tak/MOJ/results/db/weapon_docx
+output_path: /home/tak/MOJ/results/evaluations/weapon/features_extraction
+metadata_path: /home/tak/MOJ/resources/data/tagging/weapon/gt/one_defendant.csv
